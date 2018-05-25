@@ -433,14 +433,14 @@
 
     <string name="match_rule_type_step">%s歩数計測イベント:    </string>
     <string name="match_rule_type_gps">%sGPS屋外ランニングイベント:    </string>
-    <string name="match_rule_person_target">%sイベント期間内に、参加者が目標歩数をクリアした時間順でランク付けされます。;</string>
-    <string name="match_rule_person_gps_target">%sイベントの有効時間内に、参加者が目標距離をクリアした時間順でランク付けされます。</string>
-    <string name="match_rule_person_normal">%sイベント期間内の、参加者の歩数順でランク付けされます。</string>
-    <string name="match_rule_person_gps_normal">%sイベント期間内の、参加者の平均屋外走行累積距離順でランク付けされます。</string>
-    <string name="match_rule_team_normal">%sイベント期間内の、チーム平均歩数（チーム合計歩数/チーム人数）順でランク付けされます。</string>
-    <string name="match_rule_team_gps_normal">%sイベントの有効時間内に、グループの屋外走行累積距離順でランク付けされます。</string>
-    <string name="match_rule_team_target">%sイベント期間内に、グループ（全員合計歩行距離）が目標距離をクリアした時間順でランク付けされます。</string>
-    <string name="match_rule_team_gps_target">%sイベントの有効時間内に、参加グループが目標距離をクリアした時間順でランク付けされます。</string>
+    <string name="match_rule_person_target">%s開催期間中に参加者が目標歩数をクリアした時間順でランク付けされます。;</string>
+    <string name="match_rule_person_gps_target">%s開催期間中に参加者が目標距離をクリアした時間順でランク付けされます。</string>
+    <string name="match_rule_person_normal">%s開催期間中の参加者の歩数順でランク付けされます。</string>
+    <string name="match_rule_person_gps_normal">%s開催期間中の参加者の平均屋外走行累積距離順でランク付けされます。</string>
+    <string name="match_rule_team_normal">%s開催期間中のチーム平均歩数（チーム合計歩数/チーム人数）順でランク付けされます。</string>
+    <string name="match_rule_team_gps_normal">%s開催期間中のグループの屋外走行累積距離順でランク付けされます。</string>
+    <string name="match_rule_team_target">%s開催期間中、グループ（全員合計歩行距離）が目標距離をクリアした時間順でランク付けされます。</string>
+    <string name="match_rule_team_gps_target">%s開催期間中、参加グループが目標距離をクリアした時間順でランク付けされます。</string>
 
     <string name="my_club_no_current">グループを選んでください</string>
 
@@ -983,8 +983,8 @@
     <string name="all_walk_miles">累計歩行距離</string>
 
     <string name="vr_rule">
-        1、バーチャルラリー個人戦：イベント期間内に、参加者が各チェックポイントの目標歩数をクリアし、スコアを提出した順でランク付けされます。\n
-        2、バーチャルラリー団体戦：イベント期間内に、参加チームが各チェックポイントの目標平均歩数（チーム合計歩数/チーム人数）をクリアし、そのスコアを提出した時間順でランク付けされます。\n
+        1、バーチャルラリー個人戦：開催期間中に参加者が各チェックポイントの目標歩数をクリアし、スコアを提出した順でランク付けされます。\n
+        2、バーチャルラリー団体戦：開催期間中に参加チームが各チェックポイントの目標平均歩数（チーム合計歩数/チーム人数）をクリアし、そのスコアを提出した時間順でランク付けされます。\n
         3、現在のチェックポイントの目標歩数をクリアすると、次のチェックポイント画面のロックが解除されます。\n
         4、組織変更は進行中のイベントに影響しません。\n
         5、イベント開始後、参加者を追加できません。
@@ -1235,7 +1235,7 @@
     <string name="clubmodule_deep_sleep_in_short">深い睡眠</string>
     <string name="clubmodule_0_hour">0時、</string>
     <string name="clubmodule_light_sleep_in_short">浅い睡眠</string>
-    <string name="clubmodule_wristband_sail_phone">Weバンドの購入について：18181905261</string>
+    <string name="clubmodule_wristband_sail_phone">Weバンドの購入について：band@werunclub.net</string>
     <string name="clubmodule_continue_sport">再開</string>
     <string name="clubmodule_finish_sport">終了</string>
     <string name="clubmodule_pause_sport">一時停止</string>
@@ -1762,6 +1762,7 @@
     <string name="clubmodule_no_alarm">0件</string>
     <string name="clubmodule_pay_succeed">支払いました</string>
     <string name="clubmodule_cancel_pay">支払いキャンセル</string>
+
     <string name="clubmodule_login_wrong_account">正しいアカウントを入力してください</string>
     <string name="clubmodule_login_regist_email">メール登録</string>
     <string name="clubmodule_login_regist_phone">携帯登録</string>
@@ -1781,7 +1782,6 @@
     <string name="clubmodule_auth_regist_account_wrong">アカウントが間違っています。再度入力してください</string>
     <string name="clubmodule_japan">日本</string>
     <string name="clubmodule_gps_connect_error">gps service connect error</string>
-    <string name="clubmodule_gps_google_play_warn">google play service版本过低, 请更新并启用</string>
 
     <string name="title_activity_team">TeamActivity</string>
     <string name="reward_act_status_1_join_status_1">@string/joined</string>
