@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">CAuthLibrary</string>
+
+    <string name="common_error_param_null">不正なパラメータです</string>
+    <string name="common_request_failed">リクエスト失敗。後ほどお試しください</string>
+    <string name="common_request_success">リクエスト成功</string>
+
+    <!-- login -->
+    <string name="login_ret_password_error">ユーザー名またはパスワードが間違っています</string>
+    <string name="login_ret_service_error">サーバー内エラー</string>
+    <string name="login_ret_error_default">登録失敗</string>
+
+    <!-- reg -->
+    <string name="regist_checkbind_fail">携帯番号が間違っています</string>
+    <string name="regist_checkbind_phone_conflict_content">登録済み携帯番号です</string>
+    <string name="regist_phone_sms_send_success">SMSを送信しました</string>
+    <string name="regist_phone_sms_send_error">SMS送信エラー、再送信してください</string>
+    <string name="regist_phone_cannot_null">携帯番号を入力してください</string>
+    <string name="regist_please_enter_phone">アカウントの形式が正しくありません。携帯番号を入力してください</string>
+    <string name="regist_verify_code_cannot_null">認証コードを入力してください</string>
+    <string name="regist_auth_code_miss">認証コードが間違っています</string>
+    <string name="regist_mobile_bind_verify_error">認証エラー、再度認証してください</string>
+    <string name="regist_password_can_not_null">パスワードを入力してください</string>
+    <string name="regist_str_warning_code_short">パスワードは6桁以上を入力してください</string>
+    <string name="regist_str_warning_code_long">パスワードは20桁以内にしてください</string>
+    <string name="regist_failed">登録失敗</string>
+    <string name="regist_successful">登録しました</string>
+    <string name="regist_nick_repeat">ニックネームが使われています</string>
+
+</resources>

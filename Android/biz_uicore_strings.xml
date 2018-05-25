@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="club_base_confirm">確定</string>
+    <string name="club_base_alert">ヒント</string>
+
+    <string name="club_base_album">アルバム</string>
+    <string name="club_base_camera">カメラ</string>
+    <string name="club_base_cancel">キャンセル</string>
+
+    <string name="dialog_delete_action">削除</string>
+
+    <string name="club_base_no_net">ネットワークが利用できません。設定を確認してください</string>
+    <string name="club_base_permisson_rejected">必要な権限がないため、この機能が利用できません。「確定」をタップして権限を設定し直してください。</string>
+
+    <string name="dialog_repost_action">再送</string>
+</resources>

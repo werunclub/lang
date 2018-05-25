@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pedometer</string>
+    <string name="clubmodule_today_step">今日の歩数</string>
+    <string name="clubmodule_step">歩</string>
+</resources>

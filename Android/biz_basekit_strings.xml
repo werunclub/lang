@@ -1,0 +1,15 @@
+<resources>
+    <string name="basekit_unavailable_network">ネットワークが利用できません。設定を確認してください</string>
+    <string name="basekit_unkown_error">不明なエラー。解決のためにWeRUNに送信しました。</string>
+    <string name="basekit_download_failed">ダウンロード失敗</string>
+    <string name="basekit_chengdu_str">大阪</string>
+    <string name="basekit_normal_rule">一般会員</string>
+    <string name="basekit_manager">管理者</string>
+    <string name="basekit_super_manager">スーパー管理者</string>
+    <string name="basekit_day">日</string>
+    <string name="basekit_hour">時</string>
+    <string name="basekit_minute">分</string>
+    <string name="basekit_seconds">秒</string>
+    <string name="basekit_reselect_head_icon">プロフィール画像が存在しません。再度選択してください</string>
+    <string name="app_name">BaseKit</string>
+</resources>
