@@ -2,6 +2,7 @@
     <string name="app_name">WeRUN</string>
     <string name="send">送信</string>
     <string name="sports_target">運動目標 %s歩</string>
+    <string name="new_notification">あなたは新しい%sメッセージを持っています</string>
 
     <string name="none">無</string>
     <string name="me">マイページ</string>
@@ -1920,8 +1921,9 @@
     <string name="facebook_app_id">1977538135907363</string>
     <string name="fb_login_protocol_scheme">fb1977538135907363</string>
 
-    <string name="facebook">facebook</string>
-    <string name="twitter">twitter</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="line">Line</string>
 
     <string name="com.twitter.sdk.android.CONSUMER_KEY">Plu4pMCzmJndVJ3ZkQGiZk4Xc</string>
     <string name="com.twitter.sdk.android.CONSUMER_SECRET">VkAfveJ6z3CL81yRuxGkklOQ8vGnqlNdwqp4pc7bkjTGXMMTf6</string>
