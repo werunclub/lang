@@ -1190,7 +1190,7 @@
     <string name="clubmodule_activity_match_rule">タイプ</string>
     <string name="clubmodule_standard_match">ノーマル戦</string>
     <string name="clubmodule_target_match">チャレンジ戦</string>
-    <string name="clubmodule_input_target_value">目標歩数</string>
+    <string name="clubmodule_input_target_value">目標値を入力してください</string>
     <string name="clubmodule_choose_step_unit">歩数単位を選択</string>
     <string name="clubmodule_company_logo">LOGO</string>
     <string name="clubmodule_create_club_name">グループ名を入力してください</string>
