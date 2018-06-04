@@ -145,23 +145,23 @@
   },
   {
     "id": "至少两个字符",
-    "translation": ""
+    "translation": "二文字以上が必要です"
   },
   {
     "id": "超过最大长度",
-    "translation": ""
+    "translation": "最大文字数を超えました"
   },
   {
     "id": "昵称只能包含字母数字下划线减号",
-    "translation": ""
+    "translation": "ニックネームには日本語、英数字、‗と-のみ使用可能です"
   },
   {
     "id": "只能在0-23之间",
-    "translation": ""
+    "translation": "0～23の間のみ指定できます"
   },
   {
     "id": "生日格式错误",
-    "translation": ""
+    "translation": "生年月日形式エラー"
   }
 ]
 
