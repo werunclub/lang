@@ -1,6 +1,8 @@
 <resources>
     <string name="clubmodule_contact_str">help@werunclub.net</string>
+    <string name="clubmodule_error_input_caution">携帯番号またはEメールを入力してください</string>
     <string name="clubmodule_close_switch">閉じる</string>
+    <string name="clubmodule_archive_success">アーカイブしました</string>
     <string name="app_name">WeRUN</string>
     <string name="send">送信</string>
     <string name="sports_target">運動目標 %s歩</string>
@@ -222,7 +224,8 @@
     <string name="activity_desc_hint_lable">イベント紹介を入力</string>
     <string name="activity_cover_lable">カバー</string>
     <string name="processing">開催中</string>
-    <string name="more">その他</string> 4*2*4 +8*3
+    <string name="more">その他</string>
+    4*2*4 +8*3
 
     <string name="select_city">所在地</string>
 
@@ -231,7 +234,7 @@
     <string name="pk_data">対戦データ</string>
 
     <!-- 登录、注册相关 -->
-    <string name="regist_phone_cannot_null">携帯番号を入力してください</string>
+    <string name="regist_phone_cannot_null">携帯番号</string>
     <string name="regist_phone_number_hint_num">%1$s桁の携帯番号を入力してください</string>
     <string name="telephone_email">携帯番号/Eメール</string>
     <string name="password">パスワード</string>
@@ -241,14 +244,14 @@
     <string name="reset_and_login">リセットしてログイン</string>
     <string name="send_reg_code_hint">認証コードを送信しました</string>
     <string name="new_password">新パスワード</string>
-    <string name="reg_already_registered">登録済みですか</string>
-    <string name="click_login">ログイン</string>
-    <string name="pwd_confirm_error">パスワードが一致しません。</string>
+    <string name="reg_already_registered">登録済みですか？</string>
+    <string name="click_login">ここからログイン</string>
+    <string name="pwd_confirm_error">新パスワードと確認パスワードが一致しません。再入力してください。</string>
     <string name="regist_array_all_phone_code_name_hongkong">中国香港</string>
     <string name="regist_array_all_phone_code_name_macao">中国マカオ</string>
     <string name="regist_array_all_phone_code_name_taiwan">中国台湾</string>
     <string name="all_phone_code_title">所在地を選択</string>
-    <string name="my_department_rank">マイグループ第%d位</string>
+    <string name="my_department_rank">MYグループ第%d位</string>
     <string name="my_person_rank">自分のランキング%d</string>
     <string name="layout1_forgot_hint_tv">登録時の携帯番号(-なし)またはEメールを入力し、認証コードを送信してください</string>
     <string name="send_timer">あと%1$ssで再送</string>
@@ -1113,7 +1116,7 @@
     <string name="clubmodule_send_msg">チャット</string>
     <string name="clubmodule_chanllenge">挑戦</string>
     <string name="clubmodule_please_confirm_contact_info">グループをより良くご利用いただくために、連絡先を確認してください</string>
-    <string name="clubmodule_input_phone_num">携帯番号</string>
+    <string name="clubmodule_input_phone_num">携帯番号またはEメール</string>
     <string name="clubmodule_send_verify_code">認証コードを送信</string>
     <string name="clubmodule_total_rank">総合順位</string>
     <string name="clubmodule_approved">通過済み</string>
@@ -1153,8 +1156,8 @@
     <string name="clubmodule_mission_result_description">ミッション結果の説明</string>
     <string name="clubmodule_date_unit">--年--月--日</string>
     <string name="clubmodule_clubx_daily_mission">WeRUN·日替ミッション</string>
-    <string name="clubmodule_share_mission_info">シェアして、最高1000マイルのボーナスを手に入れよう。</string>
-    <string name="clubmodule_share_mission_limit">1人につき1日1回ボーナスを受取ることができます</string>
+    <string name="clubmodule_share_mission_info">シェアして、最高1000マイルをゲット</string>
+    <string name="clubmodule_share_mission_limit">シェアマイルは1人につき1日1回</string>
     <string name="clubmodule_station_name">駅名</string>
     <string name="clubmodule_member_arrived_state">到着状況</string>
     <string name="clubmodule_do_some_encouragement">応援しよう</string>
@@ -1202,7 +1205,7 @@
     <string name="clubmodule_introduction_company">あなたの会社を紹介してください</string>
     <string name="clubmodule_please_input_verify">認証コードを入力</string>
     <string name="clubmodule_please_input_phone">携帯番号を入力してください</string>
-    <string name="clubmodule_input_email_address">メールアドレスを入力してください</string>
+    <string name="clubmodule_input_email_address">Eメール</string>
     <string name="clubmodule_please_input_job">あなたの役職を入力してください</string>
     <string name="clubmodule_member_addition">参加者について</string>
     <string name="clubmodule_need_verify_pwd">パスワード認証</string>
@@ -1458,7 +1461,7 @@
     <string name="clubmodule_pic_load_failed">画像を読み込めませんでした</string>
     <string name="clubmodule_share_succeed">シェアしました</string>
     <string name="clubmodule_task_complete">ミッション完了</string>
-    <string name="clubmodule_get_sport_point">マイルをゲット</string>
+    <string name="clubmodule_get_sport_point">マイルを獲得しました</string>
     <string name="clubmodule_encourage_msg">諦らめないで！あとちょっとです\n\r続けて頑張ろう</string>
     <string name="clubmodule_time_format_str">%1$s年%2$s月%3$s日</string>
     <string name="clubmodule_change_datasource_warn">頻繁に計測方法を切替えると、データの整合性に問題が生じる可能性があります。続けますか</string>
@@ -1678,9 +1681,12 @@
     <string name="clubmodule_phone_record">携帯</string>
     <string name="clubmodule_codoon_app_record">WeRUNアプリ計測</string>//日本版本不再需要(可删除)
     <string name="clubmodule_current_step_datasource">現在の計測方法</string>
-    <string name="clubmodule_change_datasource_msg_1">スマートバンドに紐付けるために、携帯計測に切り替えてください</string>//日本版本不再需要(可删除)
-    <string name="clubmodule_change_datasource_msg_2">Wechatに紐付けるために、携帯計測に切り替えてください</string>//日本版本不再需要(可删除)
-    <string name="clubmodule_change_datasource_msg_3">WeRUNに紐付けるために、携帯計測に切り替えてください</string>//日本版本不再需要(可删除)
+    <string name="clubmodule_change_datasource_msg_1">スマートバンドに紐付けるために、携帯計測に切り替えてください</string>
+    //日本版本不再需要(可删除)
+    <string name="clubmodule_change_datasource_msg_2">Wechatに紐付けるために、携帯計測に切り替えてください</string>
+    //日本版本不再需要(可删除)
+    <string name="clubmodule_change_datasource_msg_3">WeRUNに紐付けるために、携帯計測に切り替えてください</string>
+    //日本版本不再需要(可删除)
     <string name="clubmodule_search">検索</string>
     <string name="clubmodule_restart_app">3秒後にAPPを再起動</string>
     <string name="clubmodule_no_disturb_time">非通知時間指定</string>
@@ -1776,8 +1782,8 @@
     <string name="regist_mobile_bind_verify_error">認証エラー、再度お試し下さい</string>
     <string name="regist_password_can_not_null">パスワードを入力してください!</string>
     <string name="regist_please_enter_phone">アカウントが間違っています。携帯番号を入力して下さい!</string>
-    <string name="regist_str_warning_code_long">パスワードは20桁以内にしてください!</string>
-    <string name="regist_str_warning_code_short">パスワードは6桁以上にしてください!</string>
+    <string name="regist_str_warning_code_long">パスワードは20桁以内にしてください</string>
+    <string name="regist_str_warning_code_short">6桁以上のパスワードが必要です。再入力してください。</string>
     <string name="clubmodule_auth_bind_phone">携帯番号を紐付け</string>
     <string name="clubmodule_auth_update_phone">携帯番号を変更</string>
     <string name="clubmodule_auth_bind_email">Eメールを紐付け</string>
@@ -1852,7 +1858,6 @@
     <string name="sans_serif_light" translatable="false">sans-serif-light</string>
     <string name="kilometers">@string/km</string>
     <string name="tonight">tonight</string>
-
 
 
     <!-- TODO: Remove or change this placeholder text -->
