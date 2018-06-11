@@ -1317,7 +1317,7 @@
   },
   {
     "id": "帐号在别处登录",
-    "translation": "アカウントは別のデバイスでログインされています"
+    "translation": "このアカウントは別のデバイスでログインされています"
   },
   {
     "id": "常见问题",
@@ -3425,7 +3425,7 @@
   },
   {
     "id": "账户已停用",
-    "translation": "アカウントはすでに停止されています"
+    "translation": "このアカウントはすでに停止されています"
   },
   {
     "id": "资源不存在或已被删除",
@@ -3765,6 +3765,6 @@
   },
   {
     "id": "<div>用户ID:{{.UserID}} </br>俱乐部ID:{{.ClubID}} </br>联系电话:{{.Mobile}} </br>APP版本:{{.AppVersion}} </br>手机品牌:{{.Brand}} </br>设备类型:{{.DeviceType}} </br>手机型号:{{.Model}} </br>网络类型:{{.NetworkType}} </br>系统类型:{{.Os}} </br>问题:{{.Content}} </br>图片地址:</br>{{range .PhotoList}} {{.}} </br> {{end}}<div>",
-    "translation": ""
+    "translation": "<div>ユーザーID:{{.UserID}} </br>クラブID:{{.ClubID}} </br>連絡先:{{.Mobile}} </br>APPバージョン:{{.AppVersion}} </br>携帯ブランド:{{.Brand}} </br>デバイス種類:{{.DeviceType}} </br>携帯モデル:{{.Model}} </br>ネットワークタイプ:{{.NetworkType}} </br>OS:{{.Os}} </br>問題:{{.Content}} </br>画像:</br>{{range .PhotoList}} {{.}} </br> {{end}}<div>"
   }
 ]
