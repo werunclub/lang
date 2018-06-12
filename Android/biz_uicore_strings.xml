@@ -1,7 +1,7 @@
 <resources>
 
     <string name="club_base_confirm">確定</string>
-    <string name="club_base_alert">ヒント</string>
+    <string name="club_base_alert">メッセージ</string>
 
     <string name="club_base_album">アルバム</string>
     <string name="club_base_camera">カメラ</string>
