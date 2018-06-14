@@ -2877,7 +2877,7 @@
   },
   {
     "id": "获取企业风云榜失败",
-    "translation": "会社ランキングの取得に失敗しました"
+    "translation": "企業ランキングの取得に失敗しました"
   },
   {
     "id": "获取作者信息出错",
@@ -3766,5 +3766,53 @@
   {
     "id": "<div>用户ID:{{.UserID}} </br>俱乐部ID:{{.ClubID}} </br>联系电话:{{.Mobile}} </br>APP版本:{{.AppVersion}} </br>手机品牌:{{.Brand}} </br>设备类型:{{.DeviceType}} </br>手机型号:{{.Model}} </br>网络类型:{{.NetworkType}} </br>系统类型:{{.Os}} </br>问题:{{.Content}} </br>图片地址:</br>{{range .PhotoList}} {{.}} </br> {{end}}<div>",
     "translation": "<div>ユーザーID:{{.UserID}} </br>クラブID:{{.ClubID}} </br>連絡先:{{.Mobile}} </br>APPバージョン:{{.AppVersion}} </br>携帯ブランド:{{.Brand}} </br>デバイス種類:{{.DeviceType}} </br>携帯モデル:{{.Model}} </br>ネットワークタイプ:{{.NetworkType}} </br>OS:{{.Os}} </br>問題:{{.Content}} </br>画像:</br>{{range .PhotoList}} {{.}} </br> {{end}}<div>"
+  },
+  {
+    "id": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》即将开始",
+    "translation": ""
+  },
+  {
+    "id": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》在%s即将开始",
+    "translation": ""
+  },
+  {
+    "id": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》即将结束",
+    "translation": ""
+  },
+  {
+    "id": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》在%s即将结束",
+    "translation": ""
+  },
+  {
+    "id": "有%d位新成员加入俱乐部",
+    "translation": ""
+  },
+  {
+    "id": "描述长度不大于 5000 字",
+    "translation": ""
+  },
+  {
+    "id": "所属行业无效",
+    "translation": ""
+  },
+  {
+    "id": "团队名称长度范围是 1 ~ 64 个字",
+    "translation": ""
+  },
+  {
+    "id": "所属企业名称长度范围是 2 ~ 128 个字",
+    "translation": ""
+  },
+  {
+    "id": "规模值无效",
+    "translation": ""
+  }, 
+  {
+    "id": "加入密码长度范围是 0 ~ 16 位",
+    "translation": ""
+  },
+  {
+    "id": "阅读 {readNum} 次",
+    "translation": ""
   }
 ]
