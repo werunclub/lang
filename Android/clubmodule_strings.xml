@@ -1,4 +1,13 @@
 <resources>
+    <string name="clubmodule_add_act_member">参加者を選択</string>
+    <string name="clubmodule_dept_selector_str">選択済み部門: %1$s</string>
+    <string name="clubmodule_contact_us_str_2">ヘルプデスクに連絡する</string>
+    <string name="clubmodule_create_match_new">ルート選択</string>
+    <string name="clubmodule_self_str">自分</string>
+    <string name="clubmodule_tv_desc_mobile">この携帯番号は当該グループにて使用されます</string>
+    <string name="clubmodule_no_dept_join">デフォルト</string>
+    <string name="clubmodule_tv_desc">この氏名は当該グループにて使用されます</string>
+    <string name="clubmodule_tv_desc_email">このEメールは当該グループにて使用されます</string>
     <string name="clubmodule_contact_str">help@werunclub.net</string>
     <string name="clubmodule_error_input_caution">携帯番号またはEメールを入力してください</string>
     <string name="clubmodule_close_switch">閉じる</string>
@@ -7,14 +16,11 @@
     <string name="send">送信</string>
     <string name="sports_target">運動目標 %s歩</string>
     <string name="new_notification">あなたは新しい%sメッセージを持っています</string>
-
     <string name="none">無</string>
     <string name="me">マイページ</string>
     <string name="no_data">データがありません</string>
     <string name="cant_empty">入力してください</string>
     <string name="dept_empty">この部門にはメンバーがいません</string>
-
-
     <string name="login_login_error_default">ログインエラー</string>
     <string name="login_wx_install_notices">Lineはまだインストールされていません、インストール後に再度お試しください。</string>
     <string name="login_wx_install_support">Lineをインストールしてください。</string>
@@ -50,13 +56,13 @@
     <string name="im_msg_desc">「画像」</string>
 
     <string name="create_club">グループ開設</string>
-    <string name="club_info">会社情報</string>
+    <string name="club_info">会社概要</string>
     <string name="create_club_title">グループ開設</string>
 
     <string name="club_name">所属会社</string>
     <string name="club_name_nick">グループ名</string>
     <string name="area_now">所在地</string>
-    <string name="club_size">会社規模</string>
+    <string name="club_size">企業規模</string>
     <string name="club_key">パスワードを入力</string>
     <string name="club_avatar">LOGO</string>
 
@@ -84,16 +90,16 @@
     <string name="pre">前へ</string>
     <string name="next">次へ</string>
 
-    <string name="club_verifycode_error">グループ参加パスワードは間違っています。</string>
-    <string name="error_club_name">所属会社名は1-255桁以内</string>
-    <string name="error_club_nick_name">グループ名は1-8桁以内</string>
-    <string name="error_club_type">業種を選択</string>
-    <string name="error_club_city">所在地を選択</string>
-    <string name="error_club_scale">会社の規模を選択</string>
+    <string name="club_verifycode_error">パスワードが間違っています</string>
+    <string name="error_club_name">会社名は1-255字以内にしてください</string>
+    <string name="error_club_nick_name">グループ名は1-8桁以内にしてください</string>
+    <string name="error_club_type">業種を選択してください</string>
+    <string name="error_club_city">所在地を選択してください</string>
+    <string name="error_club_scale">会社の規模を選択してください</string>
     <string name="error_club_avatar">LOGOを設定してください</string>
     <string name="error_club_pwd">参加パスワードを設定してください</string>
     <string name="error_input_realname">氏名を入力してください</string>
-    <string name="error_input_email">正確なEメールを入力してください</string>
+    <string name="error_input_email">メールアドレスが間違っています。再入力してください</string>
 
     <string name="error_text_lengt">最小文字数%1$d,最大文字数%2$d</string>
 
@@ -115,7 +121,7 @@
     <string name="club_password_filter">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
     <string name="person_info">プロフィール</string>
     <string name="person_info_view">会員情報</string>
-    <string name="avatar">プロフィール画像</string>
+    <string name="avatar">写真</string>
     <string name="nickname">ニックネーム</string>
     <string name="gender">性別</string>
     <string name="dob">生年月日</string>
@@ -125,19 +131,19 @@
     <string name="goal_tv2">目標%1$d歩</string>
     <string name="real_name">氏名</string>
     <string name="today_steps">今日の歩数</string>
-    <string name="rank">ランキング</string>
+    <string name="rank">順位</string>
     <string name="base_info">基本情報</string>
 
     <string name="telephone">携帯電話</string>
-    <string name="email">eメール"</string>
+    <string name="email">Eメール"</string>
 
     <string name="input_real_name">実名</string>
     <string name="input_telephone_optional">携帯番号(任意)</string>
-    <string name="input_nickname">ニックネーム</string>
+    <string name="input_nickname">ニックネームを入力</string>
     <string name="input_email_optional">Eメール(任意)</string>
     <string name="input_email">Eメール</string>
 
-    <string name="input_avatar_plz">プロフィール画像を選択してください</string>
+    <string name="input_avatar_plz">写真を選択してください</string>
     <string name="input_nickname_plz">ニックネームを入力してください</string>
 
     <string name="userinfo_perfect_tips">WeRUNは、あなたの個人データに基づいて1日の運動目標を提案します。ご自身の状況に合わせて調整することも可能です。</string>
@@ -155,14 +161,14 @@
 
     <string name="contact_list">連絡帳</string>
     <string name="heart_rate">心拍数</string>
-    <string name="heart_rate_unit">回/min</string>
+    <string name="heart_rate_unit">bpm</string>
     <string name="rank_str">第 %1$s 位</string>
     <string name="n_step">%1$s歩</string>
     <string name="sports_unit_cm">cm</string>
     <string name="menu_item_devices">データとデバイス</string>
     <string name="menu_item_search_add">検索を追加</string>
     <string name="menu_item_about">WeRUNについて</string>
-    <string name="search_user_hint">キーワードを入力して、会員を検索</string>
+    <string name="search_user_hint">会員を検索</string>
     <string name="search_no_result">検索結果がありません</string>
     <string name="search_no_result2">検索結果はありません</string>
 
@@ -172,8 +178,8 @@
     <string name="pk_go">挑戦しよう</string>
     <string name="pk_mine">MY挑戦</string>
     <string name="pk_detail">挑戦情報</string>
-    <string name="pk_cancel_title">この挑戦をキャンセルしますか。</string>
-    <string name="pk_cant_self">自分に挑戦できません</string>
+    <string name="pk_cancel_title">この挑戦をキャンセルしますか？</string>
+    <string name="pk_cant_self">対戦相手に、自分を選ぶことはできません</string>
 
     <string name="disagree">拒否</string>
     <string name="agree">承諾</string>
@@ -181,7 +187,7 @@
     <string name="activity_lable">イベント情報</string>
     <string name="about">WeRUNについて</string>
 
-    <string name="top_hint">フレームをバーコードやQRコードに合わせてかざせばスキャンできます。</string>
+    <string name="top_hint">フレームをQRコードに合わせてかざせばスキャンできます。</string>
     <string name="msg_camera_framework_bug">Androidカメラに問題があります。携帯電話を再起動してください。</string>
     <string name="parse_pic_failed">画像を解析できませんでした。</string>
     <string name="scanning">スキャン中...</string>
@@ -206,7 +212,7 @@
     <string name="idjoin_hint">グループID</string>
     <string name="search_club_id">グループID</string>
     <string name="search_club_name">グループ名</string>
-    <string name="idjoin_pwd">このグループの参加パスワード</string>
+    <string name="idjoin_pwd">参加パスワードを入力してください</string>
     <string name="idjoin_read_personinfo">このグループはあなたの個人情報を読み取ります</string>
     <string name="idjoin_telephone">携帯電話&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
     <string name="idjoin_email">Eメール&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
@@ -250,12 +256,12 @@
     <string name="regist_array_all_phone_code_name_macao">中国マカオ</string>
     <string name="regist_array_all_phone_code_name_taiwan">中国台湾</string>
     <string name="all_phone_code_title">所在地を選択</string>
-    <string name="my_department_rank">MYグループ第%d位</string>
+    <string name="my_department_rank">MYチーム 第%d位</string>
     <string name="my_person_rank">自分のランキング%d</string>
     <string name="layout1_forgot_hint_tv">登録時の携帯番号(-なし)またはEメールを入力し、認証コードを送信してください</string>
     <string name="send_timer">あと%1$ssで再送</string>
     <string name="random_team">ランダム分け</string>
-    <string name="select_department">部門を選択</string>
+    <string name="select_department">部門選択</string>
     <string name="unit_person">人</string>
     <string name="squad_hint_random_text">グループイベントは少なくとも2つのチームが必要。\"ランダム分け\"はシステムがグループ全員をランダムに分けて均等に各チームに配置します。</string>
     <string name="new_features">機能紹介</string>
@@ -288,7 +294,7 @@
     <string name="sports_goal">目標歩数</string>
     <string name="no_club_hint">参加しているグループがありません\nボタンをタップし、グループ作成後、イベントも作成できます</string>
     <string name="have_club_not_manager_no_match_hint">イベントがありません\n匿名で管理者に連絡してイベントを作ってもらおう！</string>
-    <string name="have_club_is_manager_no_match_hint">管理者へ\n仲間達がイベントを待っています。今すぐ作成しよう！</string>
+    <string name="have_club_is_manager_no_match_hint">管理者様へ\n仲間達がイベントを待っています。今すぐ作成しよう！</string>
     <string name="send_msg_to_manager">連絡</string>
     <string name="crop_img">画像を切り抜く</string>
     <string name="plz_steps">目標歩数は必須です</string>
@@ -298,11 +304,11 @@
     <string name="my_department">MY部門</string>
     <string name="my_limit">MY権限</string>
     <string name="join_rqcode">グループQRコード</string>
-    <string name="enable_team_chat">メンバー間のチャットを許可</string>
-    <string name="enable_team_pk">対戦の受入を許可</string>
+    <string name="enable_team_chat">会員間のチャットを許可</string>
+    <string name="enable_team_pk">挑戦を承諾</string>
     <string name="name">氏名</string>
     <string name="contact">連絡方法</string>
-    <string name="quite_club">グループを脱退</string>
+    <string name="quite_club">グループを脱退する</string>
 
     <string name="quite_club_text">このグループを脱退しますか？脱退後、このグループにあるあなたの個人スコアデータは無効となります。</string>
     <string name="my_club_manager2">管理者:</string>
@@ -311,7 +317,7 @@
     <string name="switch_club">グループ切替</string>
     <string name="other_club">その他グループ</string>
     <string name="alert_switch_club">グループを切替えますか。</string>
-    <string name="join_switch_club">参加しました。新しいグループに切替えますか %s?</string>
+    <string name="join_switch_club">参加しました。新しいグループ %s に切り替えますか?</string>
     <string name="logout_alert">ログアウトしますか？</string>
 
     <string name="club_switch_tips">%1$sに切り替えました</string>
@@ -322,8 +328,8 @@
     <string name="select_pk_starttime">対戦開始時刻を選択</string>
     <string name="select_pk_endtime">対戦終了時刻を選択</string>
     <string name="select_stake">チップを選択してください</string>
-    <string name="pk_time_left">対戦開始まであと%1$s時%2$s分</string>
-    <string name="pk_time_start">対戦終了まであと%1$d時%2$s分</string>
+    <string name="pk_time_left">挑戦開始まであと%1$s時%2$s分</string>
+    <string name="pk_time_start">挑戦終了まであと%1$d時%2$s分</string>
     <string name="pk_time_over">対戦は終了しました</string>
     <string name="pk_cancel">対戦をキャンセル</string>
     <string name="pk_create_success">対戦申請を送信しました</string>
@@ -335,7 +341,7 @@
     <string name="pk_state_reject">拒否しました</string>
     <string name="pk_state_noack">承認待ち</string>
 
-    <string name="pk_stake_select">チップを選んでください</string>
+    <string name="pk_stake_select">チップ</string>
     <string name="pk_stake_top">プレイヤーは平均歩数を競い合い、勝者は敗者から貢物をゲット！</string>
     <string name="pk_stake_top2">チップを賭けよう</string>
     <string name="pk_stake_top3">欲しいものを自由入力できます。</string>
@@ -345,11 +351,11 @@
     <string name="club_auth">認証</string>
     <string name="club_manager_tips">その他管理機能については、PC管理ページにログインしてご利用ください：http://www.werunclub.net</string>
     <string name="club_auth_hint">未認証(管理者ページにて会社認証を行ってください)</string>
-    <string name="club_manager_remove_dept">部門を削除しますか:</string>
-    <string name="club_manager_remove_member">会員を削除しますか:</string>
+    <string name="club_manager_remove_dept">部門を削除しますか？</string>
+    <string name="club_manager_remove_member">会員を削除しますか？</string>
     <string name="club_manager_remove_manager">%1$sの管理者権限を取り消しますか</string>
 
-    <string name="add_department">下位部門を追加</string>
+    <string name="add_department">部門を追加</string>
     <string name="department_name">部門名</string>
     <string name="department_name_hint">部門名を入力</string>
     <string name="pre_department_name">上位部門</string>
@@ -357,13 +363,13 @@
     <string name="add_club_manager">部門管理者を追加</string>
     <string name="setting_club_manager_title">%1$sの管理者を設定</string>
     <string name="today">今日</string>
-    <string name="total_ranking_winner">会社ランキング優勝者</string>
+    <string name="total_ranking_winner">企業ランキング優勝者</string>
     <string name="club_ranking">会員ランキング</string>
-    <string name="club_ranking_winner">グループランキング優勝者</string>
+    <string name="club_ranking_winner">チームランキング優勝者</string>
     <string name="club_dept_ranking_winner">%1$s 優勝者</string>
-    <string name="club_ranking_item0">全会員ランキング</string>
+    <string name="club_ranking_item0">個人ランキング</string>
     <string name="club_ranking_nodata">ランキングデータがありません</string>
-    <string name="rank_change_line1">今日グループ内の%1$sに勝ちました</string>
+    <string name="rank_change_line1">今日チーム内の%1$sに勝ちました</string>
     <string name="rank_change_up">ランクアップ</string>
     <string name="rank_change_down">ランクダウン</string>
     <string name="rank_change_keep">キープ</string>
@@ -383,7 +389,7 @@
     <string name="rank_after_lin2">\r\nさぼらないでがんばろう！友達がもう目の前にいます。</string>
 
     <string name="bind_wristband">Weバンド3</string>//日本版本不再需要(可删除)
-    <string name="bind_wristband_3s">Weバンド3S</string>
+    <string name="bind_wristband_3s">WeRUNスマートバンド3S</string>
     <string name="bind_wristband_hint">ペアリング後、スマートバンドから歩数等のデータを取得</string>
     <string name="sitedown_alert">運動リマインダー</string>
 
@@ -435,7 +441,6 @@
     <string name="im_no_message">チャットがありません</string>
     <string name="im_text_140">140文字の上限に達しました</string>
     <string name="selectpr_onlyone">ひとつしか選べません</string>
-
     <string name="match_rule_type_step">%s歩数計測イベント:    </string>
     <string name="match_rule_type_gps">%sGPS屋外ランニングイベント:    </string>
     <string name="match_rule_person_target">%s開催期間中に参加者が目標歩数をクリアした時間順でランク付けされます。;</string>
@@ -443,9 +448,9 @@
     <string name="match_rule_person_normal">%s開催期間中の参加者の歩数順でランク付けされます。</string>
     <string name="match_rule_person_gps_normal">%s開催期間中の参加者の平均屋外走行累積距離順でランク付けされます。</string>
     <string name="match_rule_team_normal">%s開催期間中のチーム平均歩数（チーム合計歩数/チーム人数）順でランク付けされます。</string>
-    <string name="match_rule_team_gps_normal">%s開催期間中のグループの屋外走行累積距離順でランク付けされます。</string>
-    <string name="match_rule_team_target">%s開催期間中、グループ（全員合計歩行距離）が目標距離をクリアした時間順でランク付けされます。</string>
-    <string name="match_rule_team_gps_target">%s開催期間中、参加グループが目標距離をクリアした時間順でランク付けされます。</string>
+    <string name="match_rule_team_gps_normal">%s開催期間中のチームの屋外走行累積距離順でランク付けされます。</string>
+    <string name="match_rule_team_target">%s開催期間中、チーム（全員合計歩行距離）が目標距離をクリアした時間順でランク付けされます。</string>
+    <string name="match_rule_team_gps_target">%s開催期間中、参加チームが目標距離をクリアした時間順でランク付けされます。</string>
 
     <string name="my_club_no_current">グループを選んでください</string>
 
@@ -456,7 +461,7 @@
     <string name="im_now_allow_chat">%1$sチャット機能をオフにしています</string>
 
     <string name="gps_count_str">累計</string>
-    <string name="gps_count">累計%1$d回</string>
+    <string name="gps_count">計%1$d回</string>
     <string name="gps_history">運動履歴</string>
     <string name="gps_base_record">最高記録</string>
     <string name="resume">リストア</string>
@@ -468,8 +473,8 @@
     <string name="gps_sinal_none">GPS信号なし</string>
     <string name="gps_sinal_searching">GPS測位中…</string>
 
-    <string name="gps_no_signal_tips">WeRUNは携帯電話のセンサーを利用して計測しています\n\nGPS信号がないため、現在のルートを地図上に表示することができません\n\n頭上の開けた屋外にてお試しください。電話のGPS設定がオンになっていることもご確認ください。</string>
-    <string name="gps_weak_signal_tips">WeRUNは携帯電話のセンサーを利用して計測しています\n\nGPS精度低いため、現在のルートを地図上に表示することができません\n\n頭上の開けた屋外にてお試しください。電話のGPS設定がオンになっていることもご確認ください。</string>
+    <string name="gps_no_signal_tips">WeRUNは携帯電話のセンサーを利用して計測しています。GPS信号がないため、現在のルートを地図上に表示することができません。\n頭上の開けた屋外にてお試しください。なお、電話のGPS設定がオンになっていることもご確認ください。</string>
+    <string name="gps_weak_signal_tips">WeRUNは携帯電話のセンサーを利用して計測しています。GPS精度低いため、現在のルートを地図上に表示することができません。\n頭上の開けた屋外にてお試しください。なお、電話のGPS設定がオンになっていることもご確認ください。</string>
 
     <string name="alert_run_finish">このランニングを終了しますか?</string>
     <string name="alert_run_delete">ランニング記録をあきらめてもよろしいですか?</string>
@@ -494,7 +499,7 @@
     <string name="gps_cant_delete">しばらく待ってからこの操作をお試しください</string>
 
     <string name="outdoor_running">屋外運動</string>
-    <string name="my_wristband">MYバンドへ</string>
+    <string name="my_wristband">MYバンド</string>
     <string name="my_match">MYイベント</string>
 
     <string name="gps_upload_nonetword">ネットワークなし。ネットワーク回復後に自動同期</string>
@@ -504,7 +509,7 @@
     <string name="ble_connect_disconnect">デバイスの接続が切断されています</string>
     <string name="ble_searching_codoon">スマートバンドを検索しています。</string>
     <string name="connect_success">接続しました</string>
-    <string name="ble_searching_check">Weバンドをオンにして、携帯電話の近くに置いてください</string>
+    <string name="ble_searching_check">Weバンドを携帯電話の近くに置いてください</string>
     <string name="ble_searching_nodata">Weバンドが見つかりませんでした</string>
     <string name="ble_searching_nodata_tips0">Weバンドをオンにしてください</string>
     <string name="ble_searching_nodata_tips1">Weバンドを携帯の近くに</string>
@@ -595,9 +600,9 @@
     <string name="ft">ft</string>
     <string name="kcal">kcal</string>
     <string name="km">km</string>
-    <string name="km_h">km/ｈ</string>
+    <string name="km_h">km/h</string>
     <string name="mile">mile</string>
-    <string name="min_h">mile/ｈ</string>
+    <string name="min_h">mile/h</string>
     <string name="min_km">km/分</string>
     <string name="str_install_or_not">Runtopiaは最新のバージョンがあります。アップデートしましょう</string>
     <string name="downloading">ダウンロードしています</string>
@@ -616,7 +621,7 @@
     <string name="total_decent">累積下降高度</string>
     <string name="withdraw_balance_tips_format">*残高は%sドル不足です。まだ引き出しできません</string>
     <string name="withdraw_balance_tips">*残高は10ドル不足です。まだ引き出しできません</string>
-    <string name="withdraw_tips_format">現金引き出す説明：\n%1s</string>
+    <string name="withdraw_tips_format">現金引出し方法：\n%1s</string>
     <string name="withdraw_success_tips">申請が送信されました！ 2営業日以内に処理されます</string>
     <string name="withdraw_confirm_account_tips">Paypalアカウントを確認</string>
     <string name="withdraw_enter_account_tips">Paypalアカウント</string>
@@ -732,7 +737,7 @@
     <string name="reward_log_title">受賞履歴</string>
     <string name="reward_name_txt">受賞</string>
     <string name="route">ルート</string>
-    <string name="run">ランニング</string>
+    <string name="run">ラン</string>
     <string name="activity_about_us_twitter">twitterでWeRUNをフォロー</string>
     <string name="indoorguide">Runtopiaは携帯電話のセンサーで歩数を記録し、走行距離を計算します。正確に記録するために、ランニング時アームバンド等で携帯電話を腕に固定してください。</string>
     <string name="save_to_album">アルバムに保存</string>
@@ -795,7 +800,7 @@
     <string name="block_profile">%sマイページ</string>
     <string name="Medals_page">メダル · %s</string>
     <string name="Personal_Best_page">最高記録</string>
-    <string name="library">アルバム</string>
+    <string name="library">アルバムから選ぶ</string>
     <string name="takephoto">写真を撮る</string>
     <string name="watermark">透かし</string>
     <string name="At_the_moment">最新</string>
@@ -902,7 +907,7 @@
     <string name="likeruntopia">WeRUNがお好きですか？\\nApp Storeで評価してください\\nあなたの意見と支援は私たちにとって非常に重要です</string>
     <string name="likeit">好き</string>
     <string name="ageisneed">年齢を入力してください。消費カロリーとペース分析の計算に使用します</string>
-    <string name="avatarisneed">プロフィール画像をアップロードしてください</string>
+    <string name="avatarisneed">写真をアップロードしてください</string>
     <string name="genderisneed">性別を入力してください。消費カロリーとペース分析の計算に使用します</string>
     <string name="removed">削除しました</string>
     <string name="blast_complete_sport_input_text_num">入力文字数の上限に達しました</string>
@@ -981,7 +986,7 @@
 
     <string name="login_wb_install_notices">Twitterはまだインストールされていません。インストール後にもう一度お試しください！</string>
 
-    <string name="my_health">健康状況</string>
+    <string name="my_health">MY健康状況</string>
     <string name="average_walk_count">一日平均歩数</string>
     <string name="count_days">累計計測日数</string>
     <string name="all_running_miles">累計走行距離</string>
@@ -1019,7 +1024,7 @@
     <string name="clubmodule_input_old_password">旧パスワード</string>
     <string name="clubmodule_imput_new_password">6-20桁の新パスワード</string>
     <string name="clubmodule_comfirm_password">新パスワード（確認）</string>
-    <string name="clubmodule_confirm">確定</string>
+    <string name="clubmodule_confirm">OK</string>
     <string name="clubmodule_forget_password">旧パスワードを忘れた場合</string>
     <string name="clubmodule_allow_show_member_phone">メンバーの携帯番号を表示</string>
     <string name="clubmodule_allow_show_member_mail">メンバーのEメールを表示</string>
@@ -1033,12 +1038,12 @@
     <string name="clubmodule_max_speed">最高ペース</string>
     <string name="clubmodule_min_speed">最低ペース</string>
     <string name="clubmodule_step_unit">計測単位</string>
-    <string name="clubmodule_allow_add_new_member">グループイベントへの新規加入を許可</string>
+    <string name="clubmodule_allow_add_new_member">新しいメンバーの参加を許可</string>
     <string name="clubmodule_do_not_allow">許可しない</string>
     <string name="clubmodule_activity_duration">開催期間</string>
-    <string name="clubmodule_to">まで</string>
+    <string name="clubmodule_to">から</string>
     <string name="clubmodule_step">歩</string>
-    <string name="clubmodule_personal_max_steps_per_day">1日あたりの個人上限歩数</string>
+    <string name="clubmodule_personal_max_steps_per_day">1日あたり1人の上限値。上限値を超えたデータはカウントされません</string>
     <string name="clubmodule_step_activity_caution">平均歩数を競い合い、勝者は敗者からチップを勝ち取ります</string>
     <string name="clubmodule_mission_caution">完了したミッションをシェアして、1人につき1日1回最高1000マイルのシェアボーナスをゲット</string>
     <string name="clubmodule_mission_description">説明</string>
@@ -1046,7 +1051,7 @@
     <string name="clubmodule_time_str">期間:</string>
     <string name="clubmodule_available_time_duration">有効時刻:</string>
     <string name="clubmodule_device_name">デバイス名</string>
-    <string name="clubmodule_ask_help_caution">お問合せ内容をできるだけ詳しく記入してください</string>
+    <string name="clubmodule_ask_help_caution">ご利用時の感想や意見を詳しくご記入ください</string>
     <string name="clubmodule_upload_img">画像を添付</string>
     <string name="clubmodule_input_phone_number">連絡可能な携帯番号(-なし)をご入力ください</string>
     <string name="clubmodule_sport_bar_name">コミュニティ</string>
@@ -1090,7 +1095,7 @@
     <string name="clubmodule_activity_info">イベント情報</string>
     <string name="clubmodule_virtual_route_activity_name">バーチャルラリーイベント名</string>
     <string name="clubmodule_champion">優勝者</string>
-    <string name="clubmodule_champion_club_name">優勝グループ名</string>
+    <string name="clubmodule_champion_club_name">優勝チーム名</string>
     <string name="clubmodule_my_club_name">MYグループ名</string>
     <string name="clubmodule_total_station_number">駅総数</string>
     <string name="clubmodule_station">駅</string>
@@ -1113,12 +1118,12 @@
     <string name="clubmodule_club_120_member">グループ 120人</string>
     <string name="clubmodule_job_info">役職情報</string>
     <string name="clubmodule_send_msg">チャット</string>
-    <string name="clubmodule_chanllenge">挑戦</string>
+    <string name="clubmodule_chanllenge">対戦</string>
     <string name="clubmodule_please_confirm_contact_info">グループをより良くご利用いただくために、連絡先を確認してください</string>
     <string name="clubmodule_input_phone_num">携帯番号またはEメール</string>
     <string name="clubmodule_send_verify_code">認証コードを送信</string>
     <string name="clubmodule_total_rank">総合順位</string>
-    <string name="clubmodule_approved">通過済み</string>
+    <string name="clubmodule_approved">通過済</string>
     <string name="clubmodule_total_distance_k">累積距離</string>
     <string name="clubmodule_daily_average_step_num">1日あたり步数</string>
     <string name="clubmodule_total_degree_of_completion">達成率</string>
@@ -1147,7 +1152,7 @@
     <string name="clubmodule_activity_rule">▌ルール</string>
     <string name="clubmodule_personal_activity_info">● 個人ノーマル戦：イベント期間内の、参加者の歩数でランク付けされます。</string>
     <string name="clubmodule_test">テスト</string>
-    <string name="clubmodule_manage_call_feature">スマートバンドでの着信通知などの機能</string>
+    <string name="clubmodule_manage_call_feature">携帯電話からのプッシュ通知</string>
     <string name="clubmodule_wristband_usage_navigation">ご利用案内</string>
     <string name="clubmodule_mission_name">ミッション名</string>
     <string name="clubmodule_mission_result">ミッション結果</string>
@@ -1167,7 +1172,7 @@
     <string name="clubmodule_reselect_department">もう一度部門を選択してください</string>
     <string name="clubmodule_no_related_result">検索結果はありません</string>
     <string name="clubmodule_how_to_join_rank">企業ランキングへの参加はヘルプデスク</string>
-    <string name="clubmodule_please_contact_us">ヘルプデスクにお問い合わせください。電話番号</string>
+    <string name="clubmodule_please_contact_us">までお問い合わせ下さい</string>
     <string name="clubmodule_circle_widget">圆圈控件</string>
     <string name="clubmodule_all_club_rank">企業ランキング</string>
     <string name="clubmodule_my_company">MY会社</string>
@@ -1176,14 +1181,14 @@
     <string name="clubmodule_edit_activity_name">イベントに素晴らしいタイトルを付けよう</string>
     <string name="clubmodule_edit_activity_introduction">みんなにイベントをもっと知ってもらうために、もう少し紹介しよう（最大3000文字まで）</string>
     <string name="clubmodule_choose_activity_type">イベント種類を選択</string>
-    <string name="clubmodule_activity_target">イベント対象</string>
+    <string name="clubmodule_activity_target">適用対象</string>
     <string name="clubmodule_person">個人</string>
     <string name="clubmodule_random_set_group">ランダム分け</string>
     <string name="clubmodule_set_group_by_department">部門別分け</string>
     <string name="clubmodule_set_group_by_root_department">トップ部門分け</string>
     <string name="clubmodule_set_group_by_node_department">末端部門分け</string>
     <string name="clubmodule_activity_edit_warn">組織変更の結果は開催中のイベントに反映しません</string>
-    <string name="clubmodule_select_sub_group">チームを選択</string>
+    <string name="clubmodule_select_sub_group">部門選択</string>
     <string name="clubmodule_activity_available_duration">有効時間</string>
     <string name="clubmodule_daily_max_value_warn">1日あたり1人の上限値。上限値を超えたデータはカウントされません</string>
     <string name="clubmodule_pre_step">前へ</string>
@@ -1203,7 +1208,7 @@
     <string name="clubmodule_please_select">選択してください</string>
     <string name="clubmodule_introduction_company">あなたの会社を紹介してください</string>
     <string name="clubmodule_please_input_verify">認証コードを入力</string>
-    <string name="clubmodule_please_input_phone">携帯番号を入力してください</string>
+    <string name="clubmodule_please_input_phone">携帯番号(-なし)を入力してください</string>
     <string name="clubmodule_input_email_address">Eメール</string>
     <string name="clubmodule_please_input_job">あなたの役職を入力してください</string>
     <string name="clubmodule_member_addition">参加者について</string>
@@ -1215,7 +1220,7 @@
     <string name="clubmodule_divide_steps">区間歩数</string>
     <string name="clubmodule_activity_titile">イベントタイトル</string>
     <string name="clubmodule_activity_introduction">紹介</string>
-    <string name="clubmodule_activity_introduction_detail">みんなにイベントをもっと知ってもらうために、もう少し紹介しよう</string>
+    <string name="clubmodule_activity_introduction_detail">宣伝のため、もっと紹介しよう！\n（最大3000文字まで）</string>
     <string name="clubmodule_gps_activity_name">GPSイベント名</string>
     <string name="clubmodule_processing">進行中</string>
     <string name="clubmodule_warn_pic_unavailable">凡例グラフは、ペース基準に満たない記録を示しています</string>
@@ -1235,7 +1240,7 @@
     <string name="clubmodule_show_time">表示時間</string>
     <string name="clubmodule_upload_data">同期</string>
     <string name="clubmodule_daily_sport_target">一日の目標歩数</string>
-    <string name="clubmodule_default_sleep_time">--時--分</string>
+    <string name="clubmodule_default_sleep_time">--時間--分</string>
     <string name="clubmodule_sleep_quality">睡眠の質</string>
     <string name="clubmodule_deep_sleep_in_short">深い睡眠</string>
     <string name="clubmodule_0_hour">0時、</string>
@@ -1249,8 +1254,8 @@
     <string name="clubmodule_sleep_data">睡眠データ</string>
     <string name="clubmodule_search_default_hint">文書、キーワード、興味を検索</string>
     <string name="clubmodule_collect">お気に入り</string>
-    <string name="clubmodule_male">男</string>
-    <string name="clubmodule_female">女</string>
+    <string name="clubmodule_male">男性</string>
+    <string name="clubmodule_female">女性</string>
     <string name="clubmodule_club_dept_rank">部門歩数ランキング</string>
     <string name="clubmodule_club_thumbs_up">いいね数ランキング</string>
     <string name="clubmodule_club_member_rank">会員歩数ランキング</string>
@@ -1287,7 +1292,7 @@
     <string name="clubmodule_superior_dept_name">上位部門名称</string>
     <string name="clubmodule_member_name">会員名</string>
     <string name="clubmodule_codoon_run">WeRUN</string>
-    <string name="clubmodule_today_hot">人気話題</string>
+    <string name="clubmodule_today_hot">人気記事</string>
     <string name="clubmodule_chips_name">チップ名</string>
     <string name="clubmodule_person_average_steps">平均歩数</string>
     <string name="clubmodule_dash_kelometer">-- km</string>
@@ -1302,16 +1307,16 @@
     <string name="clubmodule_export_activity_data">データエクスポート</string>
     <string name="clubmodule_wristband_setting">設定</string>
     <string name="clubmodule_upload_exception_log">異常を報告</string>
-    <string name="clubmodule_my_sport_points">Weマイル</string>
+    <string name="clubmodule_my_sport_points">Weマイル残高</string>
     <string name="clubmodule_join_team">グループ参加</string>
     <string name="clubmodule_manage_team">グループ管理</string>
-    <string name="clubmodule_change_data_source">歩数計測方法を変更</string>
+    <string name="clubmodule_change_data_source">計測方法を変更</string>
     <string name="clubmodule_new_version_alert">最新バージョンのリマインダー</string>
     <string name="clubmodule_say_it_next_time">後で</string>
     <string name="clubmodule_download_immediately">ダウンロード</string>
     <string name="clubmodule_have_no_data">データなし</string>
     <string name="clubmodule_company_introduction">企業紹介</string>
-    <string name="clubmodule_my_team">MYグループ</string>
+    <string name="clubmodule_my_team">MYチーム</string>
     <string name="clubmodule_first_place">第 1 位</string>
     <string name="clubmodule_20_step">20 歩</string>
     <string name="clubmodule_known">了解</string>
@@ -1325,9 +1330,9 @@
     <string name="clubmodule_wechat_sport">Wechat運動</string>
     <string name="clubmodule_change_wechat_data_source_info">ウィジェットのQRコードを保存し、WeChatの「QRコードのスキャン」でアルバムからQRコード画像を選択してWeRUNウィジェットに入ってください。</string>
     <string name="clubmodule_open_wechat_2_scan_qrcode">QRコードを保存し、WeChatの「QRコードのスキャン」を開く</string>
-    <string name="clubmodule_contact_us">お問い合わせ</string>
+    <string name="clubmodule_contact_us">グループ管理者ホットライン</string>
     <string name="clubmodule_newest_version_msg">すでに最新のバージョンです</string>
-    <string name="clubmodule_rule_warn_info">一部の記録はペース基準に満たないため、スコアにカウントされません</string>
+    <string name="clubmodule_rule_warn_info">ペース基準外データはスコア対象外</string>
     <string name="clubmodule_select_one_at_least">最低1日は選択してください</string>
     <string name="clubmodule_collected">お気に入り</string>
     <string name="clubmodule_not_collected">未保存</string>
@@ -1352,15 +1357,15 @@
     <string name="clubmodule_change_bind">紐付けを変更</string>
     <string name="clubmodule_do_bind">紐付ける</string>
     <string name="clubmodule_unbind">紐付けを解除</string>
-    <string name="clubmodule_bind_device">デバイスの紐付け</string>
+    <string name="clubmodule_bind_device">デバイスと紐付け</string>
     <string name="clubmodule_open_ble_retry">Bluetoothをオンにしてもう一度お試しください</string>
     <string name="clubmodule_sport_data_safety_warn">データ保護のため、計測方法を携帯電話に切替えてからスマートバンドをペアリングします。続けますか</string>
     <string name="clubmodule_change_phone_datasource">携帯計測に切り替えました</string>
     <string name="clubmodule_consider">後で</string>
-    <string name="clubmodule_change_2_phone_datasource_ok">歩数計測方法を「携帯電話」に切替えました</string>
+    <string name="clubmodule_change_2_phone_datasource_ok">計測方法を「携帯電話」に切替えました</string>
     <string name="clubmodule_get_datasource_error">データ取得失敗</string>
-    <string name="clubmodule_connecting">接続中</string>
-    <string name="clubmodule_change_2_wristband_ok">歩数計測方法を「Weバンド」に切替えました</string>
+    <string name="clubmodule_connecting">接続中：</string>
+    <string name="clubmodule_change_2_wristband_ok">計測方法を「Weバンド」に切替えました</string>
     <string name="clubmodule_wait_wristband_confirm">スマートバンドの確認待ち</string>
     <string name="clubmodule_wristband_deny">スマートバンドがペアリングを拒否またはタイムアウト、再度お試しください</string>
     <string name="clubmodule_confirm_ble_on">携帯のBluetoothをオンに(設定へ)</string>
@@ -1375,29 +1380,28 @@
     <string name="clubmodule_belong_no_dept">どの部門にも所属していません</string>
     <string name="clubmodule_not_in_rank">ランク外</string>
     <string name="clubmodule_change_pwd">パスワード変更</string>
-    <string name="clubmodule_pwd_not_suitable">不適切なパスワード</string>
+    <string name="clubmodule_pwd_not_suitable">6桁以上のパスワードが必要です。再入力してください</string>
     <string name="clubmodule_new_pwd_not_same">新パスワードと確認パスワードが一致しません。再入力してください。</string>
     <string name="clubmodule_change_pwd_succeed">パスワード変更しました</string>
-    <string name="clubmodule_pwd_error">旧パスワードが間違っています。再入力してください</string>
+    <string name="clubmodule_pwd_error">旧パスワードは間違っています</string>
     <string name="clubmodule_should_not_click_frequently">続けて管理者に連絡しないでください</string>
-    <string name="clubmodule_your_notification_sended">あなたからのリマインダーを送信した</string>
-    <string name="clubmodule_need_at_least_2_member">グループイベントには2人以上のメンバーの設定が必要です。再選択してください</string>
-    <string name="clubmodule_dept_selector_str">選択済み部門: %1$s  人数: %2$s</string>
+    <string name="clubmodule_your_notification_sended">あなたからのリマインダーを送信しました</string>
+    <string name="clubmodule_need_at_least_2_member">チームイベントには2人以上のメンバーの設定が必要です。再選択してください</string>
     <string name="clubmodule_several_people">%s人</string>
-    <string name="clubmodule_today_team_rank">今日のグループランキング</string>
+    <string name="clubmodule_today_team_rank">今日のチームランキング</string>
     <string name="clubmodule_data_export_method_info">データは管理者ページで出力可能</string>
     <string name="clubmodule_target_match_rank_info">チャレンジ戦 目標歩数をクリアした時間順でランク付け</string>
     <string name="clubmodule_wristband_record_step">Weバンドで日々の歩数を記録</string>
     <string name="clubmodule_rank_by_rectify_data">有効なデータでランク付け</string>
     <string name="clubmodule_rank_by_special_time_sport">設定されたイベントの有効時間内のデータのみ対象データとする</string>
     <string name="clubmodule_standard_match_steps_rank">ノーマル戦 歩数でランク付け</string>
-    <string name="clubmodule_use_walk_or_run">ウォーク/ラン機能のランモードで運動する</string>
+    <string name="clubmodule_use_walk_or_run">ウォーク/ラン機能のランモードで運動</string>
     <string name="clubmodule_standard_match_by_run_distance">ノーマル戦 走行距離順でランク付け</string>
     <string name="clubmodule_rank_by_arrive_time">各チェックポイントと終点をクリアした時間順でランク付け</string>
     <string name="clubmodule_step_data_2_vr_data">歩数をバーチャルルートの距離に変換</string>
-    <string name="clubmodule_walk_or_run">ウォーク/ラン機能のウォークモードで運動する</string>
+    <string name="clubmodule_walk_or_run">ウォーク/ラン機能のウォークモードで運動</string>
     <string name="clubmodule_standard_match_by_distance">ノーマル戦 歩行距離順でランク付け</string>
-    <string name="clubmodule_upload_daily_data">参加者が毎日の歩数データを送信する</string>
+    <string name="clubmodule_upload_daily_data">参加者が毎日の歩数データを送信</string>
     <string name="clubmodule_rank_by_reach_standard">イベント期間中参加者の目標達成状況でランク付け</string>
     <string name="clubmodule_10000_step_per_day">毎日一万歩(管理者が目標歩数を設定可能)に達したら目標達成とする</string>
     <string name="clubmodule_caution">メッセージ</string>
@@ -1410,7 +1414,7 @@
     <string name="clubmodule_begin_time_confict_writh_end">開始時刻と終了時刻は異なる時間にしてください</string>
     <string name="clubmodule_personal_daily_max_value">1日あたりの個人上限歩数は 0 - 100000</string>
     <string name="clubmodule_select_dept">%sに部門を選択してください</string>
-    <string name="clubmodule_select_by_dept">部門別選択</string>
+    <string name="clubmodule_select_by_dept">部門選択</string>
     <string name="clubmodule_activity_start_time">開始時刻</string>
     <string name="clubmodule_activity_end_time">終了時刻</string>
     <string name="clubmodule_department_str">%s 部門</string>
@@ -1418,7 +1422,7 @@
     <string name="clubmodule_team_str_1">%sチーム</string>
     <string name="clubmodule_all_members">全員</string>
     <string name="clubmodule_start_time_must_earlier_1_hour">開始時刻と終了時刻は最低一時間あけて下さい</string>
-    <string name="clubmodule_confirm_2">確定</string>
+    <string name="clubmodule_confirm_2">OK</string>
     <string name="clubmodule_input_target_value_1">目標値を入力してください</string>
     <string name="clubmodule_delete_this_comment">このコメントを削除しますか？</string>
     <string name="clubmodule_0_100_people">0-100人</string>
@@ -1430,7 +1434,7 @@
     <string name="clubmodule_can_not_cut_target">選択画像をトリミングできません</string>
     <string name="clubmodule_resend_count">再送(%s)</string>
     <string name="clubmodule_input_phone_verify_code">認証コードを入力</string>
-    <string name="clubmodule_mail_address_error">メールアドレスを入力してください</string>
+    <string name="clubmodule_mail_address_error">メールアドレスが間違っています。再入力してください</string>
     <string name="clubmodule_input_job">あなたの役職を入力してください</string>
     <string name="clubmodule_verify_error">認証コードが間違っています</string>
     <string name="clubmodule_wrist_11_phone_number">正しい携帯番号を入力してください</string>
@@ -1443,7 +1447,7 @@
     <string name="clubmodule_input_personal_daily_max">1日あたり1人の上限値を入力</string>
     <string name="clubmodule_start_time">開始時刻</string>
     <string name="clubmodule_stop_time">終了時刻</string>
-    <string name="clubmodule_station_rule_1">前のチェックポイントからの距離は0にできません</string>
+    <string name="clubmodule_station_rule_1">区間歩数は0にすることができません</string>
     <string name="clubmodule_input_title">タイトルを入力してください</string>
     <string name="clubmodule_input_max_3000_words">最大3000文字まで</string>
     <string name="clubmodule_bind_phone_warn_1">利用規則に従い、次の操作を行う前に携帯番号を紐付けてください</string>
@@ -1467,8 +1471,8 @@
     <string name="clubmodule_continue_change">切替える</string>
     <string name="clubmodule_uploading_data">データを同期中...</string>
     <string name="clubmodule_phone_android_version_low">携帯のバージョンが古すぎて、サポートされていません</string>
-    <string name="clubmodule_change_datasource_2_wristband">歩数計測方法をスマートバンドに切替えました</string>
-    <string name="clubmodule_change_datasource_2_codoon">歩数計測方法をWeRUNに切替えました</string>
+    <string name="clubmodule_change_datasource_2_wristband">計測方法をスマートバンドに切替えました</string>
+    <string name="clubmodule_change_datasource_2_codoon">計測方法をWeBandに切替えました</string>
     <string name="clubmodule_unbind_wristband_alert">ペアリング解除後、携帯電話で歩数を計測します。</string>
     <string name="clubmodule_change_datasource_2_phone">計測方法を携帯電話に切り替えました</string>
     <string name="clubmodule_upload_failed_1">同期失敗。後ほど再度お試しください</string>
@@ -1478,11 +1482,11 @@
     <string name="clubmodule_cancel_unbind">解除しない</string>
     <string name="clubmodule_unbind_wristband_warn_3">ネットワークがありません。データ同期後に、再度ペアリングを解除することをお勧めします</string>
     <string name="clubmodule_no_wechat_app">WeChat未インストール</string>
-    <string name="clubmodule_change_datasource_2_phone_2">歩数計測方法を携帯電話に切替えました</string>
-    <string name="clubmodule_change_datasource_2_wristband_1">歩数計測方法をスマートバンドに切替えました</string>
+    <string name="clubmodule_change_datasource_2_phone_2">計測方法を携帯電話に切替えました</string>
+    <string name="clubmodule_change_datasource_2_wristband_1">計測方法をスマートバンドに切替えました</string>
     <string name="clubmodule_change_datasource_codoon">計測方法をWeバンドに切り替えました</string>
-    <string name="clubmodule_change_datasource_2_wechat">歩数計測方法をWechatに切替えました</string>
-    <string name="clubmodule_close_pk_feature">相手が対戦機能をオフにしています</string>
+    <string name="clubmodule_change_datasource_2_wechat">計測方法をWechatに切替えました</string>
+    <string name="clubmodule_close_pk_feature">相手が挑戦機能をオフにしています</string>
     <string name="clubmodule_club_sport_data_rank">企業ランキング</string>
     <string name="clubmodule_team_dept_rank">部門歩数ランキング</string>
     <string name="clubmodule_level_1_dept">トップ部門</string>
@@ -1533,7 +1537,7 @@
     <string name="clubmodule_input_problem_description">ご利用時の感想や意見を詳しくご記入ください</string>
     <string name="clubmodule_problem_description_at_least_20">意見は20文字以上で記入してください。</string>
     <string name="clubmodule_input_contact_phone_number">連絡方法を記入してください。</string>
-    <string name="clubmodule_submit_succeed">送信しました</string>
+    <string name="clubmodule_submit_succeed">ご意見ありがとうございました！</string>
     <string name="clubmodule_forget_pwd">パスワードを忘れた場合</string>
     <string name="clubmodule_walk">ウォーク</string>
     <string name="clubmodule_run_accumulate">ラン累積</string>
@@ -1575,18 +1579,18 @@
     <string name="clubmodule_complete_1">完了</string>
     <string name="clubmodule_task_load_failed">ミッション読み込みエラー。後ほど再度お試しください</string>
     <string name="clubmodule_no_task">ミッションなし</string>
-    <string name="clubmodule_select_dept_1">部門を選択</string>
+    <string name="clubmodule_select_dept_1">部門を選択してください</string>
     <string name="clubmodule_save_pic_error">画像の保存に失敗しました。ダウンロードできませんでした</string>
     <string name="clubmodule_welcome_to_join_team">グループ活動にあなたが必要です。今すぐグループに参加しよう</string>
     <string name="clubmodule_member_join_manage">参加管理</string>
     <string name="clubmodule_please_input_account">アカウントを入力</string>
     <string name="clubmodule_input_pwd">パスワードを入力</string>
     <string name="clubmodule_data_export">データエクスポート</string>
-    <string name="clubmodule_task_export_complete">ミッションをエクスポートしました</string>
-    <string name="clubmodule_task_export_failed">ミッションのエクスポートに失敗しました</string>
+    <string name="clubmodule_task_export_complete">エクスポートタスクを作成しました</string>
+    <string name="clubmodule_task_export_failed">エクスポートタスクの作成に失敗しました</string>
     <string name="clubmodule_step_counter">歩数計測</string>
-    <string name="clubmodule_join_member_num_str">参加人数: %s 人</string>
-    <string name="clubmodule_join_team_num_str">参加グループ: %s グループ</string>
+    <string name="clubmodule_join_member_num_str">参加グループ：%sグループ</string>
+    <string name="clubmodule_join_team_num_str">参加チーム: %s チーム</string>
     <string name="clubmodule_10000_step">万歩</string>
     <string name="clubmodule_kelometer_target_match">kmチャレンジ戦</string>
     <string name="clubmodule_start_immediately">まもなく開始</string>
@@ -1603,9 +1607,9 @@
     <string name="clubmodule_cancel_top">ピン留め取り消し</string>
     <string name="clubmodule_start_right_away_str">開始まであと: %s</string>
     <string name="clubmodule_end_right_away_str">終了まであと: %s</string>
-    <string name="clubmodule_available_data_caution">提出されたGPSランニングデータの終了時刻はイベント期間内のため、このデータがカウントされます</string>
-    <string name="clubmodule_upload_data_caution">イベント開催期間中、参加者は複数のGPSランニングデータを提出することができます。1回の走行距離が1Kmを超えた場合のみカウントされます。但し、1日の累積走行距離は50Kmまでとします</string>
-    <string name="clubmodule_speed_caution">1㎞あたりのペースは%1$s/kmより速く、または%2$s/kmより遅くすることはできません。ペース基準に満たないデータはカウントされません</string>
+    <string name="clubmodule_available_data_caution">送信したGPSランニングデータの開始・終了時刻は開催期間中のデータのみがカウントされます。</string>
+    <string name="clubmodule_upload_data_caution">開催期間中、参加者は複数のGPSランニングデータを送信できます。1回の走行距離が1Kmを超えたデータのみカウントされます。なお、1日の合計走行距離は50Kmまでです。</string>
+    <string name="clubmodule_speed_caution">1㎞あたりのペースは%1$s/kmより速く、または%2$s/kmより遅くすることはできません。ペース基準外のデータはカウントされません。</string>
     <string name="clubmodule_confirm_archive_activity">このイベントをアーカイブしますか？</string>
     <string name="clubmodule_have_top">ピン留めしました</string>
     <string name="clubmodule_have_cancel_top">ピン留めを取り消しました</string>
@@ -1622,8 +1626,8 @@
     <string name="clubmodule_open_wechat_app_upload">APPに同期してください</string>//日本版本不再需要(可删除)
     <string name="clubmodule_target_step">運動目標 %s 歩</string>
     <string name="clubmodule_open_codoon_app">WeRUNを開いてください</string>
-    <string name="clubmodule_datasource_phone_counter">携帯計測</string>
-    <string name="clubmodule_datasource_wristband">Weバンド計測</string>
+    <string name="clubmodule_datasource_phone_counter">計測方法携帯</string>
+    <string name="clubmodule_datasource_wristband">計測方法WeBand</string>
     <string name="clubmodule_datasource_wechat_app">Wechat計測</string>//日本版本不再需要(可删除)
     <string name="clubmodule_datasource_codoon_app">WeRUN計測</string>//日本版本不再需要(可删除)
     <string name="clubmodule_ex_log_not_exist">異常報告なし</string>
@@ -1666,7 +1670,7 @@
     <string name="clubmodule_phone_number_unregist">携帯番号はまだ登録されていません。まず登録を完了してください</string>
     <string name="clubmodule_verify_code_error">認証コードエラー。再取得してください</string>
     <string name="clubmodule_net_token_error">ネットワークエラーまたはトークン検証に失敗しました</string>
-    <string name="clubmodule_input_content">任意入力</string>
+    <string name="clubmodule_input_content">自由入力</string>
     <string name="clubmodule_rank_1">ランキング</string>
     <string name="clubmodule_cost_time">時間かかった</string>
     <string name="clubmodule_rank_setting">ランキング設定</string>
@@ -1697,9 +1701,9 @@
     <string name="clubmodule_cancel_quit">終了しない</string>
     <string name="clubmodule_phone_not_support">携帯はこの機能をサポートしていません</string>
     <string name="clubmodule_auto_restart_app">3秒後にAPPを再起動</string>
-    <string name="clubmodule_auto_select">デバイスに応じて自動選択</string>
-    <string name="clubmodule_use_step_sensor">携帯のセンサーで歩数を記録</string>
-    <string name="clubmodule_use_speed_sensor">携帯のスピードセンサを使用</string>
+    <string name="clubmodule_auto_select">アプリで自動設定</string>
+    <string name="clubmodule_use_step_sensor">歩数センサーで計測</string>
+    <string name="clubmodule_use_speed_sensor">加速度センサーで計測（電力要）</string>
     <string name="clubmodule_team_manager">グループ管理者</string>
     <string name="clubmodule_dept_manager">部門管理者</string>
     <string name="clubmodule_manager_client_caution">(管理者ページにて部門管理者を設定できます)</string>
@@ -1725,18 +1729,18 @@
     <string name="clubmodule_subteam_name_conflict">チーム名が重複しています。修正してください</string>
     <string name="clubmodule_auto_rule_max_100">自動で100チームまで追加可能です。手動でチーム名を変更し追加してください</string>
     <string name="clubmodule_current_max_team_num">現在のグループ人数で最大%sチームまで作成できます</string>
-    <string name="clubmodule_team_name_duplicate">グループ名はすでに存在しています。修正してください</string>
-    <string name="clubmodule_input_right_teamname">正しいグループ名を入力してください</string>
+    <string name="clubmodule_team_name_duplicate">チーム名はすでに存在しています。修正してください</string>
+    <string name="clubmodule_input_right_teamname">正しいチーム名を入力してください</string>
     <string name="clubmodule_team_tail">チーム</string>
     <string name="clubmodule_random_num">ランダム人数</string>
     <string name="clubmodule_nick_name_min_len">ニックネームは2文字以上入力してください</string>
     <string name="clubmodule_check_failed">チェック失敗</string>
     <string name="clubmodule_total">計</string>
-    <string name="clubmodule_email_address_not_suitable">不適切なメールアドレス</string>
+    <string name="clubmodule_email_address_not_suitable">無効なEメール</string>
     <string name="clubmodule_ex_log_upload_succeed">異常報告の同期に成功</string>
     <string name="clubmodule_ex_log_upload_failed">異常報告の同期に失敗</string>
-    <string name="clubmodule_join_club_now">自動的にクラブに切替えました</string>
-    <string name="clubmodule_remove_from_club">あなたは管理者によってクラブから削除されました</string>
+    <string name="clubmodule_join_club_now">このグループに切替えました：</string>
+    <string name="clubmodule_remove_from_club">あなたは管理者によってグループから削除されました：</string>
     <string name="clubmodule_current_user_empty">会員が存在しません</string>
     <string name="clubmodule_team_info_sync_failed">グループ情報の取得に失敗しました：</string>
     <string name="clubmodule_member_quit">会員が脱退しました</string>
@@ -1751,7 +1755,7 @@
     <string name="clubmodule_keep_working">に到達したメンバーはいません</string>
     <string name="clubmodule_some_member_arrived">%s人が</string>
     <string name="clubmodule_keep_working_1">に到達しました</string>
-    <string name="clubmodule_my_team_rank">私 グループは第%s位</string>
+    <string name="clubmodule_my_team_rank">私 チーム内第%s位</string>
     <string name="clubmodule_record_detail">スコア情報</string>
     <string name="clubmodule_rank_str">第%s位</string>
     <string name="clubmodule_average_daily_step">1日1人あたり歩数</string>
@@ -1760,7 +1764,7 @@
     <string name="clubmodule_time_before_start">開始まであと</string>
     <string name="clubmodule_time_before_end">終了まであと</string>
     <string name="clubmodule_average_steps">1人あたり %s 歩</string>
-    <string name="clubmodule_all_rank">総合ランキング</string>
+    <string name="clubmodule_all_rank">総合順位</string>
     <string name="clubmodule_station_rank">チェックポイントランキング</string>
     <string name="clubmodule_my_rank">私 第%s位</string>
     <string name="clubmodule_compare_2_last_week">先週と比べる</string>
@@ -1774,13 +1778,13 @@
     <string name="clubmodule_login_wrong_account">正しいアカウントを入力してください</string>
     <string name="clubmodule_login_regist_email">メール登録</string>
     <string name="clubmodule_login_regist_phone">携帯登録</string>
-    <string name="common_request_failed">リクエスト失敗</string>
-    <string name="common_request_success">リクエスト成功</string>
+    <string name="common_request_failed">変更に失敗しました</string>
+    <string name="common_request_success">変更しました</string>
     <string name="regist_auth_code_miss">認証コードが間違っています</string>
     <string name="regist_failed">登録できませんでした</string>
     <string name="regist_mobile_bind_verify_error">認証エラー、再度お試し下さい</string>
     <string name="regist_password_can_not_null">パスワードを入力してください!</string>
-    <string name="regist_please_enter_phone">アカウントが間違っています。携帯番号を入力して下さい!</string>
+    <string name="regist_please_enter_phone">正しい携帯番号を入力してください</string>
     <string name="regist_str_warning_code_long">パスワードは20桁以内にしてください</string>
     <string name="regist_str_warning_code_short">6桁以上のパスワードが必要です。再入力してください。</string>
     <string name="clubmodule_auth_bind_phone">携帯番号を紐付け</string>
@@ -1934,4 +1938,6 @@
     <string name="com.twitter.sdk.android.CONSUMER_KEY">Plu4pMCzmJndVJ3ZkQGiZk4Xc</string>
     <string name="com.twitter.sdk.android.CONSUMER_SECRET">VkAfveJ6z3CL81yRuxGkklOQ8vGnqlNdwqp4pc7bkjTGXMMTf6</string>
     <string name="clubmodule_area_code_japan">+81</string>
+    <string name="clubmodule_enter_wristband_page">MYバンドへ</string>
+    <string name="clubmodule_every_week_day_str">每%s曜日</string>
 </resources>
