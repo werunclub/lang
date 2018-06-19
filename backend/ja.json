@@ -3769,50 +3769,50 @@
   },
   {
     "id": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》即将开始",
-    "translation": ""
+    "translation": "イベント《<a class='link' href='/%d/activity/detail/%d'>%s</a>》はまもなく開始します"
   },
   {
     "id": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》在%s即将开始",
-    "translation": ""
+    "translation": "イベント《<a class='link' href='/%d/activity/detail/%d'>%s</a>》は%sに開始する予定です"
   },
   {
     "id": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》即将结束",
-    "translation": ""
+    "translation": "イベント《<a class='link' href='/%d/activity/detail/%d'>%s</a>》はまもなく終了します"
   },
   {
     "id": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》在%s即将结束",
-    "translation": ""
+    "translation": "イベント《<a class='link' href='/%d/activity/detail/%d'>%s</a>》は%sに終了する予定です"
   },
   {
     "id": "有%d位新成员加入俱乐部",
-    "translation": ""
+    "translation": "クラブに%d名の新会員が加入しました"
   },
   {
     "id": "描述长度不大于 5000 字",
-    "translation": ""
+    "translation": "紹介文は5000文字まで入力可能"
   },
   {
     "id": "所属行业无效",
-    "translation": ""
+    "translation": "無効な業種です"
   },
   {
     "id": "团队名称长度范围是 1 ~ 64 个字",
-    "translation": ""
+    "translation": "会社名は64文字まで入力可能"
   },
   {
     "id": "所属企业名称长度范围是 2 ~ 128 个字",
-    "translation": ""
+    "translation": "会社名は2文字から128文字まで入力可能"
   },
   {
     "id": "规模值无效",
-    "translation": ""
+    "translation": "無効な規模値です"
   }, 
   {
     "id": "加入密码长度范围是 0 ~ 16 位",
-    "translation": ""
+    "translation": "参加パスワードは16桁まで入力可能"
   },
   {
     "id": "阅读 {readNum} 次",
-    "translation": ""
+    "translation": "閲覧数 {readNum}"
   }
 ]
