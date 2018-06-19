@@ -218,7 +218,7 @@
     <string name="idjoin_email">Eメール&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
     <string name="confirm_join">参加する</string>
     <string name="comment_hint">コメント</string>
-    <string name="edit_match_lable">イベントを編集</string>
+    <string name="edit_match_lable">イベント編集</string>
     <string name="activity_name_lable">イベント名</string>
     <string name="activity_name_hint_lable">イベント名を入力してください</string>
     <string name="match_speed_hint1">ペースを次より落とす</string>
@@ -257,7 +257,7 @@
     <string name="regist_array_all_phone_code_name_taiwan">中国台湾</string>
     <string name="all_phone_code_title">所在地を選択</string>
     <string name="my_department_rank">MYチーム 第%d位</string>
-    <string name="my_person_rank">自分のランキング%d</string>
+    <string name="my_person_rank">私 %d位</string>
     <string name="layout1_forgot_hint_tv">登録時の携帯番号(-なし)またはEメールを入力し、認証コードを送信してください</string>
     <string name="send_timer">あと%1$ssで再送</string>
     <string name="random_team">ランダム分け</string>
@@ -291,7 +291,7 @@
 
 
     <!-- 个人信息修改 -->
-    <string name="sports_goal">目標歩数</string>
+    <string name="sports_goal">目標値を入力してください</string>
     <string name="no_club_hint">参加しているグループがありません\nボタンをタップし、グループ作成後、イベントも作成できます</string>
     <string name="have_club_not_manager_no_match_hint">イベントがありません\n匿名で管理者に連絡してイベントを作ってもらおう！</string>
     <string name="have_club_is_manager_no_match_hint">管理者様へ\n仲間達がイベントを待っています。今すぐ作成しよう！</string>
@@ -300,7 +300,7 @@
     <string name="plz_steps">目標歩数は必須です</string>
 
     <!-- 我的团队 -->
-    <string name="my_club">MYグループ</string>
+    <string name="my_club">私 チーム内</string>
     <string name="my_department">MY部門</string>
     <string name="my_limit">MY権限</string>
     <string name="join_rqcode">グループQRコード</string>
@@ -445,10 +445,10 @@
     <string name="match_rule_type_gps">%sGPS屋外ランニングイベント:    </string>
     <string name="match_rule_person_target">%s開催期間中に参加者が目標歩数をクリアした時間順でランク付けされます。;</string>
     <string name="match_rule_person_gps_target">%s開催期間中に参加者が目標距離をクリアした時間順でランク付けされます。</string>
-    <string name="match_rule_person_normal">%s開催期間中の参加者の歩数順でランク付けされます。</string>
+    <string name="match_rule_person_normal">%s開催期間中の参加者の歩数/距離順でランク付けされます。</string>
     <string name="match_rule_person_gps_normal">%s開催期間中の参加者の平均屋外走行累積距離順でランク付けされます。</string>
-    <string name="match_rule_team_normal">%s開催期間中のチーム平均歩数（チーム合計歩数/チーム人数）順でランク付けされます。</string>
-    <string name="match_rule_team_gps_normal">%s開催期間中のチームの屋外走行累積距離順でランク付けされます。</string>
+    <string name="match_rule_team_normal">%s開催期間中のチーム平均歩数/平均距離(チーム合計歩数/チーム人数、チーム合計距離/チーム人数)順でランク付けされます</string>
+    <string name="match_rule_team_gps_normal">%s開催期間中のチームの平均GPS屋外歩行距離順(チーム合計歩行距離/チーム人数)でランク付けされます。</string>
     <string name="match_rule_team_target">%s開催期間中、チーム（全員合計歩行距離）が目標距離をクリアした時間順でランク付けされます。</string>
     <string name="match_rule_team_gps_target">%s開催期間中、参加チームが目標距離をクリアした時間順でランク付けされます。</string>
 
@@ -656,7 +656,7 @@
     <string name="blast_friend_list_no_content_info_bottom">その他のアクティビティはありません！</string>
     <string name="region_default">国または地域を選択</string>
     <string name="choose_a_value_to_display">表示する項目を選択</string>
-    <string name="choose_album">アルバムから選ぶ</string>
+    <string name="choose_album">アルバムから選択</string>
     <string name="no_network_tip_two">再読み込み</string>
     <string name="my_level_7_default_title_txt">最高レベルに達しました！</string>
     <string name="str_newmedal_notice">頑張って！新しいメダルを獲得しました</string>
@@ -800,7 +800,7 @@
     <string name="block_profile">%sマイページ</string>
     <string name="Medals_page">メダル · %s</string>
     <string name="Personal_Best_page">最高記録</string>
-    <string name="library">アルバムから選ぶ</string>
+    <string name="library">アルバムから選択</string>
     <string name="takephoto">写真を撮る</string>
     <string name="watermark">透かし</string>
     <string name="At_the_moment">最新</string>
@@ -841,7 +841,7 @@
     <string name="nick_can_not_be_null">ニックネームを入力してください</string>
     <string name="Remain">後に終了</string>
     <string name="sport_less_than_1min">運動時間が短すぎる。1分未満のランニングは記録されません</string>
-    <string name="camera_roll">アルバムから選ぶ</string>
+    <string name="camera_roll">アルバムから選択</string>
     <string name="Out_of_length_limit">ニックネームは30文字までにしてくだささい</string>
     <string name="liked_you_feed">いいねをもらいました</string>
     <string name="run_background">バックグラウンドで実行</string>
@@ -1065,8 +1065,8 @@
     <string name="clubmodule_add_pwd_to_qrcode">グループQRコードにパスワード埋込</string>
     <string name="clubmodule_external_login">他社アカウントでログイン</string>
     <string name="clubmodule_login_with_verify_code">携帯ワンタイムパスワードでログイン"</string>
-    <string name="clubmodule_please_login_clubcodoon_web">WeRUNの管理者ページにログインしてください</string>
-    <string name="clubmodule_confirm_export_data">エクスポート</string>
+    <string name="clubmodule_please_login_clubcodoon_web">管理者ページにログインしてください</string>
+    <string name="clubmodule_confirm_export_data">エクスポートする</string>
     <string name="clubmodule_confirm_export_data_caution">エクスポート処理は約30分程度かかります</string>
     <string name="clubmodule_user_name">ユーザー名</string>
     <string name="clubmodule_department_name">部門名</string>
@@ -1097,7 +1097,7 @@
     <string name="clubmodule_champion">優勝者</string>
     <string name="clubmodule_champion_club_name">優勝チーム名</string>
     <string name="clubmodule_my_club_name">MYグループ名</string>
-    <string name="clubmodule_total_station_number">駅総数</string>
+    <string name="clubmodule_total_station_number">駅数</string>
     <string name="clubmodule_station">駅</string>
     <string name="clubmodule_total_step_num">累積歩数</string>
     <string name="clubmodule_total_distance">累積走行距離</string>
@@ -1125,7 +1125,7 @@
     <string name="clubmodule_total_rank">総合順位</string>
     <string name="clubmodule_approved">通過済</string>
     <string name="clubmodule_total_distance_k">累積距離</string>
-    <string name="clubmodule_daily_average_step_num">1日あたり步数</string>
+    <string name="clubmodule_daily_average_step_num">1日あたり歩数</string>
     <string name="clubmodule_total_degree_of_completion">達成率</string>
     <string name="clubmodule_delete_alert">アラームを削除</string>
     <string name="clubmodule_add_alert">アラームを追加</string>
@@ -1149,7 +1149,7 @@
     <string name="clubmodule_rank_tail">位</string>
     <string name="clubmodule_1000_step">1000 歩</string>
     <string name="clubmodule_read_activity_rule">ルールを確認</string>
-    <string name="clubmodule_activity_rule">▌ルール</string>
+    <string name="clubmodule_activity_rule">▌ルール説明</string>
     <string name="clubmodule_personal_activity_info">● 個人ノーマル戦：イベント期間内の、参加者の歩数でランク付けされます。</string>
     <string name="clubmodule_test">テスト</string>
     <string name="clubmodule_manage_call_feature">携帯電話からのプッシュ通知</string>
@@ -1177,7 +1177,7 @@
     <string name="clubmodule_all_club_rank">企業ランキング</string>
     <string name="clubmodule_my_company">MY会社</string>
     <string name="clubmodule_rank_detail">もっと見る</string>
-    <string name="clubmodule_activity_pic">イベントカバー</string>
+    <string name="clubmodule_activity_pic">カバー</string>
     <string name="clubmodule_edit_activity_name">イベントに素晴らしいタイトルを付けよう</string>
     <string name="clubmodule_edit_activity_introduction">みんなにイベントをもっと知ってもらうために、もう少し紹介しよう（最大3000文字まで）</string>
     <string name="clubmodule_choose_activity_type">イベント種類を選択</string>
@@ -1195,7 +1195,7 @@
     <string name="clubmodule_set_speed_rule">ペース規則を設定</string>
     <string name="clubmodule_speed_introduction">ペースは1Kmあたりの走行時間です。値が大きいほどスピードは遅くなり、小さいほどスピードは速くなります。</string>
     <string name="clubmodule_max_speed_str">最高ペース (分 / Km)</string>
-    <string name="clubmodule_min_speed_str">最小ペース (分 /km)</string>
+    <string name="clubmodule_min_speed_str">最低ペース (分 /km)</string>
     <string name="clubmodule_activity_match_rule">タイプ</string>
     <string name="clubmodule_standard_match">ノーマル戦</string>
     <string name="clubmodule_target_match">チャレンジ戦</string>
@@ -1219,7 +1219,7 @@
     <string name="set_arrived_station_value">チェックポイントクリア歩数</string>
     <string name="clubmodule_divide_steps">区間歩数</string>
     <string name="clubmodule_activity_titile">イベントタイトル</string>
-    <string name="clubmodule_activity_introduction">紹介</string>
+    <string name="clubmodule_activity_introduction">イベント紹介</string>
     <string name="clubmodule_activity_introduction_detail">宣伝のため、もっと紹介しよう！\n（最大3000文字まで）</string>
     <string name="clubmodule_gps_activity_name">GPSイベント名</string>
     <string name="clubmodule_processing">進行中</string>
@@ -1280,7 +1280,7 @@
     <string name="clubmodule_orgnization_count">組織規模</string>
     <string name="clubmodule_orgnization_name_2">組織名</string>
     <string name="clubmodule_orgnization_type">組織種類</string>
-    <string name="clubmodule_availble_kilometer_divide_total">有効km / 累積km</string>
+    <string name="clubmodule_availble_kilometer_divide_total">有効距離 / 総距離</string>
     <string name="clubmodule_current_week">今週</string>
     <string name="clubmodule_0_step">0 歩</string>
     <string name="clubmodule_company_complete_name">会社名</string>
@@ -1297,8 +1297,8 @@
     <string name="clubmodule_person_average_steps">平均歩数</string>
     <string name="clubmodule_dash_kelometer">-- km</string>
     <string name="clubmodule_preview_route">プレビュー</string>
-    <string name="clubmodule_name_of_station">名称</string>
-    <string name="clubmodule_accumulate_steps">累積步数</string>
+    <string name="clubmodule_name_of_station">駅名</string>
+    <string name="clubmodule_accumulate_steps">累積歩数</string>
     <string name="clubmodule_yudu">于都</string>
     <string name="clubmodule_sleppery_menu_introduction">サイドバーコンテンツ</string>
     <string name="clubmodule_edit">編集</string>
@@ -1321,7 +1321,7 @@
     <string name="clubmodule_20_step">20 歩</string>
     <string name="clubmodule_known">了解</string>
     <string name="clubmodule_edit_team_name">チーム名を編集</string>
-    <string name="clubmodule_team_max_name">チーム名は最大10文字まで</string>
+    <string name="clubmodule_team_max_name">チーム名は最大10文字まで入力してください</string>
     <string name="clubmodule_divide_group_name">グループ名</string>
     <string name="clubmodule_90_people">90人</string>
     <string name="clubmodule_task_loading">ミッション読込中</string>
@@ -1387,6 +1387,7 @@
     <string name="clubmodule_should_not_click_frequently">続けて管理者に連絡しないでください</string>
     <string name="clubmodule_your_notification_sended">あなたからのリマインダーを送信しました</string>
     <string name="clubmodule_need_at_least_2_member">チームイベントには2人以上のメンバーの設定が必要です。再選択してください</string>
+    <string name="clubmodule_dept_selector_str">選択済み部門: %1$s  人数: %2$s</string>
     <string name="clubmodule_several_people">%s人</string>
     <string name="clubmodule_today_team_rank">今日のチームランキング</string>
     <string name="clubmodule_data_export_method_info">データは管理者ページで出力可能</string>
@@ -1574,7 +1575,7 @@
     <string name="clubmodule_no_record">記録が存在しません</string>
     <string name="clubmodule_my_points">Weマイル</string>
     <string name="clubmodule_have_not_open_club_codoon">運動の際、WeRUNは開かれていませんでした\r\n%s歩記録できませんでした</string>
-    <string name="clubmodule_today_task_unfinished">ミッション完了待ち</string>
+    <string name="clubmodule_today_task_unfinished">ミッション未完了</string>
     <string name="clubmodule_today_task_finished">ミッション完了</string>
     <string name="clubmodule_complete_1">完了</string>
     <string name="clubmodule_task_load_failed">ミッション読み込みエラー。後ほど再度お試しください</string>
@@ -1589,7 +1590,7 @@
     <string name="clubmodule_task_export_complete">エクスポートタスクを作成しました</string>
     <string name="clubmodule_task_export_failed">エクスポートタスクの作成に失敗しました</string>
     <string name="clubmodule_step_counter">歩数計測</string>
-    <string name="clubmodule_join_member_num_str">参加グループ：%sグループ</string>
+    <string name="clubmodule_join_member_num_str">参加人数: %s 人</string>
     <string name="clubmodule_join_team_num_str">参加チーム: %s チーム</string>
     <string name="clubmodule_10000_step">万歩</string>
     <string name="clubmodule_kelometer_target_match">kmチャレンジ戦</string>
@@ -1672,7 +1673,7 @@
     <string name="clubmodule_net_token_error">ネットワークエラーまたはトークン検証に失敗しました</string>
     <string name="clubmodule_input_content">自由入力</string>
     <string name="clubmodule_rank_1">ランキング</string>
-    <string name="clubmodule_cost_time">時間かかった</string>
+    <string name="clubmodule_cost_time">タイム</string>
     <string name="clubmodule_rank_setting">ランキング設定</string>
     <string name="clubmodule_member_rank_rule">個人の歩数でランク付け</string>
     <string name="clubmodule_ream_dept_rule">部門メンバーの平均歩数でランク付け</string>
@@ -1751,10 +1752,10 @@
     <string name="clubmodule_send_verify_msg">認証コードを%sに送信しました</string>
     <string name="clubmodule_verify_failed">認証コードエラー</string>
     <string name="clubmodule_route_station">ルートチェックポイント</string>
-    <string name="clubmodule_no_member_arrived">まだ</string>
-    <string name="clubmodule_keep_working">に到達したメンバーはいません</string>
-    <string name="clubmodule_some_member_arrived">%s人が</string>
-    <string name="clubmodule_keep_working_1">に到達しました</string>
+    <string name="clubmodule_no_member_arrived">到着したメンバーはいません</string>
+    <string name="clubmodule_keep_working">\n引き続き、頑張ってください</string>
+    <string name="clubmodule_some_member_arrived">%s人が駅に到着しました</string>
+    <string name="clubmodule_keep_working_1">\n引き続き、頑張ってください</string>
     <string name="clubmodule_my_team_rank">私 チーム内第%s位</string>
     <string name="clubmodule_record_detail">スコア情報</string>
     <string name="clubmodule_rank_str">第%s位</string>
