@@ -1,0 +1,4 @@
+{
+    "getArticleFail": "文章の取得に失敗しました",
+    "readNum": "閲覧数 {num}"
+}
