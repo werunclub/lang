@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeRUN\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 16:23+0800\n"
-"PO-Revision-Date: 2018-06-10 21:42+0900\n"
+"POT-Creation-Date: 2018-06-15 16:58+0900\n"
+"PO-Revision-Date: 2018-06-15 16:57+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"Last-Translator: \n"
-"Language-Team: \n"
 "X-Generator: Poedit 2.0.6\n"
 
 #: admin_panel/templates/admin_panel/activity_comments.html:11
@@ -23,7 +23,7 @@ msgstr ""
 #: admin_panel/templates/admin_panel/activity_detail_common.html:84
 #: admin_panel/templates/admin_panel/activity_detail_gps.html:88
 #: admin_panel/templates/admin_panel/activity_detail_iframe.html:34
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:83
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:82
 msgid "活动留言板"
 msgstr "コメント"
 
@@ -40,7 +40,7 @@ msgstr "コメントはありません！"
 #: admin_panel/templates/admin_panel/activity_detail_common.html:114
 #: admin_panel/templates/admin_panel/activity_detail_gps.html:118
 #: admin_panel/templates/admin_panel/activity_detail_iframe.html:86
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:113
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:112
 #: admin_panel/templates/admin_panel/activity_edit.html:250
 #: admin_panel/templates/admin_panel/department.html:70
 msgid "删除"
@@ -53,7 +53,7 @@ msgstr "削除"
 #: admin_panel/templates/admin_panel/activity_detail.html:157
 #: admin_panel/templates/admin_panel/activity_detail_common.html:134
 #: admin_panel/templates/admin_panel/activity_detail_gps.html:138
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:133
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:132
 #: admin_panel/templates/admin_panel/activity_edit.html:167
 #: admin_panel/templates/admin_panel/activity_edit.html:210
 #: admin_panel/templates/admin_panel/activity_edit.html:251
@@ -85,7 +85,7 @@ msgstr "キャンセル"
 #: admin_panel/templates/admin_panel/activity_detail.html:158
 #: admin_panel/templates/admin_panel/activity_detail_common.html:135
 #: admin_panel/templates/admin_panel/activity_detail_gps.html:139
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:134
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:133
 #: admin_panel/templates/admin_panel/activity_edit.html:265
 #: admin_panel/templates/admin_panel/activity_list.html:54
 #: admin_panel/templates/admin_panel/activity_rank_personal.html:40
@@ -147,24 +147,20 @@ msgstr "目標設定&nbsp;"
 #: admin_panel/templates/admin_panel/activity_create.html:43
 #: admin_panel/templates/admin_panel/activity_edit.html:42
 msgid "人类每一万步约等于6-10公里，请合理设置运动目标"
-msgstr ""
-"人間の1万歩はおよそ6～10キロ。合理性のある目標値を設定してください"
+msgstr "人間の1万歩はおよそ6～10キロ。合理性のある目標値を設定してください"
 
 #: admin_panel/templates/admin_panel/activity_create.html:45
 #: admin_panel/templates/admin_panel/activity_edit.html:44
-msgid ""
-"以个人每人每天运动5公里为例，个人一周比赛的总目标建议为35公里。"
-msgstr ""
-"1日の運動距離を5㎞とした場合、一週間の累積目標距離の設定は35㎞を推奨"
+msgid "以个人每人每天运动5公里为例，个人一周比赛的总目标建议为35公里。"
+msgstr "1日の運動距離を5㎞とした場合、一週間の累積目標距離の設定は35㎞を推奨"
 
 #: admin_panel/templates/admin_panel/activity_create.html:46
 #: admin_panel/templates/admin_panel/activity_edit.html:45
 msgid ""
-"以团队每人每天运动5公里为例，10人为1个团队，一周比赛的总目标建议为"
-"350公里。"
+"以团队每人每天运动5公里为例，10人为1个团队，一周比赛的总目标建议为350公里。"
 msgstr ""
-"1人1日あたりの運動距離を5km、1グループ10人の場合、一週間の目標距離の"
-"目安は350km。"
+"1人1日あたりの運動距離を5km、1グループ10人の場合、一週間の目標距離の目安は"
+"350km。"
 
 #: admin_panel/templates/admin_panel/activity_create.html:49
 #: admin_panel/templates/admin_panel/activity_edit.html:48
@@ -288,8 +284,8 @@ msgstr "チームを削除"
 #: admin_panel/templates/admin_panel/activity_create.html:195
 #, python-format
 msgid ""
-"你所管理的俱乐部共有成员\"<span class=\"member-total\">"
-"%(totalMembers)s</span>\"名"
+"你所管理的俱乐部共有成员\"<span class=\"member-total\">%(totalMembers)s</"
+"span>\"名"
 msgstr ""
 "あなたが管理しているクラブに会員\"<span class=\"member-total\">"
 "%(totalMembers)s</span>\"人がいます。"
@@ -297,8 +293,7 @@ msgstr ""
 #: admin_panel/templates/admin_panel/activity_create.html:196
 #: admin_panel/templates/admin_panel/activity_edit.html:185
 msgid "我们会将所有成员随机分配到各个团队里，请添加团队名称。"
-msgstr ""
-"全員をランダムにチーム分けします。チーム名を入力してください。"
+msgstr "全員をランダムにチーム分けします。チーム名を入力してください。"
 
 #: admin_panel/templates/admin_panel/activity_create.html:201
 msgid "组建团队"
@@ -307,12 +302,11 @@ msgstr "チームを作成"
 #: admin_panel/templates/admin_panel/activity_create.html:214
 #: admin_panel/templates/admin_panel/activity_edit.html:203
 msgid ""
-"你组建了<span class=\"randomTeamCount\">0</span>个团队，我们将为你平"
-"均分配<span class=\"member-total\">234</span>名成员,"
+"你组建了<span class=\"randomTeamCount\">0</span>个团队，我们将为你平均分配"
+"<span class=\"member-total\">234</span>名成员,"
 msgstr ""
-"<span class=\"randomTeamCount\">0</span>チームを作成しました。<span "
-"class=\"member-total\">234</span>名メンバーを各チームに均等に分けま"
-"す。"
+"<span class=\"randomTeamCount\">0</span>チームを作成しました。<span class="
+"\"member-total\">234</span>名メンバーを各チームに均等に分けます。"
 
 #: admin_panel/templates/admin_panel/activity_create.html:215
 #: admin_panel/templates/admin_panel/activity_edit.html:204
@@ -361,14 +355,12 @@ msgstr "チーム<span id=\"del-team-name\"></span>を削除しますか？"
 #: admin_panel/templates/admin_panel/activity_create.html:256
 #: admin_panel/templates/admin_panel/activity_edit.html:247
 msgid "删除后，该队成员无法参与该活动，确认删除请点击删除。"
-msgstr ""
-"削除されたメンバーはこのイベントに参加できなくなります。削除します"
-"か？"
+msgstr "削除されたメンバーはこのイベントに参加できなくなります。削除しますか？"
 
 #: admin_panel/templates/admin_panel/activity_detail.html:7
 #: admin_panel/templates/admin_panel/activity_detail_common.html:6
 #: admin_panel/templates/admin_panel/activity_detail_gps.html:7
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:7
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:6
 #: admin_panel/templates/admin_panel/activity_detail_unsupported.html:7
 #, python-format
 msgid "活动详情-%(club.name)s俱乐部"
@@ -378,7 +370,7 @@ msgstr "イベント情報-%(club.name)sクラブ"
 #: admin_panel/templates/admin_panel/activity_detail.html:36
 #: admin_panel/templates/admin_panel/activity_detail_common.html:14
 #: admin_panel/templates/admin_panel/activity_detail_gps.html:17
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:17
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:16
 #: admin_panel/templates/admin_panel/activity_detail_unsupported.html:17
 #: admin_panel/templates/admin_panel/activity_list.html:13
 #: admin_panel/templates/admin_panel/unsupported.html:2
@@ -406,14 +398,14 @@ msgstr "開催者：-"
 #: admin_panel/templates/admin_panel/activity_detail.html:40
 #: admin_panel/templates/admin_panel/activity_detail_common.html:18
 #: admin_panel/templates/admin_panel/activity_detail_gps.html:21
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:21
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:20
 msgid "总目标"
 msgstr "総合目標"
 
 #: admin_panel/templates/admin_panel/activity_detail.html:41
 #: admin_panel/templates/admin_panel/activity_detail_common.html:19
 #: admin_panel/templates/admin_panel/activity_detail_gps.html:22
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:22
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:21
 #, python-format
 msgid "%(data_limit_as_kilometre)s公里"
 msgstr "%(data_limit_as_kilometre)s km"
@@ -421,26 +413,22 @@ msgstr "%(data_limit_as_kilometre)s km"
 #: admin_panel/templates/admin_panel/activity_detail.html:53
 #: admin_panel/templates/admin_panel/activity_detail_gps.html:34
 #: admin_panel/templates/admin_panel/activity_detail_iframe.html:23
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:34
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:33
 msgid "查看活动排名>>"
 msgstr "ランキングを見る>>"
 
 #: admin_panel/templates/admin_panel/activity_detail.html:57
 #: admin_panel/templates/admin_panel/activity_detail_common.html:35
 #: admin_panel/templates/admin_panel/activity_detail_gps.html:38
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:38
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:37
 #, python-format
-msgid ""
-"时间：%(activity.display_start_time)s - "
-"%(activity.display_end_time)s"
-msgstr ""
-"時刻：%(activity.display_start_time)s - "
-"%(activity.display_end_time)s"
+msgid "时间：%(activity.display_start_time)s - %(activity.display_end_time)s"
+msgstr "時刻：%(activity.display_start_time)s - %(activity.display_end_time)s"
 
 #: admin_panel/templates/admin_panel/activity_detail.html:58
 #: admin_panel/templates/admin_panel/activity_detail_common.html:36
 #: admin_panel/templates/admin_panel/activity_detail_gps.html:39
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:39
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:38
 #, python-format
 msgid "活动类型: %(activity.type_text)s"
 msgstr "タイプ: %(activity.type_text)s"
@@ -448,7 +436,7 @@ msgstr "タイプ: %(activity.type_text)s"
 #: admin_panel/templates/admin_panel/activity_detail.html:59
 #: admin_panel/templates/admin_panel/activity_detail_common.html:37
 #: admin_panel/templates/admin_panel/activity_detail_gps.html:40
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:40
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:39
 #, python-format
 msgid "发起人：%(creator)s"
 msgstr "開催者：%(creator)s"
@@ -467,21 +455,21 @@ msgstr "イベント情報を編集"
 #: admin_panel/templates/admin_panel/activity_detail_common.html:46
 #: admin_panel/templates/admin_panel/activity_detail_gps.html:49
 #: admin_panel/templates/admin_panel/activity_detail_iframe.html:26
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:48
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:47
 msgid "删除此活动"
 msgstr "イベントを削除"
 
 #: admin_panel/templates/admin_panel/activity_detail.html:77
 #: admin_panel/templates/admin_panel/activity_detail_common.html:55
 #: admin_panel/templates/admin_panel/activity_detail_gps.html:58
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:53
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:52
 msgid "归档此活动"
 msgstr "イベントをアーカイブ"
 
 #: admin_panel/templates/admin_panel/activity_detail.html:86
 #: admin_panel/templates/admin_panel/activity_detail_common.html:64
 #: admin_panel/templates/admin_panel/activity_detail_gps.html:67
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:62
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:61
 msgid "活动队伍"
 msgstr "イベントチーム"
 
@@ -489,7 +477,7 @@ msgstr "イベントチーム"
 #: admin_panel/templates/admin_panel/activity_detail_common.html:78
 #: admin_panel/templates/admin_panel/activity_detail_gps.html:81
 #: admin_panel/templates/admin_panel/activity_detail_iframe.html:30
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:76
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:75
 #: admin_panel/templates/admin_panel/activity_rank_keep_teams.html:16
 msgid "活动详情"
 msgstr "イベント情報"
@@ -497,7 +485,7 @@ msgstr "イベント情報"
 #: admin_panel/templates/admin_panel/activity_detail.html:108
 #: admin_panel/templates/admin_panel/activity_detail_common.html:85
 #: admin_panel/templates/admin_panel/activity_detail_iframe.html:34
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:84
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:83
 msgid "所有>>"
 msgstr "すべて>>"
 
@@ -532,21 +520,21 @@ msgstr "イベントを削除"
 msgid "你确定删除此活动吗，一旦删除将无法恢复!"
 msgstr "本当に削除しますか？削除されたイベントはリストアできません！"
 
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:42
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:41
 #, python-format
 msgid "%(activity.person_count)s 名成员参与"
 msgstr "%(activity.person_count)s 名メンバーが参加"
 
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:68
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:67
 #, python-format
 msgid "%(team.members_count)s 人"
 msgstr "%(team.members_count)s人"
 
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:87
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:86
 msgid "暂无留言"
 msgstr "コメントはありません"
 
-#: admin_panel/templates/admin_panel/activity_detail_keep.html:120
+#: admin_panel/templates/admin_panel/activity_detail_keep.html:119
 msgid "弹窗"
 msgstr "ポップアップ"
 
@@ -560,8 +548,7 @@ msgstr "イベント目標&nbsp;"
 
 #: admin_panel/templates/admin_panel/activity_edit.html:77
 msgid "活动范围-<span class=\"club_id\" data-clubId=\"\"></span>"
-msgstr ""
-"イベント適用対象-<span class=\"club_id\" data-clubId=\"\"></span>"
+msgstr "イベント適用対象-<span class=\"club_id\" data-clubId=\"\"></span>"
 
 #: admin_panel/templates/admin_panel/activity_edit.html:87
 msgid "组队方式"
@@ -576,12 +563,10 @@ msgid "<span class=\"SelectedMemberCount\">200</span>人已选择"
 msgstr "<span class=\"SelectedMemberCount\">200</span>人選択済み"
 
 #: admin_panel/templates/admin_panel/activity_edit.html:184
-msgid ""
-"你所管理的俱乐部共有成员\"<span class=\"member-total\">234</span>"
-"\"名,"
+msgid "你所管理的俱乐部共有成员\"<span class=\"member-total\">234</span>\"名,"
 msgstr ""
-"あなたが管理しているクラブの合計会員数は\"<span class=\"member-total"
-"\">234</span>\"人、"
+"あなたが管理しているクラブの合計会員数は\"<span class=\"member-total\">234</"
+"span>\"人、"
 
 #: admin_panel/templates/admin_panel/activity_edit.html:190
 msgid "组件团队"
@@ -747,7 +732,7 @@ msgstr "順位"
 #: admin_panel/templates/admin_panel/member_detail.html:169
 #: admin_panel/templates/admin_panel/member_list_admin_iframe.html:39
 #: admin_panel/templates/admin_panel/register_initialization.html:47
-#: admin_panel/templates/admin_panel/search.html:34
+#: admin_panel/templates/admin_panel/search.html:31
 #: admin_panel/templates/admin_panel/statistics_index.html:114
 #: admin_panel/templates/admin_panel/statistics_list_iframe.html:115
 msgid "姓名"
@@ -760,9 +745,9 @@ msgstr "氏名"
 #: admin_panel/templates/admin_panel/activity_rank_personal.html:110
 #: admin_panel/templates/admin_panel/activity_team_detail.html:25
 #: admin_panel/templates/admin_panel/club_setting_super.html:204
-#: admin_panel/templates/admin_panel/include/header.html:34
+#: admin_panel/templates/admin_panel/include/header.html:35
 #: admin_panel/templates/admin_panel/member_detail.html:174
-#: admin_panel/templates/admin_panel/search.html:36
+#: admin_panel/templates/admin_panel/search.html:33
 #: admin_panel/templates/admin_panel/statistics_index.html:116
 #: admin_panel/templates/admin_panel/statistics_list_iframe.html:117
 msgid "部门"
@@ -890,10 +875,8 @@ msgstr "%(item.score|div:1000)s km"
 
 #: admin_panel/templates/admin_panel/activity_rank_gps_user_detail.html:14
 #, python-format
-msgid ""
-"%(activity.get_title)s - %(activity_member.user.name)s GPS 记录"
-msgstr ""
-"%(activity.get_title)s - %(activity_member.user.name)s GPS記録"
+msgid "%(activity.get_title)s - %(activity_member.user.name)s GPS 记录"
+msgstr "%(activity.get_title)s - %(activity_member.user.name)s GPS記録"
 
 #: admin_panel/templates/admin_panel/activity_rank_gps_user_detail.html:15
 msgid "活动结果"
@@ -1076,10 +1059,6 @@ msgstr "累積でランク付け"
 msgid "达标时间"
 msgstr "目標達成時刻"
 
-#: admin_panel/templates/admin_panel/activity_team_detail.html:1
-msgid "{"
-msgstr "{"
-
 #: admin_panel/templates/admin_panel/activity_team_detail.html:13
 #, python-format
 msgid "活动: %(activity.get_title)s"
@@ -1094,39 +1073,197 @@ msgstr "チーム：%(activity_team.name)s"
 msgid "如何申请俱乐部"
 msgstr "クラブへの参加申込み方法について"
 
-#: admin_panel/templates/admin_panel/base.html:7
-#: admin_panel/templates/admin_panel/help_base.html:7
-msgid ""
-"咕咚网，引进先进物联网概念及人体检测技术，使用咕咚硬件设备（咕咚健身"
-"追踪器、咕咚糖果、咕咚笑、咕咚手环、咕咚智能健康秤等）准确检测记录运"
-"动、睡眠、体重等数据，并对上传数据进行详细分析，智能绘制专业分析图"
-"表，直观展示活动状况。同时开发有【咕咚】手机软件，搭载GPS运动轨迹追"
-"踪功能，更全面的记录运动。再借助网络平台互动、PK、分享，将互动娱乐性"
-"与健身健康完美结合，全面推动人们的身心健康改善。"
+#: admin_panel/templates/admin_panel/auth_v2/login.html:11
+#, fuzzy
+#| msgid "注册-俱乐部"
+msgid "登录-俱乐部"
+msgstr "登録-クラブ"
+
+#: admin_panel/templates/admin_panel/auth_v2/login.html:25
+#: admin_panel/templates/admin_panel/auth_v2/login.html:54
+#: admin_panel/templates/admin_panel/index.html:50
+#: admin_panel/templates/admin_panel/index2.html:30
+msgid "登录"
+msgstr "ログイン"
+
+#: admin_panel/templates/admin_panel/auth_v2/login.html:32
+#: admin_panel/templates/admin_panel/guidence_step1.html:28
+msgid "邮箱/手机号"
+msgstr "Eメール/携帯番号"
+
+#: admin_panel/templates/admin_panel/auth_v2/login.html:35
+#: admin_panel/templates/admin_panel/guidence_step1.html:32
+msgid "密码"
+msgstr "パスワード"
+
+#: admin_panel/templates/admin_panel/auth_v2/login.html:43
+#: admin_panel/templates/admin_panel/auth_v2/login.html:45
+#: admin_panel/templates/admin_panel/auth_v2/reset_password.html:30
+#, fuzzy
+#| msgid "发送验证码"
+msgid "验证码"
+msgstr "認証コードを送信"
+
+#: admin_panel/templates/admin_panel/auth_v2/login.html:48
+msgid "换一张"
 msgstr ""
-"WeRUNは最新のIoTとセンサ技術を導入したスマートバンドを使用することに"
-"より、運動、睡眠、体重などのデータを正確に検出します。またアップロー"
-"ドされたデータを詳細に分析し、活動状況を可視化します。そのほかWeRUN"
-"アプリではGPS運動ルート追跡機能を搭載、オールラウンドな運動記録をと"
-"ることができます。さらに、便利な管理者ページや多彩なイベント、対戦、"
-"ランキング、シェアなど、楽しんで運動できるような機能が満載。これによ"
-"り皆さんの身体的、精神的健康を促進します。"
+
+#: admin_panel/templates/admin_panel/auth_v2/login.html:51
+#, fuzzy
+#| msgid "忘记密码?"
+msgid "忘记密码？"
+msgstr "パスワードを忘れた？"
+
+#: admin_panel/templates/admin_panel/auth_v2/register.html:14
+#: admin_panel/templates/admin_panel/register.html:13
+msgid "注册-俱乐部"
+msgstr "登録-クラブ"
+
+#: admin_panel/templates/admin_panel/auth_v2/register.html:34
+#: admin_panel/templates/admin_panel/register.html:33
+msgid "欢迎注册咕咚俱乐部"
+msgstr "WeRUNクラブの登録画面へようこそ"
+
+#: admin_panel/templates/admin_panel/auth_v2/register.html:36
+#, fuzzy
+#| msgid "您的邮箱已经注册咕咚帐号，输入咕咚帐号密码即可注册俱乐部"
+msgid "您的邮箱已经注册咕咚账号，输入咕咚账号密码即可注册俱乐部"
+msgstr ""
+"あなたのEメールはすでに登録済みです。WeRUNアカウントとパスワードを入力してク"
+"ラブに登録してください"
+
+#: admin_panel/templates/admin_panel/auth_v2/register.html:42
+#: admin_panel/templates/admin_panel/auth_v2/reset_password.html:18
+#: admin_panel/templates/admin_panel/register.html:41
+msgid "邮箱"
+msgstr "メールアドレス"
+
+#: admin_panel/templates/admin_panel/auth_v2/register.html:43
+#: admin_panel/templates/admin_panel/register.html:42
+msgid "请输入密码"
+msgstr "パスワードを入力"
+
+#: admin_panel/templates/admin_panel/auth_v2/register.html:45
+#: admin_panel/templates/admin_panel/register.html:44
+msgid "再输入一次密码"
+msgstr "パスワードを再入力"
+
+#: admin_panel/templates/admin_panel/auth_v2/register.html:49
+#: admin_panel/templates/admin_panel/register.html:48
+msgid "注册"
+msgstr "登録"
+
+#: admin_panel/templates/admin_panel/auth_v2/register.html:50
+#: admin_panel/templates/admin_panel/register.html:49
+msgid "忘记密码?"
+msgstr "パスワードを忘れた？"
+
+#: admin_panel/templates/admin_panel/auth_v2/register_notice.html:14
+#: admin_panel/templates/admin_panel/register_notice.html:13
+#: admin_panel/templates/admin_panel/register_resend_mail.html:13
+msgid "验证邮箱-俱乐部"
+msgstr "Eメール認証-クラブ"
+
+#: admin_panel/templates/admin_panel/auth_v2/register_notice.html:34
+#: admin_panel/templates/admin_panel/register_notice.html:33
+msgid "邮箱验证"
+msgstr "Eメール認証"
+
+#: admin_panel/templates/admin_panel/auth_v2/register_notice.html:37
+#: admin_panel/templates/admin_panel/register_notice.html:36
+msgid "我们向您的邮箱发送了一封验证邮件，请点击邮箱查看链接并完成注册！"
+msgstr ""
+"あなたのメールアドレスへ確認メールを送信しました。メール内のURLをクリックして"
+"登録を完了してください。"
+
+#: admin_panel/templates/admin_panel/auth_v2/register_notice.html:41
+#: admin_panel/templates/admin_panel/register_notice.html:40
+msgid "完成验证后，您可以："
+msgstr "認証完了後，以下のことができます："
+
+#: admin_panel/templates/admin_panel/auth_v2/register_notice.html:44
+#: admin_panel/templates/admin_panel/register_notice.html:43
+msgid "1.创建俱乐部"
+msgstr "1.クラブの開設"
+
+#: admin_panel/templates/admin_panel/auth_v2/register_notice.html:47
+#: admin_panel/templates/admin_panel/register_notice.html:46
+msgid "2.发起活动"
+msgstr "2.イベントの作成"
+
+#: admin_panel/templates/admin_panel/auth_v2/register_notice.html:50
+#: admin_panel/templates/admin_panel/register_notice.html:49
+msgid "3.邀请新成员加入"
+msgstr "3.新メンバーを招待"
+
+#: admin_panel/templates/admin_panel/auth_v2/register_notice.html:55
+#: admin_panel/templates/admin_panel/register_notice.html:54
+msgid "前往邮箱"
+msgstr "Eメールに戻る"
+
+#: admin_panel/templates/admin_panel/auth_v2/register_notice.html:58
+#: admin_panel/templates/admin_panel/register_notice.html:57
+msgid "如果多次未收到邮件，我们可能被您的邮箱误判为“垃圾邮件”，"
+msgstr ""
+"Eメールを受信できない場合は、あなたのEメールは「迷惑メール」と認識された可能"
+"性があります。"
+
+#: admin_panel/templates/admin_panel/auth_v2/register_notice.html:59
+#: admin_panel/templates/admin_panel/register_notice.html:58
+msgid "请在“垃圾邮件”中查找"
+msgstr "「迷惑メール」の中をご確認ください"
+
+#: admin_panel/templates/admin_panel/auth_v2/reset_password.html:14
+msgid "密码重设邮件将发送到你的注册邮箱，或者使用手机短信找回密码"
+msgstr ""
+
+#: admin_panel/templates/admin_panel/auth_v2/reset_password.html:21
+#: admin_panel/templates/admin_panel/auth_v2/reset_password.html:34
+msgid "找回密码"
+msgstr ""
+
+#: admin_panel/templates/admin_panel/auth_v2/reset_password.html:27
+#: admin_panel/templates/admin_panel/member_list_admin_iframe.html:40
+#: admin_panel/templates/admin_panel/register_initialization.html:48
+msgid "手机号"
+msgstr "携帯番号"
+
+#: admin_panel/templates/admin_panel/auth_v2/reset_password.html:31
+#: admin_panel/templates/admin_panel/club_new.html:120
+msgid "发送验证码"
+msgstr "認証コードを送信"
 
 #: admin_panel/templates/admin_panel/base.html:8
+#: admin_panel/templates/admin_panel/help_base.html:7
+msgid ""
+"咕咚网，引进先进物联网概念及人体检测技术，使用咕咚硬件设备（咕咚健身追踪器、"
+"咕咚糖果、咕咚笑、咕咚手环、咕咚智能健康秤等）准确检测记录运动、睡眠、体重等"
+"数据，并对上传数据进行详细分析，智能绘制专业分析图表，直观展示活动状况。同时"
+"开发有【咕咚】手机软件，搭载GPS运动轨迹追踪功能，更全面的记录运动。再借助网络"
+"平台互动、PK、分享，将互动娱乐性与健身健康完美结合，全面推动人们的身心健康改"
+"善。"
+msgstr ""
+"WeRUNは最新のIoTとセンサ技術を導入したスマートバンドを使用することにより、運"
+"動、睡眠、体重などのデータを正確に検出します。またアップロードされたデータを"
+"詳細に分析し、活動状況を可視化します。そのほかWeRUNアプリではGPS運動ルート追"
+"跡機能を搭載、オールラウンドな運動記録をとることができます。さらに、便利な管"
+"理者ページや多彩なイベント、対戦、ランキング、シェアなど、楽しんで運動できる"
+"ような機能が満載。これにより皆さんの身体的、精神的健康を促進します。"
+
+#: admin_panel/templates/admin_panel/base.html:9
 #: admin_panel/templates/admin_panel/help_base.html:8
 msgid ""
-"咕咚网,运动,俱乐部,企业俱乐部,咕咚商城,网络瘦身,健身,物联网健身,健"
-"康,运动,健康秤,码表,网络码表,追踪器,健身追踪器,咕咚笑,咕咚,咕咚手环,"
-"咕咚糖果,咕咚,蓝牙秤,运动减肥,咕咚云,卡路里,运动步数,运动路线,运动距"
-"离,活动检测,睡眠质量,睡眠分析,咕咚智能"
+"咕咚网,运动,俱乐部,企业俱乐部,咕咚商城,网络瘦身,健身,物联网健身,健康,运动,健"
+"康秤,码表,网络码表,追踪器,健身追踪器,咕咚笑,咕咚,咕咚手环,咕咚糖果,咕咚,蓝牙"
+"秤,运动减肥,咕咚云,卡路里,运动步数,运动路线,运动距离,活动检测,睡眠质量,睡眠分"
+"析,咕咚智能"
 msgstr ""
-"WeRUN,運動,クラブ,企業クラブ,Eコマース,ネットダイエット,フィットネ"
-"ス,IoTフィットネス,健康,運動,健康計,コード表,ネットコード表,追跡機,"
-"フィットネス追跡機,WeRUN,WeRUNスマートバンド,ブルートゥース体重計,運"
-"動ダイエット,カロリー,運動歩数,運動ルート,運動距離,運動測定,睡眠,睡"
-"眠分析"
+"WeRUN,運動,クラブ,企業クラブ,Eコマース,ネットダイエット,フィットネス,IoT"
+"フィットネス,健康,運動,健康計,コード表,ネットコード表,追跡機,フィットネス追跡"
+"機,WeRUN,WeRUNスマートバンド,ブルートゥース体重計,運動ダイエット,カロリー,運"
+"動歩数,運動ルート,運動距離,運動測定,睡眠,睡眠分析"
 
-#: admin_panel/templates/admin_panel/base.html:12
+#: admin_panel/templates/admin_panel/base.html:13
 msgid "咕咚企业俱乐部"
 msgstr "WeRUNクラブ"
 
@@ -1165,8 +1302,7 @@ msgstr "会社名："
 
 #: admin_panel/templates/admin_panel/club_authenticate_info.html:41
 msgid "须与营业执照匹配，企业须国内合法注册的工商登记企业"
-msgstr ""
-"謄本の記載と同じ。企業の場合は国内で登記されている会社に限ります"
+msgstr "謄本の記載と同じ。企業の場合は国内で登記されている会社に限ります"
 
 #: admin_panel/templates/admin_panel/club_authenticate_info.html:45
 msgid "公司代表人／企业负责人姓名："
@@ -1174,8 +1310,7 @@ msgstr "会社代表／責任者氏名："
 
 #: admin_panel/templates/admin_panel/club_authenticate_info.html:49
 msgid "如果为分公司则填写营业执照上明确的负责人，否则一律是法定代表人"
-msgstr ""
-"子会社の場合は責任者を、それ以外の場合は代表取締役を入力してください"
+msgstr "子会社の場合は責任者を、それ以外の場合は代表取締役を入力してください"
 
 #: admin_panel/templates/admin_panel/club_authenticate_info.html:52
 msgid "联系电话"
@@ -1215,9 +1350,7 @@ msgstr "法人番号証明資料をアップロード"
 #: admin_panel/templates/admin_panel/club_authenticate_info.html:90
 #: admin_panel/templates/admin_panel/club_authenticate_info.html:109
 msgid "请上传高清证件图片<br/>仅支持PNG格式，大小不超过2MB"
-msgstr ""
-"高解像度の画像をアップロードしてください<br/>PNGファイルのみ、2MB以"
-"下"
+msgstr "高解像度の画像をアップロードしてください<br/>PNGファイルのみ、2MB以下"
 
 #: admin_panel/templates/admin_panel/club_authenticate_info.html:95
 msgid "企业工商营业执照:"
@@ -1281,18 +1414,16 @@ msgstr "会員数"
 
 #: admin_panel/templates/admin_panel/club_index.html:92
 #: admin_panel/templates/admin_panel/help_index.html:107
-#: admin_panel/templates/admin_panel/include/header.html:42
+#: admin_panel/templates/admin_panel/include/header.html:43
 msgid "活动"
 msgstr "イベント"
 
 #: admin_panel/templates/admin_panel/club_index.html:100
 #, python-format
-msgid ""
-"还没有创建活动，<a href=\"%(activity_create_url)s\">开始创建活动吧!"
-"</a>"
+msgid "还没有创建活动，<a href=\"%(activity_create_url)s\">开始创建活动吧!</a>"
 msgstr ""
-"まだイベントが作成されていません。<a href=\"%(activity_create_url)s"
-"\">今から作成しよう!</a>"
+"まだイベントが作成されていません。<a href=\"%(activity_create_url)s\">今から"
+"作成しよう!</a>"
 
 #: admin_panel/templates/admin_panel/club_interface.html:14
 msgid "进入团队管理后台"
@@ -1345,10 +1476,6 @@ msgstr "管理者役職"
 msgid "管理员电话"
 msgstr "管理者電話番号（-なし）"
 
-#: admin_panel/templates/admin_panel/club_new.html:120
-msgid "发送验证码"
-msgstr "認証コードを送信"
-
 #: admin_panel/templates/admin_panel/club_new.html:127
 msgid "收到的手机验证码"
 msgstr "認証コード"
@@ -1377,8 +1504,7 @@ msgstr "企業規模"
 #: admin_panel/templates/admin_panel/guidence_step3.html:129
 msgid "请上传 jpg/png/gif 格式的图片，格式大小：120*120px"
 msgstr ""
-"jpg/png/gif の画像ファイル（サイズ：120*120px）をアップロードしてく"
-"ださい"
+"jpg/png/gif の画像ファイル（サイズ：120*120px）をアップロードしてください"
 
 #: admin_panel/templates/admin_panel/club_new.html:208
 msgid "立即创建"
@@ -1430,28 +1556,28 @@ msgstr "管理権限委譲"
 #: admin_panel/templates/admin_panel/club_setting_super.html:192
 msgid "团队创建者是该团队的超级管理员，并拥有团队的所有权限。"
 msgstr ""
-"グループ作成者はスーパー管理者となり、グループに関する全ての権限を"
-"持っています。"
+"グループ作成者はスーパー管理者となり、グループに関する全ての権限を持っていま"
+"す。"
 
 #: admin_panel/templates/admin_panel/club_setting_super.html:193
 msgid ""
-"您可以将超级管理员权限指派给某位成员，指派完成后，原超级管理员身份降"
-"级为普通成员，请谨慎操作！"
+"您可以将超级管理员权限指派给某位成员，指派完成后，原超级管理员身份降级为普通"
+"成员，请谨慎操作！"
 msgstr ""
-"他の会員にスーパー管理者の権限を移譲することができます。権限移譲後、"
-"元の管理者は普通会員になりますので、この操作は慎重に行ってください！"
+"他の会員にスーパー管理者の権限を移譲することができます。権限移譲後、元の管理"
+"者は普通会員になりますので、この操作は慎重に行ってください！"
 
 #: admin_panel/templates/admin_panel/club_setting_super.html:194
 msgid "请选择接受转让的团队成员"
 msgstr "権限移譲先の会員を選択してください"
 
 #: admin_panel/templates/admin_panel/club_setting_super.html:198
-#: admin_panel/templates/admin_panel/search.html:28
+#: admin_panel/templates/admin_panel/search.html:25
 msgid "输入姓名"
 msgstr "氏名を入力"
 
 #: admin_panel/templates/admin_panel/club_setting_super.html:205
-#: admin_panel/templates/admin_panel/search.html:35
+#: admin_panel/templates/admin_panel/search.html:32
 msgid "手机"
 msgstr "携帯番号"
 
@@ -1469,13 +1595,13 @@ msgstr "クラブ部門"
 
 #: admin_panel/templates/admin_panel/department.html:35
 msgid ""
-"俱乐部部门以企业组织架构图为准。例如，某公司有10个分公司，每个分公司"
-"下有10个部门。在设置时要点击某公司，先添加10个分公司，然后再针对每个"
-"分公司添加分公司部门"
+"俱乐部部门以企业组织架构图为准。例如，某公司有10个分公司，每个分公司下有10个"
+"部门。在设置时要点击某公司，先添加10个分公司，然后再针对每个分公司添加分公司"
+"部门"
 msgstr ""
-"クラブ部門は企業の組織を準じます。たとえば親会社に10の支社があり、各"
-"支社に10の部門があった場合、設定時に親会社をクリックし、まず10の支店"
-"を追加してから、各支社ごとに部門を追加します"
+"クラブ部門は企業の組織を準じます。たとえば親会社に10の支社があり、各支社に10"
+"の部門があった場合、設定時に親会社をクリックし、まず10の支店を追加してから、"
+"各支社ごとに部門を追加します"
 
 #: admin_panel/templates/admin_panel/department.html:37
 msgid "添加分公司名称或部门"
@@ -1497,8 +1623,8 @@ msgstr "本当に部門を削除しますか？"
 #: admin_panel/templates/admin_panel/department.html:67
 msgid "删除后该部门下的成员将自动计入上一级部门中，此操作不可恢复。"
 msgstr ""
-"削除後、この部門のメンバーは自動的に上位部門に入ります。この操作はリ"
-"ストアきません。"
+"削除後、この部門のメンバーは自動的に上位部門に入ります。この操作はリストアき"
+"ません。"
 
 #: admin_panel/templates/admin_panel/department.html:90
 msgid "加入需要密码"
@@ -1519,8 +1645,7 @@ msgstr "エクスポートタスクは作成済みです"
 
 #: admin_panel/templates/admin_panel/department.html:137
 msgid "创建导出任务失败，请稍后再试"
-msgstr ""
-"エクスポートタスクを作成できませんでした。後ほど再度お試しください"
+msgstr "エクスポートタスクを作成できませんでした。後ほど再度お試しください"
 
 #: admin_panel/templates/admin_panel/export_task_list.html:14
 msgid "导出任务列表"
@@ -1530,52 +1655,63 @@ msgstr "エクスポートタスク一覧"
 msgid "您可以:"
 msgstr "以下のことが可能です。"
 
-#: admin_panel/templates/admin_panel/export_task_list.html:23
+#: admin_panel/templates/admin_panel/export_task_list.html:19
+#, python-format
+msgid ""
+"\n"
+"                        1. 在 <a class=\"main-font-color\" href="
+"\"%(statistics_list_url)s\">\"统计\"</a> 中导出成员数据。<br>\n"
+"                        2. 在 <a class=\"main-font-color\" href="
+"\"%(activity_list_url)s\">\"已完成的活动\"</a>——点击需要导出的活动图标——\"查"
+"看活动排名\" 中导出活动数据\n"
+"                        "
+msgstr ""
+
+#: admin_panel/templates/admin_panel/export_task_list.html:27
 msgid "还没有任何导出任务"
 msgstr "エクスポートタスクはありません"
 
-#: admin_panel/templates/admin_panel/export_task_list.html:28
+#: admin_panel/templates/admin_panel/export_task_list.html:32
 msgid ""
-"注意: 导出任务一般在30分钟左右完成，若超过24小时仍未完成，请联系管理"
-"员。"
+"注意: 导出任务一般在30分钟左右完成，若超过24小时仍未完成，请联系管理员。"
 msgstr ""
-"注意：エクスポートは通常約30分で完了します。24時間以内に完了しない場"
-"合は管理者に連絡してください。"
+"注意：エクスポートは通常約30分で完了します。24時間以内に完了しない場合は管理"
+"者に連絡してください。"
 
-#: admin_panel/templates/admin_panel/export_task_list.html:36
+#: admin_panel/templates/admin_panel/export_task_list.html:40
 msgid "类型"
 msgstr "種類"
 
-#: admin_panel/templates/admin_panel/export_task_list.html:37
+#: admin_panel/templates/admin_panel/export_task_list.html:41
 msgid "描述"
 msgstr "説明"
 
-#: admin_panel/templates/admin_panel/export_task_list.html:38
+#: admin_panel/templates/admin_panel/export_task_list.html:42
 msgid "状态"
 msgstr "ステータス"
 
-#: admin_panel/templates/admin_panel/export_task_list.html:39
+#: admin_panel/templates/admin_panel/export_task_list.html:43
 msgid "创建时间"
 msgstr "作成日時"
 
-#: admin_panel/templates/admin_panel/export_task_list.html:40
+#: admin_panel/templates/admin_panel/export_task_list.html:44
 msgid "导出结果"
 msgstr "出力結果"
 
-#: admin_panel/templates/admin_panel/export_task_list.html:59
+#: admin_panel/templates/admin_panel/export_task_list.html:63
 msgid "重试"
 msgstr "再度"
 
-#: admin_panel/templates/admin_panel/export_task_list.html:65
+#: admin_panel/templates/admin_panel/export_task_list.html:69
 msgid "点击下载"
 msgstr "ダウンロード"
 
-#: admin_panel/templates/admin_panel/export_task_list.html:102
+#: admin_panel/templates/admin_panel/export_task_list.html:106
 msgid "任务重新打开成功"
 msgstr "タスクを再度開きました"
 
-#: admin_panel/templates/admin_panel/export_task_list.html:105
-#: admin_panel/templates/admin_panel/export_task_list.html:111
+#: admin_panel/templates/admin_panel/export_task_list.html:109
+#: admin_panel/templates/admin_panel/export_task_list.html:115
 msgid "任务重新打开失败，请稍后再试"
 msgstr "タスクを開けませんでした。後ほど再度お試し下さい"
 
@@ -1621,28 +1757,17 @@ msgstr "管理者アカウントを作成"
 
 #: admin_panel/templates/admin_panel/guidence_step1.html:23
 #, python-format
-msgid ""
-"%(apply.nick)s，欢迎你来到咕咚俱乐部后台，现在请你创建一个管理员帐"
-"号。"
+msgid "%(apply.nick)s，欢迎你来到咕咚俱乐部后台，现在请你创建一个管理员帐号。"
 msgstr ""
-"%(apply.nick)s，WeRUNクラブ管理者ページへようこそ。管理者アカウント"
-"を作成してください。"
+"%(apply.nick)s，WeRUNクラブ管理者ページへようこそ。管理者アカウントを作成して"
+"ください。"
 
 #: admin_panel/templates/admin_panel/guidence_step1.html:24
 msgid ""
-"请注意，这一步非常重要，你创建的管理员帐号是你登录俱乐部后台的唯一凭"
-"证。"
+"请注意，这一步非常重要，你创建的管理员帐号是你登录俱乐部后台的唯一凭证。"
 msgstr ""
-"ここは非常に重要な手順ですのでご注意ください。作成する管理者アカウン"
-"トは、管理者ページでクラブにログインするための唯一の資格です。"
-
-#: admin_panel/templates/admin_panel/guidence_step1.html:28
-msgid "邮箱/手机号"
-msgstr "Eメール/携帯番号"
-
-#: admin_panel/templates/admin_panel/guidence_step1.html:32
-msgid "密码"
-msgstr "パスワード"
+"ここは非常に重要な手順ですのでご注意ください。作成する管理者アカウントは、管"
+"理者ページでクラブにログインするための唯一の資格です。"
 
 #: admin_panel/templates/admin_panel/guidence_step1.html:36
 msgid "创建管理员"
@@ -1720,19 +1845,16 @@ msgstr "コピーしました"
 
 #: admin_panel/templates/admin_panel/guidence_step5.html:29
 msgid "恭喜你完成填写信息，快来邀请公司的伙伴们来加入吧！"
-msgstr ""
-"情報入力ありがとうございました。さっそく会社の仲間を誘いましょう！"
+msgstr "情報入力ありがとうございました。さっそく会社の仲間を誘いましょう！"
 
 #: admin_panel/templates/admin_panel/guidence_step5.html:35
 msgid "你的俱乐部已经创建成功，我们已经为你生成了一封邀请邮件。"
-msgstr ""
-"クラブが開設されました。あなたのために招待メールを作成しました。"
+msgstr "クラブが開設されました。あなたのために招待メールを作成しました。"
 
 #: admin_panel/templates/admin_panel/guidence_step5.html:36
 msgid "发送一封邮件到你的邮箱，你可以转发给所有的同事"
 msgstr ""
-"あなたにメールを送信し、それをあなたのすべての同僚に転送することがで"
-"きます"
+"あなたにメールを送信し、それをあなたのすべての同僚に転送することができます"
 
 #: admin_panel/templates/admin_panel/guidence_step5.html:38
 msgid "复制邮件模板"
@@ -1767,8 +1889,7 @@ msgstr "まだメールを送っていません。本当に終了しますか？
 
 #: admin_panel/templates/admin_panel/guidence_step5.html:68
 msgid "你也可以再“首页>邀请新成员”页面发送邮件"
-msgstr ""
-"“トップ>新メンバーを招待”ページからメールを送信することもできます"
+msgstr "“トップ>新メンバーを招待”ページからメールを送信することもできます"
 
 #: admin_panel/templates/admin_panel/guidence_step5.html:71
 msgid "确定完成"
@@ -1778,8 +1899,8 @@ msgstr "終了する"
 #: admin_panel/templates/admin_panel/help_base.html:39
 #: admin_panel/templates/admin_panel/help_detail.html:6
 #: admin_panel/templates/admin_panel/help_result.html:7
-#: admin_panel/templates/admin_panel/include/header.html:81
-#: admin_panel/templates/admin_panel/index2.html:79
+#: admin_panel/templates/admin_panel/include/header.html:82
+#: admin_panel/templates/admin_panel/index2.html:80
 msgid "帮助中心"
 msgstr "ヘルプ"
 
@@ -1874,11 +1995,11 @@ msgstr "エラー！"
 #: admin_panel/templates/admin_panel/help_result.html:24
 #, python-format
 msgid ""
-"没有找到“<span id=\"text\"></span>”的相关内容，<a class=\"backhome"
-"\" href=\"%(help_index_url)s\">返回帮助中心首页</a>再看看？"
+"没有找到“<span id=\"text\"></span>”的相关内容，<a class=\"backhome\" href="
+"\"%(help_index_url)s\">返回帮助中心首页</a>再看看？"
 msgstr ""
-"“<span id=\"text\"></span>”は見つかりません，<a class=\"backhome\" "
-"href=\"%(help_index_url)s\">ヘルプデスクに戻るトップ</a>に戻る？"
+"“<span id=\"text\"></span>”は見つかりません，<a class=\"backhome\" href="
+"\"%(help_index_url)s\">ヘルプデスクに戻るトップ</a>に戻る？"
 
 #: admin_panel/templates/admin_panel/include/faq.html:14
 msgid "如何创建分公司/部门"
@@ -1889,9 +2010,17 @@ msgstr "子会社/部門の開設方法"
 msgid "如何邀请新成员"
 msgstr "会員の招待方法"
 
+#: admin_panel/templates/admin_panel/include/footer.html:6
+msgid "club@codoon.com"
+msgstr ""
+
 #: admin_panel/templates/admin_panel/include/footer.html:7
 msgid "我们会回复你的邮件"
 msgstr "返信が届くまでしばらくお待ち下さい"
+
+#: admin_panel/templates/admin_panel/include/footer.html:11
+msgid "400-0606-090"
+msgstr ""
 
 #: admin_panel/templates/admin_panel/include/footer.html:12
 msgid "周一到周五  09:00~18:00"
@@ -1901,53 +2030,53 @@ msgstr "月-金  09:00~18:00"
 msgid "在线咨询"
 msgstr "お問い合わせ窓口"
 
-#: admin_panel/templates/admin_panel/include/header.html:30
+#: admin_panel/templates/admin_panel/include/header.html:31
 msgid "首页"
 msgstr "トップ"
 
-#: admin_panel/templates/admin_panel/include/header.html:38
+#: admin_panel/templates/admin_panel/include/header.html:39
 #: admin_panel/templates/admin_panel/member_index.html:56
 #: admin_panel/templates/admin_panel/member_list.html:39
 msgid "成员"
 msgstr "会員"
 
-#: admin_panel/templates/admin_panel/include/header.html:46
+#: admin_panel/templates/admin_panel/include/header.html:47
 msgid "统计"
 msgstr "統計"
 
-#: admin_panel/templates/admin_panel/include/header.html:50
+#: admin_panel/templates/admin_panel/include/header.html:51
 msgid "数据导出"
 msgstr "データエクスポート"
 
-#: admin_panel/templates/admin_panel/include/header.html:54
+#: admin_panel/templates/admin_panel/include/header.html:55
 msgid "设置"
 msgstr "設定"
 
-#: admin_panel/templates/admin_panel/include/header.html:59
+#: admin_panel/templates/admin_panel/include/header.html:60
 msgid "查看认证资料"
 msgstr "認定資料を見る"
 
-#: admin_panel/templates/admin_panel/include/header.html:61
+#: admin_panel/templates/admin_panel/include/header.html:62
 msgid "申请认证"
 msgstr "認定を申請"
 
-#: admin_panel/templates/admin_panel/include/header.html:77
+#: admin_panel/templates/admin_panel/include/header.html:78
 msgid "切换团队"
 msgstr "グループ切替え"
 
-#: admin_panel/templates/admin_panel/include/header.html:80
-#: admin_panel/templates/admin_panel/msg.html:5
-#: admin_panel/templates/admin_panel/msg.html:11
+#: admin_panel/templates/admin_panel/include/header.html:81
+#: admin_panel/templates/admin_panel/msg.html:6
+#: admin_panel/templates/admin_panel/msg.html:13
 msgid "消息中心"
 msgstr "通知センター"
 
-#: admin_panel/templates/admin_panel/include/header.html:82
-#: admin_panel/templates/admin_panel/include/header.html:99
-#: admin_panel/templates/admin_panel/index2.html:29
+#: admin_panel/templates/admin_panel/include/header.html:83
+#: admin_panel/templates/admin_panel/include/header.html:100
+#: admin_panel/templates/admin_panel/index2.html:30
 msgid "退出"
 msgstr "ログアウト"
 
-#: admin_panel/templates/admin_panel/include/header.html:98
+#: admin_panel/templates/admin_panel/include/header.html:99
 msgid "回到首页"
 msgstr "トップへ戻る"
 
@@ -1962,11 +2091,11 @@ msgstr "クラブアイコン"
 #: admin_panel/templates/admin_panel/include/mailtouser.html:7
 #, python-format
 msgid ""
-"%(club.name)s团队（团队ID：<span style=\"color:#68b74e;font-size: "
-"14px;\">%(club.public_id)s</span>）"
+"%(club.name)s团队（团队ID：<span style=\"color:#68b74e;font-size: 14px;\">"
+"%(club.public_id)s</span>）"
 msgstr ""
-"%(club.name)sグループ（グループID：<span style=\"color:#68b74e;font-"
-"size: 14px;\">%(club.public_id)s</span>）"
+"%(club.name)sグループ（グループID：<span style=\"color:#68b74e;font-size: "
+"14px;\">%(club.public_id)s</span>）"
 
 #: admin_panel/templates/admin_panel/include/mailtouser.html:11
 msgid "加入我们自己的团队吧！"
@@ -1979,12 +2108,12 @@ msgstr "Dear All，"
 #: admin_panel/templates/admin_panel/include/mailtouser.html:13
 #, python-format
 msgid ""
-"我们的员工团队【%(club.name)s】正式成立了，公司会定期在团队中发起员"
-"工活动，形式多样，礼品丰富，大家拿起手机，动动手指来加入吧！ "
+"我们的员工团队【%(club.name)s】正式成立了，公司会定期在团队中发起员工活动，形"
+"式多样，礼品丰富，大家拿起手机，动动手指来加入吧！ "
 msgstr ""
-"私たちのグループ【%(club.name)s】が開設されました。定期的にグループ"
-"イベントが開催され、様々な商品やプレゼントもありますよ。さあ、携帯を"
-"取り出して参加しよう！ "
+"私たちのグループ【%(club.name)s】が開設されました。定期的にグループイベントが"
+"開催され、様々な商品やプレゼントもありますよ。さあ、携帯を取り出して参加しよ"
+"う！ "
 
 #: admin_panel/templates/admin_panel/include/mailtouser.html:14
 msgid "如何加入？"
@@ -1993,19 +2122,17 @@ msgstr "参加方法について"
 #: admin_panel/templates/admin_panel/include/mailtouser.html:15
 msgid "只需要简单四步就能加入员工团队，现在就拿出手机来操作吧！"
 msgstr ""
-"4ステップでグループに参加できます。今すぐ携帯を取り出して操作してく"
-"ださい！"
+"4ステップでグループに参加できます。今すぐ携帯を取り出して操作してください！"
 
 #: admin_panel/templates/admin_panel/include/mailtouser.html:20
 msgid "下载企业咕咚APP"
 msgstr "WeRUNアプリをダウンロード"
 
 #: admin_panel/templates/admin_panel/include/mailtouser.html:24
-msgid ""
-"手机扫描右侧二维码，或在各大应用市场搜索“企业咕咚”进行下载或升级。"
+msgid "手机扫描右侧二维码，或在各大应用市场搜索“企业咕咚”进行下载或升级。"
 msgstr ""
-"携帯で右側のQRコードをスキャンするか、アプリストアで「WeRUN」を検索"
-"し、ダウンロード/アップグレードを行ってください。"
+"携帯で右側のQRコードをスキャンするか、アプリストアで「WeRUN」を検索し、ダウン"
+"ロード/アップグレードを行ってください。"
 
 #: admin_panel/templates/admin_panel/include/mailtouser.html:25
 msgid "下载后请注册帐号并登陆。"
@@ -2091,27 +2218,25 @@ msgstr "WeRUN -グループ活動ならWeRUN"
 
 #: admin_panel/templates/admin_panel/index.html:10
 msgid ""
-"企业咕咚是国内首款企业员工运动管理工具。企业或组织在企业咕咚创建团"
-"队，员工加入后通过使用企业咕咚记录运动步数、GPS跑步轨迹，企业管理人"
-"员可通过管理员后台获取成员运动大数据，掌握员工运动状况。多维度团队成"
-"员排行榜，激发成员热情；趣味十足的平台活动，丰富员工的运动体验；成员"
-"之间还可发起运动挑战，PK团队运动大牛。"
+"企业咕咚是国内首款企业员工运动管理工具。企业或组织在企业咕咚创建团队，员工加"
+"入后通过使用企业咕咚记录运动步数、GPS跑步轨迹，企业管理人员可通过管理员后台获"
+"取成员运动大数据，掌握员工运动状况。多维度团队成员排行榜，激发成员热情；趣味"
+"十足的平台活动，丰富员工的运动体验；成员之间还可发起运动挑战，PK团队运动大"
+"牛。"
 msgstr ""
-"WeRUNは企業/団体向けの運動管理ツールです。会社や団体でWeRUN内にグ"
-"ループを開設し、ウォーキングやランニングの歩数や距離、GPSランニング"
-"ルートなどを記録し、管理者ページから全員の運動に関する全てのデータを"
-"取得し、運動状況を把握することができます。ランキングや対戦イベントな"
-"ど楽しく運動できるアイディアがいっぱいで、従業員のやる気を引き出し、"
-"運動体験を充実させます。"
+"WeRUNは企業/団体向けの運動管理ツールです。会社や団体でWeRUN内にグループを開設"
+"し、ウォーキングやランニングの歩数や距離、GPSランニングルートなどを記録し、管"
+"理者ページから全員の運動に関する全てのデータを取得し、運動状況を把握すること"
+"ができます。ランキングや対戦イベントなど楽しく運動できるアイディアがいっぱい"
+"で、従業員のやる気を引き出し、運動体験を充実させます。"
 
 #: admin_panel/templates/admin_panel/index.html:11
 msgid ""
-"企业咕咚 运动监测 个人挑战 团队活动 趣味榜单 运动记录 智能硬件 团队"
-"管理 成绩榜单 数据管理"
+"企业咕咚 运动监测 个人挑战 团队活动 趣味榜单 运动记录 智能硬件 团队管理 成绩"
+"榜单 数据管理"
 msgstr ""
-"WeRUN　運動データ測定　個人目標設定　グループイベント　楽しいランキ"
-"ング　運動記録　ウェアラブルデバイス　グループ管理　スコアランキン"
-"グ　データ管理"
+"WeRUN　運動データ測定　個人目標設定　グループイベント　楽しいランキング　運動"
+"記録　ウェアラブルデバイス　グループ管理　スコアランキング　データ管理"
 
 #: admin_panel/templates/admin_panel/index.html:42
 msgid "功能"
@@ -2133,11 +2258,6 @@ msgstr "管理者ページ(%(crt_user.name)s)"
 #: admin_panel/templates/admin_panel/index.html:48
 msgid "&nbsp;&nbsp;退出登录"
 msgstr "&nbsp;&nbsp;ログアウト"
-
-#: admin_panel/templates/admin_panel/index.html:50
-#: admin_panel/templates/admin_panel/index2.html:29
-msgid "登录"
-msgstr "ログイン"
 
 #: admin_panel/templates/admin_panel/index.html:59
 msgid "咕咚企业版"
@@ -2242,61 +2362,58 @@ msgstr "運動で企業の福利厚生を再定義"
 #: admin_panel/templates/admin_panel/index.html:170
 #: admin_panel/templates/admin_panel/index.html:198
 msgid ""
-"2016年，百年国企华新水泥利用企业咕咚开展为期半年的“健步走华新”网络公"
-"开赛，将分区域分公司通过虚拟路线进行呈现，最终全员完成1000公里的运动"
-"目标。全国68家分公司、5800多名员工加入比赛。"
+"2016年，百年国企华新水泥利用企业咕咚开展为期半年的“健步走华新”网络公开赛，将"
+"分区域分公司通过虚拟路线进行呈现，最终全员完成1000公里的运动目标。全国68家分"
+"公司、5800多名员工加入比赛。"
 msgstr ""
-"2016年、100年企業である華新セメントは6ヶ月間にわたる 「華新健康"
-"ウォーキングレース」を開催し、ネット公開しました。各地域子会社をバー"
-"チャルルート上に表示し、全社員で歩行距離1,000kmの目標を達成しまし"
-"た。全国68の支店と5,800人以上の社員が参加しました。"
+"2016年、100年企業である華新セメントは6ヶ月間にわたる 「華新健康ウォーキング"
+"レース」を開催し、ネット公開しました。各地域子会社をバーチャルルート上に表示"
+"し、全社員で歩行距離1,000kmの目標を達成しました。全国68の支店と5,800人以上の"
+"社員が参加しました。"
 
 #: admin_panel/templates/admin_panel/index.html:175
 #: admin_panel/templates/admin_panel/index.html:202
 msgid ""
-"2017年2月12日，雪佛兰2017新车发布会采用“燃爆百万热卡”概念，让全国600"
-"家4S店超过30000客户共同健走，3天达成100万热卡消耗。通过“百万热卡”这"
-"一概念，为新车发布获得了空前的关注度。"
+"2017年2月12日，雪佛兰2017新车发布会采用“燃爆百万热卡”概念，让全国600家4S店超"
+"过30000客户共同健走，3天达成100万热卡消耗。通过“百万热卡”这一概念，为新车发布"
+"获得了空前的关注度。"
 msgstr ""
-"2017年2月12日、シボレー2017新車発表会において「Burning Explosion 100"
-"万カロリー」というコンセプトが採用され、全国600店舗で3万人以上のお客"
-"様がウォーキングイベントに参加し、3日間で100万カロリー消費を達成しま"
-"した。このコンセプトにより、新車発表会はこれまでにないほどの注目を集"
-"めることに成功しました。"
+"2017年2月12日、シボレー2017新車発表会において「Burning Explosion 100万カロ"
+"リー」というコンセプトが採用され、全国600店舗で3万人以上のお客様がウォーキン"
+"グイベントに参加し、3日間で100万カロリー消費を達成しました。このコンセプトに"
+"より、新車発表会はこれまでにないほどの注目を集めることに成功しました。"
 
 #: admin_panel/templates/admin_panel/index.html:180
 #: admin_panel/templates/admin_panel/index.html:207
 msgid ""
-"2014年-2016年，中国电信上海公司，连续3年使用企业咕咚app开展“移动正能"
-"量”健走活动，将运动与业务职责相结合，超过12000名企业员工加入。上海电"
-"信通过借助企业咕咚，对全市的员工进行运动管理，让运动无疆无界！"
+"2014年-2016年，中国电信上海公司，连续3年使用企业咕咚app开展“移动正能量”健走活"
+"动，将运动与业务职责相结合，超过12000名企业员工加入。上海电信通过借助企业咕"
+"咚，对全市的员工进行运动管理，让运动无疆无界！"
 msgstr ""
-"中国電信上海は、2014年から2016年にかけて3年連続、運動と職務を関連付"
-"けた「ムービング・ポジティブエネルギー」ウォーキングイベントを実施"
-"し、12,000人以上の従業員がこれに参加しました。上海電信はアプリを利用"
-"し従業員の健康増進をすすめ、運動を無限に！"
+"中国電信上海は、2014年から2016年にかけて3年連続、運動と職務を関連付けた「ムー"
+"ビング・ポジティブエネルギー」ウォーキングイベントを実施し、12,000人以上の従"
+"業員がこれに参加しました。上海電信はアプリを利用し従業員の健康増進をすすめ、"
+"運動を無限に！"
 
 #: admin_panel/templates/admin_panel/index.html:185
 msgid ""
-"2016年，中国邮政集团公司云南省分公司工会开展“第三届职工体育健身年”系"
-"列活动，借助企业咕咚在下辖的州、市20个基层工会开展“健步走”活动，超过"
-"8500名邮政员工加入运动，通过健走培养员工的运动习惯。"
+"2016年，中国邮政集团公司云南省分公司工会开展“第三届职工体育健身年”系列活动，"
+"借助企业咕咚在下辖的州、市20个基层工会开展“健步走”活动，超过8500名邮政员工加"
+"入运动，通过健走培养员工的运动习惯。"
 msgstr ""
-"中国郵政グループ雲南支店は、2016年に「第3回職員フィットネスイヤー」"
-"イベントを展開し、管轄区域の20の州と市にわたる郵便局の従業員8,500人"
-"以上によるウォーキングを行いました。ウォーキングを通して従業員の運動"
-"習慣を育成しています。"
+"中国郵政グループ雲南支店は、2016年に「第3回職員フィットネスイヤー」イベントを"
+"展開し、管轄区域の20の州と市にわたる郵便局の従業員8,500人以上によるウォーキン"
+"グを行いました。ウォーキングを通して従業員の運動習慣を育成しています。"
 
 #: admin_panel/templates/admin_panel/index.html:190
 msgid ""
-"2017年正值百丽集团成立25周年，为了让全国百丽员工共同欢庆，利用企业咕"
-"咚开展“第二届百丽酷跑-线上赛”，130多个百丽城市跑团，超过40000百丽员"
-"工参与酷跑活动，一起用运动为集团喝彩。"
+"2017年正值百丽集团成立25周年，为了让全国百丽员工共同欢庆，利用企业咕咚开展“第"
+"二届百丽酷跑-线上赛”，130多个百丽城市跑团，超过40000百丽员工参与酷跑活动，一"
+"起用运动为集团喝彩。"
 msgstr ""
-"2017年、Belle Internationalは創立25周年にあわせ、「第2回Belleランニ"
-"ング - オンラインイベント」を開催しました。130以上のBelleランニング"
-"グループと4万人を超える社員がランニングイベントに参加し、運動を通し"
-"て会社を応援しました。"
+"2017年、Belle Internationalは創立25周年にあわせ、「第2回Belleランニング - オ"
+"ンラインイベント」を開催しました。130以上のBelleランニンググループと4万人を超"
+"える社員がランニングイベントに参加し、運動を通して会社を応援しました。"
 
 #: admin_panel/templates/admin_panel/index.html:216
 msgid "30000家企业的共同选择"
@@ -2338,79 +2455,79 @@ msgstr "ヘルプデスク&nbsp&nbsphelp@werunclub.net"
 msgid "商务合作&nbsp&nbsp18628003237"
 msgstr "業務提携&nbsp&nbspbusiness@werunclub.net"
 
-#: admin_panel/templates/admin_panel/index2.html:7
+#: admin_panel/templates/admin_panel/index2.html:8
 msgid "企业咕咚"
 msgstr "WeRUN"
 
-#: admin_panel/templates/admin_panel/index2.html:29
+#: admin_panel/templates/admin_panel/index2.html:30
 msgid "&nbsp;进入后台"
 msgstr "管理者ページ"
 
-#: admin_panel/templates/admin_panel/index2.html:34
+#: admin_panel/templates/admin_panel/index2.html:35
 msgid "注册俱乐部"
 msgstr "クラブに登録"
 
-#: admin_panel/templates/admin_panel/index2.html:41
+#: admin_panel/templates/admin_panel/index2.html:42
 msgid "加入咕咚俱乐部的理由"
 msgstr "WeRUNクラブ参加のメリットとは"
 
-#: admin_panel/templates/admin_panel/index2.html:45
+#: admin_panel/templates/admin_panel/index2.html:46
 msgid "最创意的<br>团队建设方式"
 msgstr "最もクリエイティブな<br>グループ開設方法"
 
-#: admin_panel/templates/admin_panel/index2.html:46
+#: admin_panel/templates/admin_panel/index2.html:47
 msgid "分分钟提高团队战斗力，那都不是事儿！"
 msgstr "チームの力をどんどん高められる！"
 
-#: admin_panel/templates/admin_panel/index2.html:50
+#: admin_panel/templates/admin_panel/index2.html:51
 msgid "最聪明的<br>企业人员管理"
 msgstr "最もスマートな<br>チームメンバー管理"
 
-#: admin_panel/templates/admin_panel/index2.html:51
+#: admin_panel/templates/admin_panel/index2.html:52
 msgid "人再多,5分钟轻松加入所有小伙伴"
 msgstr "大人数でも"
 
-#: admin_panel/templates/admin_panel/index2.html:55
+#: admin_panel/templates/admin_panel/index2.html:56
 msgid "最智能的<br>数据管理系统"
 msgstr "最もスマートな<br>データ管理システム"
 
-#: admin_panel/templates/admin_panel/index2.html:56
+#: admin_panel/templates/admin_panel/index2.html:57
 msgid "轻松建立员工健康运动档案！"
 msgstr "従業員の運動データを簡単に作成！"
 
-#: admin_panel/templates/admin_panel/index2.html:63
+#: admin_panel/templates/admin_panel/index2.html:64
 msgid "这些团队已入驻咕咚俱乐部"
 msgstr "以下のグループがWeRUNクラブに参加しています"
 
-#: admin_panel/templates/admin_panel/index2.html:73
+#: admin_panel/templates/admin_panel/index2.html:74
 msgid "关于我们"
 msgstr "会社概要"
 
-#: admin_panel/templates/admin_panel/index2.html:74
+#: admin_panel/templates/admin_panel/index2.html:75
 msgid "咕咚产品"
 msgstr "WeRUN製品"
 
-#: admin_panel/templates/admin_panel/index2.html:75
+#: admin_panel/templates/admin_panel/index2.html:76
 msgid "手机应用"
 msgstr "APP"
 
-#: admin_panel/templates/admin_panel/index2.html:76
+#: admin_panel/templates/admin_panel/index2.html:77
 msgid "同步软件"
 msgstr "同期ソフトウェア"
 
-#: admin_panel/templates/admin_panel/index2.html:77
+#: admin_panel/templates/admin_panel/index2.html:78
 msgid "咕咚开放平台"
 msgstr "オープンプラットフォーム"
 
-#: admin_panel/templates/admin_panel/index2.html:78
+#: admin_panel/templates/admin_panel/index2.html:79
 msgid "咕咚ROM"
 msgstr "WeRUN ROM"
 
-#: admin_panel/templates/admin_panel/index2.html:81
+#: admin_panel/templates/admin_panel/index2.html:82
 msgid "Copyright © 2011-2016 Codoon&nbsp;&nbsp;蜀ICP备12014086号"
 msgstr "Copyright © 2011-2018 WeRUN&nbsp;&nbsp;(powered by CODOON)"
 
-#: admin_panel/templates/admin_panel/index2.html:108
+#: admin_panel/templates/admin_panel/index2.html:109
 msgid "请输入正确的邮箱格式"
 msgstr "正しい形式のメールアドレスを入力してください"
 
@@ -2424,17 +2541,14 @@ msgid "邀请新成员加入"
 msgstr "友達を招待"
 
 #: admin_panel/templates/admin_panel/invite_members.html:24
-msgid ""
-"你可以通过邮件邀请公司员工加入，你也可以下载二维码和密码邀请成员加入"
+msgid "你可以通过邮件邀请公司员工加入，你也可以下载二维码和密码邀请成员加入"
 msgstr ""
-"仲間をEメールで招待してください。QRコードとパスワードをダウンロード"
-"して招待することも可能です"
+"仲間をEメールで招待してください。QRコードとパスワードをダウンロードして招待す"
+"ることも可能です"
 
 #: admin_panel/templates/admin_panel/invite_members.html:26
-msgid ""
-"&nbsp;&nbsp;&nbsp;&nbsp;企业咕咚成员邀请邮件&nbsp;&nbsp;&nbsp;&nbsp;"
-msgstr ""
-"&nbsp;&nbsp;&nbsp;&nbsp;WeRUN会員招待メール&nbsp;&nbsp;&nbsp;&nbsp;"
+msgid "&nbsp;&nbsp;&nbsp;&nbsp;企业咕咚成员邀请邮件&nbsp;&nbsp;&nbsp;&nbsp;"
+msgstr "&nbsp;&nbsp;&nbsp;&nbsp;WeRUN会員招待メール&nbsp;&nbsp;&nbsp;&nbsp;"
 
 #: admin_panel/templates/admin_panel/invite_members.html:34
 msgid "点击查看邮件详情"
@@ -2463,9 +2577,7 @@ msgstr "メールアドレス入力"
 #: admin_panel/templates/admin_panel/invite_members.html:70
 #, python-format
 msgid "请输入邮箱地址，发送邀请邮件 %(current_user_memeber.email)s"
-msgstr ""
-"メールアドレスを入力、招待メールを送信 "
-"%(current_user_memeber.email)s"
+msgstr "メールアドレスを入力、招待メールを送信 %(current_user_memeber.email)s"
 
 #: admin_panel/templates/admin_panel/login.html:12
 msgid "登录-企业咕咚"
@@ -2567,12 +2679,12 @@ msgstr "この管理者権限を取り消しますか？"
 #: admin_panel/templates/admin_panel/member_detail.html:127
 #, python-format
 msgid ""
-"你确定取消“%(member.name)s”在“%(admin_target_name)s”的管理员身份？此"
-"操作不能撤销，如确认取消，请点击“确定”。"
+"你确定取消“%(member.name)s”在“%(admin_target_name)s”的管理员身份？此操作不能"
+"撤销，如确认取消，请点击“确定”。"
 msgstr ""
-"本当に“%(member.name)s”の“%(admin_target_name)s”での管理者権限をなく"
-"しますか？この操作は取り消しできません。確定する場合は「はい」をク"
-"リックしてください。"
+"本当に“%(member.name)s”の“%(admin_target_name)s”での管理者権限をなくします"
+"か？この操作は取り消しできません。確定する場合は「はい」をクリックしてくださ"
+"い。"
 
 #: admin_panel/templates/admin_panel/member_detail.html:144
 msgid "确定删除该成员？"
@@ -2581,11 +2693,10 @@ msgstr "このメンバーを削除しますか？"
 #: admin_panel/templates/admin_panel/member_detail.html:147
 #, python-format
 msgid ""
-"你确定将“%(member.name)s”删除？此操作不能撤销，如确认删除，请点击“删"
-"除成员”。"
+"你确定将“%(member.name)s”删除？此操作不能撤销，如确认删除，请点击“删除成员”。"
 msgstr ""
-"“%(member.name)s”を削除しますか？この操作は取り消しできません。確定"
-"する場合は「はい」をクリックしてください。"
+"“%(member.name)s”を削除しますか？この操作は取り消しできません。確定する場合は"
+"「はい」をクリックしてください。"
 
 #: admin_panel/templates/admin_panel/member_index.html:15
 #, python-format
@@ -2598,12 +2709,10 @@ msgstr "名の仲間が参加しました"
 
 #: admin_panel/templates/admin_panel/member_index.html:49
 #, python-format
-msgid ""
-"还没有成员加入，<a href=\"%(send_invitation_url)s\">点击此邀请成员</"
-"a>"
+msgid "还没有成员加入，<a href=\"%(send_invitation_url)s\">点击此邀请成员</a>"
 msgstr ""
-"まだメンバーがいません。<a href=\"%(send_invitation_url)s\">メンバー"
-"を招待する</a>"
+"まだメンバーがいません。<a href=\"%(send_invitation_url)s\">メンバーを招待す"
+"る</a>"
 
 #: admin_panel/templates/admin_panel/member_index.html:58
 msgid "查看所有成员"
@@ -2633,11 +2742,11 @@ msgstr "管理者を追加"
 #: admin_panel/templates/admin_panel/member_index.html:79
 #, python-format
 msgid ""
-"还没有设置,<a href=\"%(member_search_url)s?type=admin\">点此邀请管理"
-"员加入!</a>"
+"还没有设置,<a href=\"%(member_search_url)s?type=admin\">点此邀请管理员加入!</"
+"a>"
 msgstr ""
-"まだ設定されていません。<a href=\"%(member_search_url)s?type=admin"
-"\">管理者を招待する</a>"
+"まだ設定されていません。<a href=\"%(member_search_url)s?type=admin\">管理者を"
+"招待する</a>"
 
 #: admin_panel/templates/admin_panel/member_index.html:109
 msgid "推送目标："
@@ -2717,16 +2826,11 @@ msgstr "名メンバーの部門を修正："
 #: admin_panel/templates/admin_panel/member_list_admin_iframe.html:22
 #, python-format
 msgid ""
-"还没有设置管理员,<a href=\"%(member_search_url)s?type=admin\" "
-"target=\"_blank\">点此开始设置吧!</a>"
+"还没有设置管理员,<a href=\"%(member_search_url)s?type=admin\" target=\"_blank"
+"\">点此开始设置吧!</a>"
 msgstr ""
-"管理者を設定していません。<a href=\"%(member_search_url)s?type=admin"
-"\" target=\"_blank\">設定しよう！</a>"
-
-#: admin_panel/templates/admin_panel/member_list_admin_iframe.html:40
-#: admin_panel/templates/admin_panel/register_initialization.html:48
-msgid "手机号"
-msgstr "携帯番号"
+"管理者を設定していません。<a href=\"%(member_search_url)s?type=admin\" "
+"target=\"_blank\">設定しよう！</a>"
 
 #: admin_panel/templates/admin_panel/member_list_admin_iframe.html:41
 msgid "管理权限"
@@ -2748,11 +2852,11 @@ msgstr "メンバーがいません"
 #: admin_panel/templates/admin_panel/member_list_member_iframe.html:42
 #, python-format
 msgid ""
-"还没有成员, <a href=\"%(send_invitation_url)s\" target=\"_blank\">点"
-"此开始添加吧!</a>"
+"还没有成员, <a href=\"%(send_invitation_url)s\" target=\"_blank\">点此开始添"
+"加吧!</a>"
 msgstr ""
-"メンバーがいません。 <a href=\"%(send_invitation_url)s\" target="
-"\"_blank\">追加しよう！</a>"
+"メンバーがいません。 <a href=\"%(send_invitation_url)s\" target=\"_blank\">追"
+"加しよう！</a>"
 
 #: admin_panel/templates/admin_panel/mobile_help.html:7
 msgid "如何开始俱乐部"
@@ -2768,11 +2872,11 @@ msgstr "WeRUN APPを開く-発見-クラブ"
 
 #: admin_panel/templates/admin_panel/mobile_help.html:33
 msgid ""
-"输入俱乐部ID和密码或扫描俱乐部二维码加入，俱乐部密码可向所要加入的俱"
-"乐部管理员索取"
+"输入俱乐部ID和密码或扫描俱乐部二维码加入，俱乐部密码可向所要加入的俱乐部管理"
+"员索取"
 msgstr ""
-"クラブIDとパスワードを入力するか、QRコードをスキャンして参加します。"
-"クラブパスワードは全てのクラブ管理者から入手できます"
+"クラブIDとパスワードを入力するか、QRコードをスキャンして参加します。クラブパ"
+"スワードは全てのクラブ管理者から入手できます"
 
 #: admin_panel/templates/admin_panel/mobile_help.html:41
 msgid "如何创建俱乐部"
@@ -2780,11 +2884,11 @@ msgstr "クラブの開設方法について"
 
 #: admin_panel/templates/admin_panel/mobile_help.html:45
 msgid ""
-"进入网址：http://club.codoon.com/ 输入邮箱，点击注册俱乐部 查看邮件"
-"验证邮箱，点击按钮进入俱乐部后台"
+"进入网址：http://club.codoon.com/ 输入邮箱，点击注册俱乐部 查看邮件验证邮箱，"
+"点击按钮进入俱乐部后台"
 msgstr ""
-"サイト：https://werunclub.net/ メールアドレスを入力し、クラブに登"
-"録　メールを確認し、Eメール認証した後、クラブ管理ページへ"
+"サイト：https://werunclub.net/ メールアドレスを入力し、クラブに登録　メールを"
+"確認し、Eメール認証した後、クラブ管理ページへ"
 
 #: admin_panel/templates/admin_panel/mobile_help.html:49
 msgid "查看邮件验证邮箱，点击按钮进入俱乐部后台"
@@ -2802,15 +2906,14 @@ msgstr "組織、部門及びチームを設定"
 msgid "完成注册"
 msgstr "登録完了"
 
-#: admin_panel/templates/admin_panel/msg.html:25
+#: admin_panel/templates/admin_panel/msg.html:27
 msgid "&nbsp;&nbsp;现在还没有系统消息"
 msgstr "&nbsp;&nbsp;システムからの通知はありません"
 
-#: admin_panel/templates/admin_panel/msg.html:30
+#: admin_panel/templates/admin_panel/msg.html:32
 msgid "&nbsp;&nbsp;系统消息用户提醒成员加入和活动发起状态"
 msgstr ""
-"システムからの通知は、会員に新メンバーの参加やイベントの開設をお知ら"
-"せします"
+"システムからの通知は、会員に新メンバーの参加やイベントの開設をお知らせします"
 
 #: admin_panel/templates/admin_panel/no_club.html:12
 msgid "未授权-俱乐部"
@@ -2819,52 +2922,23 @@ msgstr "未承認-クラブ"
 #: admin_panel/templates/admin_panel/no_club.html:33
 msgid "您尚未创建俱乐部，无权查看此页面！"
 msgstr ""
-"あなたはまだクラブを開設していないため、このページをみることはできま"
-"せん。"
+"あなたはまだクラブを開設していないため、このページをみることはできません。"
 
 #: admin_panel/templates/admin_panel/no_club.html:34
 msgid "请联系俱乐部管理员，或使用邮箱去首页注册并创建新俱乐部。"
 msgstr ""
-"クラブ管理者に連絡するか、Eメールの登録トップ画面から新しいクラブを"
-"開設してください。"
+"クラブ管理者に連絡するか、Eメールの登録トップ画面から新しいクラブを開設してく"
+"ださい。"
 
 #: admin_panel/templates/admin_panel/no_club.html:38
 msgid "去首页注册"
 msgstr "登録トップ画面へ"
 
-#: admin_panel/templates/admin_panel/register.html:13
-msgid "注册-俱乐部"
-msgstr "登録-クラブ"
-
-#: admin_panel/templates/admin_panel/register.html:33
-msgid "欢迎注册咕咚俱乐部"
-msgstr "WeRUNクラブの登録画面へようこそ"
-
 #: admin_panel/templates/admin_panel/register.html:35
 msgid "您的邮箱已经注册咕咚帐号，输入咕咚帐号密码即可注册俱乐部"
 msgstr ""
-"あなたのEメールはすでに登録済みです。WeRUNアカウントとパスワードを入"
-"力してクラブに登録してください"
-
-#: admin_panel/templates/admin_panel/register.html:41
-msgid "邮箱"
-msgstr "メールアドレス"
-
-#: admin_panel/templates/admin_panel/register.html:42
-msgid "请输入密码"
-msgstr "パスワードを入力"
-
-#: admin_panel/templates/admin_panel/register.html:44
-msgid "再输入一次密码"
-msgstr "パスワードを再入力"
-
-#: admin_panel/templates/admin_panel/register.html:48
-msgid "注册"
-msgstr "登録"
-
-#: admin_panel/templates/admin_panel/register.html:49
-msgid "忘记密码?"
-msgstr "パスワードを忘れた？"
+"あなたのEメールはすでに登録済みです。WeRUNアカウントとパスワードを入力してク"
+"ラブに登録してください"
 
 #: admin_panel/templates/admin_panel/register_initialization.html:11
 msgid "完善信息-俱乐部"
@@ -2872,8 +2946,7 @@ msgstr "情報入力-クラブ"
 
 #: admin_panel/templates/admin_panel/register_initialization.html:31
 msgid "欢迎创建咕咚俱乐部，现在花几分钟时间来完善俱乐部信息吧！"
-msgstr ""
-"WeRUNクラブ開設へようこそ、あと数分でクラブ情報を完成させよう！"
+msgstr "WeRUNクラブ開設へようこそ、あと数分でクラブ情報を完成させよう！"
 
 #: admin_panel/templates/admin_panel/register_initialization.html:36
 msgid "企业名称"
@@ -2949,16 +3022,15 @@ msgstr "「迷惑メール」の中をご確認ください"
 msgid "返回首页"
 msgstr "トップに戻る"
 
-#: admin_panel/templates/admin_panel/register_resend_mail.html:47
+#: admin_panel/templates/admin_panel/register_resend_mail.html:46
 msgid "链接已失效，重新发送一封邮件吧"
-msgstr ""
-"リンクの有効期限が切れています。もう一度メールを送ってください"
+msgstr "リンクの有効期限が切れています。もう一度メールを送ってください"
 
-#: admin_panel/templates/admin_panel/register_resend_mail.html:51
+#: admin_panel/templates/admin_panel/register_resend_mail.html:50
 msgid "重发邮件"
 msgstr "メールを再送"
 
-#: admin_panel/templates/admin_panel/register_resend_mail.html:53
+#: admin_panel/templates/admin_panel/register_resend_mail.html:52
 msgid "<span class=\"countdown-time\">60</span>秒后重发"
 msgstr "<span class=\"countdown-time\">60</span>秒後に再送"
 
@@ -3025,8 +3097,7 @@ msgstr "ランキングデータをエクスポート"
 #: admin_panel/templates/admin_panel/statistics_list.html:76
 msgid "你确定导出该部门下的数据吗？(该成绩是从本周一到现在的数据)"
 msgstr ""
-"この部門のデータをエクスポートしますか？ （月曜日から現在までのデー"
-"タです）"
+"この部門のデータをエクスポートしますか？ （月曜日から現在までのデータです）"
 
 #: admin_panel/templates/admin_panel/statistics_list.html:79
 msgid "导出部分日期的活动成绩"
@@ -3043,11 +3114,11 @@ msgstr "エクスポート"
 #: admin_panel/templates/admin_panel/statistics_list_iframe.html:42
 #, python-format
 msgid ""
-"还没有俱乐部成员,<a href=\"%(send_invitation_url)s\" target=\"_blank"
-"\">点此开始添加吧!</a>"
+"还没有俱乐部成员,<a href=\"%(send_invitation_url)s\" target=\"_blank\">点此开"
+"始添加吧!</a>"
 msgstr ""
-"まだクラブメンバーがいません。<a href=\"%(send_invitation_url)s\" "
-"target=\"_blank\">追加しよう！</a>"
+"まだクラブメンバーがいません。<a href=\"%(send_invitation_url)s\" target="
+"\"_blank\">追加しよう！</a>"
 
 #: admin_panel/views/activity.py:144 admin_panel/views/activity.py:340
 msgid "结束时间不能早于开始时间"
@@ -3102,14 +3173,20 @@ msgstr "操作に失敗: %s"
 msgid "操作失败，请稍后重试"
 msgstr "操作に失敗しました。後ほど再度お試しください"
 
-#: admin_panel/views/auth.py:44 admin_panel/views/auth.py:84
-#: admin_panel/views/auth.py:89
+#: admin_panel/views/auth.py:59 admin_panel/views/auth.py:99
+#: admin_panel/views/auth.py:104 admin_panel/views/auth.py:160
 msgid "登录失败"
 msgstr "登録できませんでした"
 
-#: admin_panel/views/auth.py:61
+#: admin_panel/views/auth.py:76 admin_panel/views/auth.py:137
 msgid "认证失败"
 msgstr "認証できませんでした"
+
+#: admin_panel/views/auth.py:126
+#, fuzzy
+#| msgid "密码不能为空"
+msgid "用户名和密码不能为空"
+msgstr "パスワードを入力してください"
 
 #: admin_panel/views/club.py:139
 msgid "密码不能为空"
@@ -3119,8 +3196,14 @@ msgstr "パスワードを入力してください"
 msgid "没有指定接收用户"
 msgstr "受信アカウントを設定してください"
 
+#: admin_panel/views/club.py:383
+#, fuzzy
+#| msgid "俱乐部成员"
+msgid "俱乐部成员邀请"
+msgstr "会員数"
+
 #: admin_panel/views/club.py:405 admin_panel/views/club.py:410
-#: admin_panel/views/club.py:415 admin_panel/views/common.py:117
+#: admin_panel/views/club.py:415 admin_panel/views/common.py:120
 msgid "发送失败，请稍后再试"
 msgstr "送信できませんでした。後ほど再度お試しください"
 
@@ -3130,14 +3213,13 @@ msgstr "携帯認証コードを入力してください"
 
 #: admin_panel/views/club_register.py:136
 msgid "校验手机验证码失败，请稍后再试"
-msgstr ""
-"携帯認証コードを確認できませんでした。後ほど再度お試しください"
+msgstr "携帯認証コードを確認できませんでした。後ほど再度お試しください"
 
 #: admin_panel/views/club_register.py:139
 msgid "验证码和手机号码不匹配"
 msgstr "認証コードと携帯番号が一致しません"
 
-#: admin_panel/views/common.py:107
+#: admin_panel/views/common.py:110
 msgid "手机号码不能为空"
 msgstr "携帯番号を入力してください"
 
@@ -3194,3 +3276,11 @@ msgstr "部門を入力してください"
 #: admin_panel/views/member.py:651
 msgid "部门ID有误"
 msgstr "部門IDエラー"
+
+#, fuzzy
+#~| msgid "请在“垃圾邮件”中查找"
+#~ msgid "请在“垃圾邮件”中查找</p>"
+#~ msgstr "「迷惑メール」の中をご確認ください"
+
+#~ msgid "{"
+#~ msgstr "{"
