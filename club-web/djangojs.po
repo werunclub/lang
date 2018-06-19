@@ -7,19 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-16 16:23+0800\n"
+"POT-Creation-Date: 2018-06-19 22:42+0900\n"
 "PO-Revision-Date: 2018-06-10 02:25+0900\n"
-"Language: ja_JP\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.0.6\n"
 
@@ -146,6 +142,7 @@ msgid "活动名称不能为空"
 msgstr "イベント名を入力してください"
 
 #: static/script/admin_panel/activity.js:910
+#: statics/script/admin_panel/activity.js:910
 msgid "活动名称最长32个字符，最短2个字符"
 msgstr "イベント名は2文字以上、32文字以下にしてください"
 
@@ -155,12 +152,9 @@ msgid "请填写活动目标里程"
 msgstr "イベント目標距離を入力してください"
 
 #: static/script/admin_panel/activity.js:926
-msgid ""
-"活动目标里程必须为数字，且不能为0，最大值为 999999999，必"
-"须是整数"
-msgstr ""
-"イベント目標距離は1以上、999999999以下の整数にしてくださ"
-"い"
+#: statics/script/admin_panel/activity.js:926
+msgid "活动目标里程必须为数字，且不能为0，最大值为 999999999，必须是整数"
+msgstr "イベント目標距離は1以上、999999999以下の整数にしてください"
 
 #: static/script/admin_panel/activity.js:941
 #: statics/script/admin_panel/activity.js:941
@@ -183,6 +177,7 @@ msgid "您还没有选择部门"
 msgstr "部門を選択してください"
 
 #: static/script/admin_panel/activity.js:969
+#: statics/script/admin_panel/activity.js:969
 msgid "当前选择的部门没有成员，不能建立活动"
 msgstr "選択した部門にメンバーがいないため、イベントを作成することができません"
 
@@ -213,6 +208,9 @@ msgstr "正しい画像ファイルを選択してください"
 #: static/script/admin_panel/activity.js:1324
 #: static/script/admin_panel/club_setting.js:76
 #: static/script/admin_panel/register_admin.js:303
+#: statics/script/admin_panel/activity.js:1324
+#: statics/script/admin_panel/club_setting.js:76
+#: statics/script/admin_panel/register_admin.js:303
 msgid "只支持BMP、JPEG、PNG、JPG、GIF格式的图片"
 msgstr "BMP、JPEG、PNG、JPG、GIF形式の画像しか使えません"
 
@@ -226,6 +224,8 @@ msgid "请选择小于5M的图片"
 msgstr "画像は5MB以内にしてください"
 
 #: static/script/admin_panel/activity.js:1348
+#: statics/script/admin_panel/activity.js:1348
+#, javascript-format
 msgid "上传失败:%s"
 msgstr "アップロードエラー:%s"
 
@@ -236,10 +236,11 @@ msgstr "アップロードエラー:%s"
 #: statics/script/admin_panel/club_setting.js:113
 #: statics/script/admin_panel/register_admin.js:335
 msgid "服务器错误，请联系客服"
-msgstr ""
-"サーバーエラー、ヘルプデスクにお問い合わせください。"
+msgstr "サーバーエラー、ヘルプデスクにお問い合わせください。"
 
 #: static/script/admin_panel/activity.js:1378
+#: statics/script/admin_panel/activity.js:1378
+#, javascript-format
 msgid "约为%s步"
 msgstr "約%s歩"
 
@@ -290,10 +291,10 @@ msgid "删除失败,"
 msgstr "削除できませんでした。"
 
 #: static/script/admin_panel/activity_detail.js:138
+#: statics/script/admin_panel/activity_detail.js:138
 msgid "删除失败,服务器繁忙,请稍后再试"
 msgstr ""
-"削除できませんでした。サーバーがビジー状態のため、後ほど"
-"再度お試しください"
+"削除できませんでした。サーバーがビジー状態のため、後ほど再度お試しください"
 
 #: static/script/admin_panel/activity_detail.js:150
 #: statics/script/admin_panel/activity_detail.js:150
@@ -301,9 +302,9 @@ msgid "删除活动"
 msgstr "イベントを削除"
 
 #: static/script/admin_panel/activity_detail.js:150
+#: statics/script/admin_panel/activity_detail.js:150
 msgid "你确定删除此活动吗，一旦删除将无法恢复!"
-msgstr ""
-"削除されたイベントはリストアできません！削除しますか？"
+msgstr "削除されたイベントはリストアできません！削除しますか？"
 
 #: static/script/admin_panel/activity_detail.js:168
 #: statics/script/admin_panel/activity_detail.js:168
@@ -318,12 +319,11 @@ msgstr "イベントをアーカイブ："
 #: static/script/admin_panel/activity_detail.js:183
 #: statics/script/admin_panel/activity_detail.js:183
 msgid ""
-"确认归档此活动？</p><p>该操作不可逆，您可以在已归档活动里"
-"查看所有已归档的活动。"
+"确认归档此活动？</p><p>该操作不可逆，您可以在已归档活动里查看所有已归档的活"
+"动。"
 msgstr ""
-"このイベントをアーカイブしますか？</p><p>この操作は取り消"
-"しできません。アーカイブ済みイベントにアーカイブされたす"
-"べてのイベントを閲覧することができます。"
+"このイベントをアーカイブしますか？</p><p>この操作は取り消しできません。アーカ"
+"イブ済みイベントにアーカイブされたすべてのイベントを閲覧することができます。"
 
 #: static/script/admin_panel/activity_detail.js:202
 #: statics/script/admin_panel/activity_detail.js:202
@@ -348,12 +348,11 @@ msgstr "このイベントの名称を入力してください"
 #: static/script/admin_panel/activity_guide.js:3
 #: statics/script/admin_panel/activity_guide.js:3
 msgid ""
-"选择活动的类型<br>团队赛：适合不同的部门组成团队进行竞技"
-"<br>个人赛：以个人为单位进行竞技<br>试一试选择团队赛!<br>"
+"选择活动的类型<br>团队赛：适合不同的部门组成团队进行竞技<br>个人赛：以个人为"
+"单位进行竞技<br>试一试选择团队赛!<br>"
 msgstr ""
-"イベント種類を選択<br>団体戦：異なる部門がチームを作って"
-"競い合う<br>個人戦：個人間で競い合う<br>団体戦を試してみ"
-"よう！<br>"
+"イベント種類を選択<br>団体戦：異なる部門がチームを作って競い合う<br>個人戦："
+"個人間で競い合う<br>団体戦を試してみよう！<br>"
 
 #: static/script/admin_panel/activity_guide.js:4
 #: statics/script/admin_panel/activity_guide.js:4

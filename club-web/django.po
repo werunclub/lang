@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeRUN\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-15 16:58+0900\n"
+"POT-Creation-Date: 2018-06-19 22:42+0900\n"
 "PO-Revision-Date: 2018-06-15 16:57+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -2972,53 +2972,7 @@ msgstr "次へ"
 msgid "正在提交..."
 msgstr "送信中..."
 
-#: admin_panel/templates/admin_panel/register_notice.html:13
-#: admin_panel/templates/admin_panel/register_resend_mail.html:14
-msgid "验证邮箱-俱乐部"
-msgstr "Eメール認証-クラブ"
-
-#: admin_panel/templates/admin_panel/register_notice.html:33
-msgid "邮箱验证"
-msgstr "Eメール認証"
-
-#: admin_panel/templates/admin_panel/register_notice.html:36
-msgid ""
-"我们向您的邮箱发送了一封验证邮件，请点击邮箱查看链接并完成注册！"
-msgstr ""
-"あなたのメールアドレスへ確認メールを送信しました。メール内のURLをク"
-"リックして登録を完了してください。"
-
-#: admin_panel/templates/admin_panel/register_notice.html:40
-msgid "完成验证后，您可以："
-msgstr "認証完了後，以下のことができます："
-
-#: admin_panel/templates/admin_panel/register_notice.html:43
-msgid "1.创建俱乐部"
-msgstr "1.クラブの開設"
-
-#: admin_panel/templates/admin_panel/register_notice.html:46
-msgid "2.发起活动"
-msgstr "2.イベントの作成"
-
-#: admin_panel/templates/admin_panel/register_notice.html:49
-msgid "3.邀请新成员加入"
-msgstr "3.新メンバーを招待"
-
-#: admin_panel/templates/admin_panel/register_notice.html:54
-msgid "前往邮箱"
-msgstr "Eメールに戻る"
-
-#: admin_panel/templates/admin_panel/register_notice.html:57
-msgid "如果多次未收到邮件，我们可能被您的邮箱误判为“垃圾邮件”，"
-msgstr ""
-"Eメールを受信できない場合は、あなたのEメールは「迷惑メール」と認識さ"
-"れた可能性があります。"
-
-#: admin_panel/templates/admin_panel/register_notice.html:58
-msgid "请在“垃圾邮件”中查找"
-msgstr "「迷惑メール」の中をご確認ください"
-
-#: admin_panel/templates/admin_panel/register_resend_mail.html:40
+#: admin_panel/templates/admin_panel/register_resend_mail.html:39
 msgid "返回首页"
 msgstr "トップに戻る"
 
