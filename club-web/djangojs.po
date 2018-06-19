@@ -7,44 +7,35 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-15 16:48+0900\n"
+"POT-Creation-Date: 2018-03-16 16:23+0800\n"
 "PO-Revision-Date: 2018-06-10 02:25+0900\n"
-"Last-Translator: \n"
-"Language-Team: \n"
 "Language: ja_JP\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "X-Generator: Poedit 2.0.6\n"
 
 #: mobile_compatible/static/js/jquery/dist/jquery.min_44f71380.js:3
 #: mobile_compatible/static/js/jquery/dist/jquery_e5581654.js:3
-#: statics/js/jquery/dist/jquery.min_44f71380.js:3
-#: statics/js/jquery/dist/jquery_e5581654.js:3
 msgid "show"
 msgstr "show"
 
 #: mobile_compatible/static/js/jquery/dist/jquery.min_44f71380.js:3
 #: mobile_compatible/static/js/jquery/dist/jquery_e5581654.js:3
-#: statics/js/jquery/dist/jquery.min_44f71380.js:3
-#: statics/js/jquery/dist/jquery_e5581654.js:3
 msgid "hide"
 msgstr "hide"
 
 #: mobile_compatible/static/js/jquery/dist/jquery.min_44f71380.js:3
 #: mobile_compatible/static/js/jquery/dist/jquery_e5581654.js:3
-#: statics/js/jquery/dist/jquery.min_44f71380.js:3
-#: statics/js/jquery/dist/jquery_e5581654.js:3
 msgid "toggle"
 msgstr "toggle"
 
 #: static/script/admin_panel/activity.js:89
 #: static/script/admin_panel/memberPermiss.js:101
 #: static/script/admin_panel/memberPermiss.js:126
-#: statics/script/admin_panel/activity.js:89
-#: statics/script/admin_panel/memberPermiss.js:101
-#: statics/script/admin_panel/memberPermiss.js:126
 msgid "所有"
 msgstr "すべて"
 
@@ -53,1050 +44,867 @@ msgstr "すべて"
 #: static/script/admin_panel/activity.js:1127
 #: static/script/admin_panel/memberPermiss.js:241
 #: static/script/admin_panel/member_list.js:153
-#: statics/script/admin_panel/activity.js:127
-#: statics/script/admin_panel/activity.js:378
-#: statics/script/admin_panel/activity.js:1127
-#: statics/script/admin_panel/memberPermiss.js:241
-#: statics/script/admin_panel/member_list.js:153
 msgid "请选择"
 msgstr "選択してください"
 
 #: static/script/admin_panel/activity.js:341
-#: statics/script/admin_panel/activity.js:341
 msgid "该部门下没有成员哦!"
 msgstr "この部門にはまだメンバーはいませんよ！"
 
 #: static/script/admin_panel/activity.js:423
-#: statics/script/admin_panel/activity.js:423
 msgid "您还有未选择确定的部门"
 msgstr "確定を選択していない部門があります"
 
 #: static/script/admin_panel/activity.js:443
-#: statics/script/admin_panel/activity.js:443
 msgid "队伍人员不能为空"
 msgstr "チームメンバーは1人以上指定してください"
 
 #: static/script/admin_panel/activity.js:448
 #: static/script/admin_panel/activity.js:794
 #: static/script/admin_panel/activity.js:859
-#: statics/script/admin_panel/activity.js:448
-#: statics/script/admin_panel/activity.js:794
-#: statics/script/admin_panel/activity.js:859
 msgid "队伍名称不能为空"
 msgstr "チーム名を入力してください"
 
 #: static/script/admin_panel/activity.js:452
 #: static/script/admin_panel/activity.js:798
 #: static/script/admin_panel/activity.js:862
-#: statics/script/admin_panel/activity.js:452
-#: statics/script/admin_panel/activity.js:798
-#: statics/script/admin_panel/activity.js:862
 msgid "队伍名称必须是字母、数字或者中文"
-msgstr "チーム名にはアルファベット、数字または日本語を入力してください"
+msgstr ""
+"チーム名にはアルファベット、数字または日本語を入力してく"
+"ださい"
 
 #: static/script/admin_panel/activity.js:458
-#: statics/script/admin_panel/activity.js:458
 msgid "还有队伍没有确认选择"
 msgstr "選択していないチームがあります"
 
 #: static/script/admin_panel/activity.js:466
 #: static/script/admin_panel/activity.js:803
 #: static/script/admin_panel/activity.js:868
-#: statics/script/admin_panel/activity.js:466
-#: statics/script/admin_panel/activity.js:803
-#: statics/script/admin_panel/activity.js:868
 msgid "队伍名称跟之前的重复，请修改"
 msgstr "チーム名が重複していますので、修正してください"
 
 #: static/script/admin_panel/activity.js:484
 #: static/script/admin_panel/activity.js:651
-#: statics/script/admin_panel/activity.js:484
-#: statics/script/admin_panel/activity.js:651
 msgid "您还没有选择队伍"
 msgstr "チームを選択してください"
 
 #: static/script/admin_panel/activity.js:487
-#: statics/script/admin_panel/activity.js:487
 msgid "不能选择没有成员的部门"
 msgstr "メンバーのいない部門は選択できません"
 
 #: static/script/admin_panel/activity.js:635
-#: statics/script/admin_panel/activity.js:635
 msgid "队伍名称跟已经添加的重复，请修改"
-msgstr "チーム名が追加した分と重複していますので、修正してください"
+msgstr ""
+"チーム名が追加した分と重複していますので、修正してくださ"
+"い"
 
 #: static/script/admin_panel/activity.js:727
-#: statics/script/admin_panel/activity.js:727
 msgid "队伍数不能超过总人数，且队伍数不能超过100"
-msgstr "チーム数は合計人数または100のどちらかを超えることができません"
+msgstr ""
+"チーム数は合計人数または100のどちらかを超えることができま"
+"せん"
 
 #: static/script/admin_panel/activity.js:753
-#: statics/script/admin_panel/activity.js:753
 msgid "您已经添加过了"
 msgstr "すでに追加されました"
 
 #: static/script/admin_panel/activity.js:905
-#: statics/script/admin_panel/activity.js:905
 msgid "活动名称不能为空"
 msgstr "イベント名を入力してください"
 
 #: static/script/admin_panel/activity.js:910
-#: statics/script/admin_panel/activity.js:910
 msgid "活动名称最长32个字符，最短2个字符"
 msgstr "イベント名は2文字以上、32文字以下にしてください"
 
 #: static/script/admin_panel/activity.js:921
-#: statics/script/admin_panel/activity.js:921
 msgid "请填写活动目标里程"
 msgstr "イベント目標距離を入力してください"
 
 #: static/script/admin_panel/activity.js:926
-#: statics/script/admin_panel/activity.js:926
-msgid "活动目标里程必须为数字，且不能为0，最大值为 999999999，必须是整数"
-msgstr "イベント目標距離は1以上、999999999以下の整数にしてください"
+msgid ""
+"活动目标里程必须为数字，且不能为0，最大值为 999999999，必"
+"须是整数"
+msgstr ""
+"イベント目標距離は1以上、999999999以下の整数にしてくださ"
+"い"
 
 #: static/script/admin_panel/activity.js:941
-#: statics/script/admin_panel/activity.js:941
 msgid "开始和结束时间不能为空"
 msgstr "開始時刻と終了時刻を入力してください"
 
 #: static/script/admin_panel/activity.js:946
-#: statics/script/admin_panel/activity.js:946
 msgid "结束时间不能小于开始时间"
 msgstr "終了時刻は開始時刻より後にしてください"
 
 #: static/script/admin_panel/activity.js:952
-#: statics/script/admin_panel/activity.js:952
 msgid "活动简介不能为空"
 msgstr "イベント紹介を入力してください"
 
 #: static/script/admin_panel/activity.js:960
-#: statics/script/admin_panel/activity.js:960
 msgid "您还没有选择部门"
 msgstr "部門を選択してください"
 
 #: static/script/admin_panel/activity.js:969
-#: statics/script/admin_panel/activity.js:969
 msgid "当前选择的部门没有成员，不能建立活动"
-msgstr "選択した部門にメンバーがいないため、イベントを作成することができません"
+msgstr ""
+"選択した部門にメンバーがいないため、イベントを作成するこ"
+"とができません"
 
 #: static/script/admin_panel/activity.js:973
-#: statics/script/admin_panel/activity.js:973
 msgid "请选择活动范围"
 msgstr "適用対象を選択してください"
 
 #: static/script/admin_panel/activity.js:1276
-#: statics/script/admin_panel/activity.js:1276
 msgid "修改活动失败: "
 msgstr "イベントは修正できませんでした: "
 
 #: static/script/admin_panel/activity.js:1278
-#: statics/script/admin_panel/activity.js:1278
 msgid "创建活动失败："
 msgstr "イベントを作成することができませんでした："
 
 #: static/script/admin_panel/activity.js:1320
 #: static/script/admin_panel/club_setting.js:72
 #: static/script/admin_panel/register_admin.js:299
-#: statics/script/admin_panel/activity.js:1320
-#: statics/script/admin_panel/club_setting.js:72
-#: statics/script/admin_panel/register_admin.js:299
 msgid "请选择正确的图片文件"
 msgstr "正しい画像ファイルを選択してください"
 
 #: static/script/admin_panel/activity.js:1324
 #: static/script/admin_panel/club_setting.js:76
 #: static/script/admin_panel/register_admin.js:303
-#: statics/script/admin_panel/activity.js:1324
-#: statics/script/admin_panel/club_setting.js:76
-#: statics/script/admin_panel/register_admin.js:303
 msgid "只支持BMP、JPEG、PNG、JPG、GIF格式的图片"
 msgstr "BMP、JPEG、PNG、JPG、GIF形式の画像しか使えません"
 
 #: static/script/admin_panel/activity.js:1333
 #: static/script/admin_panel/club_setting.js:84
 #: static/script/admin_panel/register_admin.js:311
-#: statics/script/admin_panel/activity.js:1333
-#: statics/script/admin_panel/club_setting.js:84
-#: statics/script/admin_panel/register_admin.js:311
 msgid "请选择小于5M的图片"
 msgstr "画像は5MB以内にしてください"
 
 #: static/script/admin_panel/activity.js:1348
-#: statics/script/admin_panel/activity.js:1348
-#, javascript-format
 msgid "上传失败:%s"
 msgstr "アップロードエラー:%s"
 
 #: static/script/admin_panel/activity.js:1355
 #: static/script/admin_panel/club_setting.js:113
 #: static/script/admin_panel/register_admin.js:335
-#: statics/script/admin_panel/activity.js:1355
-#: statics/script/admin_panel/club_setting.js:113
-#: statics/script/admin_panel/register_admin.js:335
 msgid "服务器错误，请联系客服"
-msgstr "サーバーエラー、ヘルプデスクにお問い合わせください。"
+msgstr ""
+"サーバーエラー、ヘルプデスクにお問い合わせください。"
 
 #: static/script/admin_panel/activity.js:1378
-#: statics/script/admin_panel/activity.js:1378
-#, javascript-format
 msgid "约为%s步"
 msgstr "約%s歩"
 
 #: static/script/admin_panel/activity.js:1380
-#: statics/script/admin_panel/activity.js:1380
 msgid "约为0步"
 msgstr "約0歩"
 
 #: static/script/admin_panel/activity_comments.js:104
 #: static/script/admin_panel/activity_detail.js:117
-#: statics/script/admin_panel/activity_comments.js:104
-#: statics/script/admin_panel/activity_detail.js:117
 msgid "删除留言"
 msgstr "コメントを削除"
 
 #: static/script/admin_panel/activity_comments.js:104
-#: statics/script/admin_panel/activity_comments.js:104
 msgid "确认要删除这些留言?"
 msgstr "コメントを削除しますか？"
 
 #: static/script/admin_panel/activity_comments.js:118
 #: static/script/admin_panel/activity_detail.js:131
-#: statics/script/admin_panel/activity_comments.js:118
-#: statics/script/admin_panel/activity_detail.js:131
 msgid "删除成功!"
 msgstr "削除しました！"
 
 #: static/script/admin_panel/activity_comments.js:139
-#: statics/script/admin_panel/activity_comments.js:139
 msgid "删除失败:"
 msgstr "削除できませんでした："
 
 #: static/script/admin_panel/activity_comments.js:143
 #: static/script/admin_panel/activity_detail.js:172
-#: statics/script/admin_panel/activity_comments.js:143
-#: statics/script/admin_panel/activity_detail.js:172
 msgid "删除失败,服务器繁忙"
 msgstr "削除できませんでした。サーバーがビジー状態。"
 
 #: static/script/admin_panel/activity_detail.js:117
-#: statics/script/admin_panel/activity_detail.js:117
 msgid "确认删除这些留言?"
 msgstr "コメントを削除しますか？"
 
 #: static/script/admin_panel/activity_detail.js:134
-#: statics/script/admin_panel/activity_detail.js:134
 msgid "删除失败,"
 msgstr "削除できませんでした。"
 
 #: static/script/admin_panel/activity_detail.js:138
-#: statics/script/admin_panel/activity_detail.js:138
 msgid "删除失败,服务器繁忙,请稍后再试"
 msgstr ""
-"削除できませんでした。サーバーがビジー状態のため、後ほど再度お試しください"
+"削除できませんでした。サーバーがビジー状態のため、後ほど"
+"再度お試しください"
 
 #: static/script/admin_panel/activity_detail.js:150
-#: statics/script/admin_panel/activity_detail.js:150
 msgid "删除活动"
 msgstr "イベントを削除"
 
 #: static/script/admin_panel/activity_detail.js:150
-#: statics/script/admin_panel/activity_detail.js:150
 msgid "你确定删除此活动吗，一旦删除将无法恢复!"
-msgstr "削除されたイベントはリストアできません！削除しますか？"
+msgstr ""
+"削除されたイベントはリストアできません！削除しますか？"
 
 #: static/script/admin_panel/activity_detail.js:168
-#: statics/script/admin_panel/activity_detail.js:168
 msgid "删除失败："
 msgstr "削除できませんでした："
 
 #: static/script/admin_panel/activity_detail.js:183
-#: statics/script/admin_panel/activity_detail.js:183
 msgid "归档活动："
 msgstr "イベントをアーカイブ："
 
 #: static/script/admin_panel/activity_detail.js:183
-#: statics/script/admin_panel/activity_detail.js:183
 msgid ""
-"确认归档此活动？</p><p>该操作不可逆，您可以在已归档活动里查看所有已归档的活"
-"动。"
+"确认归档此活动？</p><p>该操作不可逆，您可以在已归档活动里"
+"查看所有已归档的活动。"
 msgstr ""
-"このイベントをアーカイブしますか？</p><p>この操作は取り消しできません。アーカ"
-"イブ済みイベントにアーカイブされたすべてのイベントを閲覧することができます。"
+"このイベントをアーカイブしますか？</p><p>この操作は取り消"
+"しできません。アーカイブ済みイベントにアーカイブされたす"
+"べてのイベントを閲覧することができます。"
 
 #: static/script/admin_panel/activity_detail.js:202
-#: statics/script/admin_panel/activity_detail.js:202
 msgid "归档失败："
 msgstr "アーカイブできませんでした："
 
 #: static/script/admin_panel/activity_detail.js:206
-#: statics/script/admin_panel/activity_detail.js:206
 msgid "归档失败,服务器繁忙"
 msgstr "削除できませんでした。サーバーがビジー状態。"
 
 #: static/script/admin_panel/activity_detail.js:242
-#: statics/script/admin_panel/activity_detail.js:242
 msgid "更新活动详情失败: "
 msgstr "イベント詳細情報を更新できませんでした："
 
 #: static/script/admin_panel/activity_guide.js:2
-#: statics/script/admin_panel/activity_guide.js:2
 msgid "试试输入本活动的名称"
 msgstr "このイベントの名称を入力してください"
 
 #: static/script/admin_panel/activity_guide.js:3
-#: statics/script/admin_panel/activity_guide.js:3
 msgid ""
-"选择活动的类型<br>团队赛：适合不同的部门组成团队进行竞技<br>个人赛：以个人为"
-"单位进行竞技<br>试一试选择团队赛!<br>"
+"选择活动的类型<br>团队赛：适合不同的部门组成团队进行竞技"
+"<br>个人赛：以个人为单位进行竞技<br>试一试选择团队赛!<br>"
 msgstr ""
-"イベント種類を選択<br>団体戦：異なる部門がチームを作って競い合う<br>個人戦："
-"個人間で競い合う<br>団体戦を試してみよう！<br>"
+"イベント種類を選択<br>団体戦：異なる部門がチームを作って"
+"競い合う<br>個人戦：個人間で競い合う<br>団体戦を試してみ"
+"よう！<br>"
 
 #: static/script/admin_panel/activity_guide.js:4
-#: statics/script/admin_panel/activity_guide.js:4
 msgid ""
-"选择活动的时间，开始时间必须早于结束时间哦。<br>我们的时间以一天为单位的，请"
-"酌情选择。<br>"
+"选择活动的时间，开始时间必须早于结束时间哦。<br>我们的时"
+"间以一天为单位的，请酌情选择。<br>"
 msgstr ""
-"イベント開催期間を選択。終了時刻は開始時刻より後にしてください。<br>最小単位"
-"は1日。適切に設定してくださいね。<br>"
+"イベント開催期間を選択。終了時刻は開始時刻より後にしてく"
+"ださい。<br>最小単位は1日。適切に設定してくださいね。<br>"
 
 #: static/script/admin_panel/activity_guide.js:5
-#: statics/script/admin_panel/activity_guide.js:5
 msgid ""
-"丰富的活动描述，能够让你的成员玩儿的更嗨皮!<br>最好把活动大奖也写在活动描述里"
-"~<br>"
+"丰富的活动描述，能够让你的成员玩儿的更嗨皮!<br>最好把活动"
+"大奖也写在活动描述里~<br>"
 msgstr ""
-"魅力のあるイベント紹介文で参加者の興味を惹きましょう！<br>賞品を記載するのも"
-"おすすめです！<br>"
+"魅力のあるイベント紹介文で参加者の興味を惹きましょう！"
+"<br>賞品を記載するのもおすすめです！<br>"
 
 #: static/script/admin_panel/activity_guide.js:6
-#: statics/script/admin_panel/activity_guide.js:6
 msgid ""
-"上传漂亮的活动图片，能让你的活动增色百倍!<br>我们推荐的尺寸是200×200像素，请"
-"在选择图片时注意。<br>"
+"上传漂亮的活动图片，能让你的活动增色百倍!<br>我们推荐的尺"
+"寸是200×200像素，请在选择图片时注意。<br>"
 msgstr ""
-"きれいな写真をアップロードすることによってイベントをワンランク上に見せます！"
-"<br>お薦めサイズは200×200ピクセル。写真を選ぶときにご注意ください。<br>"
+"きれいな写真をアップロードすることによってイベントをワン"
+"ランク上に見せます！<br>お薦めサイズは200×200ピクセル。写"
+"真を選ぶときにご注意ください。<br>"
 
 #: static/script/admin_panel/activity_guide.js:7
-#: statics/script/admin_panel/activity_guide.js:7
 msgid ""
-"选择组队方式，我们为您提供两种组队方式。<br>按部门组队：将多个/单个部门组成团"
-"队<br>随机组队：随机分配所有俱乐部成员，进行组队<br>点击按部门组队试试吧!<br>"
+"选择组队方式，我们为您提供两种组队方式。<br>按部门组队："
+"将多个/单个部门组成团队<br>随机组队：随机分配所有俱乐部成"
+"员，进行组队<br>点击按部门组队试试吧!<br>"
 msgstr ""
-"チーム分けの方法は2種類あります。<br>部門別分け：一つまたは複数の部門をチーム"
-"にする<br>ランダム分け：全員をランダムにチームに配置する<br>クリックして部門"
-"別分けを試してみよう！<br>"
+"チーム分けの方法は2種類あります。<br>部門別分け：一つまた"
+"は複数の部門をチームにする<br>ランダム分け：全員をランダ"
+"ムにチームに配置する<br>クリックして部門別分けを試してみ"
+"よう！<br>"
 
 #: static/script/admin_panel/activity_guide.js:8
-#: statics/script/admin_panel/activity_guide.js:8
 msgid "输入团队名称<br>"
 msgstr "グループ名を入力してください"
 
 #: static/script/admin_panel/activity_guide.js:9
-#: statics/script/admin_panel/activity_guide.js:9
-msgid "点击加号，选择要组队的部门。<br>一个团队可以添加多个部门哦~<br>"
+msgid ""
+"点击加号，选择要组队的部门。<br>一个团队可以添加多个部门"
+"哦~<br>"
 msgstr ""
-"プラスボタンをタップしてチーム分けの対象部門を選択してください。<br>一つのグ"
-"ループに複数の部門を追加することができますよ！<br>"
+"プラスボタンをタップしてチーム分けの対象部門を選択してく"
+"ださい。<br>一つのグループに複数の部門を追加することがで"
+"きますよ！<br>"
 
 #: static/script/admin_panel/activity_guide.js:10
-#: statics/script/admin_panel/activity_guide.js:10
 msgid "保存团队<br>"
 msgstr "グループ情報を保存<br>"
 
 #: static/script/admin_panel/activity_guide.js:11
-#: statics/script/admin_panel/activity_guide.js:11
 msgid "最后一定要记得保存活动哦!<br>"
 msgstr "最後は必ずイベント情報を保存してくださいね！<br>"
 
 #: static/script/admin_panel/activity_guide.js:20
-#: statics/script/admin_panel/activity_guide.js:20
 msgid "好的"
 msgstr "了解"
 
 #: static/script/admin_panel/activity_score_fix.js:66
-#: statics/script/admin_panel/activity_score_fix.js:66
 msgid "抱歉，你没有修改活动数据的权限！"
 msgstr "イベントデータを編集する権限はありません！"
 
 #: static/script/admin_panel/activity_score_fix.js:78
-#: statics/script/admin_panel/activity_score_fix.js:78
 msgid "请输入合法的数字!"
 msgstr "正しい数字を入力してください！"
 
 #: static/script/admin_panel/activity_score_fix.js:84
-#: statics/script/admin_panel/activity_score_fix.js:84
 msgid "您还没有修改数据，请或修改后再提交！"
-msgstr "データーは変更されていません。変更後に再度操作してください！"
+msgstr ""
+"データーは変更されていません。変更後に再度操作してくださ"
+"い！"
 
 #: static/script/admin_panel/activity_score_fix.js:96
 #: static/script/admin_panel/activity_score_fix.js:143
-#: statics/script/admin_panel/activity_score_fix.js:96
-#: statics/script/admin_panel/activity_score_fix.js:143
 msgid "操作成功!"
 msgstr "操作に成功しました！"
 
 #: static/script/admin_panel/activity_score_fix.js:100
 #: static/script/admin_panel/activity_score_fix.js:147
-#: statics/script/admin_panel/activity_score_fix.js:100
-#: statics/script/admin_panel/activity_score_fix.js:147
 msgid "修改失败："
 msgstr "修正できませんでした："
 
 #: static/script/admin_panel/activity_score_fix.js:104
 #: static/script/admin_panel/activity_score_fix.js:151
-#: statics/script/admin_panel/activity_score_fix.js:104
-#: statics/script/admin_panel/activity_score_fix.js:151
 msgid "修改失败，服务器出错"
 msgstr "修正できませんでした。サーバーがビジー状態"
 
 #: static/script/admin_panel/activity_score_fix.js:108
 #: static/script/admin_panel/activity_score_fix.js:156
-#: statics/script/admin_panel/activity_score_fix.js:108
-#: statics/script/admin_panel/activity_score_fix.js:156
 msgid "修改失败，服务器繁忙，请稍后再试"
 msgstr ""
-"修正できませんでした。サーバーがビジー状態のため、後ほど再度お試しください"
+"修正できませんでした。サーバーがビジー状態のため、後ほど"
+"再度お試しください"
 
 #: static/script/admin_panel/activity_score_fix.js:119
-#: statics/script/admin_panel/activity_score_fix.js:119
 msgid "抱歉，你没有删除活动数据的权限！"
 msgstr "イベントデータを削除する権限はありません！"
 
 #: static/script/admin_panel/activity_score_fix.js:122
-#: statics/script/admin_panel/activity_score_fix.js:122
 msgid "确定删除该成员在该活动中的数据吗？"
-msgstr "このイベントにある指定メンバーのデータを削除しますか？"
+msgstr ""
+"このイベントにある指定メンバーのデータを削除しますか？"
 
 #: static/script/admin_panel/club_setting.js:31
 #: static/script/admin_panel/register_admin.js:48
-#: statics/script/admin_panel/club_setting.js:31
-#: statics/script/admin_panel/register_admin.js:48
 msgid "密码不能为空"
 msgstr "パスワードを入力してください"
 
 #: static/script/admin_panel/club_setting.js:32
 #: static/script/admin_panel/register_admin.js:49
-#: statics/script/admin_panel/club_setting.js:32
-#: statics/script/admin_panel/register_admin.js:49
 msgid "密码必须由字母和数字组成"
-msgstr "パスワードは数字とアルファベットの組み合わせにしてください"
+msgstr ""
+"パスワードは数字とアルファベットの組み合わせにしてくださ"
+"い"
 
 #: static/script/admin_panel/club_setting.js:33
 #: static/script/admin_panel/register_admin.js:50
-#: statics/script/admin_panel/club_setting.js:33
-#: statics/script/admin_panel/register_admin.js:50
 msgid "密码最少要6位"
 msgstr "パスワードは6桁以上にしてください"
 
 #: static/script/admin_panel/club_setting.js:34
-#: statics/script/admin_panel/club_setting.js:34
 msgid "密码最多10位"
 msgstr "パスワードは10桁以下してください"
 
 #: static/script/admin_panel/club_setting.js:37
-#: statics/script/admin_panel/club_setting.js:37
 msgid "简介最多输入256个字符"
 msgstr "紹介は256文字まで入力可能です"
 
 #: static/script/admin_panel/club_setting.js:108
 #: static/script/admin_panel/register_admin.js:326
-#: statics/script/admin_panel/club_setting.js:108
-#: statics/script/admin_panel/register_admin.js:326
 msgid "上传失败: "
 msgstr "アップロードに失敗しました："
 
 #: static/script/admin_panel/create_activity_result_export_task.js:14
-#: statics/script/admin_panel/create_activity_result_export_task.js:14
 msgid "任务创建成功"
 msgstr "タスク作成に成功しました"
 
 #: static/script/admin_panel/create_activity_result_export_task.js:22
 #: static/script/admin_panel/statistics_list.js:257
 #: static/script/admin_panel/statistics_list.js:291
-#: statics/script/admin_panel/create_activity_result_export_task.js:22
-#: statics/script/admin_panel/statistics_list.js:257
-#: statics/script/admin_panel/statistics_list.js:291
 msgid "导出任务已经存在"
 msgstr "エクスポートタスクは作成済みです"
 
 #: static/script/admin_panel/create_activity_result_export_task.js:26
-#: statics/script/admin_panel/create_activity_result_export_task.js:26
 msgid "新建导出任务失败，请稍后再试"
-msgstr "エクスポートタスクの新規作成に失敗しました。後ほど再度お試しください"
+msgstr ""
+"エクスポートタスクの新規作成に失敗しました。後ほど再度お"
+"試しください"
 
-#: static/script/admin_panel/help.js:21 statics/script/admin_panel/help.js:21
+#: static/script/admin_panel/help.js:21
 msgid "请输入搜索的内容~"
 msgstr "検索キーワードを入力してください"
 
 #: static/script/admin_panel/invation.js:24
 #: static/script/admin_panel/login.js:136
-#: statics/script/admin_panel/invation.js:24
-#: statics/script/admin_panel/login.js:136
 msgid "请输入正确的邮箱"
 msgstr "正しいメールアドレスを入力してください"
 
 #: static/script/admin_panel/invation.js:44
 #: static/script/admin_panel/invation.js:57
 #: static/script/admin_panel/register_admin.js:174
-#: statics/script/admin_panel/invation.js:44
-#: statics/script/admin_panel/invation.js:57
-#: statics/script/admin_panel/register_admin.js:174
 msgid "发送成功，请去您的注册邮箱查看。"
 msgstr "送信しました。登録メールボックスをご確認ください。"
 
 #: static/script/admin_panel/invation.js:71
-#: statics/script/admin_panel/invation.js:71
 msgid "复制邮件成功"
 msgstr "メールをコピーしました"
 
 #: static/script/admin_panel/invation.js:80
-#: statics/script/admin_panel/invation.js:80
 msgid "复制密码成功"
 msgstr "パスワードをコピーしました"
 
 #: static/script/admin_panel/invation.js:91
-#: statics/script/admin_panel/invation.js:91
 msgid "点击查看邮件全文"
 msgstr "クリックしてメールの詳細を閲覧"
 
 #: static/script/admin_panel/invation.js:97
-#: statics/script/admin_panel/invation.js:97
 msgid "收起邮件"
 msgstr "メールを閉じる"
 
-#: static/script/admin_panel/login.js:39 statics/script/admin_panel/login.js:39
+#: static/script/admin_panel/login.js:39
 msgid "　账号不能为空"
 msgstr "　アカウントを入力してください"
 
-#: static/script/admin_panel/login.js:40 statics/script/admin_panel/login.js:40
+#: static/script/admin_panel/login.js:40
 msgid "　请输入正确的邮箱或者手机号"
-msgstr "　正しいメールアドレスまたは携帯番号を入力してください"
+msgstr ""
+"　正しいメールアドレスまたは携帯番号を入力してください"
 
-#: static/script/admin_panel/login.js:43 statics/script/admin_panel/login.js:43
+#: static/script/admin_panel/login.js:43
 msgid "　密码不能为空"
 msgstr "　パスワードを入力してください"
 
-#: static/script/admin_panel/login.js:44 statics/script/admin_panel/login.js:44
+#: static/script/admin_panel/login.js:44
 msgid "　密码不能少于6位"
 msgstr "　パスワードは6桁以上にしてください"
 
-#: static/script/admin_panel/login.js:47 statics/script/admin_panel/login.js:47
+#: static/script/admin_panel/login.js:47
 msgid "请输入验证码"
 msgstr "認証コードを入力してください"
 
 #: static/script/admin_panel/login.js:126
 #: static/script/admin_panel/register.js:106
-#: statics/script/admin_panel/login.js:126
-#: statics/script/admin_panel/register.js:106
 msgid "手机号不能为空"
 msgstr "携帯番号を入力してください"
 
 #: static/script/admin_panel/login.js:127
-#: statics/script/admin_panel/login.js:127
 msgid "请输入正确的手机号"
 msgstr "正しい携帯番号を入力してください"
 
 #: static/script/admin_panel/login.js:130
-#: statics/script/admin_panel/login.js:130
 msgid "名称不能为空"
 msgstr "名称を入力してください"
 
 #: static/script/admin_panel/login.js:131
-#: statics/script/admin_panel/login.js:131
 msgid "名称中只能是字母数字和中文"
-msgstr "名称は数字、アルファベットまたは日本語にしてください"
+msgstr ""
+"名称は数字、アルファベットまたは日本語にしてください"
 
 #: static/script/admin_panel/login.js:132
-#: statics/script/admin_panel/login.js:132
 msgid "输入不能超过11个字符"
 msgstr "入力は11文字以下にしてください"
 
 #: static/script/admin_panel/login.js:135
 #: static/script/admin_panel/register.js:233
-#: statics/script/admin_panel/login.js:135
-#: statics/script/admin_panel/register.js:233
 msgid "邮箱不能为空"
 msgstr "メールアドレスを入力してください"
 
 #: static/script/admin_panel/login.js:139
-#: statics/script/admin_panel/login.js:139
 msgid "申请人姓名不能为空"
 msgstr "申込者の氏名を入力してください"
 
 #: static/script/admin_panel/login.js:140
-#: statics/script/admin_panel/login.js:140
 msgid "姓名中只能是字母数字和中文"
-msgstr "氏名は数字、アルファベットまたは日本語にしてください"
+msgstr ""
+"氏名は数字、アルファベットまたは日本語にしてください"
 
 #: static/script/admin_panel/login.js:141
 #: static/script/admin_panel/login.js:148
 #: static/script/admin_panel/register_admin.js:45
-#: statics/script/admin_panel/login.js:141
-#: statics/script/admin_panel/login.js:148
-#: statics/script/admin_panel/register_admin.js:45
 msgid "输入不能超过32个字符"
 msgstr "入力は32文字以下にしてください"
 
 #: static/script/admin_panel/login.js:144
-#: statics/script/admin_panel/login.js:144
 msgid "验证码不能为空"
 msgstr "認証コードを入力してください"
 
 #: static/script/admin_panel/login.js:147
-#: statics/script/admin_panel/login.js:147
 msgid "职位中只能是字母数字和中文"
-msgstr "役職は数字、アルファベットまたは日本語にしてください"
+msgstr ""
+"役職は数字、アルファベットまたは日本語にしてください"
 
 #: static/script/admin_panel/login.js:253
-#: statics/script/admin_panel/login.js:253
 msgid "验证码不正确"
 msgstr "認証コードが間違っています"
 
 #: static/script/admin_panel/memberPermiss.js:19
-#: statics/script/admin_panel/memberPermiss.js:19
 msgid "服务器繁忙，请刷新页面稍后重试!"
-msgstr "サーバーがビジー状態。ページを再読み込みしてください！"
+msgstr ""
+"サーバーがビジー状態。ページを再読み込みしてください！"
 
 #: static/script/admin_panel/memberPermiss.js:89
-#: statics/script/admin_panel/memberPermiss.js:89
 msgid "抱歉，你没有设置管理员的权限！"
 msgstr "管理者を設定する権限はありません！"
 
 #: static/script/admin_panel/memberPermiss.js:114
-#: statics/script/admin_panel/memberPermiss.js:114
 msgid "抱歉，你没有修改管理员的权限！"
 msgstr "管理者情報を編集する権限はありません！"
 
 #: static/script/admin_panel/memberPermiss.js:165
 #: static/script/admin_panel/memberPermiss.js:179
 #: static/script/admin_panel/memberPermiss.js:194
-#: statics/script/admin_panel/memberPermiss.js:165
-#: statics/script/admin_panel/memberPermiss.js:179
-#: statics/script/admin_panel/memberPermiss.js:194
 msgid "trigger 一次"
 msgstr "trigger 1回"
 
 #: static/script/admin_panel/memberPermiss.js:232
-#: statics/script/admin_panel/memberPermiss.js:232
 msgid "抱歉，你没有修改用户信息的权限！"
 msgstr "会員情報を編集する権限はありません！"
 
 #: static/script/admin_panel/memberPermiss.js:296
 #: static/script/admin_panel/memberPermiss.js:345
 #: static/script/admin_panel/memberPermiss.js:370
-#: statics/script/admin_panel/memberPermiss.js:296
-#: statics/script/admin_panel/memberPermiss.js:345
-#: statics/script/admin_panel/memberPermiss.js:370
 msgid "设置成功"
 msgstr "設定しました"
 
 #: static/script/admin_panel/memberPermiss.js:392
-#: statics/script/admin_panel/memberPermiss.js:392
 msgid "删除成功"
 msgstr "削除しました"
 
 #: static/script/admin_panel/memberPermiss.js:412
-#: statics/script/admin_panel/memberPermiss.js:412
 msgid "成员名字不能为空，且必须是字母、数字或者中文"
-msgstr "会員氏名は数字、アルファベットまたは日本語にしてください（必須）"
+msgstr ""
+"会員氏名は数字、アルファベットまたは日本語にしてください"
+"（必須）"
 
 #: static/script/admin_panel/memberPermiss.js:419
-#: statics/script/admin_panel/memberPermiss.js:419
 msgid "请选择确定的部门"
 msgstr "選択した部門を確定してください"
 
 #: static/script/admin_panel/memberPermiss.js:434
-#: statics/script/admin_panel/memberPermiss.js:434
 msgid "修改出错:"
 msgstr "更新失敗："
 
 #: static/script/admin_panel/memberPermiss.js:436
-#: statics/script/admin_panel/memberPermiss.js:436
 msgid "修改成功"
 msgstr "更新しました"
 
 #: static/script/admin_panel/member_list.js:95
-#: statics/script/admin_panel/member_list.js:95
 msgid "请输入搜索的内容"
 msgstr "検索キーワードを入力してください"
 
 #: static/script/admin_panel/member_list.js:173
-#: statics/script/admin_panel/member_list.js:173
 msgid "修改成功!"
 msgstr "更新しました！"
 
 #: static/script/admin_panel/member_list.js:181
-#: statics/script/admin_panel/member_list.js:181
 msgid "服务器繁忙，请稍后重试!"
 msgstr "サーバーがビジー状態。後ほど再度お試しください！"
 
 #: static/script/admin_panel/member_list.js:186
-#: statics/script/admin_panel/member_list.js:186
 msgid "请确定你的部门选择!"
 msgstr "選択した部門を確定してください！"
 
 #: static/script/admin_panel/memberlist_merberIframe.js:53
 #: static/script/admin_panel/search.js:61
 #: static/script/admin_panel/search_super.js:93
-#: statics/script/admin_panel/memberlist_merberIframe.js:53
-#: statics/script/admin_panel/search.js:61
-#: statics/script/admin_panel/search_super.js:93
 msgid "姓名"
 msgstr "氏名"
 
 #: static/script/admin_panel/memberlist_merberIframe.js:54
-#: statics/script/admin_panel/memberlist_merberIframe.js:54
 msgid "手机号"
 msgstr "携帯番号"
 
 #: static/script/admin_panel/memberlist_merberIframe.js:55
 #: static/script/admin_panel/search.js:61
 #: static/script/admin_panel/search_super.js:93
-#: statics/script/admin_panel/memberlist_merberIframe.js:55
-#: statics/script/admin_panel/search.js:61
-#: statics/script/admin_panel/search_super.js:93
 msgid "部门"
 msgstr "部門"
 
 #: static/script/admin_panel/memberlist_merberIframe.js:56
-#: statics/script/admin_panel/memberlist_merberIframe.js:56
 msgid "加入时间"
 msgstr "参加時刻"
 
 #: static/script/admin_panel/memberlist_merberIframe.js:139
-#: statics/script/admin_panel/memberlist_merberIframe.js:139
 msgid "请先选中人员!"
 msgstr "先に会員を選択してください！"
 
 #: static/script/admin_panel/register.js:54
-#: statics/script/admin_panel/register.js:54
 msgid "邮件地址不能为空！"
 msgstr "メールアドレスを入力してください！"
 
 #: static/script/admin_panel/register.js:58
-#: statics/script/admin_panel/register.js:58
 msgid "邮件地址不对！"
 msgstr "メールアドレスが間違っています！"
 
 #: static/script/admin_panel/register.js:62
-#: statics/script/admin_panel/register.js:62
 msgid "密码不能为空！"
 msgstr "パスワードは入力してください"
 
 #: static/script/admin_panel/register.js:66
-#: statics/script/admin_panel/register.js:66
 msgid "密码长度不能少于6位！"
 msgstr "パスワードは6桁以上にしてください！"
 
 #: static/script/admin_panel/register.js:71
-#: statics/script/admin_panel/register.js:71
 msgid "两次密码不一致，请修改！"
 msgstr "二つのパスワードは一致しません。修正してください！"
 
 #: static/script/admin_panel/register.js:88
-#: statics/script/admin_panel/register.js:88
 msgid "俱乐部名称不能为空"
 msgstr "クラブ名を入力してください"
 
 #: static/script/admin_panel/register.js:91
-#: statics/script/admin_panel/register.js:91
 msgid "俱乐部名称不能超过11个字符"
 msgstr "クラブ名は11文字までにしてください"
 
 #: static/script/admin_panel/register.js:95
-#: statics/script/admin_panel/register.js:95
 msgid "企业名称不能为空"
 msgstr "会社名を入力してください"
 
 #: static/script/admin_panel/register.js:99
-#: statics/script/admin_panel/register.js:99
 msgid "您没有选企业规模"
 msgstr "会社規模を選択してください"
 
 #: static/script/admin_panel/register.js:102
-#: statics/script/admin_panel/register.js:102
 msgid "姓名不能为空"
 msgstr "氏名を入力してください"
 
 #: static/script/admin_panel/register.js:110
-#: statics/script/admin_panel/register.js:110
 msgid "手机号码错误"
 msgstr "携帯番号は間違っています"
 
 #: static/script/admin_panel/register.js:124
-#: statics/script/admin_panel/register.js:124
 msgid "此俱乐部名称已存在，请修改"
 msgstr "すでに登録済みのクラブ名のため、修正してください"
 
 #: static/script/admin_panel/register.js:179
-#: statics/script/admin_panel/register.js:179
-msgid "抱歉！未找到对应的邮箱登录地址，请自己登录邮箱查看邮件！"
+msgid ""
+"抱歉！未找到对应的邮箱登录地址，请自己登录邮箱查看邮件！"
 msgstr ""
-"指定のログインメールアドレスは見つかりませんでした。ご自身でログインしてメー"
-"ルを確認してください！"
+"指定のログインメールアドレスは見つかりませんでした。ご自"
+"身でログインしてメールを確認してください！"
 
 #: static/script/admin_panel/register.js:201
-#: statics/script/admin_panel/register.js:201
 msgid "邮件发送失败: "
 msgstr "メール送信に失敗しました："
 
 #: static/script/admin_panel/register.js:203
-#: statics/script/admin_panel/register.js:203
 msgid "邮件已经发送，请去您的邮箱查收!"
-msgstr "メールを送信しました。あなたのメールボックスをご確認ください！"
+msgstr ""
+"メールを送信しました。あなたのメールボックスをご確認くだ"
+"さい！"
 
 #: static/script/admin_panel/register.js:236
-#: statics/script/admin_panel/register.js:236
 msgid "邮箱格式不正确"
 msgstr "正しい形式のメールアドレスを入力してください"
 
 #: static/script/admin_panel/register.js:242
-#: statics/script/admin_panel/register.js:242
 msgid "密码不能为空，且不能小于6位"
 msgstr "パスワードは6桁以上にしてください"
 
 #: static/script/admin_panel/register_admin.js:43
-#: statics/script/admin_panel/register_admin.js:43
 msgid "邮箱/手机号不能为空"
 msgstr "Eメール／携帯番号を入力してください"
 
 #: static/script/admin_panel/register_admin.js:44
-#: statics/script/admin_panel/register_admin.js:44
 msgid "请输入正确的邮箱或者手机号"
-msgstr "正しいメールアドレスまたは携帯番号を入力してください"
+msgstr ""
+"正しいメールアドレスまたは携帯番号を入力してください"
 
 #: static/script/admin_panel/register_admin.js:66
-#: statics/script/admin_panel/register_admin.js:66
 msgid "请等待"
 msgstr "少々お待ちください"
 
 #: static/script/admin_panel/register_admin.js:77
-#: statics/script/admin_panel/register_admin.js:77
 msgid "俱乐部名字不能为空"
 msgstr "クラブ名を入力してください"
 
 #: static/script/admin_panel/register_admin.js:109
-#: statics/script/admin_panel/register_admin.js:109
 msgid "还没有上传俱乐部图标"
 msgstr "クラブのアイコンをアップロードしてください"
 
 #: static/script/admin_panel/register_admin.js:113
 #: static/script/admin_panel/register_admin.js:187
 #: static/script/admin_panel/register_admin.js:195
-#: statics/script/admin_panel/register_admin.js:113
-#: statics/script/admin_panel/register_admin.js:187
-#: statics/script/admin_panel/register_admin.js:195
 msgid "俱乐部简介（可选）"
 msgstr "クラブ紹介（任意）"
 
 #: static/script/admin_panel/register_admin.js:118
-#: statics/script/admin_panel/register_admin.js:118
 msgid "俱乐部名字只能是字母、数字和中文, 且不能为空"
-msgstr "クラブ名には数字、アルファベットまたは日本語を入力してください"
+msgstr ""
+"クラブ名には数字、アルファベットまたは日本語を入力してく"
+"ださい"
 
 #: static/script/admin_panel/register_admin.js:141
-#: statics/script/admin_panel/register_admin.js:141
 msgid "请填写正确的邮箱地址"
 msgstr "正しいメールアドレスを入力してください"
 
 #: static/script/admin_panel/register_admin.js:146
-#: statics/script/admin_panel/register_admin.js:146
 msgid "请填写职位"
 msgstr "役職を入力してください"
 
 #: static/script/admin_panel/register_admin.js:159
-#: statics/script/admin_panel/register_admin.js:159
 msgid "提交失败"
 msgstr "送信できませんでした"
 
 #: static/script/admin_panel/register_admin.js:227
-#: statics/script/admin_panel/register_admin.js:227
 msgid "重新获取"
 msgstr "再リクエスト"
 
 #: static/script/admin_panel/register_admin.js:266
-#: statics/script/admin_panel/register_admin.js:266
 msgid "请填写正确的手机号码"
 msgstr "正しい携帯番号を入力してください"
 
 #: static/script/admin_panel/register_admin.js:277
-#: statics/script/admin_panel/register_admin.js:277
 msgid "请求失败，请稍后再试"
 msgstr "リクエストに失敗しました。後ほど再度お試しください"
 
 #: static/script/admin_panel/search.js:40
 #: static/script/admin_panel/search_super.js:43
-#: statics/script/admin_panel/search.js:40
-#: statics/script/admin_panel/search_super.js:43
 msgid "请输入要搜索的内容"
 msgstr "検索キーワードを入力してください"
 
 #: static/script/admin_panel/search_super.js:53
-#: statics/script/admin_panel/search_super.js:53
 msgid "刷新俱乐部Token"
 msgstr "クラブTokenを再読み込み"
 
 #: static/script/admin_panel/search_super.js:53
-#: statics/script/admin_panel/search_super.js:53
 msgid ""
-"俱乐部Token是访问俱乐部API的唯一凭证，刷新后当前Token立即生效</p><p>确定刷新"
-"Token？"
+"俱乐部Token是访问俱乐部API的唯一凭证，刷新后当前Token立即"
+"生效</p><p>确定刷新Token？"
 msgstr ""
-"クラブTokenはクラブAPIを利用する時の唯一のキーです。再読み込み後のTokenは即時"
-"有効となります。</p><p>Tokenを再読み込みしますか？"
+"クラブTokenはクラブAPIを利用する時の唯一のキーです。再読"
+"み込み後のTokenは即時有効となります。</p><p>Tokenを再読み"
+"込みしますか？"
 
 #: static/script/admin_panel/search_super.js:67
-#: statics/script/admin_panel/search_super.js:67
 msgid "刷新成功"
 msgstr "再読み込みに成功しました"
 
 #: static/script/admin_panel/search_super.js:69
-#: statics/script/admin_panel/search_super.js:69
 msgid "刷新失败，请稍后再试"
 msgstr "再読み込みに失敗しました。後ほど再度お試しください"
 
 #: static/script/admin_panel/search_super.js:74
-#: statics/script/admin_panel/search_super.js:74
 msgid "网络故障，请稍后再试"
 msgstr "ネットワークエラー。後ほど再度お試しください"
 
 #: static/script/admin_panel/search_super.js:94
-#: statics/script/admin_panel/search_super.js:94
 msgid "手机"
 msgstr "携帯番号"
 
 #: static/script/admin_panel/search_super.js:94
-#: statics/script/admin_panel/search_super.js:94
 msgid "操作"
 msgstr "操作"
 
 #: static/script/admin_panel/search_super.js:100
-#: statics/script/admin_panel/search_super.js:100
 msgid "移交"
 msgstr "権限移譲"
 
 #: static/script/admin_panel/search_super.js:163
-#: statics/script/admin_panel/search_super.js:163
 msgid "团队"
 msgstr "グループ"
 
 #: static/script/admin_panel/search_super.js:165
-#: statics/script/admin_panel/search_super.js:165
 msgid "移交超级管理员权限"
 msgstr "管理者権限を移譲"
 
 #: static/script/admin_panel/search_super.js:165
-#: statics/script/admin_panel/search_super.js:165
-#, javascript-format
 msgid ""
-"确认将管理员权限移交给“%s”？</p><p style=\"color: #df1f1f;\">此操作不可逆，超"
-"级管理员权限移交后您将变为普通成员，不再具有后台查看权限，请谨慎操作。"
+"确认将管理员权限移交给“%s”？</p><p style=\"color: "
+"#df1f1f;\">此操作不可逆，超级管理员权限移交后您将变为普通"
+"成员，不再具有后台查看权限，请谨慎操作。"
 msgstr ""
-"管理者権限を“%s”に譲渡しますか？</p><p style=\"color: #df1f1f;\">この操作は取"
-"り消しできません。権限譲渡した後普通会員となり、管理者ページをアクセスできな"
-"くなりますので、この操作は慎重に行ってください。"
+"管理者権限を“%s”に譲渡しますか？</p><p style=\"color: "
+"#df1f1f;\">この操作は取り消しできません。権限譲渡した後普"
+"通会員となり、管理者ページをアクセスできなくなりますの"
+"で、この操作は慎重に行ってください。"
 
 #: static/script/admin_panel/search_super.js:182
-#: statics/script/admin_panel/search_super.js:182
 msgid "移交失败"
 msgstr "権限移譲に失敗しました"
 
 #: static/script/admin_panel/search_super.js:184
-#: statics/script/admin_panel/search_super.js:184
 msgid "移交失败:"
 msgstr "権限移譲に失敗しました："
 
 #: static/script/admin_panel/search_super.js:189
-#: statics/script/admin_panel/search_super.js:189
 msgid "移交失败,请稍后再试"
 msgstr "権限移譲に失敗しました。後ほど再度お試しください"
 
 #: static/script/admin_panel/shortDigtal.js:17
-#: statics/script/admin_panel/shortDigtal.js:17
 msgid "万"
 msgstr "万"
 
 #: static/script/admin_panel/shortDigtal.js:21
-#: statics/script/admin_panel/shortDigtal.js:21
 msgid "千万"
 msgstr "千万"
 
 #: static/script/admin_panel/shortDigtal.js:25
-#: statics/script/admin_panel/shortDigtal.js:25
 msgid "亿"
 msgstr "億"
 
 #: static/script/admin_panel/statistics_list.js:233
-#: statics/script/admin_panel/statistics_list.js:233
 msgid "开始时间和结束时间不能为空!"
 msgstr "開始時刻と終了時刻を入力してください"
 
 #: static/script/admin_panel/statistics_list.js:250
 #: static/script/admin_panel/statistics_list.js:284
-#: statics/script/admin_panel/statistics_list.js:250
-#: statics/script/admin_panel/statistics_list.js:284
 msgid "创建导出任务成功"
 msgstr "エクスポートタスクを作成しました"
 
 #: static/script/admin_panel/statistics_list.js:261
 #: static/script/admin_panel/statistics_list.js:295
-#: statics/script/admin_panel/statistics_list.js:261
-#: statics/script/admin_panel/statistics_list.js:295
 msgid "创建导出任务失败，请稍后再试"
-msgstr "エクスポートタスクを作成できませんでした。後ほど再度お試しください"
+msgstr ""
+"エクスポートタスクを作成できませんでした。後ほど再度お試"
+"しください"
 
 #: static/script/admin_panel/statistics_list.js:265
-#: statics/script/admin_panel/statistics_list.js:265
 msgid "结束时间不能小于开始时间!"
 msgstr "終了時刻は開始時刻より後にしてください！"
 
 #: static/script/admin_panel/tagList.js:49
-#: statics/script/admin_panel/tagList.js:49
 msgid "未命名部门"
 msgstr "部門名が未入力"
 
 #: static/script/admin_panel/tagList.js:68
-#: statics/script/admin_panel/tagList.js:68
 msgid "同一级部门名字不能重复"
 msgstr "同じ階層の部門名は重複することができません"
 
 #: static/script/admin_panel/tagList.js:83
-#: statics/script/admin_panel/tagList.js:83
 msgid "添加部门失败:"
 msgstr "部門を追加できませんでした："
 
 #: static/script/admin_panel/tagList.js:114
-#: statics/script/admin_panel/tagList.js:114
 msgid "修改部门失败:"
 msgstr "部門を修正できませんでした："
 
 #: static/script/admin_panel/tagList.js:180
-#: statics/script/admin_panel/tagList.js:180
 msgid "删除部门失败:"
 msgstr "部門を削除できませんでした："
 
 #: static/script/admin_panel/tagList.js:216
 #: static/script/admin_panel/tagList.js:224
 #: static/script/admin_panel/tagList.js:277
-#: statics/script/admin_panel/tagList.js:216
-#: statics/script/admin_panel/tagList.js:224
-#: statics/script/admin_panel/tagList.js:277
 msgid "分公司或部门名称只能是数字、字母和中文，且不能为空"
 msgstr ""
-"子会社または部門名は数字、アルファベットまたは日本語にしてください（必須）"
+"子会社または部門名は数字、アルファベットまたは日本語にし"
+"てください（必須）"
 
 #: static/script/admin_panel/tagList.js:284
-#: statics/script/admin_panel/tagList.js:284
 msgid "同一级部门不能重复"
 msgstr "同じ部門は重複できません"
 
 #: static/script/admin_panel/tagList.js:321
 #: static/script/admin_panel/tagList.js:426
-#: statics/script/admin_panel/tagList.js:321
-#: statics/script/admin_panel/tagList.js:426
 msgid "必须要设置至少一个部门"
 msgstr "少なくとも1つの部門を設定する必要があります"
