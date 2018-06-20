@@ -1387,7 +1387,6 @@
     <string name="clubmodule_should_not_click_frequently">続けて管理者に連絡しないでください</string>
     <string name="clubmodule_your_notification_sended">あなたからのリマインダーを送信しました</string>
     <string name="clubmodule_need_at_least_2_member">チームイベントには2人以上のメンバーの設定が必要です。再選択してください</string>
-    <string name="clubmodule_dept_selector_str">選択済み部門: %1$s  人数: %2$s</string>
     <string name="clubmodule_several_people">%s人</string>
     <string name="clubmodule_today_team_rank">今日のチームランキング</string>
     <string name="clubmodule_data_export_method_info">データは管理者ページで出力可能</string>
