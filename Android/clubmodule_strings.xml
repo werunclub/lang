@@ -300,7 +300,7 @@
     <string name="plz_steps">目標歩数は必須です</string>
 
     <!-- 我的团队 -->
-    <string name="my_club">私 チーム内</string>
+    <string name="my_club">MYグループ</string>
     <string name="my_department">MY部門</string>
     <string name="my_limit">MY権限</string>
     <string name="join_rqcode">グループQRコード</string>
