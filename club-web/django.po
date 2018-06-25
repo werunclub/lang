@@ -2252,8 +2252,8 @@ msgstr "導入実績"
 
 #: admin_panel/templates/admin_panel/index.html:47
 #, python-format
-msgid "进入后台(%(crt_user.name)s)"
-msgstr "管理者ページ(%(crt_user.name)s)"
+msgid "进入后台(%(crt_user_name)s)"
+msgstr "管理者ページ(%(crt_user_name)s)"
 
 #: admin_panel/templates/admin_panel/index.html:48
 msgid "&nbsp;&nbsp;退出登录"
