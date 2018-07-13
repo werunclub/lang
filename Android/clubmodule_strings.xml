@@ -285,7 +285,7 @@
     <string name="cant_select_root">すべてを選択することはできません</string>
     <string name="cant_select_no_person">この部門にはメンバーがいないため、選択できません</string>
 
-    <string name="ssc_des_close_screen">ロック画面にして10回振った後、屋内で走って運動データを記録できるかテストします。</string>
+    <string name="ssc_des_close_screen">画面をロックして10回振った後、室内で走ってデータを記録できるかテストしてください。</string>
     <string name="ssc_des_check_relation">一部の携帯電話はロック後は記録できません。</string>
     <string name="test_gsensor_callback">あなたの携帯電話はロック後も記録できます。</string>
 
@@ -1228,7 +1228,7 @@
     <string name="clubmodule_uploading_str">同期中...</string>
     <string name="clubmodule_step_num">歩数</string>
     <string name="clubmodule_know">了解</string>
-    <string name="clubmodule_restart_ble_msg">Bluetooth接続が切断されています。Bluetoothを再起動してください。</string>
+    <string name="clubmodule_restart_ble_msg">スマートバンドが見つかりません。Bluetoothをオンにして設定してください</string>
     <string name="clubmodule_run_walk">ウォーク / ラン</string>
     <string name="clubmodule_activity_processing">イベント開催中</string>
     <string name="clubmodule_wristband">スマートバンド</string>
