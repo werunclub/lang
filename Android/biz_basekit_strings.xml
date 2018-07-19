@@ -7,7 +7,7 @@
     <string name="basekit_manager">管理者</string>
     <string name="basekit_super_manager">スーパー管理者</string>
     <string name="basekit_day">日</string>
-    <string name="basekit_hour">時</string>
+    <string name="basekit_hour">時間</string>
     <string name="basekit_minute">分</string>
     <string name="basekit_seconds">秒</string>
     <string name="basekit_reselect_head_icon">プロフィール画像が存在しません。再度選択してください</string>

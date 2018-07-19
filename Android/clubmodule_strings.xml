@@ -258,7 +258,7 @@
     <string name="all_phone_code_title">所在地を選択</string>
     <string name="my_department_rank">MYチーム 第%d位</string>
     <string name="my_person_rank">私 %d位</string>
-    <string name="layout1_forgot_hint_tv">登録時の携帯番号(-なし)またはEメールを入力し、認証コードを送信してください</string>
+    <string name="layout1_forgot_hint_tv">登録時の携帯番号(-不要)またはEメールを入力し、認証コードを送信してください</string>
     <string name="send_timer">あと%1$ssで再送</string>
     <string name="random_team">ランダム分け</string>
     <string name="select_department">部門選択</string>
@@ -328,8 +328,8 @@
     <string name="select_pk_starttime">対戦開始時刻を選択</string>
     <string name="select_pk_endtime">対戦終了時刻を選択</string>
     <string name="select_stake">チップを選択してください</string>
-    <string name="pk_time_left">挑戦開始まであと%1$s時%2$s分</string>
-    <string name="pk_time_start">挑戦終了まであと%1$d時%2$s分</string>
+    <string name="pk_time_left">挑戦開始まであと%1$s時間%2$s分</string>
+    <string name="pk_time_start">挑戦終了まであと%1$d時間%2$s分</string>
     <string name="pk_time_over">対戦は終了しました</string>
     <string name="pk_cancel">対戦をキャンセル</string>
     <string name="pk_create_success">対戦申請を送信しました</string>
@@ -481,9 +481,9 @@
 
     <string name="toast_distance_too_short">運動距離が短過ぎるため、保存できません</string>
 
-    <string name="date_hour">時</string>
+    <string name="date_hour">時間</string>
 
-    <string name="unit_speed">km/時</string>
+    <string name="unit_speed">km/時間</string>
     <string name="unit_step_freq">歩/分</string>
 
     <string-array name="detail_tab_titles">
@@ -571,7 +571,7 @@
     <string name="account_success_no_bind">登録しました！\n\n個人情報を入力してください。データの記録と計算の精度を高めます</string>
     <string name="create_have_account_action">既存のアカウント</string>
     <string name="activity_verify_code_to_next_page_info">メッセージを受信できませんか？</string>
-    <string name="create_account">新規会員登録</string>
+    <string name="create_account">新規会員登録(無料)</string>
     <string name="activity_verify_code_sign_message_coming">メッセージを送信しました</string>
     <string name="user_info_setting_desc">運動データをより正確に記録するために、個人情報を入力してください。</string>
     <string name="reward_act_status_2_tips">残り %s</string>
@@ -582,18 +582,18 @@
     <string name="reward_join_succeed">ミッションを受け取りました</string>
     <string name="reward_frag_no_data_title">只今ミッションなし</string>
     <string name="reward_act_status_1_join_status_2">賞を受け取る</string>
-    <string name="timeout">時間切れ、ミッション失敗</string>
+    <string name="timeout">時間切れによってミッション失敗</string>
     <string name="reward_frag_no_data_tips">次のミッションまでお待ち下さい</string>
     <string name="reward_frag_wait_next_title">明日また新しいミッションがあります。</string>
     <string name="blast_detail_time_days">&#160;&#160;日</string>
-    <string name="blast_detail_time_hour">&#160;&#160;時</string>
-    <string name="blast_detail_time_hours">&#160;&#160;時</string>
+    <string name="blast_detail_time_hour">&#160;&#160;時間</string>
+    <string name="blast_detail_time_hours">&#160;&#160;時間</string>
     <string name="blast_detail_time_mins">&#160;&#160;分</string>
     <string name="blast_detail_time_seconds">&#160;&#160;秒</string>
     <string name="blast_detail_time_years">&#160;&#160;年</string>
     <string name="ago">\"前\"</string>
     <string name="day">日</string>
-    <string name="hour">時</string>
+    <string name="hour">時間</string>
     <string name="minute">分</string>
     <string name="linemi">"/mile"</string>
     <string name="km_mark">/km</string>
@@ -1004,7 +1004,7 @@
 
     <string name="daily_task_share_bottom_text">"設定>日替ミッションを表示"にて昨日のミッションのポップアップをオン/オフに</string>
     <string name="wristband_caution_3">スマートバンドとペアリングしました。歩数はスマートバンドで計測します</string>
-    <string name="phone_message">メッセージ</string>
+    <string name="phone_message">SMS</string>
     <string name="no_disturb_function">お休みモード</string>
     <string name="set_alarm_clock">アラーム</string>
     <string name="jump_navigation">スキップ</string>
@@ -1053,7 +1053,7 @@
     <string name="clubmodule_device_name">デバイス名</string>
     <string name="clubmodule_ask_help_caution">ご利用時の感想や意見を詳しくご記入ください</string>
     <string name="clubmodule_upload_img">画像を添付</string>
-    <string name="clubmodule_input_phone_number">連絡可能な携帯番号(-なし)をご入力ください</string>
+    <string name="clubmodule_input_phone_number">連絡可能な携帯番号(-不要)をご入力ください</string>
     <string name="clubmodule_sport_bar_name">コミュニティ</string>
     <string name="clubmodule_reject_add_member">本グループへの参加は許可されていません</string>
     <string name="clubmodule_roll_bottom">最後へ</string>
@@ -1208,7 +1208,7 @@
     <string name="clubmodule_please_select">選択してください</string>
     <string name="clubmodule_introduction_company">あなたの会社を紹介してください</string>
     <string name="clubmodule_please_input_verify">認証コードを入力</string>
-    <string name="clubmodule_please_input_phone">携帯番号(-なし)を入力してください</string>
+    <string name="clubmodule_please_input_phone">携帯番号(-不要)を入力してください</string>
     <string name="clubmodule_input_email_address">Eメール</string>
     <string name="clubmodule_please_input_job">あなたの役職を入力してください</string>
     <string name="clubmodule_member_addition">参加者について</string>
@@ -1243,7 +1243,7 @@
     <string name="clubmodule_default_sleep_time">--時間--分</string>
     <string name="clubmodule_sleep_quality">睡眠の質</string>
     <string name="clubmodule_deep_sleep_in_short">深い睡眠</string>
-    <string name="clubmodule_0_hour">0時、</string>
+    <string name="clubmodule_0_hour">0時間、</string>
     <string name="clubmodule_light_sleep_in_short">浅い睡眠</string>
     <string name="clubmodule_wristband_sail_phone">Weバンドの購入について：band@werunclub.net</string>
     <string name="clubmodule_continue_sport">再開</string>
@@ -1360,7 +1360,7 @@
     <string name="clubmodule_bind_device">デバイスと紐付け</string>
     <string name="clubmodule_open_ble_retry">Bluetoothをオンにしてもう一度お試しください</string>
     <string name="clubmodule_sport_data_safety_warn">データ保護のため、計測方法を携帯電話に切替えてからスマートバンドをペアリングします。続けますか</string>
-    <string name="clubmodule_change_phone_datasource">携帯計測に切り替えました</string>
+    <string name="clubmodule_change_phone_datasource">携帯計測に切り替える</string>
     <string name="clubmodule_consider">後で</string>
     <string name="clubmodule_change_2_phone_datasource_ok">計測方法を「携帯電話」に切替えました</string>
     <string name="clubmodule_get_datasource_error">データ取得失敗</string>
@@ -1631,7 +1631,7 @@
     <string name="clubmodule_datasource_wechat_app">Wechat計測</string>//日本版本不再需要(可删除)
     <string name="clubmodule_datasource_codoon_app">WeRUN計測</string>//日本版本不再需要(可删除)
     <string name="clubmodule_ex_log_not_exist">異常報告なし</string>
-    <string name="clubmodule_time_hhmm_str">%1$s時%2$s分</string>
+    <string name="clubmodule_time_hhmm_str">%1$s時間%2$s分</string>
     <string name="clubmodule_0_hour_1">0時間</string>
     <string name="clubmodule_pretty_good">とても良い</string>
     <string name="clubmodule_good">良い</string>
@@ -1655,7 +1655,7 @@
     <string name="clubmodule_downloading">ダウンロード中...</string>
     <string name="clubmodule_wristband_disconnect_msg">スマートバンドが切断されました。後ほど再度お試しください</string>
     <string name="clubmodule_change_config_failed">設定に失敗しました</string>
-    <string name="clubmodule_upload_phone_record">携帯のデータを同期中...</string>
+    <string name="clubmodule_upload_phone_record">携帯で計測したデータを送信中...</string>
     <string name="clubmodule_phone_sys_low">携帯のバージョンが古すぎます。サポートされていません</string>
     <string name="clubmodule_speed_analysis">ペース分析</string>
     <string name="clubmodule_speed_comment">スピード評価%skm</string>
@@ -1892,7 +1892,7 @@
     <string name="clubmodule_contact_phone">18908045767</string>
     <string name="clubmodule_10000">10000</string>
     <string name="clubmodule_11_40">11\'40\'\'</string>
-    <string name="clubmodule_km">KM</string>
+    <string name="clubmodule_km">km</string>
     <string name="clubmodule_0_0">0.0</string>
     <string name="clubmodule_0">0</string>
     <string name="clubmodule_0_00">0.00</string>
@@ -1901,7 +1901,7 @@
     <string name="clubmodule_heartrate">heartrate</string>
     <string name="clubmodule_bmp">bmp</string>
     <string name="clubmodule_advance_analysis">Advance Analysis</string>
-    <string name="clubmodule_km_up">KM</string>
+    <string name="clubmodule_km_up">km</string>
     <string name="clubmodule_kg_lowercase">kg</string>
     <string name="clubmodule_170">170</string>
     <string name="clubmodule_cm">cm</string>
