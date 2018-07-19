@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WeRUN\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-13 23:56+0800\n"
+"POT-Creation-Date: 2018-07-19 11:17+0800\n"
 "PO-Revision-Date: 2018-06-26 10:10+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -2423,31 +2423,35 @@ msgstr "グループ活動はWeRUN"
 msgid "扫一扫，免费下载企业咕咚APP"
 msgstr "スキャンでWeRUNアプリを無料ダウンロード"
 
-#: admin_panel/templates/admin_panel/index.html:256
+#: admin_panel/templates/admin_panel/index.html:259
 msgid "ID: qiyegudong"
 msgstr "ID: werunclub"
 
-#: admin_panel/templates/admin_panel/index.html:257
+#: admin_panel/templates/admin_panel/index.html:260
 msgid "微信公众号"
 msgstr "LINEアカウント"
 
-#: admin_panel/templates/admin_panel/index.html:273
+#: admin_panel/templates/admin_panel/index.html:276
 msgid "QQ: 3526069833"
 msgstr "ID: werunclub"
 
-#: admin_panel/templates/admin_panel/index.html:274
+#: admin_panel/templates/admin_panel/index.html:277
 msgid "咨询QQ"
 msgstr "Twitterアカウント"
 
-#: admin_panel/templates/admin_panel/index.html:287
+#: admin_panel/templates/admin_panel/index.html:290
+msgid "Copyrigh 2011-2018"
+msgstr ""
+
+#: admin_panel/templates/admin_panel/index.html:291
 msgid "&nbsp&nbsp蜀ICP备12014086号"
 msgstr "&nbsp&nbsp"
 
-#: admin_panel/templates/admin_panel/index.html:290
+#: admin_panel/templates/admin_panel/index.html:294
 msgid "服务热线&nbsp&nbsp18181905261"
 msgstr "ヘルプデスク&nbsp&nbsphelp@werunclub.net"
 
-#: admin_panel/templates/admin_panel/index.html:291
+#: admin_panel/templates/admin_panel/index.html:295
 msgid "商务合作&nbsp&nbsp18628003237"
 msgstr "業務提携&nbsp&nbspbusiness@werunclub.net"
 
