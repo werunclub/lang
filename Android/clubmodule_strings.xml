@@ -594,7 +594,7 @@
     <string name="ago">\"前\"</string>
     <string name="day">日</string>
     <string name="hour">時間</string>
-    <string name="minute">分</string>
+    <string name="minute">min</string>
     <string name="linemi">"/mile"</string>
     <string name="km_mark">/km</string>
     <string name="ft">ft</string>
@@ -603,7 +603,7 @@
     <string name="km_h">km/h</string>
     <string name="mile">mile</string>
     <string name="min_h">mile/h</string>
-    <string name="min_km">km/分</string>
+    <string name="min_km">min/km</string>
     <string name="str_install_or_not">Runtopiaは最新のバージョンがあります。アップデートしましょう</string>
     <string name="downloading">ダウンロードしています</string>
     <string name="activity_about_us_update_version">アップデート(V%1$s)</string>
