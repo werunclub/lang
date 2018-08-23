@@ -484,7 +484,7 @@
     <string name="date_hour">時間</string>
 
     <string name="unit_speed">km/時間</string>
-    <string name="unit_step_freq">歩/分</string>
+    <string name="unit_step_freq">歩/min</string>
 
     <string-array name="detail_tab_titles">
         <item>ルート</item>
@@ -594,7 +594,7 @@
     <string name="ago">\"前\"</string>
     <string name="day">日</string>
     <string name="hour">時間</string>
-    <string name="minute">min</string>
+    <string name="minute">分</string>
     <string name="linemi">"/mile"</string>
     <string name="km_mark">/km</string>
     <string name="ft">ft</string>
@@ -604,7 +604,7 @@
     <string name="mile">mile</string>
     <string name="min_h">mile/h</string>
     <string name="min_km">min/km</string>
-    <string name="str_install_or_not">Runtopiaは最新のバージョンがあります。アップデートしましょう</string>
+    <string name="str_install_or_not">WeRUNは最新のバージョンがあります。アップデートしましょう</string>
     <string name="downloading">ダウンロードしています</string>
     <string name="activity_about_us_update_version">アップデート(V%1$s)</string>
     <string name="avg_pace">平均ペース</string>
@@ -1626,8 +1626,8 @@
     <string name="clubmodule_open_wechat_app_upload">APPに同期してください</string>//日本版本不再需要(可删除)
     <string name="clubmodule_target_step">運動目標 %s 歩</string>
     <string name="clubmodule_open_codoon_app">WeRUNを開いてください</string>
-    <string name="clubmodule_datasource_phone_counter">計測方法携帯</string>
-    <string name="clubmodule_datasource_wristband">計測方法WeBand</string>
+    <string name="clubmodule_datasource_phone_counter">計測方法 携帯</string>
+    <string name="clubmodule_datasource_wristband">計測方法 WeBand</string>
     <string name="clubmodule_datasource_wechat_app">Wechat計測</string>//日本版本不再需要(可删除)
     <string name="clubmodule_datasource_codoon_app">WeRUN計測</string>//日本版本不再需要(可删除)
     <string name="clubmodule_ex_log_not_exist">異常報告なし</string>
@@ -1658,7 +1658,7 @@
     <string name="clubmodule_upload_phone_record">携帯で計測したデータを送信中...</string>
     <string name="clubmodule_phone_sys_low">携帯のバージョンが古すぎます。サポートされていません</string>
     <string name="clubmodule_speed_analysis">ペース分析</string>
-    <string name="clubmodule_speed_comment">スピード評価%skm</string>
+    <string name="clubmodule_speed_comment">%skmスピード評価</string>
     <string name="clubmodule_speed_stable">ペースの安定性</string>
     <string name="clubmodule_bind_phone_num">携帯番号を紐付け</string>
     <string name="clubmodule_change_phone_num">携帯番号を変更</string>
