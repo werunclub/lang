@@ -1390,7 +1390,7 @@
     <string name="clubmodule_several_people">%s人</string>
     <string name="clubmodule_today_team_rank">今日のチームランキング</string>
     <string name="clubmodule_data_export_method_info">データは管理者ページで出力可能</string>
-    <string name="clubmodule_target_match_rank_info">チャレンジ戦 目標歩数をクリアした時間順でランク付け</string>
+    <string name="clubmodule_target_match_rank_info">チャレンジ戦 目標値をクリアした時間順でランク付け</string>
     <string name="clubmodule_wristband_record_step">Weバンドで日々の歩数を記録</string>
     <string name="clubmodule_rank_by_rectify_data">有効なデータでランク付け</string>
     <string name="clubmodule_rank_by_special_time_sport">設定されたイベントの有効時間内のデータのみ対象データとする</string>
