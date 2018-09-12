@@ -1011,7 +1011,7 @@
     <string name="login_by_phone_title">携帯ワンタイムパスワードでログイン</string>
     <string name="change_password_caution">携帯番号を確認してください。SMS認証コードが送信されます。</string>
     <string name="clubmodule_ex_upload">異常\n報告</string>
-    <string name="clubmodule_help_center">ヘルプ</string>
+    <string name="clubmodule_help_center">ヘルプとフィードバック</string>
     <string name="clubmodule_update_version">バージョンアップ</string>
     <string name="clubmodule_club_help_phone">メンバーお問い合わせ窓口</string>
     <string name="clubmodule_business_purchase">業務提携及びスマートバンドの購入</string>
@@ -1330,8 +1330,8 @@
     <string name="clubmodule_wechat_sport">Wechat運動</string>
     <string name="clubmodule_change_wechat_data_source_info">ウィジェットのQRコードを保存し、WeChatの「QRコードのスキャン」でアルバムからQRコード画像を選択してWeRUNウィジェットに入ってください。</string>
     <string name="clubmodule_open_wechat_2_scan_qrcode">QRコードを保存し、WeChatの「QRコードのスキャン」を開く</string>
-    <string name="clubmodule_contact_us">グループ管理者ホットライン</string>
-    <string name="clubmodule_newest_version_msg">すでに最新のバージョンです</string>
+    <string name="clubmodule_contact_us">お問い合わせ</string>
+    <string name="clubmodule_newest_version_msg">最新のバージョンです</string>
     <string name="clubmodule_rule_warn_info">ペース基準外データはスコア対象外</string>
     <string name="clubmodule_select_one_at_least">最低1日は選択してください</string>
     <string name="clubmodule_collected">お気に入り</string>
