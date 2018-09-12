@@ -1086,7 +1086,7 @@
     <string name="clubmodule_user">会員</string>
     <string name="clubmodule_read_and_accept">に同意します</string>
     <string name="clubmodule_questionaire">アンケート</string>
-    <string name="clubmodule_daily_mission_alert">日替ミッションを表示</string>
+    <string name="clubmodule_daily_mission_alert">ミッション完了を知らせる</string>
     <string name="clubmodule_set_sport_permission">運動権限を設定</string>
     <string name="clubmodule_stepcounter_when_screen_locked">画面ロック</string>
     <string name="clubmodule_stepcounter_after_lock_screen_caution">画面ロック後に携帯計測の精度を上げ、消費電力を下げます</string>
