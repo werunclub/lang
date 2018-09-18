@@ -35,8 +35,8 @@
     <string name="time_just_now">直前</string>
     <string name="message">メッセージ</string>
     <string name="chat_msg">メッセージを入力...</string>
-    <string name="im_chat_unread_old">未読%s 通</string>
-    <string name="im_chat_unread_new">新着%s 通</string>
+    <string name="im_chat_unread_old">未読%s通</string>
+    <string name="im_chat_unread_new">新着%s通</string>
 
     <string name="blast_select_pic_more_than_max_num">選択できる画像は1枚だけです</string>
 
@@ -404,7 +404,7 @@
     <string name="never">なし</string>
     <string name="device_version">バージョン</string>
     <string name="unbound">ペアリング解除</string>
-    <string name="ble_update">更新</string>
+    <string name="ble_update">ファームウェア更新</string>
     <string name="sitedown_length">座りっぱなし時間</string>
     <string name="incoming_call_alert">着信通知</string>
     <string name="new_message_alert_hint">携帯電話からのプッシュ通知</string>
@@ -1477,10 +1477,10 @@
     <string name="clubmodule_change_datasource_2_phone">計測方法を携帯電話に切り替えました</string>
     <string name="clubmodule_upload_failed_1">同期失敗。後ほど再度お試しください</string>
     <string name="clubmodule_unbind_after_upload">データ同期中、後ほどペアリング解除操作が実行されます</string>
-    <string name="clubmodule_unbind_wristband_warn_2">現在のスマートバンドは切断されました。データ同期後に、再度ペアリングを解除することをお勧めします</string>
+    <string name="clubmodule_unbind_wristband_warn_2">スマートバンドとのペアリングを解除します。データを同期してから解除することをお勧めします。</string>
     <string name="clubmodule_unbind_immediately">解除する</string>
     <string name="clubmodule_cancel_unbind">解除しない</string>
-    <string name="clubmodule_unbind_wristband_warn_3">ネットワークがありません。データ同期後に、再度ペアリングを解除することをお勧めします</string>
+    <string name="clubmodule_unbind_wristband_warn_3">ネットワーク接続がありません。データを同期してから解除することをお勧めします。</string>
     <string name="clubmodule_no_wechat_app">WeChat未インストール</string>
     <string name="clubmodule_change_datasource_2_phone_2">計測方法を携帯電話に切替えました</string>
     <string name="clubmodule_change_datasource_2_wristband_1">計測方法をスマートバンドに切替えました</string>
@@ -1500,7 +1500,7 @@
     <string name="clubmodule_confirm_degrade">ダウングレードしますか</string>
     <string name="clubmodule_degrade">ダウングレード</string>
     <string name="clubmodule_search_device">デバイスを検索中...</string>
-    <string name="clubmodule_download_file_error">ファームウェアのダウンロードに失敗しました。スマートバンドの自動アップデート終了後にもう一度お試しください</string>
+    <string name="clubmodule_download_file_error">ファームウェアのダウンロードに失敗。スマートバンドのupdate状態が終了してから再度お試しください。</string>
     <string name="clubmodule_wait_for_load_data">データ読込中、しばらくお待ちください</string>
     <string name="clubmodule_connect_wristband">スマートバンドに接続して再度お試しください</string>
     <string name="clubmodule_checking">検知中</string>
@@ -1556,7 +1556,7 @@
     <string name="clubmodule_bmi_over_fat">肥満3度</string>
     <string name="clubmodule_body_fat_rate">体脂肪率</string>
     <string name="clubmodule_update_failed">データの更新に失敗しました</string>
-    <string name="clubmodule_update_failed_1">データの更新に失敗、ネットワーク設定を確認してください</string>
+    <string name="clubmodule_update_failed_1">データの更新に失敗。ネットワーク設定を確認してください。</string>
     <string name="clubmodule_current_month">今月</string>
     <string name="clubmodule_monday">月</string>
     <string name="clubmodule_tuesday">火</string>
