@@ -277,7 +277,7 @@
     <string name="setting_account_hint">企業WeRUNとWeRUNのアカウントは同じです</string>
     <string name="setting_register_tel">携帯番号で登録</string>
     <string name="setting_register_email">Eメールで登録</string>
-    <string name="setting_dnd">お休みモード</string>
+    <string name="setting_dnd">非通知モード</string>
     <string name="setting_dnd_time">非通知時刻指定</string>
     <string name="setting_logout">ログアウト</string>
     <string name="setting_test_gsensor">センサーをテスト</string>
@@ -1228,8 +1228,8 @@
     <string name="clubmodule_uploading_str">同期中...</string>
     <string name="clubmodule_step_num">歩数</string>
     <string name="clubmodule_know">了解</string>
-    <string name="clubmodule_restart_ble_msg">smartbandが見つからない。bluetoothをオンにして設定</string>
-    <string name="clubmodule_run_walk">ウォーク / ラン</string>
+    <string name="clubmodule_restart_ble_msg">smartbandが見つからない。bluetoothをオンにして下さい。</string>
+    <string name="clubmodule_run_walk">ウォーク/ラン</string>
     <string name="clubmodule_activity_processing">イベント開催中</string>
     <string name="clubmodule_wristband">スマートバンド</string>
     <string name="clubmodule_health">健康</string>
@@ -1620,7 +1620,7 @@
     <string name="clubmodule_orgnization_architect">組織</string>
     <string name="clubmodule_refind_setting_caution">設定にて再設定できます</string>
     <string name="clubmodule_rest_battery_percent">バッテリ残量%s%%</string>
-    <string name="clubmodule_open_app_daily">毎日WeRUNを開いて、歩数データを同期しよう</string>
+    <string name="clubmodule_open_app_daily">毎日WeRUNを開いて歩数データを取り込みましょう</string>
     <string name="clubmodule_open_wechat_app_daily">毎日APPにログインすると、歩数データを同期できます</string>
     <string name="clubmodule_open_app_daily_1">毎日WeRUNを開いて歩数データを取り込みましょう</string>
     <string name="clubmodule_open_wechat_app_upload">APPに同期してください</string>//日本版本不再需要(可删除)
@@ -1691,8 +1691,8 @@
     <string name="clubmodule_change_datasource_msg_3">WeRUNに紐付けるために、携帯計測に切り替えてください</string>
     //日本版本不再需要(可删除)
     <string name="clubmodule_search">検索</string>
-    <string name="clubmodule_restart_app">3秒後にAPPを再起動</string>
-    <string name="clubmodule_no_disturb_time">非通知時間指定</string>
+    <string name="clubmodule_restart_app">3秒後にAPPを再起動します</string>
+    <string name="clubmodule_no_disturb_time">非通知時刻指定</string>
     <string name="clubmodule_loginout_unbind">ログアウトによってスマートバンドとのペアリングが解除されます</string>
     <string name="clubmodule_quit_after_upload">データ同期中...</string>
     <string name="clubmodule_wristband_disconnect_1">スマートバンドが切断されました。同期後にペアリングを解除しましょう</string>
