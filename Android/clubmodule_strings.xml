@@ -1769,7 +1769,7 @@
     <string name="clubmodule_my_rank">私 第%s位</string>
     <string name="clubmodule_compare_2_last_week">先週と比べる</string>
     <string name="clubmodule_compare_2_last_month">先月と比べる</string>
-    <string name="clubmodule_open">始めよう</string>
+    <string name="clubmodule_open">オン</string>
     <string name="clubmodule_alarm_unit">件</string>
     <string name="clubmodule_no_alarm">0件</string>
     <string name="clubmodule_pay_succeed">支払いました</string>
