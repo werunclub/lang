@@ -247,7 +247,7 @@
     <string name="resend_reg_code">認証コードを再送</string>
     <string name="verify">認証</string>
     <string name="reset_and_login">リセットしてログイン</string>
-    <string name="send_reg_code_hint">認証コードを送信しました</string>
+    <string name="send_reg_code_hint">認証コードをここに送信しました</string>
     <string name="new_password">新パスワード</string>
     <string name="reg_already_registered">登録済みですか？</string>
     <string name="click_login">ここからログイン</string>
@@ -259,7 +259,7 @@
     <string name="my_department_rank">MYチーム 第%d位</string>
     <string name="my_person_rank">私 %d位</string>
     <string name="layout1_forgot_hint_tv">登録時の携帯番号(-不要)またはEメールを入力し、認証コードを送信してください</string>
-    <string name="send_timer">あと%1$ssで再送</string>
+    <string name="send_timer">再送(%1$ss)</string>
     <string name="random_team">ランダム分け</string>
     <string name="select_department">部門選択</string>
     <string name="unit_person">人</string>
@@ -1567,7 +1567,7 @@
     <string name="clubmodule_sunday">日</string>
     <string name="clubmodule_heart_rate_white_space">心拍数 </string>
     <string name="clubmodule_default_heart_rate">心拍数 --</string>
-    <string name="clubmodule_base_heart_rate_str">安静時心拍数 %sbpm</string>
+    <string name="clubmodule_base_heart_rate_str">安静時心拍数 %s bpm</string>
     <string name="clubmodule_run_record_title">ランニング履歴</string>
     <string name="clubmodule_walk_record_title">ウォーク履歴</string>
     <string name="clubmodule_too_frequent_str">頻繁な操作です。後で再度お試しください</string>
