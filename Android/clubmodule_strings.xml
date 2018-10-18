@@ -1268,8 +1268,8 @@
     <string name="clubmodule_vr_club_default_title">グループ--人</string>
     <string name="clubmodule_default_rank_str">第--位</string>
     <string name="clubmodule_default_step_str">--歩</string>
-    <string name="clubmodule_bmi_info">BMI(Body Mass Index)とは、ヒトの肥満度を表す体格指数のこと。体重(kg)を身長(ｍ)の2乗で割って算出される値。</string>
-    <string name="clubmodule_weight_rate_info">体脂肪率とは、体内に含まれる脂肪の重量の割合のこと。高い体脂肪率は糖尿病、高血圧、脳血管障害、虚血性心疾患などを引起こす危険因子である。</string>
+    <string name="clubmodule_bmi_info">BMI(Body Mass Index)とは、ヒトの肥満度を表す体格指数のこと。体重(kg)を身長(ｍ)の2乗で割って算出される値である。</string>
+    <string name="clubmodule_weight_rate_info">体脂肪率とは、体内に含まれる脂肪の重量の割合のこと。高い体脂肪率は糖尿病、高血圧、脳血管障害、虚血性心疾患などを引起こす危険因子である。表示の体脂肪率は、あくまでも目安であり、すべての方に当てはまる指標ではありません。</string>
     <string name="clubmodule_home_guide_info">グループやイベント通知を確認、友達とチャットできる</string>
     <string name="clubmodule_daily_task_info">枠内をタップし歩数履歴や日替ミッションを確認できる</string>
     <string name="clubmodule_slide_to_upload_data">下スワイプでデータを同期</string>
