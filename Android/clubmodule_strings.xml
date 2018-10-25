@@ -1624,7 +1624,7 @@
     <string name="clubmodule_open_wechat_app_daily">毎日APPにログインすると、歩数データを同期できます</string>
     <string name="clubmodule_open_app_daily_1">毎日WeRUNを開いて歩数データを取り込みましょう</string>
     <string name="clubmodule_open_wechat_app_upload">APPに同期してください</string>//日本版本不再需要(可删除)
-    <string name="clubmodule_target_step">運動目標 %s 歩</string>
+    <string name="clubmodule_target_step">目標 %s歩</string>
     <string name="clubmodule_open_codoon_app">WeRUNを開いてください</string>
     <string name="clubmodule_datasource_phone_counter">計測方法 携帯</string>
     <string name="clubmodule_datasource_wristband">計測方法 WeBand</string>
