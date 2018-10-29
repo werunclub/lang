@@ -3826,5 +3826,13 @@
   {
     "id": "每日任务",
     "translation": "日替ミッション"
+  },
+  { 
+    "id": "订单撤销",
+    "translation": ""
+  }, 
+  { 
+    "id": "订单退款:",
+    "translation": ""
   }
 ]
