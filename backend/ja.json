@@ -3829,10 +3829,10 @@
   },
   { 
     "id": "订单撤销",
-    "translation": ""
+    "translation": "注文取消"
   }, 
   { 
     "id": "订单退款:",
-    "translation": ""
+    "translation": "注文返金"
   }
 ]
