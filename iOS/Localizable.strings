@@ -1208,6 +1208,7 @@
 "上午" = "午前";
 "下午" = "午後";
 "天" = "日";
+"日2" = "日";
 "日" = "日間";
 "周" = "週";
 "月" = "月";
@@ -1239,6 +1240,7 @@
 "%01ld秒" = "%01ld秒";
 "dd" = "dd";
 "dd日 HH:mm" = "dd日 HH:mm";
+"M月d日 HH:mm" = "M月d日 HH:mm";
 "yy年MM月dd日 HH:mm" = "yy年MM月dd日 HH:mm";
 "yyyy年MMMdd日 HH:mm:ss" = "yyyy年MMMdd日 HH:mm:ss";
 "yyyy年MMMdd日 HH:mm" = "yyyy年MMMdd日 HH:mm";
