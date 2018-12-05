@@ -1265,7 +1265,7 @@
     <string name="clubmodule_fit_walk">ウォーキング</string>
     <string name="clubmodule_switch_sport_type">ウォーク/ランモード切替え</string>
     <string name="clubmodule_search_dept">部門を検索</string>
-    <string name="clubmodule_vr_club_default_title">グループ--人</string>
+    <string name="clubmodule_vr_club_default_title">チーム--人</string>
     <string name="clubmodule_default_rank_str">第--位</string>
     <string name="clubmodule_default_step_str">--歩</string>
     <string name="clubmodule_bmi_info">BMI(Body Mass Index)とは、ヒトの肥満度を表す体格指数のこと。体重(kg)を身長(ｍ)の2乗で割って算出される値である。</string>
@@ -1518,7 +1518,7 @@
     <string name="clubmodule_select_wristband_type">スマートバンドの種類を選択</string>
     <string name="clubmodule_select_begin_time">開始時刻を選択</string>
     <string name="clubmodule_select_end_time">終了時刻を選択</string>
-    <string name="clubmodule_team">グループ</string>
+    <string name="clubmodule_team">チーム</string>
     <string name="clubmodule_save">保存</string>
     <string name="clubmodule_allow">許可</string>
     <string name="clubmodule_divide_step_activity">時間指定歩数計測イベント</string>
