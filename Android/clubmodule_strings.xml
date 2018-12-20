@@ -14,7 +14,7 @@
     <string name="clubmodule_archive_success">アーカイブしました</string>
     <string name="app_name">WeRUN</string>
     <string name="send">送信</string>
-    <string name="sports_target">運動目標 %s歩</string>
+    <string name="sports_target">目標 %s歩</string>
     <string name="new_notification">あなたは新しい%sメッセージを持っています</string>
     <string name="none">無</string>
     <string name="me">マイページ</string>
@@ -1405,7 +1405,7 @@
     <string name="clubmodule_rank_by_reach_standard">イベント期間中参加者の目標達成状況でランク付け</string>
     <string name="clubmodule_10000_step_per_day">毎日一万歩(管理者が目標歩数を設定可能)に達したら目標達成とする</string>
     <string name="clubmodule_caution">メッセージ</string>
-    <string name="clubmodule_activity_only_for_wristband">このイベントはスマートバンド会員だけに適用</string>
+    <string name="clubmodule_activity_only_for_wristband">このイベントはスマートバンド会員だけに適用します</string>
     <string name="clubmodule_select_activity_cover">イベントカバーを選択してください</string>
     <string name="clubmodule_should_upgrade">WeRUNアプリを最新にアップグレードしてより多彩なイベントを作成しよう</string>
     <string name="clubmodule_meter">m</string>
