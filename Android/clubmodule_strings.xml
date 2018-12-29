@@ -201,7 +201,7 @@
 
     <string name="invite_members">友達を招待</string>
     <string name="invite_members_join">友達をグループに招待しよう</string>
-    <string name="invite_join_msg">私たち%sはWeRUNに参加しました！グループ活動にあなたが必要です。今すぐ参加して、あなたの名誉を運動で勝ち取ってください！</string>
+    <string name="invite_join_msg">私たち%@はWeRUNクラブに入会しました！グループの健康増進活動にあなたが必要です。今すぐ参加して、みんなで日々の活動を盛り上げましょう！</string>
     <string name="invite_link">友達をグループに招待します</string>
     <string name="link">リンク</string>
     <string name="qrcode">QRコード</string>
@@ -349,8 +349,8 @@
     <string name="club_manager">グループ管理</string>
     <string name="grouping_manager">部門管理</string>
     <string name="club_auth">認証</string>
-    <string name="club_manager_tips">その他管理機能については、PC管理ページにログインしてご利用ください\n http://www.werunclub.net</string>
-    <string name="club_auth_hint">未認証(管理者ページにて会社認証を行ってください)</string>
+    <string name="club_manager_tips">詳しくは公式サイトをご覧ください。https://www.werunclub.net/</string>
+    <string name="club_auth_hint">認証申請受付中</string>
     <string name="club_manager_remove_dept">部門を削除しますか？</string>
     <string name="club_manager_remove_member">会員を削除しますか？</string>
     <string name="club_manager_remove_manager">%1$sの管理者権限を取り消しますか</string>
