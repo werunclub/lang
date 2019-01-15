@@ -1,55 +1,55 @@
 FORMAT: 1A
 HOST: https://club-open.codoon.com
 
-# 企业咕咚开放接口
+# WeRUN WEB API
 
-欢迎使用企业咕咚开放接口
+WeRUN WEB APIをご利用頂き、ありがとうございます。
 
 # Data Structures
 
-## 俱乐部 (object)
+## クラブ (object)
 + id: 42 (number, required)
-+ club_name: 测试俱乐部 (string, required)
++ club_name: テストクラブ (string, required)
 + person_count: 100 (number, required)
 + icon: `https://club-img1.codoon.com/10420275-b862-11e6-a133-1ea400b87ec5.jpeg` (string, required)
-+ organizational_architecture(array[部门], fixed) - 组织架构
++ organizational_architecture(array[部門], fixed) - 組織階層
 
 ## 部门 (object)
 + team_id: 100 (number)
-+ team_name: `研发部` (string)
++ team_name: `開発部` (string)
 + person_count: 100 (number)
-+ nodes(array[子部门])
++ nodes(array[子部門])
 
 ## 子部门 (object)
 + team_id: 101 (number)
-+ team_name: `前端` (string)
++ team_name: `フロントエンド` (string)
 + person_count: 100 (number)
 + nodes(array[])
 
-## 成员 (object)
+## メンバー (object)
 + team_id: 100 (number)
 + user_id: `10420275-b862-11e6-a133-1ea400b87ec5` (string)
-+ name: 张三 (string)
-+ mobile: 13838003800 (string)
++ name: 山田 (string)
++ mobile: 08012345678 (string)
 + email: example@example.com (string)
-+ join_time: 1484443433 (number) - 时间戳（秒）
++ join_time: 1484443433 (number) - タイムスタンプ（秒）
 
-## 计步数据 (object)
+## 歩数データ (object)
 + user_id: `10420275-b862-11e6-a133-1ea400b87ec5` (string)
 + curday: `2017-01-02` (string)
 + step: 8000 (number)
 + calories: 700 (number)
 + meters: 4800.0 (number)
-+ total_time: 50120 (number) - 运动时长（秒）
++ total_time: 50120 (number) - タイム（秒）
 
-## 排行榜成员 (object)
+## ランキングメンバー (object)
 + team_id: 100 (number)
 + user_id: `10420275-b862-11e6-a133-1ea400b87ec5` (string)
-+ name: 张三 (string)
++ name: 山田 (string)
 + rank: 1 (number)
 + steps: 80000 (number)
 
-## GPS数据 (object)
+## GPSデータ (object)
 + user_id: `10420275-b862-11e6-a133-1ea400b87ec5` (string)
 + route_id: 1024 (number)
 + start_time: `2017-07-11 19:22:56` (string)
@@ -57,42 +57,42 @@ HOST: https://club-open.codoon.com
 + total_time: 1835 (number)
 + total_calories: 344.8068 (number)
 + total_length: 4440 (number)
-+ sports_type: 0 (number) - 运动类型：0 跑步 1 健走
-+ average_speed: 413 (number) - 平均配速（秒）
-+ highest_speed: 268 (number) - 最高配速（秒）
-+ highest_speed_perkm: 268 (number) - 最高每公里配速（秒）
++ sports_type: 0 (number) - 運動タイプ：0 ランニング 1 ウォーキング
++ average_speed: 413 (number) - 平均ペース（秒）
++ highest_speed: 268 (number) - 最高ペース（秒）
++ highest_speed_perkm: 268 (number) - 1kmあたりの最高ペース（秒）
 
 
-# Group 使用指南
+# Group ご利用ガイド
 
-### 认证
+### 認証
 
-请联系客服申请接口调用权限，通过申请后可以在管理平台查看和刷新`token`。
-然后按以下方式在请求头部添加`token`
+WeRUN APIを利用するためには、まず利用のお申込みを行い、`token`を入手してください。
+`token`を下記のようにリクエストヘッダに追加してください。
 
 ```
 Authorization: Bearer <your_api_token>
 ```
 
-### 使用限制
+### 利用制限
 
-每个接口都有对应的请求频率限制，超过限制后返回错误，下个周期自动恢复。
+すべてのAPIに一定時間にアクセス可能な回数に制限があります。上限を超えた場合はエラーとなります。API制限は一定時間を超えればリセットされます。
 
-### 错误列表
+### エラーリスト
 
-错误码 | 状态码 | 说明
+エラーコード | ステータスコード | 説明
 ----- | ----- | --------------
-401   | 401   | 未提供 token
-403   | 403   | 无效 token 
-500   | 500   | 服务器未知错误（请联系客服）
-10001 | 403   | 请求次数超过限制
+401   | 401   | token未発行
+403   | 403   | 無効なtoken
+500   | 500   | 不明なサーバーエラー（ヘルプデスクに連絡してください）
+10001 | 403   | API制限にかかりました
 
 
-# Group 接口列表
+# Group インタフェース一覧
 
-## 俱乐部基本资料 [GET /club/get_club_basic_info]
+## クラブ基本情報 [GET /club/get_club_basic_info]
 
-获取本俱乐部基本资料
+指定クラブの基本情報を取得する。
 
 + Request
     + Headers
@@ -100,18 +100,18 @@ Authorization: Bearer <your_api_token>
             Authorization: Bearer <your_api_token>
 
 + Response 200 (application/json)
-    + Attributes(俱乐部)
+    + Attributes(クラブ)
 
 
-## 全部成员列表 [GET /club/all_member_list{?page_num,page_size}]
+## メンバーリスト [GET /club/all_member_list{?page_num,page_size}]
 
-获取全量俱乐部成员列表  
-每天只能调用一次，并且只能在2:00 － 6:00之间调用  
-当返回的 page_size 和 memberlist 的个数不同时，则认为翻页结束，也意味着当天的调用次数已用  
+クラブメンバーの一覧を取得する。
+1日1回、2:00 ～ 6:00の間にのみ呼び出し可能。
+戻り値の page_size と memberlist の要素数が異なる場合はページ終了となり、本日の呼び出し回数の上限に達することを意味ます。 
 
 + Parameters
-    + page_num: 1 (number, required) - 页码
-    + page_size: 100 (number, optional) - 返回数量
+    + page_num: 1 (number, required) - ページ番号
+    + page_size: 100 (number, optional) - ページ数
 
 + Request
     + Headers
@@ -124,18 +124,18 @@ Authorization: Bearer <your_api_token>
 		+ errmsg: `` (string)
         + page_num: 1 (number)
         + page_size: 100 (number)
-        + member_list(array[成员], fixed)
+        + member_list(array[メンバー], fixed)
 
 
-## 新成员列表 [GET /club/new_member_list{?begin_time,end_time}]
+## 新規メンバーリスト [GET /club/new_member_list{?begin_time,end_time}]
 
-获取本俱乐部指定时间段内的新增成员  
-每日限制调用100次  
-只能获取七日内指定时间段内的新增成员，指定时间段需要小于1小时  
+指定時間帯に新規参加メンバーの一覧を取得する。
+1日100回まで呼び出し可能。
+7日間以内の新規メンバーのみ取得可能。指定時間帯は1時間以内。
 
 + Parameters
-    + begin_time: 1484443433 (number, required) - 起始时间
-    + end_time: 1484446833 (number, required) - 结束时间
+    + begin_time: 1484443433 (number, required) - 開始時間
+    + end_time: 1484446833 (number, required) - 終了時間
 
 + Request
     + Headers
@@ -147,15 +147,15 @@ Authorization: Bearer <your_api_token>
         + member_list(array[成员], fixed)
 
 
-## 成员上传计步数据 [GET /club/member_step_data{?begin_time,end_time}]
+## 歩数データ [GET /club/member_step_data{?begin_time,end_time}]
 
-获取本俱乐部指定时间段内的上传的计步数据  
-每日限制调用100次  
-只能获取七日内指定时间段内的上传的计步数据，指定时间段需要小于1小时  
+指定時間帯の歩数データを取得する。
+1日100回まで呼び出し可能。
+7日間以内の同期済みの歩数データのみ取得可能。指定時間帯は1時間以内。
 
 + Parameters
-    + begin_time: 1484443433 (number, required) - 起始时间
-    + end_time: 1484446833 (number, required) - 结束时间
+    + begin_time: 1484443433 (number, required) - 開始時間
+    + end_time: 1484446833 (number, required) - 終了時間
 
 + Request
     + Headers
@@ -164,18 +164,18 @@ Authorization: Bearer <your_api_token>
 
 + Response 200 (application/json)
     + Attributes 
-        + data_list(array[计步数据], fixed) - 计步数据
+        + data_list(array[歩数データ], fixed) - 歩数データ
 
-## 成员指定日期计步数据 [GET /club/member_step_data_by_day{?day,page_num,page_size}]
+## 指定日付の歩数データ [GET /club/member_step_data_by_day{?day,page_num,page_size}]
 
-获取本俱乐部成员指定日期计步数据  
-每页每日限制调用5次    
-只能获取七日内计步数据  
+指定日付の歩数データを取得する。
+1ページあたり1日5回まで呼び出し可能。
+7日間以内の同期済みの歩数データのみ取得可能。
 
 + Parameters
-    + day: `2017-01-02` (string) - 日期，格式：yyyy-mm-dd
-    + page_num: 1 (number, required) - 页码
-    + page_size: 100 (number, optional) - 返回数量,最大1000
+    + day: `2017-01-02` (string) - 日付、フォーマット：yyyy-mm-dd
+    + page_num: 1 (number, required) - ページ番号
+    + page_size: 100 (number, optional) - ページ数、Max1000
 
 + Request
     + Headers
@@ -184,19 +184,19 @@ Authorization: Bearer <your_api_token>
 
 + Response 200 (application/json)
     + Attributes 
-        + data_list(array[计步数据], fixed) - 计步数据
+        + data_list(array[歩数データ], fixed) - 歩数データ
     
 
-## 获取成员指定时间段计步数据 [GET /club/get_member_step_data_between_date{?user_id,start_date,end_date}]
+## 指定期間の歩数データ [GET /club/get_member_step_data_between_date{?user_id,start_date,end_date}]
 
-获取成员指定时间段计步数据
-此接口仅用于补数据使用，请求频率限制为每分钟调用100次
-只能获取七日内计步数据
+指定期間の歩数データを取得する。
+データ補足ためのインターフェース。1分あたり100回まで呼び出し可能。
+7日間以内の同期済みの歩数データのみ取得可能。
 
 + Parameters
-    + start_date: `2017-01-02` (string) - 日期，格式：yyyy-mm-dd
-    + end_date: `2017-01-07` (string) - 日期，格式：yyyy-mm-dd
-    + user_id: `10420275-b862-11e6-a133-1ea400b87ec5` (string, required) - 用户ID
+    + start_date: `2017-01-02` (string) - 日付、フォーマット：yyyy-mm-dd
+    + end_date: `2017-01-07` (string) - 日付、フォーマット：yyyy-mm-dd
+    + user_id: `10420275-b862-11e6-a133-1ea400b87ec5` (string, required) - ユーザーID
 
 + Request
     + Headers
@@ -205,18 +205,18 @@ Authorization: Bearer <your_api_token>
 
 + Response 200 (application/json)
     + Attributes 
-        + data_list(array[计步数据], fixed) - 计步数据
+        + data_list(array[歩数データ], fixed) - 歩数データ
 
 
-## 成员排行榜 [GET /club/ranking{?type,page_num,page_size}]
+## 会員ランキングリスト [GET /club/ranking{?type,page_num,page_size}]
 
-获取本俱乐部成员排行榜（今日、本周、本月）  
-频率限制每分钟100次（排行榜10分钟更新一次，请做好缓存） 
+会員ランキングリスト（今日、今週、今月）を取得する。
+1分あたり100回まで呼び出し可能。（ランキングリストのデータは10分ごとに更新されるため、キャッシュを用意してください。）
 
 + Parameters
-    + type: `daily` (string) - 排行榜类型：daily 今日, weekly 本周, monthly 本月
-    + page_num: 1 (number, required) - 页码
-    + page_size: 100 (number, optional) - 返回数量
+    + type: `daily` (string) - ランキングタイプ：daily 今日, weekly 今週, monthly 今月
+    + page_num: 1 (number, required) - ページ番号
+    + page_size: 100 (number, optional) - ページ数
 
 + Request
     + Headers
@@ -225,17 +225,17 @@ Authorization: Bearer <your_api_token>
 
 + Response 200 (application/json)
     + Attributes
-        + member_list(array[排行榜成员], fixed)
+        + member_list(array[ランキングメンバー], fixed)
     
-## 成员上传GPS数据 [GET /club/member_gps_data{?begin_time,end_time}]
+## GPSデータ [GET /club/member_gps_data{?begin_time,end_time}]
 
-获取本俱乐部指定时间段内的上传的GPS数据  
-每日限制调用100次  
-只能获取七日内指定时间段内的上传的计步数据，指定时间段需要小于1小时  
+指定時間帯のGPSデータを取得する。
+1日あたり100回まで呼び出し可能。
+7日間以内の同期済みの歩数データのみ取得可能。指定時間帯は1時間以内。
 
 + Parameters
-    + begin_time: 1484443433 (number, required) - 起始时间
-    + end_time: 1484446833 (number, required) - 结束时间
+    + begin_time: 1484443433 (number, required) - 開始時間
+    + end_time: 1484446833 (number, required) - 終了時間
 
 + Request
     + Headers
@@ -244,4 +244,4 @@ Authorization: Bearer <your_api_token>
 
 + Response 200 (application/json)
     + Attributes 
-        + data_list(array[GPS数据], fixed) - GPS记录
+        + data_list(array[GPSデータ], fixed) - GPSレコード
