@@ -515,7 +515,7 @@
     <string name="ble_searching_nodata_tips1">Weバンドを携帯の近くに</string>
     <string name="ble_searching_nodata_tips2">携帯のBluetoothをオンに</string>
     <string name="ble_searching_disconnect">未接続</string>
-    <string name="ble_connect_dialog">Bluetoothをオンにして「WeRUN」とデバイスの接続を許可します</string>
+    <string name="ble_connect_dialog">Bluetoothをオンにしてアプリとデバイスの接続を許可します。</string>
     <string name="ble_none_dialog">お使いの携帯電話はBluetoothを搭載していません</string>
     <string name="ble_error">Bluetoothに不明なエラー。しばらく待ってからもう一度お試しください</string>
     <string name="ble_deviceinfo_wait">デバイス情報の取得完了を待ってからもう一度お試しください</string>
@@ -965,7 +965,7 @@
     <string name="device_no_device">デバイスが追加されていません</string>
     <string name="device_hr_paired">接続しました</string>
     <string name="device_list_heart_rate">心拍数を接続</string>
-    <string name="open_bluetooth">Bluetoothをオンにして“Runto\'pia”と付属設備との接続を許可します</string>
+    <string name="open_bluetooth">Bluetoothをオンにしてアプリとデバイスとの接続を許可します。</string>
     <string name="ble_not_support">Bluetoothバージョンが古いため使えません</string>
     <string name="no_history_data">ランニング記録がありません</string>
     <string name="speed">スピード</string>
@@ -1655,7 +1655,7 @@
     <string name="clubmodule_downloading">ダウンロード中...</string>
     <string name="clubmodule_wristband_disconnect_msg">スマートバンドが切断されました。後ほど再度お試しください</string>
     <string name="clubmodule_change_config_failed">設定に失敗しました</string>
-    <string name="clubmodule_upload_phone_record">携帯で計測したデータを送信中...</string>
+    <string name="clubmodule_upload_phone_record">携帯計測データ送信中...</string>
     <string name="clubmodule_phone_sys_low">携帯のバージョンが古すぎます。サポートされていません</string>
     <string name="clubmodule_speed_analysis">ペース分析</string>
     <string name="clubmodule_speed_comment">%skmスピード評価</string>
@@ -1951,7 +1951,7 @@
     <string name="codoon_wristband_searching">検索中...</string>
     <string name="codoon_wristband_search_connect_status">Bluetoothの接続状態</string>
     <string name="codoon_wristband_search_failed">デバイスが見つかりません</string>
-    <string name="codoon_wristband_search_failed_tips1">バンドのBluetoothが携帯に接続されていないことを確認してください</string>
+    <string name="codoon_wristband_search_failed_tips1">対象バンドのBluetoothが携帯に接続されていないことを確認してください</string>
     <string name="codoon_wristband_search_failed_tips2">携帯の位置情報サービスをONにしてください</string>
     <string name="codoon_wristband_research">もう一度</string>
     <string name="codoon_wristband_scanner_error">認識できないQRコード</string>
