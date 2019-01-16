@@ -1958,4 +1958,8 @@
     <string name="codoon_wristband_open_ble_message">携帯のBluetoothがONにしてください</string>
     <string name="codoon_wristband_weather_success">天気データ更新完了</string>
     <string name="codoon_wristband_weather_failed">天気データ更新失敗</string>
+
+    <string name="facebook_not_installed">Facebookが見つかりませんでした</string>
+    <string name="twitter_not_installed">Twitterが見つかりませんでした</string>
+    <string name="sit_long_only_support_hour">久坐提醒设置只支持小时区间</string>
 </resources>
