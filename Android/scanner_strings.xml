@@ -1,12 +1,12 @@
 <resources>
 
     <!-- update 2019-01-15 -->
-    <string name="scan_qr_desc">将二维码放入框内，即可自动扫描</string>
-    <string name="scan_qr_torch">手电筒</string>
+    <string name="scan_qr_desc">フレームをQRコードに合わせてかざせばスキャンできます</string>
+    <string name="scan_qr_torch">ライト</string>
     <string name="scanner">スキャン</string>
     <string name="gallery">アルバム</string>
 
-    <string name="msg_camera_framework_bug">很抱歉，Android 相机出现问题。你可能需要重启设备。</string>
+    <string name="msg_camera_framework_bug">カメラは正常に動作していないため、再起動してください</string>
     <string name="common_ok">OK</string>
 
 </resources>

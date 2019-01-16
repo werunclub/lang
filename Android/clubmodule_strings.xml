@@ -1942,20 +1942,20 @@
     <string name="clubmodule_every_week_day_str">每%s曜日</string>
 
     <!-- update 2019-01-15 -->
-    <string name="bind_codoon_wristband">绑定咕咚智能手环</string>
-    <string name="codoon_wristband_name">咕咚智能心率手环</string>
-    <string name="codoon_wristband_ready_tips_title">请按以下下步骤操作</string>
-    <string name="codoon_wristband_ready_tips_1">将手环充电开机</string>
-    <string name="codoon_wristband_ready_tips_2">将手环切换到二维码页面</string>
-    <string name="codoon_wristband_ready_scanner">扫描二维码</string>
-    <string name="codoon_wristband_searching">正在搜索...</string>
-    <string name="codoon_wristband_search_connect_status">蓝牙连接状态</string>
-    <string name="codoon_wristband_search_failed">没有搜索到设备</string>
-    <string name="codoon_wristband_search_failed_tips1">请确认手环的蓝牙未连接，若已连接请在手机里断开</string>
-    <string name="codoon_wristband_search_failed_tips2">请打开手机定位服务的开关（部分手机需要）</string>
-    <string name="codoon_wristband_research">重新搜索</string>
-    <string name="codoon_wristband_scanner_error">暂不支持此二维码</string>
-    <string name="codoon_wristband_open_ble_message">请确认已打开手机蓝牙</string>
-    <string name="codoon_wristband_weather_success">更新天气成功</string>
-    <string name="codoon_wristband_weather_failed">更新天气失败</string>
+    <string name="bind_codoon_wristband">WeRUNスマートバンド3SC</string>
+    <string name="codoon_wristband_name">WeRUNスマートバンド3SC</string>
+    <string name="codoon_wristband_ready_tips_title">以下の手順に従ってください</string>
+    <string name="codoon_wristband_ready_tips_1">バンドの電源をONにする</string>
+    <string name="codoon_wristband_ready_tips_2">バンドの画面にQRコードを表示させる</string>
+    <string name="codoon_wristband_ready_scanner">QRコードを読み取る</string>
+    <string name="codoon_wristband_searching">検索中...</string>
+    <string name="codoon_wristband_search_connect_status">Bluetoothの接続状態</string>
+    <string name="codoon_wristband_search_failed">デバイスが見つかりません</string>
+    <string name="codoon_wristband_search_failed_tips1">バンドのBluetoothが携帯に接続されていないことを確認してください</string>
+    <string name="codoon_wristband_search_failed_tips2">携帯の位置情報サービスをONにしてください</string>
+    <string name="codoon_wristband_research">もう一度</string>
+    <string name="codoon_wristband_scanner_error">認識できないQRコード</string>
+    <string name="codoon_wristband_open_ble_message">携帯のBluetoothがONにしてください</string>
+    <string name="codoon_wristband_weather_success">天気データ更新完了</string>
+    <string name="codoon_wristband_weather_failed">天気データ更新失敗</string>
 </resources>
