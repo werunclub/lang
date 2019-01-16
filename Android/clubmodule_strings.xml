@@ -1961,5 +1961,5 @@
 
     <string name="facebook_not_installed">Facebookが見つかりませんでした</string>
     <string name="twitter_not_installed">Twitterが見つかりませんでした</string>
-    <string name="sit_long_only_support_hour">久坐提醒设置只支持小时区间</string>
+    <string name="sit_long_only_support_hour">運動リマインダーは時間単位のみ設定可能</string>
 </resources>
