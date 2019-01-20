@@ -511,9 +511,9 @@
     <string name="connect_success">接続しました</string>
     <string name="ble_searching_check">Weバンドを携帯電話の近くに置いてください</string>
     <string name="ble_searching_nodata">Weバンドが見つかりませんでした</string>
-    <string name="ble_searching_nodata_tips0">Weバンドをオンにしてください</string>
-    <string name="ble_searching_nodata_tips1">Weバンドを携帯の近くに</string>
-    <string name="ble_searching_nodata_tips2">携帯のBluetoothをオンに</string>
+    <string name="ble_searching_nodata_tips0">デバイスの電源をオンにする</string>
+    <string name="ble_searching_nodata_tips1">デバイスを携帯の近くに置く</string>
+    <string name="ble_searching_nodata_tips2">デバイスのBluetoothをオンにする</string>
     <string name="ble_searching_disconnect">未接続</string>
     <string name="ble_connect_dialog">Bluetoothをオンにしてアプリとデバイスの接続を許可します。</string>
     <string name="ble_none_dialog">お使いの携帯電話はBluetoothを搭載していません</string>
@@ -965,7 +965,7 @@
     <string name="device_no_device">デバイスが追加されていません</string>
     <string name="device_hr_paired">接続しました</string>
     <string name="device_list_heart_rate">心拍数を接続</string>
-    <string name="open_bluetooth">Bluetoothをオンにしてアプリとデバイスとの接続を許可します。</string>
+    <string name="open_bluetooth">Bluetoothをオンにしてアプリとデバイスの接続を許可します。</string>
     <string name="ble_not_support">Bluetoothバージョンが古いため使えません</string>
     <string name="no_history_data">ランニング記録がありません</string>
     <string name="speed">スピード</string>
@@ -1250,7 +1250,7 @@
     <string name="clubmodule_finish_sport">終了</string>
     <string name="clubmodule_pause_sport">一時停止</string>
     <string name="clubmodule_lock_screen">画面をロック</string>
-    <string name="clubmodule_config_gps_on">携帯のGPS機能をオンに</string>
+    <string name="clubmodule_config_gps_on">携帯のGPS機能をオンにする</string>
     <string name="clubmodule_sleep_data">睡眠データ</string>
     <string name="clubmodule_search_default_hint">文書、キーワード、興味を検索</string>
     <string name="clubmodule_collect">お気に入り</string>
@@ -1357,7 +1357,7 @@
     <string name="clubmodule_change_bind">紐付けを変更</string>
     <string name="clubmodule_do_bind">紐付ける</string>
     <string name="clubmodule_unbind">紐付けを解除</string>
-    <string name="clubmodule_bind_device">デバイスと紐付け</string>
+    <string name="clubmodule_bind_device">デバイスと紐付ける</string>
     <string name="clubmodule_open_ble_retry">Bluetoothをオンにしてもう一度お試しください</string>
     <string name="clubmodule_sport_data_safety_warn">データ保護のため、計測方法を携帯電話に切替えてからスマートバンドをペアリングします。続けますか</string>
     <string name="clubmodule_change_phone_datasource">携帯計測に切り替える</string>
@@ -1367,7 +1367,7 @@
     <string name="clubmodule_connecting">接続中：</string>
     <string name="clubmodule_change_2_wristband_ok">計測方法を「Weバンド」に切替えました</string>
     <string name="clubmodule_wait_wristband_confirm">スマートバンドの確認待ち</string>
-    <string name="clubmodule_wristband_deny">スマートバンドがペアリングを拒否またはタイムアウト、再度お試しください</string>
+    <string name="clubmodule_wristband_deny">スマートバンドがペアリング拒否またはタイムアウト。再度お試しください</string>
     <string name="clubmodule_confirm_ble_on">携帯のBluetoothをオンに(設定へ)</string>
     <string name="clubmodule_confirm_gps_on">携帯のGPSをオンに(設定へ)</string>
     <string name="clubmodule_incoming_call">着信</string>
@@ -1691,7 +1691,7 @@
     <string name="clubmodule_change_datasource_msg_3">WeRUNに紐付けるために、携帯計測に切り替えてください</string>
     //日本版本不再需要(可删除)
     <string name="clubmodule_search">検索</string>
-    <string name="clubmodule_restart_app">3秒後にAPPを再起動します</string>
+    <string name="clubmodule_restart_app">3秒後にAPPが再起動します</string>
     <string name="clubmodule_no_disturb_time">非通知時刻指定</string>
     <string name="clubmodule_loginout_unbind">ログアウトによってスマートバンドとのペアリングが解除されます</string>
     <string name="clubmodule_quit_after_upload">データ同期中...</string>
@@ -1700,7 +1700,7 @@
     <string name="clubmodule_network_warn">携帯のネットワークがありません。同期後にペアリングを解除しましょう</string>
     <string name="clubmodule_cancel_quit">終了しない</string>
     <string name="clubmodule_phone_not_support">携帯はこの機能をサポートしていません</string>
-    <string name="clubmodule_auto_restart_app">3秒後にAPPを再起動</string>
+    <string name="clubmodule_auto_restart_app">3秒後にAPPが再起動</string>
     <string name="clubmodule_auto_select">アプリで自動設定</string>
     <string name="clubmodule_use_step_sensor">歩数センサーで計測</string>
     <string name="clubmodule_use_speed_sensor">加速度センサーで計測（電力要）</string>
@@ -1942,11 +1942,11 @@
     <string name="clubmodule_every_week_day_str">每%s曜日</string>
 
     <!-- update 2019-01-15 -->
-    <string name="bind_codoon_wristband">WeRUNスマートバンド3SC</string>
-    <string name="codoon_wristband_name">WeRUNスマートバンド3SC</string>
+    <string name="bind_codoon_wristband">WeRUN Smartband 3SC</string>
+    <string name="codoon_wristband_name">WeRUN Smartband 3SC</string>
     <string name="codoon_wristband_ready_tips_title">以下の手順に従ってください</string>
     <string name="codoon_wristband_ready_tips_1">バンドの電源をONにする</string>
-    <string name="codoon_wristband_ready_tips_2">バンドの画面にQRコードを表示させる</string>
+    <string name="codoon_wristband_ready_tips_2">バンドの画面にQRコードを表示する</string>
     <string name="codoon_wristband_ready_scanner">QRコードを読み取る</string>
     <string name="codoon_wristband_searching">検索中...</string>
     <string name="codoon_wristband_search_connect_status">Bluetoothの接続状態</string>
@@ -1954,8 +1954,8 @@
     <string name="codoon_wristband_search_failed_tips1">対象バンドのBluetoothが携帯に接続されていないことを確認してください</string>
     <string name="codoon_wristband_search_failed_tips2">携帯の位置情報サービスをONにしてください</string>
     <string name="codoon_wristband_research">もう一度</string>
-    <string name="codoon_wristband_scanner_error">認識できないQRコード</string>
-    <string name="codoon_wristband_open_ble_message">携帯のBluetoothがONにしてください</string>
+    <string name="codoon_wristband_scanner_error">このQRコードが読み取れない</string>
+    <string name="codoon_wristband_open_ble_message">携帯のBluetoothをONにしてください</string>
     <string name="codoon_wristband_weather_success">天気データ更新完了</string>
     <string name="codoon_wristband_weather_failed">天気データ更新失敗</string>
 
