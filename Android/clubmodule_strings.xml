@@ -316,7 +316,7 @@
 
     <string name="switch_club">グループ切替</string>
     <string name="other_club">その他グループ</string>
-    <string name="alert_switch_club">グループを切替えますか。</string>
+    <string name="alert_switch_club">グループを切替えますか？</string>
     <string name="join_switch_club">参加しました。新しいグループ %s に切り替えますか?</string>
     <string name="logout_alert">ログアウトしますか？</string>
 
@@ -917,7 +917,7 @@
 
     <string name="Something_goes_wrong">トラブルが発生しました。しばらく待ってからもう一度お試しください</string>
 
-    <string name="unbindconnection">あなたの%1$sアカウントを紐付けます。</string>
+    <string name="unbindconnection">あなたの%1$sアカウントに紐付けます。</string>
     <string name="unbinddetail">ご注意：WeRUNが%1$sにあるあなたのデータをアクセスできるようにすると、すべてのデータはWeRUNに自動的に同期されます。ただし、%2$sからの履歴データはイベントメダルに影響しません</string>
     <string name="allowbind">今すぐ同期</string>
     <string name="summery_avghr"> 平均心拍数</string>
@@ -933,7 +933,7 @@
     <string name="desynchronize">送信をキャンセル</string>
     <string name="unbindfailed">送信キャンセルに失敗</string>
     <string name="unbindsuccess">送信キャンセルに成功</string>
-    <string name="sensor_search_failed">心拍デバイスを接続できません。デバイスがオンに、電池が正常であることを確認してから、もう一度お試しください</string>
+    <string name="sensor_search_failed">心拍デバイスに接続できません。デバイスがオンにして、電池が正常であることを確認してから、もう一度お試しください</string>
     <string name="forget_device">このデバイスを無視</string>
     <string name="devicefrom">から</string>
     <string name="From_device">%sから</string>
@@ -951,7 +951,7 @@
     <string name="setsport_goal">目標を設定</string>
     <string name="start">スタート</string>
     <string name="hrtipsline2">接続点（電極）が濡れていることを確認してください</string>
-    <string name="hrtipsline1">携帯電話のBluetoothをオンに</string>
+    <string name="hrtipsline1">携帯電話のBluetoothをオンにする</string>
     <string name="time">タイム</string>
     <string name="hrtipsline3">説明通りに装着してください</string>
     <string name="workoutsetting">運動設定</string>
@@ -1345,7 +1345,7 @@
     <string name="clubmodule_install_immediately">今すぐインストール</string>
     <string name="clubmodule_walk_best_record">ウォーキング最高記録</string>
     <string name="clubmodule_run_best_record">ランニング最高記録</string>
-    <string name="clubmodule_account_bind">アカウントに紐付け</string>
+    <string name="clubmodule_account_bind">アカウントに紐付ける</string>
     <string name="clubmodule_phone_account">携帯電話アカウント</string>
     <string name="clubmodule_web_account">Twitterアカウント</string>
     <string name="clubmodule_wechat_account">Lineアカウント</string>
@@ -1357,7 +1357,7 @@
     <string name="clubmodule_change_bind">紐付けを変更</string>
     <string name="clubmodule_do_bind">紐付ける</string>
     <string name="clubmodule_unbind">紐付けを解除</string>
-    <string name="clubmodule_bind_device">デバイスと紐付ける</string>
+    <string name="clubmodule_bind_device">デバイスを紐付ける</string>
     <string name="clubmodule_open_ble_retry">Bluetoothをオンにしてもう一度お試しください</string>
     <string name="clubmodule_sport_data_safety_warn">データ保護のため、計測方法を携帯電話に切替えてからスマートバンドをペアリングします。続けますか</string>
     <string name="clubmodule_change_phone_datasource">携帯計測に切り替える</string>
@@ -1367,9 +1367,9 @@
     <string name="clubmodule_connecting">接続中：</string>
     <string name="clubmodule_change_2_wristband_ok">計測方法を「Weバンド」に切替えました</string>
     <string name="clubmodule_wait_wristband_confirm">スマートバンドの確認待ち</string>
-    <string name="clubmodule_wristband_deny">スマートバンドがペアリング拒否またはタイムアウト。再度お試しください</string>
-    <string name="clubmodule_confirm_ble_on">携帯のBluetoothをオンに(設定へ)</string>
-    <string name="clubmodule_confirm_gps_on">携帯のGPSをオンに(設定へ)</string>
+    <string name="clubmodule_wristband_deny">ペアリング拒否またはタイムアウト。再度お試しください。</string>
+    <string name="clubmodule_confirm_ble_on">携帯のBluetoothをオンにする(設定へ)</string>
+    <string name="clubmodule_confirm_gps_on">携帯のGPSをオンにする(設定へ)</string>
     <string name="clubmodule_incoming_call">着信</string>
     <string name="clubmodule_data_analysis_error">データ解析失敗</string>
     <string name="clubmodule_upload_error">同期失敗</string>
@@ -1453,7 +1453,7 @@
     <string name="clubmodule_bind_phone_warn_1">利用規則に従い、次の操作を行う前に携帯番号を紐付けてください</string>
     <string name="clubmodule_bind_phone_warn_2">コメントの追加には、携帯番号の紐付けが必要です</string>
     <string name="clubmodule_set_phone_number">携帯番号を設定</string>
-    <string name="clubmodule_bind_phone_number">携帯番号を紐付け</string>
+    <string name="clubmodule_bind_phone_number">携帯番号を紐付ける</string>
     <string name="clubmodule_task_detail">ミッション情報</string>
     <string name="clubmodule_task_complete_msg">ミッション完了。シェアでさらにマイルゲット</string>
     <string name="clubmodule_today_task">ミッション</string>
@@ -1504,17 +1504,17 @@
     <string name="clubmodule_wait_for_load_data">データ読込中、しばらくお待ちください</string>
     <string name="clubmodule_connect_wristband">スマートバンドに接続して再度お試しください</string>
     <string name="clubmodule_checking">検知中</string>
-    <string name="clubmodule_newest_bean_version">ファームウェアはすでに最新バージョンV%sです</string>
-    <string name="clubmodule_find_new_bean_version">新しいファームウェアのバージョン V%sが見つかりました</string>
+    <string name="clubmodule_newest_bean_version">最新のファームウェア（V%s）です。</string>
+    <string name="clubmodule_find_new_bean_version">新しいファームウェア（V%s）が見つかりました。</string>
     <string name="clubmodule_upgrade">アップグレード</string>
-    <string name="clubmodule_upgrade_warn_msg">1、アップグレード中にBluetoothを切断したり、WeRUNアプリを終了したりしないでください\n2、スマートバンドバッテリ残量は50％以上必要です\n3、スマートバンドをUSBデバイスから取り外します</string>
+    <string name="clubmodule_upgrade_warn_msg">1.アップグレード中にBluetoothをオフにしたり、WeRUNアプリを終了したりしないでください。\n2.スマートバンドバッテリ残量は20％以上必要です。\n3.USBデバイスからスマートバンドを取り外します。</string>
     <string name="clubmodule_version_info">バージョン V</string>
     <string name="clubmodule_upgrade_percent">更新中%1$s%%...</string>
     <string name="clubmodule_download_bean_error">ファームウェアのダウンロード失敗。ネットワークを確認し、WeRUNを再起動してからもう一度お試しください</string>
     <string name="clubmodule_wristband_disconnect">携帯とBluetoothの接続が切れています。Bluetooth接続を確認し、APPを再起動してください\r\nスマートバンドは充電後に再アップグレードします</string>
     <string name="clubmodule_upgrade_100_percent">更新完了 100%</string>
-    <string name="clubmodule_upgrade_exception">更新できませんでした。デバイスを再起動してください</string>
-    <string name="clubmodule_upgrade_succeed">更新しました</string>
+    <string name="clubmodule_upgrade_exception">更新できませんでした。デバイスを再起動してください。</string>
+    <string name="clubmodule_upgrade_succeed">更新しました。</string>
     <string name="clubmodule_select_wristband_type">スマートバンドの種類を選択</string>
     <string name="clubmodule_select_begin_time">開始時刻を選択</string>
     <string name="clubmodule_select_end_time">終了時刻を選択</string>
@@ -1647,7 +1647,7 @@
     <string name="clubmodule_open_ble_alert">Bluetoothをオンにしてください</string>
     <string name="clubmodule_ble_reconnect_msg">デバイスの接続が切断されました。再接続中...</string>
     <string name="clubmodule_ble_service_reconnect">Bluetoothが切断されました。再起動中...</string>
-    <string name="clubmodule_wristband_deny_1">スマートバンドが接続を拒否またはタイムアウトしました</string>
+    <string name="clubmodule_wristband_deny_1">スマートバンドが接続を拒否またはタイムアウトしました。</string>
     <string name="clubmodule_connect_wristband_1">スマートバンドに接続</string>
     <string name="clubmodule_disconnect">切断する</string>
     <string name="clubmodule_disconnect_ble">切断しました</string>
@@ -1660,7 +1660,7 @@
     <string name="clubmodule_speed_analysis">ペース分析</string>
     <string name="clubmodule_speed_comment">%skmスピード評価</string>
     <string name="clubmodule_speed_stable">ペースの安定性</string>
-    <string name="clubmodule_bind_phone_num">携帯番号を紐付け</string>
+    <string name="clubmodule_bind_phone_num">携帯番号を紐付ける</string>
     <string name="clubmodule_change_phone_num">携帯番号を変更</string>
     <string name="clubmodule_resend">再送</string>
     <string name="clubmodule_input_pwd_hint">6-22桁のパスワード</string>
@@ -1787,9 +1787,9 @@
     <string name="regist_please_enter_phone">正しい携帯番号を入力してください</string>
     <string name="regist_str_warning_code_long">パスワードは20桁以内にしてください</string>
     <string name="regist_str_warning_code_short">6桁以上のパスワードが必要です。再入力してください。</string>
-    <string name="clubmodule_auth_bind_phone">携帯番号を紐付け</string>
+    <string name="clubmodule_auth_bind_phone">携帯番号を紐付ける</string>
     <string name="clubmodule_auth_update_phone">携帯番号を変更</string>
-    <string name="clubmodule_auth_bind_email">Eメールを紐付け</string>
+    <string name="clubmodule_auth_bind_email">Eメールを紐付ける</string>
     <string name="clubmodule_auth_update_email">Eメールを変更</string>
     <string name="clubmodule_auth_regist_account_wrong">アカウントが間違っています。再度入力してください</string>
     <string name="clubmodule_japan">日本</string>
