@@ -513,7 +513,7 @@
     <string name="ble_searching_nodata">Weバンドが見つかりませんでした</string>
     <string name="ble_searching_nodata_tips0">デバイスの電源をオンにする</string>
     <string name="ble_searching_nodata_tips1">デバイスを携帯の近くに置く</string>
-    <string name="ble_searching_nodata_tips2">デバイスのBluetoothをオンにする</string>
+    <string name="ble_searching_nodata_tips2">携帯のBluetoothをオンにする</string>
     <string name="ble_searching_disconnect">未接続</string>
     <string name="ble_connect_dialog">Bluetoothをオンにしてアプリとデバイスの接続を許可します。</string>
     <string name="ble_none_dialog">お使いの携帯電話はBluetoothを搭載していません</string>
