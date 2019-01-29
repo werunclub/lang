@@ -201,7 +201,7 @@
 
     <string name="invite_members">友達を招待</string>
     <string name="invite_members_join">友達をグループに招待しよう</string>
-    <string name="invite_join_msg">私たち%@はWeRUNクラブに入会しました！グループの健康増進活動にあなたが必要です。今すぐ参加して、みんなで日々の活動を盛り上げましょう！</string>
+    <string name="invite_join_msg">私たち%sはWeRUNクラブに入会しました！グループの健康増進活動にあなたが必要です。今すぐ参加して、みんなで日々の活動を盛り上げましょう！</string>
     <string name="invite_link">友達をグループに招待します</string>
     <string name="link">リンク</string>
     <string name="qrcode">QRコード</string>
@@ -1507,7 +1507,7 @@
     <string name="clubmodule_newest_bean_version">ファームウェアはすでに最新バージョンV%sです</string>
     <string name="clubmodule_find_new_bean_version">新しいファームウェアのバージョン V%sが見つかりました</string>
     <string name="clubmodule_upgrade">アップグレード</string>
-    <string name="clubmodule_upgrade_warn_msg">1、アップグレード中にBluetoothを切断したり、WeRUNアプリを終了したりしないでください\r\n\r\n2、スマートバンドバッテリ残量は50％以上必要です\r\n\r\n3、スマートバンドをUSBデバイスから取り外します</string>
+    <string name="clubmodule_upgrade_warn_msg">1、アップグレード中にBluetoothを切断したり、WeRUNアプリを終了したりしないでください\n2、スマートバンドバッテリ残量は50％以上必要です\n3、スマートバンドをUSBデバイスから取り外します</string>
     <string name="clubmodule_version_info">バージョン V</string>
     <string name="clubmodule_upgrade_percent">更新中%1$s%%...</string>
     <string name="clubmodule_download_bean_error">ファームウェアのダウンロード失敗。ネットワークを確認し、WeRUNを再起動してからもう一度お試しください</string>
