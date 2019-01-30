@@ -503,7 +503,7 @@
     <string name="my_match">MYイベント</string>
 
     <string name="gps_upload_nonetword">ネットワークなし。ネットワーク回復後に自動同期</string>
-    <string name="ble_current_device">紐付けられているデバイス</string>
+    <string name="ble_current_device">自分のデバイス</string>
     <string name="ble_connect_fail">デバイスに接続できませんでした</string>
     <string name="ble_connect_fail_and_unbind">デバイスに接続できませんでした、再接続してください</string>
     <string name="ble_connect_disconnect">デバイスの接続が切断されています</string>
