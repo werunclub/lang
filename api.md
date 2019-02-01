@@ -1,5 +1,5 @@
 FORMAT: 1A
-HOST: https://club-open.codoon.com
+HOST: https://open.werunclub.net
 
 # WeRUN WEB API
 
@@ -11,7 +11,7 @@ WeRUN WEB APIをご利用頂き、ありがとうございます。
 + id: 42 (number, required)
 + club_name: テストクラブ (string, required)
 + person_count: 100 (number, required)
-+ icon: `https://club-img1.codoon.com/10420275-b862-11e6-a133-1ea400b87ec5.jpeg` (string, required)
++ icon: `https://img1.werunclub.net/10420275-b862-11e6-a133-1ea400b87ec5.jpeg` (string, required)
 + organizational_architecture(array[部門], fixed) - 組織階層
 
 ## 部门 (object)
