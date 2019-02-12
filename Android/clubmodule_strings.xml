@@ -969,6 +969,7 @@
     <string name="open_bluetooth">Bluetoothをオンにしてアプリとデバイスの接続を許可します。</string>
     <string name="ble_not_support">Bluetoothバージョンが古いため使えません</string>
     <string name="no_history_data">ランニング記録がありません</string>
+    <string name="no_history_data_for_walk"></string>
     <string name="speed">スピード</string>
     <string name="pace">ペース</string>
     <string name="calories">カロリー</string>
