@@ -14,13 +14,13 @@ WeRUN WEB APIをご利用頂き、ありがとうございます。
 + icon: `https://img1.werunclub.net/10420275-b862-11e6-a133-1ea400b87ec5.jpeg` (string, required)
 + organizational_architecture(array[部門], fixed) - 組織階層
 
-## 部门 (object)
+## 部門 (object)
 + team_id: 100 (number)
 + team_name: `開発部` (string)
 + person_count: 100 (number)
 + nodes(array[子部門])
 
-## 子部门 (object)
+## 子部門 (object)
 + team_id: 101 (number)
 + team_name: `フロントエンド` (string)
 + person_count: 100 (number)
@@ -144,7 +144,7 @@ Authorization: Bearer <your_api_token>
 
 + Response 200 (application/json)
     + Attributes
-        + member_list(array[成员], fixed)
+        + member_list(array[メンバー], fixed)
 
 
 ## 歩数データ [GET /club/member_step_data{?begin_time,end_time}]
