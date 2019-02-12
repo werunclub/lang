@@ -755,6 +755,7 @@
     <string name="some_one_reported">投稿した画像が不適切な内容として通報されましたので、削除しました。ご不明な点がございましたら、お問い合わせください</string>
     <string name="my_level_start_txt">もうすぐランニングが始まります</string>
     <string name="start_first_run">今すぐ、初めてのランニングを始めよう</string>
+    <string name="start_first_walk"></string>
     <string name="summary">詳細</string>
     <string name="activity_set_measure_temperature_unit_desc">温度</string>
     <string name="facebook_login_term">利用規約とプライバシーポリシー</string>
