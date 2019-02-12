@@ -755,7 +755,7 @@
     <string name="some_one_reported">投稿した画像が不適切な内容として通報されましたので、削除しました。ご不明な点がございましたら、お問い合わせください</string>
     <string name="my_level_start_txt">もうすぐランニングが始まります</string>
     <string name="start_first_run">今すぐ、初めてのランニングを始めよう</string>
-    <string name="start_first_walk"></string>
+    <string name="start_first_walk">今すぐ、初めてのウォーキングを始めよう</string>
     <string name="summary">詳細</string>
     <string name="activity_set_measure_temperature_unit_desc">温度</string>
     <string name="facebook_login_term">利用規約とプライバシーポリシー</string>
@@ -969,7 +969,7 @@
     <string name="open_bluetooth">Bluetoothをオンにしてアプリとデバイスの接続を許可します。</string>
     <string name="ble_not_support">Bluetoothバージョンが古いため使えません</string>
     <string name="no_history_data">ランニング記録がありません</string>
-    <string name="no_history_data_for_walk"></string>
+    <string name="no_history_data_for_walk">ウォーキング記録がありません</string>
     <string name="speed">スピード</string>
     <string name="pace">ペース</string>
     <string name="calories">カロリー</string>
@@ -1650,7 +1650,7 @@
     <string name="clubmodule_ble_reconnect_msg">デバイスの接続が切断されました。再接続中...</string>
     <string name="clubmodule_ble_service_reconnect">Bluetoothが切断されました。再起動中...</string>
     <string name="clubmodule_wristband_deny_1">スマートバンドが接続を拒否またはタイムアウトしました。</string>
-    <string name="clubmodule_connect_wristband_1">スマートバンドに接続</string>
+    <string name="clubmodule_connect_wristband_1">デバイスに接続</string>
     <string name="clubmodule_disconnect">切断する</string>
     <string name="clubmodule_disconnect_ble">切断しました</string>
     <string name="clubmodule_create_team_msg">開設しました。新しいグループに切替えますか？</string>
