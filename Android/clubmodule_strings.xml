@@ -1964,4 +1964,7 @@
     <string name="facebook_not_installed">Facebookが見つかりませんでした</string>
     <string name="twitter_not_installed">Twitterが見つかりませんでした</string>
     <string name="sit_long_only_support_hour">運動リマインダーは時間単位のみ設定可能</string>
+
+    <string name="hands_up_to_wake_up_band">抬腕亮屏</string>
+    <string name="sleep_settings_function_tips">改时间段内消息推送及抬腕亮屏功能将自动关闭</string>
 </resources>
