@@ -1145,7 +1145,7 @@
     <string name="clubmodule_minute">分</string>
     <string name="clubmodule_heart_rate_unit">bpm</string>
     <string name="clubmodule_heart_rate_report">心拍数レポート</string>
-    <string name="clubmodule_avoid_disturb_info">設定した時間内にアラーム以外は通知しません</string>
+    <string name="clubmodule_avoid_disturb_info">設定時間内にアラーム以外は通知しません</string>
     <string name="clubmodule_reload">再読み込み</string>
     <string name="clubmodule_rank_header">第</string>
     <string name="clubmodule_rank_tail">位</string>
@@ -1965,6 +1965,6 @@
     <string name="twitter_not_installed">Twitterが見つかりませんでした</string>
     <string name="sit_long_only_support_hour">運動リマインダーは時間単位のみ設定可能</string>
 
-    <string name="hands_up_to_wake_up_band">抬腕亮屏</string>
-    <string name="sleep_settings_function_tips">改时间段内消息推送及抬腕亮屏功能将自动关闭</string>
+    <string name="hands_up_to_wake_up_band">腕を上げて自動点灯</string>
+    <string name="sleep_settings_function_tips">設定時間内にアラーム以外は通知しません</string>
 </resources>
