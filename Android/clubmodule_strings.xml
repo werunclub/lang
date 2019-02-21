@@ -6,7 +6,7 @@
     <string name="clubmodule_self_str">自分</string>
     <string name="clubmodule_tv_desc_mobile">この携帯番号は当該グループにて使用されます</string>
     <string name="clubmodule_no_dept_join">デフォルト</string>
-    <string name="clubmodule_tv_desc">この氏名は当該グループにて使用されます</string>
+    <string name="clubmodule_tv_desc">このお名前は当該グループにて使用されます</string>
     <string name="clubmodule_tv_desc_email">このEメールは当該グループにて使用されます</string>
     <string name="clubmodule_contact_str">help@werunclub.net</string>
     <string name="clubmodule_error_input_caution">携帯番号またはEメールを入力してください</string>
@@ -129,7 +129,7 @@
     <string name="weight">体重</string>
     <string name="goal_tv">一日の目標歩数%1$s歩</string>
     <string name="goal_tv2">目標%1$d歩</string>
-    <string name="real_name">氏名</string>
+    <string name="real_name">お名前</string>
     <string name="today_steps">今日の歩数</string>
     <string name="rank">順位</string>
     <string name="base_info">基本情報</string>
@@ -137,10 +137,10 @@
     <string name="telephone">携帯電話</string>
     <string name="email">Eメール"</string>
 
-    <string name="input_real_name">実名</string>
-    <string name="input_telephone_optional">携帯番号(任意)</string>
+    <string name="input_real_name">このグループでの別名を入力してください</string>
+    <string name="input_telephone_optional">携帯番号を入力してください(任意)</string>
     <string name="input_nickname">ニックネームを入力</string>
-    <string name="input_email_optional">Eメール(任意)</string>
+    <string name="input_email_optional">Eメールを入力してください(任意)</string>
     <string name="input_email">Eメール</string>
 
     <string name="input_avatar_plz">写真を選択してください</string>
@@ -213,7 +213,7 @@
     <string name="search_club_id">グループID</string>
     <string name="search_club_name">グループ名</string>
     <string name="idjoin_pwd">参加パスワードを入力してください</string>
-    <string name="idjoin_read_personinfo">このグループはあなたの個人情報を読み取ります</string>
+    <string name="idjoin_read_personinfo">下記の情報はこのグループの会員に公開されます</string>
     <string name="idjoin_telephone">携帯電話&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
     <string name="idjoin_email">Eメール&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
     <string name="confirm_join">参加する</string>
@@ -261,7 +261,7 @@
     <string name="layout1_forgot_hint_tv">登録時の携帯番号(-不要)またはEメールを入力し、認証コードを送信してください</string>
     <string name="send_timer">再送(%1$ss)</string>
     <string name="random_team">ランダム分け</string>
-    <string name="select_department">部門選択</string>
+    <string name="select_department">所属部門</string>
     <string name="unit_person">人</string>
     <string name="squad_hint_random_text">グループイベントは少なくとも2つのチームが必要。\"ランダム分け\"はシステムがグループ全員をランダムに分けて均等に各チームに配置します。</string>
     <string name="new_features">機能紹介</string>
@@ -306,7 +306,7 @@
     <string name="join_rqcode">グループQRコード</string>
     <string name="enable_team_chat">チャットを許可</string>
     <string name="enable_team_pk">挑戦を承諾</string>
-    <string name="name">氏名</string>
+    <string name="name">お名前</string>
     <string name="contact">連絡方法</string>
     <string name="quite_club">グループを脱退する</string>
 
@@ -1162,7 +1162,7 @@
     <string name="clubmodule_mission_result_description">ミッション結果の説明</string>
     <string name="clubmodule_date_unit">--年--月--日</string>
     <string name="clubmodule_clubx_daily_mission">WeRUN·日替ミッション</string>
-    <string name="clubmodule_share_mission_info">シェアして、最高1000マイルをゲット</string>
+    <string name="clubmodule_share_mission_info">シェアして最高1000マイルをゲット</string>
     <string name="clubmodule_share_mission_limit">シェアマイルは1人につき1日1回</string>
     <string name="clubmodule_station_name">駅名</string>
     <string name="clubmodule_member_arrived_state">到着状況</string>
@@ -1238,7 +1238,7 @@
     <string name="clubmodule_challenge_processing">挑戦進行中</string>
     <string name="clubmodule_sport_insurance">運動で保険</string>
     <string name="clubmodule_medical_report">健診</string>
-    <string name="clubmodule_points_purchase">マイル交換</string>
+    <string name="clubmodule_points_purchase">景品交換</string>
     <string name="clubmodule_show_time">表示時間</string>
     <string name="clubmodule_upload_data">同期</string>
     <string name="clubmodule_daily_sport_target">一日の目標歩数</string>
