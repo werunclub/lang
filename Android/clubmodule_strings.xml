@@ -261,7 +261,7 @@
     <string name="layout1_forgot_hint_tv">登録時の携帯番号(-不要)またはEメールを入力し、認証コードを送信してください</string>
     <string name="send_timer">再送(%1$ss)</string>
     <string name="random_team">ランダム分け</string>
-    <string name="select_department">所属部門</string>
+    <string name="select_department">部門選択</string>
     <string name="unit_person">人</string>
     <string name="squad_hint_random_text">グループイベントは少なくとも2つのチームが必要。\"ランダム分け\"はシステムがグループ全員をランダムに分けて均等に各チームに配置します。</string>
     <string name="new_features">機能紹介</string>
