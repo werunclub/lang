@@ -245,7 +245,7 @@
     <string name="password">パスワード</string>
     <string name="login">ログイン</string>
     <string name="resend_reg_code">認証コードを再送</string>
-    <string name="verify">認証</string>
+    <string name="verify">認証する</string>
     <string name="reset_and_login">リセットしてログイン</string>
     <string name="send_reg_code_hint">認証コードをここに送信しました</string>
     <string name="new_password">新パスワード</string>
@@ -1121,7 +1121,7 @@
     <string name="clubmodule_job_info">役職情報</string>
     <string name="clubmodule_send_msg">チャット</string>
     <string name="clubmodule_chanllenge">対戦</string>
-    <string name="clubmodule_please_confirm_contact_info">グループをより良くご利用いただくために、連絡先を確認してください</string>
+    <string name="clubmodule_please_confirm_contact_info">携帯番号を変更するには認証が必要です</string>
     <string name="clubmodule_input_phone_num">携帯番号またはEメール</string>
     <string name="clubmodule_send_verify_code">認証コードを送信</string>
     <string name="clubmodule_total_rank">総合ランキング</string>
