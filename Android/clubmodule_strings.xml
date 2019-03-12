@@ -1090,8 +1090,8 @@
     <string name="clubmodule_questionaire">アンケート</string>
     <string name="clubmodule_daily_mission_alert">ミッション完了を知らせる</string>
     <string name="clubmodule_set_sport_permission">運動権限を設定</string>
-    <string name="clubmodule_stepcounter_when_screen_locked">画面ロック中計測</string>
-    <string name="clubmodule_stepcounter_after_lock_screen_caution">画面ロック中の携帯計測の精度を上げる（消費電力増）</string>
+    <string name="clubmodule_stepcounter_when_screen_locked">画面ロック</string>
+    <string name="clubmodule_stepcounter_after_lock_screen_caution">画面ロック後に携帯計測の精度を上げ、消費電力を下げます</string>
     <string name="clubmodule_change_count_step_style">計測方法を変更</string>
     <string name="clubmodule_optimize_stepcounter">計測をもっと正確に</string>
     <string name="clubmodule_activity_info">イベント情報</string>
