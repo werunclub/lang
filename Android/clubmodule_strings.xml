@@ -57,7 +57,7 @@
 
     <string name="create_club">グループ開設</string>
     <string name="club_info">会社概要</string>
-    <string name="create_club_title">グループ開設</string>
+    <string name="create_club_title">グループを開設</string>
 
     <string name="club_name">所属会社</string>
     <string name="club_name_nick">グループ名</string>
@@ -173,12 +173,12 @@
     <string name="search_no_result2">検索結果はありません</string>
 
     <string name="create_pk">対戦を作成</string>
-    <string name="go_pk">歩数を競い合い、チップを勝ち取れ！さあ、ガチンコ勝負を始めよう。</string>
-    <string name="pk">挑戦</string>
-    <string name="pk_go">挑戦しよう</string>
-    <string name="pk_mine">MY挑戦</string>
-    <string name="pk_detail">挑戦情報</string>
-    <string name="pk_cancel_title">この挑戦をキャンセルしますか？</string>
+    <string name="go_pk">誰かに歩数の対戦を申込み、競い合ってギフトを勝ち取りましょう！さあ、対戦を始めよう。</string>
+    <string name="pk">対戦申込</string>
+    <string name="pk_go">対戦しよう</string>
+    <string name="pk_mine">MY対戦</string>
+    <string name="pk_detail">対戦情報</string>
+    <string name="pk_cancel_title">この対戦をキャンセルしますか？</string>
     <string name="pk_cant_self">対戦相手に、自分を選ぶことはできません</string>
 
     <string name="disagree">拒否</string>
@@ -235,7 +235,7 @@
     <string name="select_city">所在地</string>
 
     <string name="pk_with">対戦相手</string>
-    <string name="pk_chain">チップ</string>
+    <string name="pk_chain">ギフト</string>
     <string name="pk_data">対戦データ</string>
 
     <!-- 登录、注册相关 -->
@@ -305,7 +305,7 @@
     <string name="my_limit">MY権限</string>
     <string name="join_rqcode">グループQRコード</string>
     <string name="enable_team_chat">チャットを許可</string>
-    <string name="enable_team_pk">挑戦を承諾</string>
+    <string name="enable_team_pk">対戦を承諾</string>
     <string name="name">お名前</string>
     <string name="contact">連絡方法</string>
     <string name="quite_club">グループを脱退する</string>
@@ -327,13 +327,13 @@
     <string name="select_member">対戦相手を選択してください</string>
     <string name="select_pk_starttime">対戦開始時刻を選択</string>
     <string name="select_pk_endtime">対戦終了時刻を選択</string>
-    <string name="select_stake">チップを選択してください</string>
-    <string name="pk_time_left">挑戦開始まであと%1$s時間%2$s分</string>
-    <string name="pk_time_start">挑戦終了まであと%1$d時間%2$s分</string>
+    <string name="select_stake">ギフトを選択してください</string>
+    <string name="pk_time_left">対戦開始まであと%1$s時間%2$s分</string>
+    <string name="pk_time_start">対戦終了まであと%1$d時間%2$s分</string>
     <string name="pk_time_over">対戦は終了しました</string>
     <string name="pk_cancel">対戦をキャンセル</string>
     <string name="pk_create_success">対戦申請を送信しました</string>
-    <string name="pk_stake">欲しいものは何？ただし、負けたら自分が貢物をささげることになるぞ</string>
+    <string name="pk_stake">欲しいギフトは何？ただし、負けたら自分がギフトを差し上げることになります。</string>
     <string name="pk_block_member_selected">この会員は選択できません</string>
 
     <string name="pk_state_underway">開催中</string>
@@ -341,12 +341,12 @@
     <string name="pk_state_reject">拒否しました</string>
     <string name="pk_state_noack">承認待ち</string>
 
-    <string name="pk_stake_select">チップ</string>
-    <string name="pk_stake_top">プレイヤーは平均歩数を競い合い、勝者は敗者から貢物をゲット！</string>
-    <string name="pk_stake_top2">チップを賭けよう</string>
-    <string name="pk_stake_top3">欲しいものを自由入力できます。</string>
+    <string name="pk_stake_select">ギフト</string>
+    <string name="pk_stake_top">プレイヤーは平均歩数を競い合い、勝者は敗者からギフトを受け取れます。</string>
+    <string name="pk_stake_top2">ギフトをもらおう！</string>
+    <string name="pk_stake_top3">欲しいギフトを直接入力することもできます。</string>
     <string name="pk_stake_input">任意選択の内容を入力してください</string>
-    <string name="club_manager">グループ管理</string>
+    <string name="club_manager">グループの管理</string>
     <string name="grouping_manager">部門管理</string>
     <string name="club_auth">認証</string>
     <string name="club_manager_tips">詳しくは公式サイトをご覧ください。https://www.werunclub.net/</string>
@@ -435,7 +435,7 @@
 
     <string name="update_match_content_alert">イベントの説明を入力してください</string>
 
-    <string name="im_session_long_click">%1$sとのチャット履歴を削除しますか</string>
+    <string name="im_session_long_click">%1$sとのチャット履歴を削除しますか？</string>
     <string name="invalid_pic">無効な画像</string>
     <string name="im_notify_view">詳細を見る</string>
     <string name="im_no_message">チャットがありません</string>
@@ -1046,7 +1046,7 @@
     <string name="clubmodule_to">から</string>
     <string name="clubmodule_step">歩</string>
     <string name="clubmodule_personal_max_steps_per_day">1日あたり1人の上限値。上限値を超えたデータはカウントされません</string>
-    <string name="clubmodule_step_activity_caution">平均歩数を競い合い、勝者は敗者からチップを勝ち取ります</string>
+    <string name="clubmodule_step_activity_caution">期間の平均歩数を競い合い、勝者は敗者からギフトを貰います。</string>
     <string name="clubmodule_mission_caution">完了したミッションをシェアして、1人につき1日1回最高1000マイルのシェアボーナスをゲット</string>
     <string name="clubmodule_mission_description">説明</string>
     <string name="clubmodule_daily_mission_caution">ミッションは当日に完了し送信したデータのみ有効</string>
@@ -1119,7 +1119,7 @@
     <string name="clubmodule_administrator">管理者</string>
     <string name="clubmodule_club_120_member">グループ 120人</string>
     <string name="clubmodule_job_info">役職情報</string>
-    <string name="clubmodule_send_msg">チャット</string>
+    <string name="clubmodule_send_msg">チャットする</string>
     <string name="clubmodule_chanllenge">対戦</string>
     <string name="clubmodule_please_confirm_contact_info">携帯番号を変更するには認証が必要です</string>
     <string name="clubmodule_input_phone_num">携帯番号またはEメール</string>
@@ -1235,7 +1235,7 @@
     <string name="clubmodule_activity_processing">イベント開催中</string>
     <string name="clubmodule_wristband">スマートバンド</string>
     <string name="clubmodule_health">健康</string>
-    <string name="clubmodule_challenge_processing">挑戦進行中</string>
+    <string name="clubmodule_challenge_processing">対戦進行中</string>
     <string name="clubmodule_sport_insurance">運動で保険</string>
     <string name="clubmodule_medical_report">健診</string>
     <string name="clubmodule_points_purchase">景品交換</string>
@@ -1310,8 +1310,8 @@
     <string name="clubmodule_wristband_setting">設定</string>
     <string name="clubmodule_upload_exception_log">異常を報告</string>
     <string name="clubmodule_my_sport_points">Weマイル残高</string>
-    <string name="clubmodule_join_team">グループ参加</string>
-    <string name="clubmodule_manage_team">グループ管理</string>
+    <string name="clubmodule_join_team">グループに参加</string>
+    <string name="clubmodule_manage_team">グループの管理</string>
     <string name="clubmodule_change_data_source">計測方法を変更</string>
     <string name="clubmodule_new_version_alert">最新バージョンのリマインダー</string>
     <string name="clubmodule_say_it_next_time">後で</string>
@@ -1488,7 +1488,7 @@
     <string name="clubmodule_change_datasource_2_wristband_1">計測方法をスマートバンドに切替えました</string>
     <string name="clubmodule_change_datasource_codoon">計測方法をWeバンドに切り替えました</string>
     <string name="clubmodule_change_datasource_2_wechat">計測方法をWechatに切替えました</string>
-    <string name="clubmodule_close_pk_feature">相手が挑戦機能をオフにしています</string>
+    <string name="clubmodule_close_pk_feature">相手が対戦機能をオフにしています</string>
     <string name="clubmodule_club_sport_data_rank">企業ランキング</string>
     <string name="clubmodule_team_dept_rank">部門歩数ランキング</string>
     <string name="clubmodule_level_1_dept">トップ部門</string>
@@ -1967,4 +1967,7 @@
 
     <string name="hands_up_to_wake_up_band">腕を上げて自動点灯</string>
     <string name="sleep_settings_function_tips">設定時間内にアラーム以外は通知しません</string>
+
+    <!-- update 2019-04-16 新增(睡眠心率图上可长按说明) -->
+    <string name="">グラフの上をタップしたまま左右移動すると詳細な値が表示されます</string>
 </resources>
