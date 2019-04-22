@@ -1969,5 +1969,5 @@
     <string name="sleep_settings_function_tips">設定時間内にアラーム以外は通知しません</string>
 
     <!-- update 2019-04-16 新增(睡眠心率图上可长按说明) -->
-    <string name="">グラフの上をタップしたまま左右移動すると詳細な値が表示されます</string>
+    <string name="">グラフ上をタップすると、その詳しい値が表示されます。</string>
 </resources>
