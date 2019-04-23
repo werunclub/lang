@@ -1234,7 +1234,7 @@
     <string name="clubmodule_run_walk">ウォーク/ラン</string>
     <string name="clubmodule_activity_processing">イベント開催中</string>
     <string name="clubmodule_wristband">スマートバンド</string>
-    <string name="clubmodule_health">健康</string>
+    <string name="clubmodule_health">健康状況</string>
     <string name="clubmodule_challenge_processing">対戦進行中</string>
     <string name="clubmodule_sport_insurance">運動で保険</string>
     <string name="clubmodule_medical_report">健診</string>
