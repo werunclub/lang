@@ -55,7 +55,7 @@
     <string name="web_event_share_text">%s \n WeRUNからアプリを開く</string>
     <string name="im_msg_desc">「画像」</string>
 
-    <string name="create_club">グループ開設</string>
+    <string name="create_club">グループを開設</string>
     <string name="club_info">会社概要</string>
     <string name="create_club_title">グループを開設</string>
 
@@ -394,7 +394,7 @@
     <string name="sitedown_alert">運動リマインダー</string>
 
     <string name="unbind_hint_text1">ペアリングを解除しますか？</string>
-    <string name="unbind_hint_text2">ペアリング解除後、APPが再起動します\n\r携帯電話で歩数を計測します。</string>
+    <string name="unbind_hint_text2">ペアリング解除後、アプリが再起動します。\nその後、携帯電話で歩数を計測します。</string>
 
     <string name="alarm_time">アラーム時間</string>
     <string name="repeat">繰返し</string>
@@ -412,7 +412,7 @@
     <string name="wristband_alarm">アラーム</string>
     <string name="sleep_time">睡眠時刻指定</string>
     <string name="device_info">デバイス情報</string>
-    <string name="unbound_tips">ペアリング解除後、携帯電話のBluetooth設定にてこのデバイスの登録を解除してください</string>
+    <string name="unbound_tips">ペアリング解除後、携帯電話のBluetooth設定にてこのデバイスの登録を解除してください。</string>
 
     <string name="sync_data_time">同期時刻 %s</string>
     <string name="sync_none">同期なし</string>
@@ -1120,7 +1120,7 @@
     <string name="clubmodule_club_120_member">グループ 120人</string>
     <string name="clubmodule_job_info">役職情報</string>
     <string name="clubmodule_send_msg">チャットする</string>
-    <string name="clubmodule_chanllenge">対戦</string>
+    <string name="clubmodule_chanllenge">対戦申込</string>
     <string name="clubmodule_please_confirm_contact_info">携帯番号を変更するには認証が必要です</string>
     <string name="clubmodule_input_phone_num">携帯番号またはEメール</string>
     <string name="clubmodule_send_verify_code">認証コードを送信</string>
@@ -1478,7 +1478,7 @@
     <string name="clubmodule_unbind_wristband_alert">ペアリング解除後、携帯電話で歩数を計測します。</string>
     <string name="clubmodule_change_datasource_2_phone">計測方法を携帯電話に切り替えました</string>
     <string name="clubmodule_upload_failed_1">同期失敗。後ほど再度お試しください</string>
-    <string name="clubmodule_unbind_after_upload">データ同期中、後ほどペアリング解除操作が実行されます</string>
+    <string name="clubmodule_unbind_after_upload">データ同期中、後ほどペアリング解除操作が実行されます。</string>
     <string name="clubmodule_unbind_wristband_warn_2">スマートバンドとのペアリングを解除します。データを同期してから解除することをお勧めします。</string>
     <string name="clubmodule_unbind_immediately">解除する</string>
     <string name="clubmodule_cancel_unbind">解除しない</string>
