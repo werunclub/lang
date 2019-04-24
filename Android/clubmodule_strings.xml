@@ -217,7 +217,7 @@
     <string name="idjoin_telephone">携帯電話&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
     <string name="idjoin_email">Eメール&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
     <string name="confirm_join">参加する</string>
-    <string name="comment_hint">コメント</string>
+    <string name="comment_hint">コメントを書く</string>
     <string name="edit_match_lable">イベント編集</string>
     <string name="activity_name_lable">イベント名</string>
     <string name="activity_name_hint_lable">イベント名を入力してください</string>
@@ -1602,7 +1602,7 @@
     <string name="clubmodule_upgrade_app_caution">WeRUNアプリを最新にアップグレードしてより多彩なイベントを作成しよう</string>
     <string name="clubmodule_match_detail">進行状況</string>
     <string name="clubmodule_my_data">MYデータ</string>
-    <string name="clubmodule_bbs">コメント</string>
+    <string name="clubmodule_bbs">掲示板</string>
     <string name="clubmodule_have_no_match_info">進行状況データがありません</string>
     <string name="clubmodule_have_no_msg">コメントなし</string>
     <string name="clubmodule_have_no_record">記録なし</string>
@@ -1616,7 +1616,7 @@
     <string name="clubmodule_have_top">ピン留めしました</string>
     <string name="clubmodule_have_cancel_top">ピン留めを取り消しました</string>
     <string name="clubmodule_operation_failed">操作失敗</string>
-    <string name="clubmodule_input_msg">コメントを記入</string>
+    <string name="clubmodule_input_msg">コメントを入力してください</string>
     <string name="clubmodule_msg_max_words_200">最大200文字まで</string>
     <string name="clubmodule_confirm_del_member">会員を削除しますか</string>
     <string name="clubmodule_orgnization_architect">組織</string>
