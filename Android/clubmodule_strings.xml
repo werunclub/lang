@@ -301,11 +301,11 @@
 
     <!-- 我的团队 -->
     <string name="my_club">MYグループ</string>
-    <string name="my_department">MY部門</string>
-    <string name="my_limit">MY権限</string>
+    <string name="my_department">所属部門</string>
+    <string name="my_limit">会員区分</string>
     <string name="join_rqcode">グループQRコード</string>
     <string name="enable_team_chat">チャットを許可</string>
-    <string name="enable_team_pk">対戦を承諾</string>
+    <string name="enable_team_pk">対戦を許可</string>
     <string name="name">お名前</string>
     <string name="contact">連絡方法</string>
     <string name="quite_club">グループを脱退する</string>
