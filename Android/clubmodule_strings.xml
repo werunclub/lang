@@ -1,4 +1,5 @@
 <resources>
+    <string name="clubmodule_change_phone">携帯番号</string>
     <string name="clubmodule_add_act_member">参加者を選択</string>
     <string name="clubmodule_dept_selector_str">選択済み部門: %1$s</string>
     <string name="clubmodule_contact_us_str_2">ヘルプデスクに連絡する</string>
@@ -214,8 +215,8 @@
     <string name="search_club_name">グループ名</string>
     <string name="idjoin_pwd">参加パスワードを入力してください</string>
     <string name="idjoin_read_personinfo">下記の情報はこのグループの会員に公開されます</string>
-    <string name="idjoin_telephone">携帯電話&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
-    <string name="idjoin_email">Eメール&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="idjoin_telephone">携帯電話</string>
+    <string name="idjoin_email">Eメール</string>
     <string name="confirm_join">参加する</string>
     <string name="comment_hint">コメントを書く</string>
     <string name="edit_match_lable">イベント編集</string>
@@ -349,6 +350,7 @@
     <string name="club_manager">グループの管理</string>
     <string name="grouping_manager">部門管理</string>
     <string name="club_auth">認証</string>
+    <string name="club_certified">認証済み</string>
     <string name="club_manager_tips">詳しくは公式サイトをご覧ください。https://www.werunclub.net/</string>
     <string name="club_auth_hint">認証申請受付中</string>
     <string name="club_manager_remove_dept">部門を削除しますか？</string>
@@ -544,7 +546,7 @@
     <string name="blast_public_list_no_content_info">新しいアクティビティがありません</string>
     <string name="no_reward_log_tips">受賞がありません</string>
     <string name="age">年齢</string>
-    <string name="event_5000_show"> 5㎞</string>
+    <string name="event_5000_show"> 5㎞</string>
     <string name="email_reset_pw_send_tips">パスワード認証メールを送信しました。メールをチェックしてパスワードを再設定します</string>
     <string name="login_success">ログインしました</string>
     <string name="account_email_success_bind">ログインしました！\nこのメールアドレスは%sのアカウントに紐付けられました。メールアドレスのログインパスワードを設定しました</string>
@@ -1007,6 +1009,9 @@
     <string name="daily_task_share_bottom_text">"設定>日替ミッションを表示"にて昨日のミッションのポップアップをオン/オフに</string>
     <string name="wristband_caution_3">スマートバンドとペアリングしました。歩数はスマートバンドで計測します</string>
     <string name="phone_message">SMS</string>
+    <string name="phone_line">Line</string>
+    <string name="phone_twitter">Twitter</string>
+    <string name="phone_facebook">Facebook</string>
     <string name="no_disturb_function">非通知モード</string>
     <string name="set_alarm_clock">アラーム</string>
     <string name="jump_navigation">スキップ</string>
@@ -1499,6 +1504,7 @@
     <string name="clubmodule_team_member_walk_rank_1">歩行距離ランキング</string>
     <string name="clubmodule_wristband_upgrade_4">Weバンド4（Upgrade4.zipファイルは、必ずcodoon_clubxディレクトリに入れてください）</string>
     <string name="clubmodule_wristband_upgrade_3">Weバンド3（upgrade.binファイルは、必ずcodoon_clubxディレクトリに入れてください）</string>
+    <string name="clubmodule_wristband_upgrade_5">Weバンド5（upgrade5.binファイルは、必ずcodoon_clubxディレクトリに入れてください）</string>
     <string name="clubmodule_confirm_degrade">ダウングレードしますか</string>
     <string name="clubmodule_degrade">ダウングレード</string>
     <string name="clubmodule_search_device">デバイスを検索中...</string>
@@ -1934,8 +1940,10 @@
     <string name="fb_login_protocol_scheme">fb1977538135907363</string>
 
     <string name="facebook">Facebook</string>
+    <string name="messager">Messenger</string>
     <string name="twitter">Twitter</string>
     <string name="line">Line</string>
+    <string name="wechat">Wechat</string>
 
     <string name="com.twitter.sdk.android.CONSUMER_KEY">Plu4pMCzmJndVJ3ZkQGiZk4Xc</string>
     <string name="com.twitter.sdk.android.CONSUMER_SECRET">VkAfveJ6z3CL81yRuxGkklOQ8vGnqlNdwqp4pc7bkjTGXMMTf6</string>
@@ -1965,9 +1973,11 @@
     <string name="twitter_not_installed">Twitterが見つかりませんでした</string>
     <string name="sit_long_only_support_hour">運動リマインダーは時間単位のみ設定可能</string>
 
+    <string name="need_location_permission_tips">場所の許可をオンにしてください</string>
+
     <string name="hands_up_to_wake_up_band">腕を上げて自動点灯</string>
     <string name="sleep_settings_function_tips">設定時間内にアラーム以外は通知しません</string>
 
     <!-- update 2019-04-16 新增(睡眠心率图上可长按说明) -->
-    <string name="">グラフ上をタップすると、その詳しい値が表示されます。</string>
+    <string name="chart_long_press_tips">グラフ上をタップすると、その詳しい値が表示されます。</string>
 </resources>
