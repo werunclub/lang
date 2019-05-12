@@ -294,7 +294,7 @@
     <string name="sports_goal">目標値を入力してください</string>
     <string name="no_club_hint">参加しているグループがありません\nボタンをタップし、グループ作成後、イベントも作成できます</string>
     <string name="have_club_not_manager_no_match_hint">イベントがありません\n匿名で管理者に連絡してイベントを作ってもらおう！</string>
-    <string name="have_club_is_manager_no_match_hint">管理者殿へ\nグループのみんながイベントを待っています。\n今すぐ作成しよう！</string>
+    <string name="have_club_is_manager_no_match_hint">管理者様へ\nグループのみんながイベントを待っています。\n今すぐ作成しよう！</string>
     <string name="send_msg_to_manager">連絡</string>
     <string name="crop_img">画像を切り抜く</string>
     <string name="plz_steps">目標歩数は必須です</string>
@@ -363,7 +363,7 @@
     <string name="add_club_manager">部門管理者を追加</string>
     <string name="setting_club_manager_title">%1$sの管理者を設定</string>
     <string name="today">今日</string>
-    <string name="total_ranking_winner">企業ランキング優勝者</string>
+    <string name="total_ranking_winner">優勝者</string>
     <string name="club_ranking">会員ランキング</string>
     <string name="club_ranking_winner">チームランキング優勝者</string>
     <string name="club_dept_ranking_winner">%1$s 優勝者</string>
@@ -1174,7 +1174,7 @@
     <string name="clubmodule_reselect_department">もう一度部門を選択してください</string>
     <string name="clubmodule_no_related_result">検索結果はありません</string>
     <string name="clubmodule_how_to_join_rank">企業ランキングへの参加はヘルプデスク</string>
-    <string name="clubmodule_please_contact_us">までお問い合わせ下さい</string>
+    <string name="clubmodule_please_contact_us">までお問い合わせください</string>
     <string name="clubmodule_circle_widget">圆圈控件</string>
     <string name="clubmodule_all_club_rank">企業ランキング</string>
     <string name="clubmodule_my_company">MY会社</string>
@@ -1953,7 +1953,7 @@
     <string name="codoon_wristband_searching">検索中...</string>
     <string name="codoon_wristband_search_connect_status">Bluetoothの接続状態</string>
     <string name="codoon_wristband_search_failed">デバイスが見つかりません</string>
-    <string name="codoon_wristband_search_failed_tips1">対象バンドのBluetoothが携帯に接続されていないことを確認してください</string>
+    <string name="codoon_wristband_search_failed_tips1">対象Smartbandが他の携帯と接続していないことを確認してください</string>
     <string name="codoon_wristband_search_failed_tips2">携帯の位置情報サービスをONにしてください</string>
     <string name="codoon_wristband_research">もう一度</string>
     <string name="codoon_wristband_scanner_error">このQRコードが読み取れない</string>
