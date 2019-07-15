@@ -1972,6 +1972,7 @@
     <string name="facebook_not_installed">Facebookが見つかりませんでした</string>
     <string name="twitter_not_installed">Twitterが見つかりませんでした</string>
     <string name="sit_long_only_support_hour">運動リマインダーは時間単位のみ設定可能</string>
+    <string name="only_support_hour_set">時間単位でのみ設定可能</string>
 
     <string name="need_location_permission_tips">場所の許可をオンにしてください</string>
 
