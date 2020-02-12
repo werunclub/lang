@@ -3846,5 +3846,13 @@
   {
     "id": "订单超时撤销",
     "translation": "決済期限超過取消"
+  },
+  {
+    "id": "管理员撤销订单",
+    "translation": "注文取消"
+  },
+  {
+    "id": "LinePay 取消",
+    "translation": "LinePay 取消"
   }
 ]
