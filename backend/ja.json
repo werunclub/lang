@@ -3849,10 +3849,10 @@
   },
   {
     "id": "管理员撤销订单",
-    "translation": "注文取消"
+    "translation": "管理者取消"
   },
   {
     "id": "LinePay 取消",
-    "translation": "LinePay 取消"
+    "translation": "LinePay取消"
   }
 ]
