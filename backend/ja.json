@@ -3854,5 +3854,13 @@
   {
     "id": "LinePay 取消",
     "translation": "LinePay取消"
+  },
+  {
+    "id": "库存不足",
+    "translation": "库存不足"
+  },
+  {
+    "id": "积分不足",
+    "translation": "积分不足"
   }
 ]
