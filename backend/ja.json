@@ -3862,5 +3862,9 @@
   {
     "id": "积分不足",
     "translation": "Weマイルがたりません"
+  },
+  {
+    "id": "获取CulrrentClub失败",
+    "translation": "CulrrentClubの取得に失敗しました"
   }
 ]
