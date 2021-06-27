@@ -3866,5 +3866,13 @@
   {
     "id": "获取CulrrentClub失败",
     "translation": "CulrrentClubの取得に失敗しました"
+  },
+  {
+    "id": "邀请新用户注册:%s",
+    "translation": "招待コードで新規登録：%s"
+  },
+  {
+    "id": "邀请新用户注册",
+    "translation": "招待コードで新規登録"
   }
 ]
