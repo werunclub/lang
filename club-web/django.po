@@ -1712,7 +1712,7 @@ msgstr "出力結果"
 
 #: admin_panel/templates/admin_panel/export_task_list.html:63
 msgid "重试"
-msgstr "再度"
+msgstr "もう一度"
 
 #: admin_panel/templates/admin_panel/export_task_list.html:69
 msgid "点击下载"
