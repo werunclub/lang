@@ -2777,7 +2777,7 @@ msgstr ""
 
 #: admin_panel/templates/admin_panel/member_index.html:113
 msgid "推送目标："
-msgstr "送信先："
+msgstr "送信先"
 
 #: admin_panel/templates/admin_panel/member_index.html:126
 msgid "消息标题"
