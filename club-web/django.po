@@ -782,14 +782,14 @@ msgstr "退会済み"
 #: admin_panel/templates/admin_panel/activity_rank_gps_personal.html:48
 #: admin_panel/templates/admin_panel/activity_rank_gps_team.html:40
 msgid "已达标"
-msgstr "目標達成済み"
+msgstr "達成"
 
 #: admin_panel/templates/admin_panel/activity_rank_gps_personal.html:50
 #: admin_panel/templates/admin_panel/activity_rank_gps_team.html:42
 #: admin_panel/templates/admin_panel/activity_rank_personal.html:126
 #: admin_panel/templates/admin_panel/activity_rank_team_team.html:160
 msgid "未达标"
-msgstr "目標未達成"
+msgstr "未達成"
 
 #: admin_panel/templates/admin_panel/activity_rank_gps_personal.html:63
 #: admin_panel/templates/admin_panel/activity_rank_gps_team.html:58
