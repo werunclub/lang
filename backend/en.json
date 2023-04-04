@@ -1,0 +1,3983 @@
+[
+  {
+    "id": "#战帖来了#“%v”表示不服，特来向你发起挑战，快去应战吧！",
+    "translation":"#You've got a new challenger!# %v has challenged you. Show them what you're made of!"
+  },
+  {
+    "id": "%s 俱乐部",
+    "translation":"%s Club"
+  },
+  {
+    "id": "%s 团队",
+    "translation":"%s Group"
+  },
+  {
+    "id": "%s 活动即将结束，赶快上传数据吧",
+    "translation":"%s event will end soon. Sync your data now."
+  },
+  {
+    "id": "%s 活动结束了, 你获得了第 %d 名",
+    "translation":"%s Event has ended. You ranked %d."
+  },
+  {
+    "id": "%s 活动结束了，你的团队获得了第 %d",
+    "translation":"%s event has ended. Your team ranked #%d."
+  },
+  {
+    "id": "%s%d分",
+    "translation":"%s%d minutes"
+  },
+  {
+    "id": "%s%d天",
+    "translation":"%s%d days"
+  },
+  {
+    "id": "%s%d小时",
+    "translation":"%s%d hours"
+  },
+  {
+    "id": "%s%d秒",
+    "translation":"%s%d seconds"
+  },
+  {
+    "id": "%s向你发起了一次挑战",
+    "translation":"%s is challenging you."
+  },
+  {
+    "id": "%s在%s给你点了赞",
+    "translation":"%s liked your score in the %s."
+  },
+  {
+    "id": "%s拒绝了你的挑战",
+    "translation":"%s has rejected your challenge."
+  },
+  {
+    "id": "%s接受了你的挑战",
+    "translation":"%s has accepted your challenge."
+  },
+  {
+    "id": "%s时间范围: %s 到 %s",
+    "translation":"%s Duration: %s to %s"
+  },
+  {
+    "id": "%s版本新功能介绍",
+    "translation":"What's new in version %s"
+  },
+  {
+    "id": "%s给你点了赞",
+    "translation":"%s liked your score!"
+  },
+  {
+    "id": "%v已退出团队，你和对方所有的挑战活动取消啦。再去试试挑战下别的小伙伴吧！",
+    "translation":"All events with %v have been cancelled since he/she has left the group. Pick another member to compete!"
+  },
+  {
+    "id": "./res/tutorial_email.html",
+    "translation":". /res/tutorial_email.html"
+  },
+  {
+    "id": "0秒",
+    "translation":"0 sec"
+  },
+  {
+    "id": "10公里",
+    "translation":"10 km"
+  },
+  {
+    "id": "24 小时内不能创建相同的导出任务",
+    "translation":"A duplicate export task cannot be created within a 24-hour period."
+  },
+  {
+    "id": "24小时内只能发送 %d 条群发消息",
+    "translation":"A maximum of %d messages can be sent to a group within a 24-hour period."
+  },
+  {
+    "id": "3公里",
+    "translation":"3 km"
+  },
+  {
+    "id": "5公里",
+    "translation":"5 km"
+  },
+  {
+    "id": "DataType 必须大于等于100",
+    "translation":"DataType must be greater than or equal to 100."
+  },
+  {
+    "id": "DndEndTime 格式错误",
+    "translation":"DndEndTime format error"
+  },
+  {
+    "id": "DndStartTime 格式错误",
+    "translation":"DndStartTime format error"
+  },
+  {
+    "id": "GPS 定点不能为空",
+    "translation":"GPS location is required."
+  },
+  {
+    "id": "GPS 定点必须是一个 JSON 对象",
+    "translation":"GPS location must be a JSON object."
+  },
+  {
+    "id": "GPS 定点数组内包含有空的 JSON 对象",
+    "translation":"GPS location array contains blank JSON object."
+  },
+  {
+    "id": "GPS 记录 ID 列表不能为空",
+    "translation":"GPS Record ID table is required."
+  },
+  {
+    "id": "GPS 记录不存在",
+    "translation":"No GPS record"
+  },
+  {
+    "id": "GPS定点不能为空",
+    "translation":"GPS location is required."
+  },
+  {
+    "id": "ID 列表不能为空",
+    "translation":"ID table is required."
+  },
+  {
+    "id": "IntArrayField 来源 value 类型不是字符串",
+    "translation":"The input for the IntArrayField should be a string."
+  },
+  {
+    "id": "JSON序列化失败",
+    "translation":"JSON serialization failed"
+  },
+  {
+    "id": "LongTimeEndTime 格式错误",
+    "translation":"LongTimeEndTime format error"
+  },
+  {
+    "id": "LongTimeStartTime 格式错误",
+    "translation":"LongTimeStartTime format error"
+  },
+  {
+    "id": "PK取消",
+    "translation":"Challenge cancelled"
+  },
+  {
+    "id": "PK应战通知",
+    "translation":"Challenge accepted"
+  },
+  {
+    "id": "PK拒绝通知",
+    "translation":"Challenge declined"
+  },
+  {
+    "id": "PK点赞通知",
+    "translation":"Challenge liked"
+  },
+  {
+    "id": "PK赛时长不能超过7天",
+    "translation":"The challenge duration cannot exceed 7 days."
+  },
+  {
+    "id": "PK邀请",
+    "translation":"You got challenge!"
+  },
+  {
+    "id": "Payload 不能为空",
+    "translation":"Payload is required."
+  },
+  {
+    "id": "RequestID 不能为空",
+    "translation":"RequestID is required."
+  },
+  {
+    "id": "SleepEndTime 格式错误",
+    "translation":"SleepEndTime format error"
+  },
+  {
+    "id": "SleepStartTime 格式错误",
+    "translation":"SleepStartTime format error"
+  },
+  {
+    "id": "URL 不能为空",
+    "translation":"URL is required."
+  },
+  {
+    "id": "URL 无效",
+    "translation":"Invalid URL"
+  },
+  {
+    "id": "[%d] 不是可查询状态",
+    "translation":"Search is not allowed for [%d]"
+  },
+  {
+    "id": "department_id无效",
+    "translation":"Invalid department_id"
+  },
+  {
+    "id": "invalid UserID",
+    "translation":"Invalid UserID"
+  },
+  {
+    "id": "invalid UserIds",
+    "translation":"Invalid UserIds"
+  },
+  {
+    "id": "invalid days",
+    "translation":"Invalid days"
+  },
+  {
+    "id": "period值无效",
+    "translation":"Invalid period value"
+  },
+  {
+    "id": "start_time分钟数据格式错误",
+    "translation":"start_time minute format error"
+  },
+  {
+    "id": "start_time小时数据格式错误",
+    "translation":"start_time hour format error"
+  },
+  {
+    "id": "target值不合法",
+    "translation":"Invalid target value"
+  },
+  {
+    "id": "type值不合法",
+    "translation":"Invalid type value"
+  },
+  {
+    "id": "“%v”已接受你的战帖！小编给你揉揉肩、捶捶腿，即刻去开启pk大战吧！",
+    "translation":"%v has accepted your challenge! Let the challenge begin!"
+  },
+  {
+    "id": "【企业咕咚】",
+    "translation":"[WeRUN]"
+  },
+  {
+    "id": "【问题反馈】有用户提交了新的反馈问题，请尽快处理反馈",
+    "translation":"[Feedback] New feedback submitted. Please respond promptly."
+  },
+  {
+    "id": "一次最多删除1000条",
+    "translation":"You can delete up to 1000 records at a time."
+  },
+  {
+    "id": "一次最多接收1000条记录",
+    "translation":"You can receive up to 1000 records at a time."
+  },
+  {
+    "id": "一次最多查询1000个用户",
+    "translation":"You can search up to 1000 people at a time"
+  },
+  {
+    "id": "一次最多获取 1000 条记录",
+    "translation":"You can retrieve up to 1000 records at a time"
+  },
+  {
+    "id": "一次调用最多只支持 %d 个用户",
+    "translation":"At most %d members supported at one call."
+  },
+  {
+    "id": "一次调用最多只能有%d个用户",
+    "translation":"At most %d members supported at one call."
+  },
+  {
+    "id": "一级部门自动组队",
+    "translation":"Automatic team allocation using top-level departments"
+  },
+  {
+    "id": "上传图片失败",
+    "translation":"Failed to upload image"
+  },
+  {
+    "id": "上传数据为空",
+    "translation":"No data uploaded"
+  },
+  {
+    "id": "上传数据失败",
+    "translation":"Failed to upload data"
+  },
+  {
+    "id": "上传文件为空",
+    "translation":"No files uploaded"
+  },
+  {
+    "id": "上传文件失败",
+    "translation":"Failed to upload file"
+  },
+  {
+    "id": "上传照片为空",
+    "translation":"No images uploaded"
+  },
+  {
+    "id": "上传睡眠数据失败",
+    "translation":"Failed to upload sleep data"
+  },
+  {
+    "id": "上传计步数据失败",
+    "translation":"Failed to upload step data"
+  },
+  {
+    "id": "不在团队中无法进行本次操作",
+    "translation":"Unable to perform this operation as you are not in the group."
+  },
+  {
+    "id": "不在团队中无法进行此操作",
+    "translation":"Unable to perform this operation as you are not in the group."
+  },
+  {
+    "id": "不支持的 GPS 类型",
+    "translation":"Unsupported GPS type"
+  },
+  {
+    "id": "不支持的成员操作",
+    "translation":"Unsupported operation"
+  },
+  {
+    "id": "不支持的操作类型",
+    "translation":"Unsupported operation type"
+  },
+  {
+    "id": "不支持的文件格式: %s",
+    "translation":"Unsupported file format: %s"
+  },
+  {
+    "id": "不支持的查询类型",
+    "translation":"Unsupported search type: %s"
+  },
+  {
+    "id": "不支持的活动类型",
+    "translation":"Unsupported event type: %s"
+  },
+  {
+    "id": "不支持的类型",
+    "translation":"Unsupported type: %s"
+  },
+  {
+    "id": "不支持的顶踩类型",
+    "translation":"Unsupported like/unlike type"
+  },
+  {
+    "id": "不是分时计步活动",
+    "translation":"This is not timed step event."
+  },
+  {
+    "id": "不是昨日完成的任务",
+    "translation":"This is not a mission completed yesterday."
+  },
+  {
+    "id": "不是管理员",
+    "translation":"You are not an admin."
+  },
+  {
+    "id": "不是管理员, 无法修改活动",
+    "translation":"Only admin can edit events."
+  },
+  {
+    "id": "不是管理员, 无法删除活动",
+    "translation":"Only admin can delete events."
+  },
+  {
+    "id": "不是该队伍的成员",
+    "translation":"You are not a member of the group."
+  },
+  {
+    "id": "不能为空",
+    "translation":"Please enter."
+  },
+  {
+    "id": "不能为空字符串",
+    "translation":"Please enter a string."
+  },
+  {
+    "id": "不能修改超级管理员权限",
+    "translation":"Cannot change super admin permissions."
+  },
+  {
+    "id": "不能删除创建人",
+    "translation":"Cannot delete owner."
+  },
+  {
+    "id": "不能删除自己",
+    "translation":"Cannot delete yourself."
+  },
+  {
+    "id": "不能挑战自己",
+    "translation":"Cannot compete against yourself."
+  },
+  {
+    "id": "不能添加超级管理员",
+    "translation":"Cannot add a super administrator"
+  },
+  {
+    "id": "不能转移给自己",
+    "translation":"Cannot transfer to yourself"
+  },
+  {
+    "id": "不能重复加入",
+    "translation":"You are already in the group."
+  },
+  {
+    "id": "不限",
+    "translation":"No restrictions"
+  },
+  {
+    "id": "个人",
+    "translation":"Individual"
+  },
+  {
+    "id": "个人成绩排名",
+    "translation":"Individual Ranking"
+  },
+  {
+    "id": "个人赛全体成员",
+    "translation":"All participants in individual event"
+  },
+  {
+    "id": "个人赛部门成员",
+    "translation":"Individual Competition Department Participants"
+  },
+  {
+    "id": "个人赛默认组队",
+    "translation":"Individual event default grouping"
+  },
+  {
+    "id": "主套餐",
+    "translation":"Basic plan"
+  },
+  {
+    "id": "主套餐不可用",
+    "translation":"Basic plan is not available"
+  },
+  {
+    "id": "主套餐不存在",
+    "translation":"No basic plan"
+  },
+  {
+    "id": "二维码类型无效",
+    "translation":"Invalid QR code type"
+  },
+  {
+    "id": "交易号码为空",
+    "translation":"No transaction number"
+  },
+  {
+    "id": "交易状态错误",
+    "translation":"Transaction status error"
+  },
+  {
+    "id": "交易记录不存在",
+    "translation":"No transaction record"
+  },
+  {
+    "id": "亲爱的伙伴，欢迎你成为 %s 的一员。在这里，你可以单挑运动大牛、抢占排行榜、组队运动PK。赶快动起来，爆发你的运动小宇宙吧！",
+    "translation":"Thank you for joining %s! Here you can compete with your friends in individual and team competitions, or against stronger players for higher rankings. Let's start walking now!"
+  },
+  {
+    "id": "亲爱的管理员大大，今天已经有 %d 个小伙伴们迫不及待地想参与活动了！赶快创建活动，让大家运动起来~",
+    "translation":"Dear Admin, you have %d friends who can't wait for an event today! Create an event now and let's all start getting fit!"
+  },
+  {
+    "id": "亲，今天的抽奖机会已用完，明天再来",
+    "translation":"We're done for today! Try again tomorrow."
+  },
+  {
+    "id": "从%s开始, 为期%d天的比赛,你们的平均步数进行比对, %s说如果他输了, 贡品就是: %s",
+    "translation":"The challenge between %s to %d will be based on everyone's average steps. %s says they will give you %s if they lose."
+  },
+  {
+    "id": "从%s开始，为期%d天的比赛，你们以平均步数进行比对，比赛即将开始，请保持好状态！",
+    "translation":"Starting from %s, a %d-day challenge will be held which is based on everyone's average steps. It will begin shortly. Are you ready?"
+  },
+  {
+    "id": "任务导出中",
+    "translation":"Processing export task"
+  },
+  {
+    "id": "任务已分享",
+    "translation":"Shared!"
+  },
+  {
+    "id": "任务已完成",
+    "translation":"Mission completed"
+  },
+  {
+    "id": "任务未完成",
+    "translation":"Mission not completed"
+  },
+  {
+    "id": "任务状态不可用",
+    "translation":"Mission status error"
+  },
+  {
+    "id": "企业咕咚功能介绍及常见问题解答",
+    "translation":"[WeRUN] Service introduction and FAQ"
+  },
+  {
+    "id": "优惠码已使用",
+    "translation":"Discount code is already used."
+  },
+  {
+    "id": "优惠码已过期",
+    "translation":"Discount code has expired."
+  },
+  {
+    "id": "优惠码无效",
+    "translation":"Invalid discount code"
+  },
+  {
+    "id": "优惠码超过使总数限制",
+    "translation":"You have exceeded the maximum limit for discount codes."
+  },
+  {
+    "id": "体检人信息不能为空",
+    "translation":"Please enter examinee information."
+  },
+  {
+    "id": "体检人姓名不能为空",
+    "translation":"Please enter examinee name."
+  },
+  {
+    "id": "体检人年龄不符合",
+    "translation":"The examinee does not meet the age requirements."
+  },
+  {
+    "id": "体检人性别不复合套餐要求",
+    "translation":"The examinee's gender does not match the plan requirements."
+  },
+  {
+    "id": "体检人数错误",
+    "translation":"Examinee count error"
+  },
+  {
+    "id": "体检套餐",
+    "translation":"Health checkup plan"
+  },
+  {
+    "id": "体检机构",
+    "translation":"Medical Institution"
+  },
+  {
+    "id": "体检机构ID不能为空",
+    "translation":"Please enter the medical institution ID."
+  },
+  {
+    "id": "体检机构错误",
+    "translation":"Medical instuition error"
+  },
+  {
+    "id": "你不在当前团队中",
+    "translation":"You are not a member of the designated group."
+  },
+  {
+    "id": "你不在该俱乐部无法查看评论",
+    "translation":"You cannot view comments because you are not a member of the designated club."
+  },
+  {
+    "id": "你不在该团队中",
+    "translation":"You are not a member of the designated group."
+  },
+  {
+    "id": "你不是俱乐部成员",
+    "translation":"You are not club member."
+  },
+  {
+    "id": "你不是挑战发起人",
+    "translation":"You are not the challenger."
+  },
+  {
+    "id": "你不是被挑战人",
+    "translation":"You are not the challenged person."
+  },
+  {
+    "id": "你不是该团队成员",
+    "translation":"You are not a member of the designated group."
+  },
+  {
+    "id": "你今天有参加的活动快要结束啦！没有上传运动数据会影响你的排名哦，点击通知刷新你的运动步数吧！",
+    "translation":"One of your event is ending today. Tap this message to sync your step data and get your ranking updated."
+  },
+  {
+    "id": "你参加的 #%s# 活动已经结束啦！最新活动战报火热出炉，赶快去看看你的排名！",
+    "translation":"Event %s has ended. Great job. Check your ranking now!"
+  },
+  {
+    "id": "你参加的 #%s# 的 #%s# 活动%d月%d日已经开始啦，快去释放你的洪荒之力吧！",
+    "translation":"Event %[2]s of %[1]s has started on %[3]d-%[4]d. Go for it!"
+  },
+  {
+    "id": "你可以选择取消挑战，或者是再次向对手发起挑战，如果你不对此条消息进行处理，比赛将于2天后自动取消",
+    "translation":"You can cancel this challenge or initiate a new challenge for your opponent. This challenge will be automatically cancelled after 2 days if unattended."
+  },
+  {
+    "id": "你已经重发了三次了，机会已经用完啦",
+    "translation":"You can only send up to 3 consecutive messages."
+  },
+  {
+    "id": "你无法对该活动进行评论",
+    "translation":"You cannot comment on this event."
+  },
+  {
+    "id": "你有新活动喽，快去看看吧",
+    "translation":"There is a new event. Let's check it now."
+  },
+  {
+    "id": "保存创建活动请求失败",
+    "translation":"Failed to save event"
+  },
+  {
+    "id": "保存反馈信息失败",
+    "translation":"Failed to save feedback"
+  },
+  {
+    "id": "保存团队设置失败",
+    "translation":"Failed to save group settings"
+  },
+  {
+    "id": "保存图片失败",
+    "translation":"Failed to save image"
+  },
+  {
+    "id": "保存地址失败",
+    "translation":"Failed to save address"
+  },
+  {
+    "id": "保存心率数据失败",
+    "translation":"Failed to save heart rate"
+  },
+  {
+    "id": "保存手环绑定记录失败",
+    "translation":"Failed to save WeBand pairing record"
+  },
+  {
+    "id": "保存手环设置失败",
+    "translation":"Failed to save WeBand settings"
+  },
+  {
+    "id": "保存更新手环设置失败",
+    "translation":"Failed to update WeBandsettings"
+  },
+  {
+    "id": "保存计步数据失败:%s",
+    "translation":"Failed to save step data %s"
+  },
+  {
+    "id": "保存订单失败",
+    "translation":"Failed to save order"
+  },
+  {
+    "id": "保存订单快递信息失败",
+    "translation":"Failed to save delivery information"
+  },
+  {
+    "id": "保存部门信息失败",
+    "translation":"Failed to save department information"
+  },
+  {
+    "id": "保存闹钟设置失败",
+    "translation":"Failed to save alarm settings"
+  },
+  {
+    "id": "修改分类失败",
+    "translation":"Failed to modify category"
+  },
+  {
+    "id": "修改团队认证状态失败",
+    "translation":"Failed to modify group authentication status"
+  },
+  {
+    "id": "修改图片失败",
+    "translation":"Failed to modify image"
+  },
+  {
+    "id": "修改失败",
+    "translation":"Failed to modify"
+  },
+  {
+    "id": "修改头像失败",
+    "translation":"Failed to change photo"
+  },
+  {
+    "id": "修改成绩失败",
+    "translation":"Failed to modify score"
+  },
+  {
+    "id": "修改活动信息失败",
+    "translation":"Failed to modify event information"
+  },
+  {
+    "id": "修改活动失败",
+    "translation":"Failed to modify event"
+  },
+  {
+    "id": "修改活动封面失败",
+    "translation":"Failed to modify event cover"
+  },
+  {
+    "id": "修改用户信息失败",
+    "translation":"Failed to modify membership information"
+  },
+  {
+    "id": "修改认证状态失败",
+    "translation":"Failed to modify authorization status"
+  },
+  {
+    "id": "修改记录失败",
+    "translation":"Failed to modify record"
+  },
+  {
+    "id": "修改里程点失败",
+    "translation":"Failed to modify checkpoint"
+  },
+  {
+    "id": "俱乐部ID不能为空",
+    "translation":"Please enter club ID."
+  },
+  {
+    "id": "俱乐部ID必须大于0",
+    "translation":"Club ID must be greater than 0."
+  },
+  {
+    "id": "俱乐部不存在",
+    "translation":"No such club."
+  },
+  {
+    "id": "健步走",
+    "translation":"Walking"
+  },
+  {
+    "id": "健走",
+    "translation":"Walk"
+  },
+  {
+    "id": "先选择参赛部门",
+    "translation":"Select participating departments first."
+  },
+  {
+    "id": "全程马拉松",
+    "translation":"Full marathon"
+  },
+  {
+    "id": "关键字不能为空",
+    "translation":"Please enter keywords."
+  },
+  {
+    "id": "关键词不能为空",
+    "translation":"Please enter keywords."
+  },
+  {
+    "id": "其他问题",
+    "translation":"Other questions"
+  },
+  {
+    "id": "内容不能为空",
+    "translation":"Please enter description."
+  },
+  {
+    "id": "分时活动需要提供时间段",
+    "translation":"Timed step event requires valid time setting."
+  },
+  {
+    "id": "分时统计的开始时间错误",
+    "translation":"Invalid start time for timed step event"
+  },
+  {
+    "id": "分时统计的结束时间错误",
+    "translation":"Invalid end time for timed step event"
+  },
+  {
+    "id": "分时计步的时间只能在 [0,23] 之间",
+    "translation":"Timed step event time can only be set between 0 - 23."
+  },
+  {
+    "id": "切换数据源失败",
+    "translation":"Failed to change data source"
+  },
+  {
+    "id": "创建中",
+    "translation":"Creating"
+  },
+  {
+    "id": "创建人不存在",
+    "translation":"There is no creator."
+  },
+  {
+    "id": "创建任务的用户才能执行此操作",
+    "translation":"Only the event creator can perform this action."
+  },
+  {
+    "id": "创建挑战失败",
+    "translation":"Failed to create challenge"
+  },
+  {
+    "id": "创建活动分组失败",
+    "translation":"Failed to create event teams"
+  },
+  {
+    "id": "创建活动失败",
+    "translation":"Failed to create event"
+  },
+  {
+    "id": "创建活动队伍失败",
+    "translation":"Failed to create team"
+  },
+  {
+    "id": "创建活动队伍失败: %s",
+    "translation":"Failed to create %s team"
+  },
+  {
+    "id": "创建用户自定义赌注失败",
+    "translation":"Failed to create customized trophy"
+  },
+  {
+    "id": "创建者才能转移操作",
+    "translation":"Only the group owner can transfer priviledges."
+  },
+  {
+    "id": "创建者权限不能被修改",
+    "translation":"Cannot change the permissions for the group owner."
+  },
+  {
+    "id": "创建记录时发生数据库错误",
+    "translation":"Database error occurred during data creation."
+  },
+  {
+    "id": "创建评论失败",
+    "translation":"Failed to create comment"
+  },
+  {
+    "id": "创建部门与活动队伍映射失败: %s",
+    "translation":"Failed to create association between department and event group %s"
+  },
+  {
+    "id": "创建部门与随机活动队伍映射失败: %s",
+    "translation":"Failed to create association between department and random event group %s"
+  },
+  {
+    "id": "初始化活动关联的部门信息失败",
+    "translation":"Failed to initialize event-related department information"
+  },
+  {
+    "id": "初始化活动成员关联的部门信息失败",
+    "translation":"Failed to initialize event-related member's department information"
+  },
+  {
+    "id": "初始化活动成员失败",
+    "translation":"Failed to initialize participants"
+  },
+  {
+    "id": "删除",
+    "translation":"Delete"
+  },
+  {
+    "id": "删除/归档失败",
+    "translation":"Delete/Archive failed"
+  },
+  {
+    "id": "删除分类失败",
+    "translation":"Failed to delete category"
+  },
+  {
+    "id": "删除失败",
+    "translation":"Failed to delete"
+  },
+  {
+    "id": "删除成员失败",
+    "translation":"Failed to delete member"
+  },
+  {
+    "id": "删除成员时，获取成员信息失败",
+    "translation":"Failed to retrieve member info during deletion"
+  },
+  {
+    "id": "删除文章失败",
+    "translation":"Failed to delete article"
+  },
+  {
+    "id": "删除活动出错",
+    "translation":"Failed to delete event"
+  },
+  {
+    "id": "删除活动失败",
+    "translation":"Failed to delete event"
+  },
+  {
+    "id": "删除活动成员失败",
+    "translation":"Failed to delete event participant"
+  },
+  {
+    "id": "删除记录失败",
+    "translation":"Failed to delete record"
+  },
+  {
+    "id": "删除评论失败",
+    "translation":"Failed to delete comment"
+  },
+  {
+    "id": "刷新库存失败",
+    "translation":"Failed to update inventory"
+  },
+  {
+    "id": "刷新访问令牌失败",
+    "translation":"Failed to update access token"
+  },
+  {
+    "id": "加入密码错误",
+    "translation":"Wrong join password"
+  },
+  {
+    "id": "加入无需密码",
+    "translation":"No password is required to join"
+  },
+  {
+    "id": "加入日期",
+    "translation":"Join date"
+  },
+  {
+    "id": "加入需要密码",
+    "translation":"Join password is required"
+  },
+  {
+    "id": "包含空对象",
+    "translation":"Contains empty object."
+  },
+  {
+    "id": "半程马拉松",
+    "translation":"Half marathon"
+  },
+  {
+    "id": "单选只能有一个答案",
+    "translation":"You can only select single option."
+  },
+  {
+    "id": "参数不可用",
+    "translation":"Parameter is not available"
+  },
+  {
+    "id": "参数格式错误",
+    "translation":"Parameter format error"
+  },
+  {
+    "id": "参数错误",
+    "translation":"Parameter error"
+  },
+  {
+    "id": "参数错误, 必须是 GPSRank 实例",
+    "translation":"Parameter error. GPSRank instance required."
+  },
+  {
+    "id": "参数错误：invalid day",
+    "translation":"Parameter error: invalid day"
+  },
+  {
+    "id": "参数错误：invalid userIds",
+    "translation":"Parameter error: invalid userIds"
+  },
+  {
+    "id": "参赛部门错误",
+    "translation":"Department error"
+  },
+  {
+    "id": "反馈信息入库失败",
+    "translation":"Failed to save feedback"
+  },
+  {
+    "id": "发送短信内容不能为空",
+    "translation":"Please enter message."
+  },
+  {
+    "id": "发送短信内容不能超过 500 个字",
+    "translation":"Message must be 500 characters or less."
+  },
+  {
+    "id": "发送者ID不能为空",
+    "translation":"Please enter sender ID."
+  },
+  {
+    "id": "取消挑战失败",
+    "translation":"Failed to cancel the challenge"
+  },
+  {
+    "id": "取消收藏文章出错",
+    "translation":"Error removing favorite"
+  },
+  {
+    "id": "取消点赞失败",
+    "translation":"Failed to remove Like"
+  },
+  {
+    "id": "取消置顶失败",
+    "translation":"Failed to unpin"
+  },
+  {
+    "id": "取消踩失败",
+    "translation":"Failed to remove Dislike"
+  },
+  {
+    "id": "取消顶失败",
+    "translation":"Failed to remove Like"
+  },
+  {
+    "id": "只有俱乐部管理员可以置顶活动",
+    "translation":"Only club admin can pin events."
+  },
+  {
+    "id": "只有变更前后属于同一个活动才能调用",
+    "translation":"You can only call if the member belongs to the same event before and after the change"
+  },
+  {
+    "id": "只有本人或管理员可以查看 GPS 记录",
+    "translation":"Only you and the administrator can check your GPS records."
+  },
+  {
+    "id": "只有本人或者管理员可以查看 GPS 记录",
+    "translation":"Only you and the administrator can check your GPS records."
+  },
+  {
+    "id": "只能修改自定义类型活动",
+    "translation":"Only customized events can be edited."
+  },
+  {
+    "id": "只能修改自定义类型的活动",
+    "translation":"Only customized events can be edited."
+  },
+  {
+    "id": "只能修改自己的 GPS 记录",
+    "translation":"You can only modify your own GPS records."
+  },
+  {
+    "id": "只能修改自己的用户信息",
+    "translation":"You can only modify your own profile."
+  },
+  {
+    "id": "只能删除未开始和已结束的活动",
+    "translation":"You can only delete events that have not started or have ended."
+  },
+  {
+    "id": "只能删除自己的 GPS 记录",
+    "translation":"You can only delete your own GPS records."
+  },
+  {
+    "id": "只能删除自己的评论",
+    "translation":"You can only delete your own comments."
+  },
+  {
+    "id": "只能完成自己的任务",
+    "translation":"You can only complete your own mission."
+  },
+  {
+    "id": "只能查看自己团队的活动",
+    "translation":"You can only view your own club's events."
+  },
+  {
+    "id": "只能查看自己的 GPS 记录",
+    "translation":"You can only check your own GPS records."
+  },
+  {
+    "id": "只能查看自己的任务详情",
+    "translation":"You can only view your own mission details."
+  },
+  {
+    "id": "只能添加必选任务",
+    "translation":"You can only add required missions."
+  },
+  {
+    "id": "只能用于活动实例",
+    "translation":"Only available for event instances."
+  },
+  {
+    "id": "只能预约 3 个工作日之后",
+    "translation":"Can only be booked after 3 business days."
+  },
+  {
+    "id": "只能预约 3 个月内",
+    "translation":"Can only be booked within 3 months."
+  },
+  {
+    "id": "可用",
+    "translation":"Available"
+  },
+  {
+    "id": "同步用户失败",
+    "translation":"User synchronization failed"
+  },
+  {
+    "id": "名称已经存在",
+    "translation":"Same name already exists."
+  },
+  {
+    "id": "后台获取文章失败",
+    "translation":"Failed to retrieve article in background"
+  },
+  {
+    "id": "周排行榜",
+    "translation":"Weekly Ranking"
+  },
+  {
+    "id": "周末无法预约",
+    "translation":"Cannot be booked on weekends."
+  },
+  {
+    "id": "咕咚昵称",
+    "translation":"WeRUN Nickname"
+  },
+  {
+    "id": "商品不存在",
+    "translation":"Product does not exist."
+  },
+  {
+    "id": "回复用户的 ID 格式错误",
+    "translation":"Reply user ID format error"
+  },
+  {
+    "id": "回答不能为空",
+    "translation":"Please enter reply."
+  },
+  {
+    "id": "回跳地址不能为空",
+    "translation":"Empty callback"
+  },
+  {
+    "id": "团队",
+    "translation":"Group"
+  },
+  {
+    "id": "团队 ID 不能为空",
+    "translation":"Please enter group ID."
+  },
+  {
+    "id": "团队: %d%d",
+    "translation":"Group: %d%d"
+  },
+  {
+    "id": "团队ID不能为空",
+    "translation":"Please enter group ID."
+  },
+  {
+    "id": "团队ID无效",
+    "translation":"Invalid group ID"
+  },
+  {
+    "id": "团队不存在",
+    "translation":"Group does not exist"
+  },
+  {
+    "id": "团队创建人不能退出",
+    "translation":"Group owner cannot leave the group."
+  },
+  {
+    "id": "团队名称已经存在",
+    "translation":"Group name already exists."
+  },
+  {
+    "id": "团队成员才能执行此操作",
+    "translation":"Only group member can perform this operation."
+  },
+  {
+    "id": "团队成绩",
+    "translation":"Group score"
+  },
+  {
+    "id": "团队成绩(平均)",
+    "translation":"Group score (Average)"
+  },
+  {
+    "id": "团队成绩(总)",
+    "translation":"Group score (Overall)"
+  },
+  {
+    "id": "团队按平均数据排名",
+    "translation":"Rank by average data of the group"
+  },
+  {
+    "id": "团队按总数据排序",
+    "translation":"Rank by total data of the group"
+  },
+  {
+    "id": "团队管理员",
+    "translation":"Group admin"
+  },
+  {
+    "id": "团队赛必须提供组队",
+    "translation":"Teams are required for team challenge."
+  },
+  {
+    "id": "团队赛必须提供组队方式",
+    "translation":"Team allocation method is required for team challenge."
+  },
+  {
+    "id": "图片链接不能为空",
+    "translation":"Please enter image link."
+  },
+  {
+    "id": "都市",
+    "translation":"City"
+  },
+  {
+    "id": "增加挑战热度失败",
+    "translation":"Failed to increase challenge popularity"
+  },
+  {
+    "id": "处理数据失败",
+    "translation":"Data processing failed"
+  },
+  {
+    "id": "失败",
+    "translation":"Failed"
+  },
+  {
+    "id": "头像文件格式不支持",
+    "translation":"Profile image format is not supported"
+  },
+  {
+    "id": "套餐ID不能为空",
+    "translation":"Please enter plan ID"
+  },
+  {
+    "id": "套餐不存在",
+    "translation":"plan does not exist."
+  },
+  {
+    "id": "女",
+    "translation":"Female"
+  },
+  {
+    "id": "姓名",
+    "translation":"Full name"
+  },
+  {
+    "id": "存储设备信息失败",
+    "translation":"Failed to save device information."
+  },
+  {
+    "id": "完成任务分享:%s",
+    "translation":"You have shared the mission %s."
+  },
+  {
+    "id": "密码不能为空",
+    "translation":"Please enter your password."
+  },
+  {
+    "id": "对方已应战",
+    "translation":"Your opponent has accepted the challenge."
+  },
+  {
+    "id": "对方已经设置拒绝挑战请求",
+    "translation":"Your opponent has turned off the setting to allow challenges."
+  },
+  {
+    "id": "导出部门二维码",
+    "translation":"Export department QR code"
+  },
+  {
+    "id": "封面不能为空",
+    "translation":"Please set cover."
+  },
+  {
+    "id": "小伙伴请求创建活动",
+    "translation":"Event creation request from members"
+  },
+  {
+    "id": "已婚女",
+    "translation":"Married woman"
+  },
+  {
+    "id": "已完成",
+    "translation":"Done"
+  },
+  {
+    "id": "已支付",
+    "translation":"Payment completed"
+  },
+  {
+    "id": "已经失败的任务才能被重新打开",
+    "translation":"Only failed missions can be reopened."
+  },
+  {
+    "id": "已经是成员",
+    "translation":"You are already a member."
+  },
+  {
+    "id": "已经结束的活动才能进行归档操作",
+    "translation":"Only finished events can be archived"
+  },
+  {
+    "id": "已购买过相同的附加套餐",
+    "translation":"The same option has already been purchased."
+  },
+  {
+    "id": "已超请求数量限制",
+    "translation":"You have exceeded the maximum limit of requests."
+  },
+  {
+    "id": "已达标",
+    "translation":"Achieved"
+  },
+  {
+    "id": "已过期",
+    "translation":"Expired"
+  },
+  {
+    "id": "帐号在别处登录",
+    "translation":"This account is logged in on another device."
+  },
+  {
+    "id": "常见问题",
+    "translation":"Frequently Asked Questions"
+  },
+  {
+    "id": "序列化失败",
+    "translation":"Serialization failed"
+  },
+  {
+    "id": "序列化活动失败",
+    "translation":"Event serialization failed"
+  },
+  {
+    "id": "序号",
+    "translation":"No."
+  },
+  {
+    "id": "开始以及结束时间不能为空",
+    "translation":"Please enter start and end time."
+  },
+  {
+    "id": "开始或结束时间有误",
+    "translation":"Start or end time is incorrect."
+  },
+  {
+    "id": "开始日期不能大于结束日期",
+    "translation":"Start date must be before end date."
+  },
+  {
+    "id": "开始日期必须大于当前日期",
+    "translation":"Start date must be after today."
+  },
+  {
+    "id": "开始日期无效",
+    "translation":"Invalid start date"
+  },
+  {
+    "id": "开始日期格式有误",
+    "translation":"Start date format is incorrect"
+  },
+  {
+    "id": "开始时间[%s]不能晚于结束时间[%s]",
+    "translation":"Start time %s must be before end time %s"
+  },
+  {
+    "id": "开始时间不能为空",
+    "translation":"Please enter start time"
+  },
+  {
+    "id": "开始时间不能为零值",
+    "translation":"Start time must be greater than or equal to 0"
+  },
+  {
+    "id": "开始时间不能大于结束时间",
+    "translation":"Start time must be earlier than end time"
+  },
+  {
+    "id": "开始时间不能早于 '%s'",
+    "translation":"Start time must be later than %s."
+  },
+  {
+    "id": "开始时间不能早于'%s'",
+    "translation":"Start time must be later than %s."
+  },
+  {
+    "id": "开始时间不能晚于当前实际时间",
+    "translation":"Start time must be later than current time."
+  },
+  {
+    "id": "开始时间不能晚于结束时间",
+    "translation":"Start time must be earlier than end time."
+  },
+  {
+    "id": "开始时间必须大于结束时间",
+    "translation":"Start time must be earlier than end time."
+  },
+  {
+    "id": "开始时间必须小于结束时间",
+    "translation":"Start time must be earlier than end time."
+  },
+  {
+    "id": "开始时间必须晚于当前时间",
+    "translation":"Start time must be later than current time."
+  },
+  {
+    "id": "开始时间至少要在两小时之后",
+    "translation":"Start time must be at least 2 hours later."
+  },
+  {
+    "id": "开放方式无效",
+    "translation":"Invalid open method"
+  },
+  {
+    "id": "开放的排行榜无效",
+    "translation":"Invalid ranking"
+  },
+  {
+    "id": "归档",
+    "translation":"Archive"
+  },
+  {
+    "id": "当前版本只支持 period: daily",
+    "translation":"Current version only supports period: daily"
+  },
+  {
+    "id": "当前版本号小于等于最新版本号",
+    "translation":"Current version is either the latest or previous version."
+  },
+  {
+    "id": "当前登录用户ID不能为空",
+    "translation":"Please enter your login ID."
+  },
+  {
+    "id": "很遗憾，“%v”没有接受你的战帖！",
+    "translation":"Unfortunately, %v did not accept your challenge."
+  },
+  {
+    "id": "性别",
+    "translation":"Gender"
+  },
+  {
+    "id": "性别不能为空",
+    "translation":"Please enter your gender."
+  },
+  {
+    "id": "总排行榜",
+    "translation":"Overall Ranking"
+  },
+  {
+    "id": "总步数",
+    "translation":"Total steps"
+  },
+  {
+    "id": "总米数",
+    "translation":"Total distance"
+  },
+  {
+    "id": "悄悄告诉你，“%v“给你点了赞。有人在给你加油，赶紧去看看PK战况！",
+    "translation":"%v liked you! Someone is cheering you on. Let's go see your progress now!"
+  },
+  {
+    "id": "您参加的 %s 活动，已经由您的团队管理员提前结束",
+    "translation":"Event %s you joined has been closed by admin ahead of schedule."
+  },
+  {
+    "id": "您参加的活动 %s 已经由您的团队管理员删除",
+    "translation":"Event %s you joined has been deleted by admin."
+  },
+  {
+    "id": "您发起的活动 %s 创建失败",
+    "translation":"Failed to create event %s"
+  },
+  {
+    "id": "您发起的活动 %s 因为创建失败",
+    "translation":"Creation of event %s failed"
+  },
+  {
+    "id": "您已应战",
+    "translation":"You accepted the challenge."
+  },
+  {
+    "id": "您已经对这场挑战过赞了",
+    "translation":"You have already liked the challenge!"
+  },
+  {
+    "id": "您已经很久没有上传运动数据啦",
+    "translation":"You haven't synced data in a long time!"
+  },
+  {
+    "id": "您的团队 “%s” 有新成员 “%s” 加入",
+    "translation":"A new nember %[2]s has joined your group %[1]s."
+  },
+  {
+    "id": "您的团队 “%s” 有新成员 “%s” 加入到 “%s” 部门",
+    "translation":"A new member %[2]s has joined the department %[3]s of your group %[1]s."
+  },
+  {
+    "id": "您的积分已不足",
+    "translation":"Not enough WeMiles!"
+  },
+  {
+    "id": "成员: %s 已经退出团队",
+    "translation":"Member %s has left the group."
+  },
+  {
+    "id": "成员不存在",
+    "translation":"Member %s does not exist."
+  },
+  {
+    "id": "成员不存在或已退出",
+    "translation":"Member %s does not exist or has left the group."
+  },
+  {
+    "id": "成员不存在或获取用户失败",
+    "translation":"Member does not exist or failed to load."
+  },
+  {
+    "id": "成员列表不能为空",
+    "translation":"Please add members."
+  },
+  {
+    "id": "成员成绩",
+    "translation":"Member score"
+  },
+  {
+    "id": "成员排行",
+    "translation":"Member ranking"
+  },
+  {
+    "id": "成员退出",
+    "translation":"Member has left the group."
+  },
+  {
+    "id": "成绩",
+    "translation":"Score"
+  },
+  {
+    "id": "成绩(步)",
+    "translation":"Score (Steps)"
+  },
+  {
+    "id": "成绩(米)",
+    "translation":"Score (Distance)"
+  },
+  {
+    "id": "我的成绩失败",
+    "translation":"My score error"
+  },
+  {
+    "id": "截至时间不能为空",
+    "translation":"Please enter expiry date"
+  },
+  {
+    "id": "所有类型",
+    "translation":"All Types"
+  },
+  {
+    "id": "手动分配组队时部门不能为空",
+    "translation":"If you want to group members manually, please enter a department."
+  },
+  {
+    "id": "手机号和密码不能为空",
+    "translation":"Please enter mobile phone number and password."
+  },
+  {
+    "id": "手机号应为11位数字",
+    "translation":"Mobile phone number is 11 digits."
+  },
+  {
+    "id": "手机号开头不能为0",
+    "translation":"Mobile phone number must start with 0."
+  },
+  {
+    "id": "手机号未注册",
+    "translation":"Mobile phone number is not registered."
+  },
+  {
+    "id": "手机号码不能为空",
+    "translation":"Please enter mobile phone number."
+  },
+  {
+    "id": "手机号码错误",
+    "translation":"Wrong mobile phone number"
+  },
+  {
+    "id": "手机号请求次数过于频繁, 请稍后再试",
+    "translation":"Please try again in a while, as the verification code has been requested too frequently."
+  },
+  {
+    "id": "手环用户每日任务获取积分加成",
+    "translation":"WeBand Member Bonus"
+  },
+  {
+    "id": "批量删除评论失败",
+    "translation":"Failed to bulk delete comments"
+  },
+  {
+    "id": "批量获取团队信息失败",
+    "translation":"Failed to bulk load team information"
+  },
+  {
+    "id": "抽奖出错",
+    "translation":"Lottery error"
+  },
+  {
+    "id": "抽奖出错,稍候再试",
+    "translation":"Lottery error. Please try again later."
+  },
+  {
+    "id": "抽奖失败",
+    "translation":"Lottery failure"
+  },
+  {
+    "id": "抽奖扣除积分失败",
+    "translation":"Failed to deduct WeMiles by lottery"
+  },
+  {
+    "id": "拉取俱乐部信息失败",
+    "translation":"Failed to retrieve club information"
+  },
+  {
+    "id": "拉取团队信息失败",
+    "translation":"Failed to retrieve team information"
+  },
+  {
+    "id": "指定任务不存在",
+    "translation":"The specified mission does not exist."
+  },
+  {
+    "id": "指定帮助信息不存在",
+    "translation":"The specified help information does not exist."
+  },
+  {
+    "id": "指定成员不存在或已退出活动",
+    "translation":"The member does not exist or has left the event."
+  },
+  {
+    "id": "指定活动不存在",
+    "translation":"The specified event does not exist."
+  },
+  {
+    "id": "指定部门不存在",
+    "translation":"The specified department does not exist."
+  },
+  {
+    "id": "按部门组队",
+    "translation":"Team allocation by department"
+  },
+  {
+    "id": "按部门组队, 队伍`%s`的部门不能为空",
+    "translation":"Team allocation by department. Please select the department for team %s."
+  },
+  {
+    "id": "挑战不存在",
+    "translation":"The challenge does not exist."
+  },
+  {
+    "id": "挑战双方不在同一个团队",
+    "translation":"Cannot play against members of different groups."
+  },
+  {
+    "id": "挑战双方用户不存在",
+    "translation":"Challenge participants do not exist."
+  },
+  {
+    "id": "挑战存在",
+    "translation":"The Challenge exists."
+  },
+  {
+    "id": "挑战已失效",
+    "translation":"The Challenge is unavailable."
+  },
+  {
+    "id": "挑战已存在",
+    "translation":"The Challenge already exists."
+  },
+  {
+    "id": "挑战已开始",
+    "translation":"The Challenge has already started."
+  },
+  {
+    "id": "挑战已结束",
+    "translation":"The Challenge has ended."
+  },
+  {
+    "id": "挑战已被取消",
+    "translation":"The Challenge has been canceled."
+  },
+  {
+    "id": "挑战已被拒绝",
+    "translation":"The Challenge has been rejected."
+  },
+  {
+    "id": "挑战已被接受不能取消",
+    "translation":"The accepted challenge cannot be canceled."
+  },
+  {
+    "id": "挑战已过期",
+    "translation":"The challenge has expired."
+  },
+  {
+    "id": "挑战截止不能早于今日",
+    "translation":"The challenge must be closed later than today."
+  },
+  {
+    "id": "排序方式错误",
+    "translation":"Sorting error"
+  },
+  {
+    "id": "排行周期无效",
+    "translation":"Invalid ranking period"
+  },
+  {
+    "id": "排行榜",
+    "translation":"Ranking"
+  },
+  {
+    "id": "排行榜周期不能为空",
+    "translation":"Please enter ranking period"
+  },
+  {
+    "id": "排行榜点赞通知",
+    "translation":"Like ranking notification"
+  },
+  {
+    "id": "排行榜类型无效",
+    "translation":"Invalid ranking type"
+  },
+  {
+    "id": "接收用户也必须是团队成员",
+    "translation":"Recipient must also be in the same group."
+  },
+  {
+    "id": "提交人年龄不符合要求",
+    "translation":"Applicant's age does not meet the requirements."
+  },
+  {
+    "id": "搜索团队失败",
+    "translation":"Group search failed"
+  },
+  {
+    "id": "操作用户不是团队成员",
+    "translation":"The operator is not a group member."
+  },
+  {
+    "id": "操作者ID不能为空",
+    "translation":"Please enter the operator's user ID."
+  },
+  {
+    "id": "操作者用户ID不能为空",
+    "translation":"Please enter the operator's user ID."
+  },
+  {
+    "id": "支付宝下单失败",
+    "translation":"Payment error"
+  },
+  {
+    "id": "支付方式错误",
+    "translation":"Incorrect payment method"
+  },
+  {
+    "id": "支付金额错误",
+    "translation":"Incorrect payment amount"
+  },
+  {
+    "id": "收藏文章出错",
+    "translation":"Failed to favorite article"
+  },
+  {
+    "id": "数据上传提醒",
+    "translation":"Data sync reminder"
+  },
+  {
+    "id": "数据为空",
+    "translation":"Empty data"
+  },
+  {
+    "id": "数据单位错误",
+    "translation":"Data unit error"
+  },
+  {
+    "id": "数据库错误",
+    "translation":"Database error"
+  },
+  {
+    "id": "数据类型错误",
+    "translation":"Data type error"
+  },
+  {
+    "id": "数据转换失败: %s",
+    "translation":"Data conversion failed %s"
+  },
+  {
+    "id": "文件为空",
+    "translation":"File is empty"
+  },
+  {
+    "id": "文件大小超过限制",
+    "translation":"File size exceeds limit"
+  },
+  {
+    "id": "文件太大",
+    "translation":"File is too large"
+  },
+  {
+    "id": "文件格式不支持",
+    "translation":"File format not supported"
+  },
+  {
+    "id": "文件类型不支持",
+    "translation":"File type is not supported"
+  },
+  {
+    "id": "文章ID不能为空",
+    "translation":"Please enter article ID"
+  },
+  {
+    "id": "文章ID或修改人ID不能为空",
+    "translation":"Please enter article ID or editor ID"
+  },
+  {
+    "id": "文章不存在",
+    "translation":"Article does not exist."
+  },
+  {
+    "id": "文章状态跳转表不支持的类型",
+    "translation":"Article status transition table is of an unsupported type."
+  },
+  {
+    "id": "新增分类失败",
+    "translation":"Failed to add new category"
+  },
+  {
+    "id": "新增文章出错",
+    "translation":"Failed to add new article"
+  },
+  {
+    "id": "新建团队失败",
+    "translation":"Failed to create new group"
+  },
+  {
+    "id": "新建团队，添加管理员失败",
+    "translation":"Failed to create new group or add administrator"
+  },
+  {
+    "id": "新成员加入通知",
+    "translation":"A new member has joined"
+  },
+  {
+    "id": "无删除评论权限",
+    "translation":"You do not have permission to delete comments."
+  },
+  {
+    "id": "无删除评论的权限",
+    "translation":"You do not have permission to delete comments."
+  },
+  {
+    "id": "无名团队",
+    "translation":"Unnamed group"
+  },
+  {
+    "id": "无商品信息",
+    "translation":"No product information"
+  },
+  {
+    "id": "无效令牌",
+    "translation":"Invalid token"
+  },
+  {
+    "id": "无效参数",
+    "translation":"Invalid parameter"
+  },
+  {
+    "id": "无效团队ID",
+    "translation":"Invalid group ID"
+  },
+  {
+    "id": "无效用户ID",
+    "translation":"Invalid user ID"
+  },
+  {
+    "id": "无效的 clubid",
+    "translation":"Invalid clubid"
+  },
+  {
+    "id": "无效的 distance",
+    "translation":"Invalid distance"
+  },
+  {
+    "id": "无效的 distance_avg",
+    "translation":"Invalid distance_avg"
+  },
+  {
+    "id": "无效的 person_count",
+    "translation":"Invalid person_count"
+  },
+  {
+    "id": "无效的 steps",
+    "translation":"Invalid steps"
+  },
+  {
+    "id": "无效的 steps_avg",
+    "translation":"Invalid steps_avg"
+  },
+  {
+    "id": "无效的 week",
+    "translation":"Invalid week"
+  },
+  {
+    "id": "无效的操作",
+    "translation":"Invalid operation"
+  },
+  {
+    "id": "无效签名",
+    "translation":"Invalid signature"
+  },
+  {
+    "id": "无最新版本",
+    "translation":"You have already installed the latest version."
+  },
+  {
+    "id": "无权查看",
+    "translation":"You do not have permission to view."
+  },
+  {
+    "id": "无权限",
+    "translation":"You do not have permission."
+  },
+  {
+    "id": "无法修改活动",
+    "translation":"Cannot edit event"
+  },
+  {
+    "id": "无法获取主套餐",
+    "translation":"Cannot retrieve basic plan"
+  },
+  {
+    "id": "无法获取到活动",
+    "translation":"Cannot retrieve events"
+  },
+  {
+    "id": "无法获取用户加入的团队",
+    "translation":"Cannot retrieve the club that the user has joined"
+  },
+  {
+    "id": "无法转换成VoteAction",
+    "translation":"Cannot convert to VoteAction"
+  },
+  {
+    "id": "无预约记录",
+    "translation":"There's no reservation record."
+  },
+  {
+    "id": "日排行榜",
+    "translation":"Daily ranking"
+  },
+  {
+    "id": "日期无效",
+    "translation":"Invalid date"
+  },
+  {
+    "id": "日期格式解析错误",
+    "translation":"Date format parsing error"
+  },
+  {
+    "id": "日期格式错误",
+    "translation":"Date format error"
+  },
+  {
+    "id": "日期解析失败",
+    "translation":"Date parsing error"
+  },
+  {
+    "id": "时间只能是 [0-23]",
+    "translation":"Time can only be set between 0-23."
+  },
+  {
+    "id": "时间格式错误",
+    "translation":"Time format error"
+  },
+  {
+    "id": "时间格式错误 `%s`",
+    "translation":"Time format error %s"
+  },
+  {
+    "id": "昵称已经被占用",
+    "translation":"The username is already in use."
+  },
+  {
+    "id": "昵称已被占用",
+    "translation":"The username is already in use."
+  },
+  {
+    "id": "普通成员",
+    "translation":"Member"
+  },
+  {
+    "id": "更新团队信息失败",
+    "translation":"Failed to update group information"
+  },
+  {
+    "id": "更新团队失败",
+    "translation":"Failed to update group"
+  },
+  {
+    "id": "更新团队头像失败",
+    "translation":"Failed to update group profile image"
+  },
+  {
+    "id": "更新失败",
+    "translation":"Failed to update"
+  },
+  {
+    "id": "更新头像失败",
+    "translation":"Failed to update profile image"
+  },
+  {
+    "id": "更新数据失败",
+    "translation":"Failed to update data"
+  },
+  {
+    "id": "更新数据源失败",
+    "translation":"Failed to update data source"
+  },
+  {
+    "id": "更新文章失败",
+    "translation":"Failed to update article"
+  },
+  {
+    "id": "更新文章状态失败",
+    "translation":"Failed to update article status"
+  },
+  {
+    "id": "更新日数据失败",
+    "translation":"Failed to update daily data"
+  },
+  {
+    "id": "更新活动失败",
+    "translation":"Failed to update event"
+  },
+  {
+    "id": "更新用户绑定标志失败",
+    "translation":"Failed to update user bind flag"
+  },
+  {
+    "id": "更新订单状态失败",
+    "translation":"Failed to update order"
+  },
+  {
+    "id": "更活动封面失败",
+    "translation":"Failed to update event cover"
+  },
+  {
+    "id": "最低配速不符合规则",
+    "translation":"The minimum pace does not comply with the rules."
+  },
+  {
+    "id": "最低配速不能大于最高配速",
+    "translation":"Minimum pace must be less than maximum pace."
+  },
+  {
+    "id": "最远距离",
+    "translation":"Longest distance"
+  },
+  {
+    "id": "最长时长",
+    "translation":"Longest time"
+  },
+  {
+    "id": "最高配速不符合规则",
+    "translation":"The maximum pace does not comply with the rules."
+  },
+  {
+    "id": "月排行榜",
+    "translation":"Monthly ranking"
+  },
+  {
+    "id": "服务器内部错误",
+    "translation":"Internal server error"
+  },
+  {
+    "id": "服务器异常",
+    "translation":"Server error occurred"
+  },
+  {
+    "id": "服务器错误",
+    "translation":"Server error"
+  },
+  {
+    "id": "未发现新部门所属队伍",
+    "translation":"There is no group to which the new department belongs."
+  },
+  {
+    "id": "未指定操作人ID",
+    "translation":"Operator ID is not specified."
+  },
+  {
+    "id": "未点赞",
+    "translation":"You hasn't liked yet!"
+  },
+  {
+    "id": "未登录",
+    "translation":"You are not logged in."
+  },
+  {
+    "id": "未知",
+    "translation":"Unknown"
+  },
+  {
+    "id": "未知套餐类型",
+    "translation":"Unknown plan type"
+  },
+  {
+    "id": "未知排行榜周期类型",
+    "translation":"Unknown ranking period type"
+  },
+  {
+    "id": "未知排行榜类型",
+    "translation":"Unknown ranking type"
+  },
+  {
+    "id": "未知状态",
+    "translation":"Unknown status"
+  },
+  {
+    "id": "未知的最佳类型",
+    "translation":"Unknown best type"
+  },
+  {
+    "id": "未知类型",
+    "translation":"Unknown type"
+  },
+  {
+    "id": "未知组队类型",
+    "translation":"Unknown team allocation type"
+  },
+  {
+    "id": "未知部门",
+    "translation":"Unknown department"
+  },
+  {
+    "id": "未知错误",
+    "translation":"Unknown error"
+  },
+  {
+    "id": "未获取到交易信息",
+    "translation":"Unable to retrieve transaction information"
+  },
+  {
+    "id": "未获取到俱乐部部门信息",
+    "translation":"Unable to retrieve club department information"
+  },
+  {
+    "id": "未获取到部门信息",
+    "translation":"Unable to retrieve department information"
+  },
+  {
+    "id": "未获取到部门信息, 无法自动组队",
+    "translation":"Unable to retrieve department information. Automatic team allocation is not possible."
+  },
+  {
+    "id": "未设置部门",
+    "translation":"No department has been set up."
+  },
+  {
+    "id": "未达标",
+    "translation":"Not achieved"
+  },
+  {
+    "id": "末级部门自动组队",
+    "translation":"Automatic team allocation of bottom-level departments"
+  },
+  {
+    "id": "机构ID错误",
+    "translation":"Corporation ID error"
+  },
+  {
+    "id": "权限校验失败",
+    "translation":"Failed to authorize"
+  },
+  {
+    "id": "权限错误",
+    "translation":"Authorization error"
+  },
+  {
+    "id": "构建活动队伍失败",
+    "translation":"Failed to create event team"
+  },
+  {
+    "id": "查找成员失败",
+    "translation":"Failed to search member"
+  },
+  {
+    "id": "查询分类失败",
+    "translation":"Failed to search category"
+  },
+  {
+    "id": "查询商品失败",
+    "translation":"Failed to search product"
+  },
+  {
+    "id": "查询团队失败",
+    "translation":"Failed to search team"
+  },
+  {
+    "id": "查询心率数据失败",
+    "translation":"Failed to retrieve heart rate data"
+  },
+  {
+    "id": "查询所有子分类失败",
+    "translation":"Failed to retrieve subcategories"
+  },
+  {
+    "id": "查询推荐文章列表失败",
+    "translation":"Failed to retrieve recommended article list"
+  },
+  {
+    "id": "查询文章列表出错",
+    "translation":"Failed to retrieve article list"
+  },
+  {
+    "id": "查询文章列表失败",
+    "translation":"Failed to retrieve article list"
+  },
+  {
+    "id": "查询用户地址失败",
+    "translation":"Failed to retrieve member address"
+  },
+  {
+    "id": "查询用户失败",
+    "translation":"Failed to search user"
+  },
+  {
+    "id": "查询用户是否是俱乐部成员失败",
+    "translation":"Failed to ensure membership"
+  },
+  {
+    "id": "查询用户积分失败",
+    "translation":"Failed to retrieve user WeMiles"
+  },
+  {
+    "id": "查询用户积分流水失败",
+    "translation":"Failed to retrieve WeMiles history"
+  },
+  {
+    "id": "查询的起始时间必须小于截至时间",
+    "translation":"The start time of the inquiry must be earlier than the end time."
+  },
+  {
+    "id": "查询睡眠数据失败",
+    "translation":"Failed to retrieve sleep data"
+  },
+  {
+    "id": "查询礼品失败",
+    "translation":"Failed to retrieve prize"
+  },
+  {
+    "id": "查询订单列表出错",
+    "translation":"Failed to retrieve order list"
+  },
+  {
+    "id": "查询设备出错",
+    "translation":"Failed to search device"
+  },
+  {
+    "id": "查询间隔不能超过2个月",
+    "translation":"The query period cannot exceed 2 months."
+  },
+  {
+    "id": "查询间隔不能超过31天",
+    "translation":"The query period cannot exceed 31 days."
+  },
+  {
+    "id": "标签不能为空",
+    "translation":"Please enter label."
+  },
+  {
+    "id": "标题不能为空",
+    "translation":"Please enter title."
+  },
+  {
+    "id": "格式错误, 需要一个 JSON 数组",
+    "translation":"Format error. JSON array required"
+  },
+  {
+    "id": "模型转协议失败",
+    "translation":"Failed to convert model to protocol"
+  },
+  {
+    "id": "模板ID不能为空",
+    "translation":"Please enter template ID"
+  },
+  {
+    "id": "模板不存在",
+    "translation":"Template does not exist."
+  },
+  {
+    "id": "欢迎加入 %s",
+    "translation":"Welcome to the %s!"
+  },
+  {
+    "id": "此团队禁止任何人加入",
+    "translation":"No one is allowed to join this group."
+  },
+  {
+    "id": "每公里配速不能为空",
+    "translation":"The pace per km cannot be empty."
+  },
+  {
+    "id": "每英里配速不能为空",
+    "translation":"The pace per mile cannot be empty."
+  },
+  {
+    "id": "没有修改本活动的成员数据的权限",
+    "translation":"You do not have permission to modify this event member information."
+  },
+  {
+    "id": "没有修改的权限",
+    "translation":"You do not have permission to modify this event."
+  },
+  {
+    "id": "没有创建活动的权限",
+    "translation":"You do not have permission to create events."
+  },
+  {
+    "id": "没有创建自定义活动的权限",
+    "translation":"You do not have permission to create customized events."
+  },
+  {
+    "id": "没有执行归档操作的权限",
+    "translation":"You are not authorized to perform archive operation."
+  },
+  {
+    "id": "没有找到相应最新版本",
+    "translation":"No newer version found."
+  },
+  {
+    "id": "没有指定任何成员",
+    "translation":"No one specified."
+  },
+  {
+    "id": "没有操作的权限",
+    "translation":"You are not authorized to operate."
+  },
+  {
+    "id": "没有权限",
+    "translation":"You do not have permission."
+  },
+  {
+    "id": "没有权限, 当前管理员需要拥有 '被修改成员' 所在部门的管理权限",
+    "translation":"You do not have administrative privileges for the department where the modified member belongs."
+  },
+  {
+    "id": "没有权限执行修改",
+    "translation":"You do not have permission to modify."
+  },
+  {
+    "id": "没有权限执行此操作",
+    "translation":"You do not have permission to perform this operation."
+  },
+  {
+    "id": "没有系统赌注",
+    "translation":"No default trophy"
+  },
+  {
+    "id": "没有该分类",
+    "translation":"No such category"
+  },
+  {
+    "id": "没有该订单",
+    "translation":"No such order"
+  },
+  {
+    "id": "注册失败",
+    "translation":"Failed to register"
+  },
+  {
+    "id": "活动",
+    "translation":"Event"
+  },
+  {
+    "id": "活动 GPS 记录不存在",
+    "translation":"Event GPS record does not exist."
+  },
+  {
+    "id": "活动 ID 不能为空",
+    "translation":"Please enter event ID"
+  },
+  {
+    "id": "活动: \u003cid: %d\u003e",
+    "translation":"Event: \u003cid: %d\u003e"
+  },
+  {
+    "id": "活动: \u003c标题: %s, id: %d\u003e",
+    "translation":"Event: \u003cTitle: %s ID: %d\u003e"
+  },
+  {
+    "id": "活动ID不能为空",
+    "translation":"Please enter event ID."
+  },
+  {
+    "id": "活动ID必须大于0",
+    "translation":"Event ID must be greater than 0."
+  },
+  {
+    "id": "活动ID必须是大于0",
+    "translation":"Event ID must be greater than 0."
+  },
+  {
+    "id": "活动ID必须是大于0的整数",
+    "translation":"Event ID must be an integer greater than 0."
+  },
+  {
+    "id": "活动不存在",
+    "translation":"Event does not exist."
+  },
+  {
+    "id": "活动不存在或已删除",
+    "translation":"Event does not exist or has been deleted."
+  },
+  {
+    "id": "活动不存在或已被删除",
+    "translation":"Event does not exist or has been deleted."
+  },
+  {
+    "id": "活动不存在或获取活动信息失败",
+    "translation":"Event does not exist or event information could not be retrieved."
+  },
+  {
+    "id": "活动人数不能小于0",
+    "translation":"Please add participants for the event."
+  },
+  {
+    "id": "活动介绍不能为空",
+    "translation":"Please enter event description."
+  },
+  {
+    "id": "活动创建失败",
+    "translation":"Failed to create event"
+  },
+  {
+    "id": "活动创建者ID不能为空",
+    "translation":"Please enter event creator ID."
+  },
+  {
+    "id": "活动即将结束",
+    "translation":"Event will end soon!"
+  },
+  {
+    "id": "活动参数不能为空",
+    "translation":"Please enter event parameters."
+  },
+  {
+    "id": "活动图标不能为空",
+    "translation":"Please set event icon."
+  },
+  {
+    "id": "活动封面不能为空",
+    "translation":"Please set event cover."
+  },
+  {
+    "id": "活动已删除",
+    "translation":"Event has been deleted."
+  },
+  {
+    "id": "活动已开始",
+    "translation":"Event has started."
+  },
+  {
+    "id": "活动已开始无法修改封面",
+    "translation":"You are not allowed to modify ongoing event's cover."
+  },
+  {
+    "id": "活动已经开始, 无法修改活动",
+    "translation":"You are not allowed to modify ongoing event."
+  },
+  {
+    "id": "活动已经结束，不允许修改",
+    "translation":"You are not allowed to modify ended event."
+  },
+  {
+    "id": "活动已结束",
+    "translation":"Event has ended."
+  },
+  {
+    "id": "活动开始后仅可修改活动介绍",
+    "translation":"After an event has started, only the event description can be modified."
+  },
+  {
+    "id": "活动开始时间最早为明天",
+    "translation":"Event start time should be tomorrow at the earliest."
+  },
+  {
+    "id": "活动成员ID不能为空",
+    "translation":"Please enter event member ID."
+  },
+  {
+    "id": "活动成员不存在",
+    "translation":"Event member does not exist."
+  },
+  {
+    "id": "活动提前结束",
+    "translation":"Event has ended earlier than expected."
+  },
+  {
+    "id": "活动数据异常，结束时间为空",
+    "translation":"Event data error. End time is not available."
+  },
+  {
+    "id": "活动未开始",
+    "translation":"Event has not started yet."
+  },
+  {
+    "id": "活动未结束不能导出",
+    "translation":"Event cannot be exported before it ends."
+  },
+  {
+    "id": "活动标题不能为空",
+    "translation":"Please enter event title."
+  },
+  {
+    "id": "活动模板不能为空",
+    "translation":"Please set event template."
+  },
+  {
+    "id": "活动正在创建中",
+    "translation":"Event is being created."
+  },
+  {
+    "id": "活动正在进行中, 无法修改模板里程点",
+    "translation":"You are not allowed to modify checkpoints of ongoing event."
+  },
+  {
+    "id": "活动正在进行中, 无法重建模板里程点",
+    "translation":"You are not allowed to modify checkpoints of ongoing event."
+  },
+  {
+    "id": "活动的数据来源暂不支持成绩修改",
+    "translation":"Score modification is not supported on current data source."
+  },
+  {
+    "id": "活动结果",
+    "translation":"Event score"
+  },
+  {
+    "id": "活动结果导出",
+    "translation":"Export event score"
+  },
+  {
+    "id": "活动队伍不存在",
+    "translation":"Event team does not exist."
+  },
+  {
+    "id": "活动队伍数不能小于0",
+    "translation":"Please add teams for the event."
+  },
+  {
+    "id": "活动队伍数量为 0",
+    "translation":"No team for the event."
+  },
+  {
+    "id": "添加活动成员失败",
+    "translation":"Failed to add event member"
+  },
+  {
+    "id": "添加活动成员失败: %v",
+    "translation":"Failed to add event member %v"
+  },
+  {
+    "id": "添加积分失败",
+    "translation":"Failed to reward WeMiles"
+  },
+  {
+    "id": "添加评论失败",
+    "translation":"Failed to add comment"
+  },
+  {
+    "id": "点赞人不能为空",
+    "translation":"Please enter the person who gave you a like."
+  },
+  {
+    "id": "点赞失败",
+    "translation":"Failed to give a like"
+  },
+  {
+    "id": "点赞对象不存在",
+    "translation":"The member that you give a like does not exist."
+  },
+  {
+    "id": "点赞对象不存或已退出团队",
+    "translation":"The member that you give a like does not exist or has left the group."
+  },
+  {
+    "id": "点赞对象不能为空",
+    "translation":"Please pick the member you want to give a like to."
+  },
+  {
+    "id": "点赞对象未在排行榜中",
+    "translation":"The person that you gave a like to is not in the ranking list."
+  },
+  {
+    "id": "点赞排行榜消息失败",
+    "translation":"Failed to send like ranking message"
+  },
+  {
+    "id": "照片大小超过限制",
+    "translation":"Image size limit exceeded"
+  },
+  {
+    "id": "照片格式不支持",
+    "translation":"Image format not supported"
+  },
+  {
+    "id": "生成令牌失败",
+    "translation":"Failed to create token"
+  },
+  {
+    "id": "生成验证码失败",
+    "translation":"Failed to create verification code"
+  },
+  {
+    "id": "生成验证码短信失败",
+    "translation":"Failed to create verification SMS"
+  },
+  {
+    "id": "用户ID",
+    "translation":"Member ID"
+  },
+  {
+    "id": "用户ID不能为空",
+    "translation":"Please enter user ID."
+  },
+  {
+    "id": "用户ID不能未空字符串",
+    "translation":"Please enter user ID."
+  },
+  {
+    "id": "用户ID无效",
+    "translation":"Invalid user ID"
+  },
+  {
+    "id": "用户不在该活动中",
+    "translation":"Member is not participating in this event."
+  },
+  {
+    "id": "用户不存在",
+    "translation":"Member does not exist."
+  },
+  {
+    "id": "用户信息不能为空",
+    "translation":"Please enter member information."
+  },
+  {
+    "id": "用户分享事件广播失败",
+    "translation":"Broadcast of share event failed."
+  },
+  {
+    "id": "用户列表不能为空",
+    "translation":"Please enter member list."
+  },
+  {
+    "id": "用户名不能为空",
+    "translation":"Please enter username."
+  },
+  {
+    "id": "用户数据详情",
+    "translation":"Member data details"
+  },
+  {
+    "id": "用户数据（按天）导出",
+    "translation":"Member data (Daily)"
+  },
+  {
+    "id": "用户未加入该团队",
+    "translation":"This member has not joined the group yet."
+  },
+  {
+    "id": "用户积分查询失败",
+    "translation":"Failed to retrieve member WeMiles"
+  },
+  {
+    "id": "用户退出团队时间不能为空",
+    "translation":"The time when the member left the group cannot be empty."
+  },
+  {
+    "id": "申请俱乐部",
+    "translation":"Club application"
+  },
+  {
+    "id": "电话",
+    "translation":"Phone"
+  },
+  {
+    "id": "男",
+    "translation":"Male"
+  },
+  {
+    "id": "登录失败",
+    "translation":"Login failed"
+  },
+  {
+    "id": "登录已过期",
+    "translation":"Timed out."
+  },
+  {
+    "id": "目标不能小于0",
+    "translation":"Please set the goal greater than 0."
+  },
+  {
+    "id": "目标状态无效",
+    "translation":"Invalid goal status"
+  },
+  {
+    "id": "目标设备类型不能为空",
+    "translation":"Device type is a required field"
+  },
+  {
+    "id": "睡眠数据开始时间格式出错",
+    "translation":"Incorrect format of start time in sleep data"
+  },
+  {
+    "id": "短信网关http请求失败",
+    "translation":"SMS gateway HTTP request failed"
+  },
+  {
+    "id": "短信网关解析返回值失败",
+    "translation":"SMS gateway parsing return value failed"
+  },
+  {
+    "id": "礼品不存在",
+    "translation":"Prize does not exist."
+  },
+  {
+    "id": "积分不足，无法参与抽奖",
+    "translation":"Unable to participate in the drawing due to insufficient WeMiles"
+  },
+  {
+    "id": "站点ID不能为空",
+    "translation":"Checkpoint ID is a required field."
+  },
+  {
+    "id": "站点距离必须大于0",
+    "translation":"Distance between checkpoints must be greater than 0."
+  },
+  {
+    "id": "站点错误",
+    "translation":"Checkpoint error"
+  },
+  {
+    "id": "活动类型错误",
+    "translation":"Event type error"
+  },
+  {
+    "id": "答案超出选项范围",
+    "translation":"Answer exceeds the range of options."
+  },
+  {
+    "id": "签名错误",
+    "translation":"Signature error"
+  },
+  {
+    "id": "管理俱乐部",
+    "translation":"Club administration"
+  },
+  {
+    "id": "管理员只有创建者才能删除",
+    "translation":"Only the group owner can remove an admin."
+  },
+  {
+    "id": "管理员才能修改",
+    "translation":"Only admin can modify"
+  },
+  {
+    "id": "系统内部错误",
+    "translation":"Internal system error"
+  },
+  {
+    "id": "绑定用户设备失败",
+    "translation":"Error connecting member device"
+  },
+  {
+    "id": "绑定设备失败",
+    "translation":"Error connecting device"
+  },
+  {
+    "id": "结束日期无效",
+    "translation":"Invalid end time"
+  },
+  {
+    "id": "结束日期格式有误",
+    "translation":"End time format error"
+  },
+  {
+    "id": "结束时间[%s]不能早于开始时间[%s]",
+    "translation":"End time %s must be later than start time %s."
+  },
+  {
+    "id": "结束时间不能为空",
+    "translation":"Please enter end time."
+  },
+  {
+    "id": "结束时间不能为零值",
+    "translation":"End time must be greater than or equal to 0."
+  },
+  {
+    "id": "结束时间不能晚于当前实际时间",
+    "translation":"Start time must be after current time."
+  },
+  {
+    "id": "结束时间必须大于开始时间",
+    "translation":"End time must be later than start time."
+  },
+  {
+    "id": "结束时间必须晚于当前时间",
+    "translation":"End time must be later than current time."
+  },
+  {
+    "id": "统计",
+    "translation":"Statistics"
+  },
+  {
+    "id": "置顶值必须大于 0",
+    "translation":"Pinned value must be greater than 0."
+  },
+  {
+    "id": "置顶失败",
+    "translation":"Failed to pin"
+  },
+  {
+    "id": "联系方式",
+    "translation":"Contact"
+  },
+  {
+    "id": "自定义赌注内容不能为空",
+    "translation":"Please enter customized trophy."
+  },
+  {
+    "id": "自由输入",
+    "translation":"Optional"
+  },
+  {
+    "id": "至少提供一个条件",
+    "translation":"Please specify at least one criteria."
+  },
+  {
+    "id": "至少需要一个成员排名",
+    "translation":"One or more rankings are required."
+  },
+  {
+    "id": "至少需要两个队伍",
+    "translation":"Two or more teams are required."
+  },
+  {
+    "id": "获取 GPS 记录列表失败",
+    "translation":"Failed to retrieve GPS record list"
+  },
+  {
+    "id": "获取 GPS 记录失败",
+    "translation":"Failed to retrieve GPS records"
+  },
+  {
+    "id": "获取game出错",
+    "translation":"Failed to retrieve game"
+  },
+  {
+    "id": "获取一级分类失败",
+    "translation":"Failed to retrieve top category"
+  },
+  {
+    "id": "获取上传文件失败",
+    "translation":"Failed to retrieve uploaded file"
+  },
+  {
+    "id": "获取主套餐信息失败",
+    "translation":"Failed to retrieve basic plan"
+  },
+  {
+    "id": "获取企业风云榜失败",
+    "translation":"Failed to retrieve group ranking"
+  },
+  {
+    "id": "获取作者信息出错",
+    "translation":"Failed to retrieve creator information"
+  },
+  {
+    "id": "获取修改后的活动信息失败",
+    "translation":"Failed to retrieve modified event information"
+  },
+  {
+    "id": "获取俱乐部信息失败",
+    "translation":"Failed to retrieve club information"
+  },
+  {
+    "id": "获取俱乐部排行失败",
+    "translation":"Failed to retrieve club rankings"
+  },
+  {
+    "id": "获取俱乐部部门失败",
+    "translation":"Failed to retrieve club departments"
+  },
+  {
+    "id": "获取分类失败",
+    "translation":"Failed to retrieve category"
+  },
+  {
+    "id": "获取历史计步数据失败",
+    "translation":"Failed to retrieve step history"
+  },
+  {
+    "id": "获取参数失败",
+    "translation":"Failed to retrieve parameters"
+  },
+  {
+    "id": "获取商品失败",
+    "translation":"Failed to retrieve product"
+  },
+  {
+    "id": "获取团队信息失败",
+    "translation":"Failed to retrieve team information"
+  },
+  {
+    "id": "获取团队失败",
+    "translation":"Failed to retrieve team"
+  },
+  {
+    "id": "获取团队成员信息失败",
+    "translation":"Failed to retrieve team member information"
+  },
+  {
+    "id": "获取头像文件失败",
+    "translation":"Failed to retrieve profile image"
+  },
+  {
+    "id": "获取当前排名失败",
+    "translation":"Failed to retrieve current ranking"
+  },
+  {
+    "id": "获取当前用户的排行信息失败",
+    "translation":"Failed to retrieve ranking information for current member"
+  },
+  {
+    "id": "获取当前用户的排行榜信息失败",
+    "translation":"Failed to retrieve ranking information for current member"
+  },
+  {
+    "id": "获取当前部门失败",
+    "translation":"Failed to retrieve current department"
+  },
+  {
+    "id": "获取总里程失败",
+    "translation":"Failed to retrieve total distance"
+  },
+  {
+    "id": "获取成员信息失败",
+    "translation":"Failed to retrieve member information"
+  },
+  {
+    "id": "获取成绩汇总失败",
+    "translation":"Failed to retrieve score summary"
+  },
+  {
+    "id": "获取抽奖信息出错",
+    "translation":"Failed to retrieve lottery information"
+  },
+  {
+    "id": "获取指定队伍详情时, 队伍ID不能为空",
+    "translation":"Group ID is required for retrieving group details."
+  },
+  {
+    "id": "获取排行榜失败",
+    "translation":"Failed to retrieve ranking"
+  },
+  {
+    "id": "获取排行榜点赞信息",
+    "translation":"Failed to retrieve like ranking information"
+  },
+  {
+    "id": "获取推荐活动封面失败",
+    "translation":"Failed to retrieve recommended event cover"
+  },
+  {
+    "id": "获取收藏文章出错",
+    "translation":"Failed to retrieve favorite articles"
+  },
+  {
+    "id": "获取数据失败",
+    "translation":"Failed to retrieve data"
+  },
+  {
+    "id": "获取数据源失败",
+    "translation":"Failed to retrieve data source"
+  },
+  {
+    "id": "获取文件失败",
+    "translation":"Failed to retrieve file"
+  },
+  {
+    "id": "获取文章出错",
+    "translation":"Failed to load articles"
+  },
+  {
+    "id": "获取新团队信息失败",
+    "translation":"Failed to retrieve new group information"
+  },
+  {
+    "id": "获取活动 GPS 记录详情失败",
+    "translation":"Failed to retrieve event GPS record details"
+  },
+  {
+    "id": "获取活动人数失败",
+    "translation":"Failed to retrieve event participant count"
+  },
+  {
+    "id": "获取活动信息发生错误",
+    "translation":"Error retrieving event information"
+  },
+  {
+    "id": "获取活动信息失败",
+    "translation":"Failed to retrieve event information"
+  },
+  {
+    "id": "获取活动列表失败",
+    "translation":"Failed to retrieve event list"
+  },
+  {
+    "id": "获取活动失败",
+    "translation":"Failed to retrieve event"
+  },
+  {
+    "id": "获取活动成员 GPS 记录失败",
+    "translation":"Failed to retrieve GPS record of event participant"
+  },
+  {
+    "id": "获取活动成员列表失败",
+    "translation":"Failed to retrieve event participant list"
+  },
+  {
+    "id": "获取活动成员失败",
+    "translation":"Failed to retrieve event participants"
+  },
+  {
+    "id": "获取活动成员数失败",
+    "translation":"Failed to retrieve event participant count"
+  },
+  {
+    "id": "获取活动成员详情失败",
+    "translation":"Failed to retrieve event participant details"
+  },
+  {
+    "id": "获取活动数据失败",
+    "translation":"Failed to retrieve event data"
+  },
+  {
+    "id": "获取活动活跃人数失败",
+    "translation":"Failed to retrieve active participant count"
+  },
+  {
+    "id": "获取活动类型失败",
+    "translation":"Failed to retrieve event type"
+  },
+  {
+    "id": "获取活动组队失败",
+    "translation":"Failed to retrieve event teams"
+  },
+  {
+    "id": "获取活动评论列表失败",
+    "translation":"Failed to retrieve event comment list"
+  },
+  {
+    "id": "获取活动详情失败",
+    "translation":"Failed to retrieve event details"
+  },
+  {
+    "id": "获取活动部门发生错误",
+    "translation":"Failed to retrieve event department"
+  },
+  {
+    "id": "获取活动队伍列表失败",
+    "translation":"Failed to retrieve event team list"
+  },
+  {
+    "id": "获取活动队伍失败",
+    "translation":"Failed to retrieve event team"
+  },
+  {
+    "id": "获取活动队伍详情失败",
+    "translation":"Failed to retrieve event team details"
+  },
+  {
+    "id": "获取点赞列表失败",
+    "translation":"Failed to retrieve like list"
+  },
+  {
+    "id": "获取点赞排行榜实榜出错",
+    "translation":"Error retrieving like ranking data"
+  },
+  {
+    "id": "获取点赞排行榜空榜出错",
+    "translation":"Error retrieving like ranking data"
+  },
+  {
+    "id": "获取用户信息出错",
+    "translation":"Error retrieving member information"
+  },
+  {
+    "id": "获取用户信息失败",
+    "translation":"Failed to retrieve member information"
+  },
+  {
+    "id": "获取用户历史最佳成绩失败",
+    "translation":"Failed to retrieve member's best record"
+  },
+  {
+    "id": "获取用户参与的活动失败",
+    "translation":"Failed to retrieve events attended by member"
+  },
+  {
+    "id": "获取用户可管理的部门失败",
+    "translation":"Failed to retrieve departments that the member can manage"
+  },
+  {
+    "id": "获取用户地址失败",
+    "translation":"Failed to retrieve member address"
+  },
+  {
+    "id": "获取用户失败",
+    "translation":"Failed to retrieve member information"
+  },
+  {
+    "id": "获取用户心率报数据失败",
+    "translation":"Failed to retrieve member's heart rate data"
+  },
+  {
+    "id": "获取用户心率数据失败",
+    "translation":"Failed to retrieve the member's heart rate"
+  },
+  {
+    "id": "获取用户所在团队失败",
+    "translation":"Failed to retrieve group the member is participating."
+  },
+  {
+    "id": "获取用户数据失败",
+    "translation":"Failed to retrieve member data"
+  },
+  {
+    "id": "获取用户活动 GPS 列表失败",
+    "translation":"Failed to retrieve member's event GPS records"
+  },
+  {
+    "id": "获取用户睡眠数据失败",
+    "translation":"Failed to retrieve member sleep data"
+  },
+  {
+    "id": "获取用户睡眠数据报表失败",
+    "translation":"Failed to retrieve member sleep data report"
+  },
+  {
+    "id": "获取用户管理的最末级部门失败",
+    "translation":"Failed to retrieve the bottom-level departments managed by the member"
+  },
+  {
+    "id": "获取用户管理的根部门失败",
+    "translation":"Failed to retrieve the top-level departments managed by the member"
+  },
+  {
+    "id": "获取用户详情失败",
+    "translation":"Failed to retrieve member details"
+  },
+  {
+    "id": "获取礼品列表失败",
+    "translation":"Failed to retrieve prize list"
+  },
+  {
+    "id": "获取管理员失败",
+    "translation":"Failed to retrieve admin"
+  },
+  {
+    "id": "获取计步详情数据失败",
+    "translation":"Failed to retrieve detailed step data"
+  },
+  {
+    "id": "获取订单信息失败",
+    "translation":"Failed to retrieve order information"
+  },
+  {
+    "id": "获取订单地址失败",
+    "translation":"Failed to retrieve order address"
+  },
+  {
+    "id": "获取评论失败",
+    "translation":"Failed to retrieve comment"
+  },
+  {
+    "id": "获取返回数据失败",
+    "translation":"Failed to retrieve return value"
+  },
+  {
+    "id": "获取部门的顶级部门失败",
+    "translation":"Failed to retrieve top-level departments"
+  },
+  {
+    "id": "获取部门计步排行榜失败",
+    "translation":"Failed to retrieve departmental step ranking"
+  },
+  {
+    "id": "获取附加套餐错误",
+    "translation":"Error retrieving options"
+  },
+  {
+    "id": "虚拟路线创建完成后调用活动服务更新失败",
+    "translation":"Failed to update event after creating virtual rally route"
+  },
+  {
+    "id": "虚拟路线活动暂时不支持导出",
+    "translation":"Exporting virtual rally event unsupported"
+  },
+  {
+    "id": "被修改活动不存在",
+    "translation":"Edited event does not exist."
+  },
+  {
+    "id": "被修改用户不是团队成员",
+    "translation":"Edited member is not a group member."
+  },
+  {
+    "id": "规模值无效",
+    "translation":"Invalid size value"
+  },
+  {
+    "id": "解析回调参数失败",
+    "translation":"Failed to parse callback parameters"
+  },
+  {
+    "id": "解析数据失败",
+    "translation":"Failed to parse data"
+  },
+  {
+    "id": "解析请求数据失败",
+    "translation":"Failed to parse request data"
+  },
+  {
+    "id": "解绑设备失败",
+    "translation":"Unbind failed"
+  },
+  {
+    "id": "计步",
+    "translation":"Steps"
+  },
+  {
+    "id": "订单不存在",
+    "translation":"Order does not exist"
+  },
+  {
+    "id": "订单号",
+    "translation":"Order number"
+  },
+  {
+    "id": "订单号生成失败",
+    "translation":"Failed to create order number"
+  },
+  {
+    "id": "订单号码不能为空",
+    "translation":"Order number is required."
+  },
+  {
+    "id": "订单号错误",
+    "translation":"Order number is incorrect."
+  },
+  {
+    "id": "订单应支付金额错误",
+    "translation":"Payment amount is incorrect."
+  },
+  {
+    "id": "订单无法自助申请退款",
+    "translation":"Self-service refund option unavailable for this order"
+  },
+  {
+    "id": "订单状态不是预约中",
+    "translation":"The order is not in the reservation status."
+  },
+  {
+    "id": "订单状态错误",
+    "translation":"Incorrect order status"
+  },
+  {
+    "id": "订单联系人不能为空",
+    "translation":"Please enter your contact information"
+  },
+  {
+    "id": "订单错误",
+    "translation":"Order error"
+  },
+  {
+    "id": "认证失败",
+    "translation":"Failed to verify"
+  },
+  {
+    "id": "记录不存在",
+    "translation":"Record does not exist."
+  },
+  {
+    "id": "记录不存在或已删除",
+    "translation":"Record does not exist or has been deleted."
+  },
+  {
+    "id": "记录用户阅读失败",
+    "translation":"Failed to save viewed status"
+  },
+  {
+    "id": "记录重复",
+    "translation":"Duplicate record"
+  },
+  {
+    "id": "设备唯一ID无效",
+    "translation":"Invalid device ID"
+  },
+  {
+    "id": "设备未找到",
+    "translation":"Device not found"
+  },
+  {
+    "id": "设置免打扰失败",
+    "translation":"Failed to set do-not-disturb mode"
+  },
+  {
+    "id": "设置推送角标错误",
+    "translation":"Failed to set footer push"
+  },
+  {
+    "id": "证件信息不能为空",
+    "translation":"Empty certificate error"
+  },
+  {
+    "id": "评论ID [index: %d] 不能为空",
+    "translation":"Comment ID [index: %d] is required."
+  },
+  {
+    "id": "评论ID [index: %d] 格式错误",
+    "translation":"Comment ID [index: %d] is in an invalid format."
+  },
+  {
+    "id": "评论ID不能为空",
+    "translation":"Comment ID is required."
+  },
+  {
+    "id": "评论ID无效",
+    "translation":"Comment ID is invalid."
+  },
+  {
+    "id": "评论不存在",
+    "translation":"Comment does not exist."
+  },
+  {
+    "id": "评论不存在或已删除",
+    "translation":"Comment does not exist or has been deleted."
+  },
+  {
+    "id": "评论内容不能为空",
+    "translation":"Please enter comment."
+  },
+  {
+    "id": "该任务由系统自动判断完成状态",
+    "translation":"The system will automatically determine the status of the mission."
+  },
+  {
+    "id": "该活动不支持评论",
+    "translation":"You cannot comment on this event."
+  },
+  {
+    "id": "该部门不在活动中",
+    "translation":"This department is not participating in the event."
+  },
+  {
+    "id": "请先登录",
+    "translation":"Please log in."
+  },
+  {
+    "id": "请提供拒绝认证原因",
+    "translation":"Please provide the reason for the authentication rejection."
+  },
+  {
+    "id": "请求内容不存在或已删除",
+    "translation":"Request content does not exist or has been deleted."
+  },
+  {
+    "id": "请求参数错误",
+    "translation":"Parameter request error"
+  },
+  {
+    "id": "请求失败",
+    "translation":"Request Failed"
+  },
+  {
+    "id": "请求的资源不存在或已被删除",
+    "translation":"Requested resource does not exist or has been deleted."
+  },
+  {
+    "id": "请求资源不存在",
+    "translation":"Requested resource does not exist."
+  },
+  {
+    "id": "请重新登录",
+    "translation":"Please re-login."
+  },
+  {
+    "id": "读取上传文件失败",
+    "translation":"Failed to read uploaded file"
+  },
+  {
+    "id": "读取头像文件出错",
+    "translation":"Failed to read profile image"
+  },
+  {
+    "id": "调用 RPC 失败",
+    "translation":"RPC call failed"
+  },
+  {
+    "id": "调用活动组队信息失败",
+    "translation":"Failed to retrieve event teams"
+  },
+  {
+    "id": "调用活动队伍列表失败",
+    "translation":"Failed to retrieve event team list"
+  },
+  {
+    "id": "账户已停用",
+    "translation":"Account has been suspended."
+  },
+  {
+    "id": "资源不存在或已被删除",
+    "translation":"Resource does not exist or has been deleted."
+  },
+  {
+    "id": "起始时间不能为空",
+    "translation":"Please enter start time."
+  },
+  {
+    "id": "超级管理员才能修改管理员权限",
+    "translation":"Only super admin can edit administrative privileges."
+  },
+  {
+    "id": "跑步",
+    "translation":"Run"
+  },
+  {
+    "id": "跑量",
+    "translation":"Run distance"
+  },
+  {
+    "id": "踩文章失败",
+    "translation":"Failed to give a dislike"
+  },
+  {
+    "id": "身份证",
+    "translation":"Identification card"
+  },
+  {
+    "id": "身份证号码错误",
+    "translation":"Identification number error"
+  },
+  {
+    "id": "转移失败",
+    "translation":"Failed to transfer"
+  },
+  {
+    "id": "输入关键字为空或无效",
+    "translation":"Keyword empty or invalid"
+  },
+  {
+    "id": "达标",
+    "translation":"Goal reached"
+  },
+  {
+    "id": "达标时间",
+    "translation":"Goal reached time"
+  },
+  {
+    "id": "运动类型错误",
+    "translation":"Incorrect exercise type"
+  },
+  {
+    "id": "运动记录ID不能为空",
+    "translation":"Exercise record ID is a required field."
+  },
+  {
+    "id": "连接 RPC 服务失败",
+    "translation":"Failed to connect RPC service"
+  },
+  {
+    "id": "连接数据库失败",
+    "translation":"Failed to connect database"
+  },
+  {
+    "id": "退出失败",
+    "translation":"Logout failed"
+  },
+  {
+    "id": "退款失败",
+    "translation":"Failed to refund"
+  },
+  {
+    "id": "选择赌注不存在",
+    "translation":"The selected trophy does not exist."
+  },
+  {
+    "id": "邮箱",
+    "translation":"Email"
+  },
+  {
+    "id": "部分成员不存在",
+    "translation":"Some members do not exist."
+  },
+  {
+    "id": "部门",
+    "translation":"Department"
+  },
+  {
+    "id": "部门: (id: %d)，",
+    "translation":"Department: (id: %d)"
+  },
+  {
+    "id": "部门: (名称: %s, id: %d)，",
+    "translation":"Department: (Name: %s id: %d)"
+  },
+  {
+    "id": "部门ID不能为空",
+    "translation":"Department ID is required."
+  },
+  {
+    "id": "部门ID不能小于0",
+    "translation":"Department ID must be greater than 0."
+  },
+  {
+    "id": "部门ID必须大于0",
+    "translation":"Department ID must be greater than 0."
+  },
+  {
+    "id": "部门ID无效",
+    "translation":"Invalid department ID."
+  },
+  {
+    "id": "部门不在可管理的范围内",
+    "translation":"You don't have the permission to manage that department."
+  },
+  {
+    "id": "部门不存在",
+    "translation":"Department does not exist."
+  },
+  {
+    "id": "部门只支持顶级和末级",
+    "translation":"Only the top-level and bottom-level departments are supported"
+  },
+  {
+    "id": "部门排行",
+    "translation":"Department Ranking"
+  },
+  {
+    "id": "部门排行榜目前只支持计步",
+    "translation":"Department ranking only supports steps"
+  },
+  {
+    "id": "部门错误",
+    "translation":"Department Error"
+  },
+  {
+    "id": "重复点赞",
+    "translation":"You already liked."
+  },
+  {
+    "id": "重新打开挑战出错",
+    "translation":"Reloading challenge error"
+  },
+  {
+    "id": "门店地址",
+    "translation":"Store Address"
+  },
+  {
+    "id": "队伍ID和用户ID不能同时为空",
+    "translation":"Please enter either your Team ID or Member ID"
+  },
+  {
+    "id": "队伍不存在",
+    "translation":"Team does not exist."
+  },
+  {
+    "id": "队伍信息不能为空",
+    "translation":"Please enter team information"
+  },
+  {
+    "id": "队伍名不能为空",
+    "translation":"Please enter team name"
+  },
+  {
+    "id": "队伍名不能未空",
+    "translation":"Please enter team name"
+  },
+  {
+    "id": "附加套餐",
+    "translation":"Optional"
+  },
+  {
+    "id": "附加套餐不可用",
+    "translation":"Option not available"
+  },
+  {
+    "id": "附加套餐错误",
+    "translation":"Option error"
+  },
+  {
+    "id": "随机组队",
+    "translation":"Random team allocation"
+  },
+  {
+    "id": "需要回答所有必选题",
+    "translation":"Please answer all required questions."
+  },
+  {
+    "id": "需要提供图片地址",
+    "translation":"Image URL is required"
+  },
+  {
+    "id": "需要提供用户ID",
+    "translation":"Member ID is required."
+  },
+  {
+    "id": "需要活动ID",
+    "translation":"Event ID required."
+  },
+  {
+    "id": "需要登录",
+    "translation":"Please log in."
+  },
+  {
+    "id": "非俱乐部成员无法查看活动详情",
+    "translation":"You are not a club member and cannot view event details."
+  },
+  {
+    "id": "非本人订单",
+    "translation":"This is not your order."
+  },
+  {
+    "id": "非法参数",
+    "translation":"Invalid parameter"
+  },
+  {
+    "id": "非法签名",
+    "translation":"Incorrect signature"
+  },
+  {
+    "id": "顶文章失败",
+    "translation":"Failed to like the article"
+  },
+  {
+    "id": "预约已满",
+    "translation":"Reservation fully booked"
+  },
+  {
+    "id": "预约日期",
+    "translation":"Reservation date"
+  },
+  {
+    "id": "预约日期错误",
+    "translation":"Incorrect reservation date"
+  },
+  {
+    "id": "预约状态只能是成功或失败",
+    "translation":"Reservation status can only be success or failure."
+  },
+  {
+    "id": "题目ID不能为空",
+    "translation":"Title ID is required."
+  },
+  {
+    "id": "验证码错误",
+    "translation":"Verification code is incorrect."
+  },
+  {
+    "id": "验证码：%s (请于两分钟内输入)。【企业咕咚】",
+    "translation":"Verification code is %s. Please enter the code within 2 minutes. [Walking Event App WeRUN]"
+  },
+  {
+    "id": "骑行",
+    "translation":"Cycling"
+  },
+  {
+    "id": "默认部门",
+    "translation":"Default department"
+  },
+  {
+    "id": "服务器开小差了，稍后再试吧",
+    "translation":"Server error. Please try again later."
+  },
+  {
+    "id": "欢迎你再次回到企业咕咚，小伙伴们都在等着你一起运动呢，赶快开启你的运动之旅吧",
+    "translation":"Welcome back! Your friends are waiting for you. Start improving your health with everyone now."
+  },
+  {
+    "id": "欢迎回来",
+    "translation":"Welcome back!"
+  },
+  {
+    "id": "企业咕咚团队",
+    "translation":"WeRUN team"
+  },
+  {
+    "id": "欢迎加入",
+    "translation":"Welcome aboard!"
+  },
+  {
+    "id": "欢迎使用企业咕咚，即刻 “创建/加入” 你的运动团队，开启全新的团队运动之旅。（企业咕咚将作为团队运动数据唯一来源，将自动同步至咕咚企业俱乐部）",
+    "translation":"Welcome aboard! Join a group in the menu now to start working on your health with your friends! You can also create your own group by selecting Create group."
+  },
+  {
+    "id": "验证码：%s (请于两分钟内输入)。",
+    "translation":"Verification code is %s. Please enter the code within 2 minutes. [Walking Event App WeRUN]"
+  },
+  {
+    "id": "【企业咕咚】",
+    "translation":"【WeRUN】"
+  },
+  {
+    "id": "你的验证码",
+    "translation":"Verification code"
+  },
+  {
+    "id": "你的验证码：%s (请于10分钟内输入)。【企业咕咚】",
+    "translation":"Verification code is %s. Please enter the code within 10 minutes. [Walking Event App WeRUN]"
+  },
+  {
+    "id": "无效号码",
+    "translation":"Please enter valid mobile phone number."
+  },
+  {
+    "id": "团队通知",
+    "translation":"Group notification"
+  },
+  {
+    "id": "系统通知",
+    "translation":"System notification"
+  },
+  {
+    "id": "欢迎使用企业咕咚，您已成功创建团队，更多功能介绍及常见问题解答详见 (http://t.cn/ROgZIM9)",
+    "translation":"Your group is now created. Please visit (https://n49sp.app.goo.gl/qbvQ) for a detailed feature introduction and frequently asked questions."
+  },
+  {
+    "id": "邮箱格式有误，请重新输入",
+    "translation":"Email address is incorrect. Please enter again."
+  },
+  {
+    "id": "无效的手机号码",
+    "translation":"Please enter valid mobile phone number."
+  },
+  {
+    "id": "邮箱验证请求次数过于频繁, 请稍后再试",
+    "translation":"Please try again in a while, as you reached the maximum limit of email verification requests."
+  },
+  {
+    "id": "活动通知",
+    "translation":"Event notification"
+  },
+  {
+    "id": "请求资源不存在",
+    "translation":"Resource does not exist."
+  },
+  {
+    "id": "<div>用户ID:{{.UserID}} <br>俱乐部ID:{{.ClubID}} <br>联系电话:{{.Mobile}} <br>APP版本:{{.AppVersion}} <br>手机品牌:{{.Brand}} <br>设备类型:{{.DeviceType}} <br>手机型号:{{.Model}} <br>网络类型:{{.NetworkType}} <br>系统类型:{{.Os}} <br>问题:{{.Content}} <br>图片地址:<br>{{range .PhotoList}} {{.}} <br> {{end}}</div>",
+    "translation":"<div>User ID:.UserID}} <br>Club ID:.ClubID}} <br>Contact:.Mobile}} <br>App version:.AppVersion}} <br>Phone brand:.Brand}} <br>Device:.DeviceType}} <br>Model:.Model}} <br>ネットワークタイプ:.NetworkType}} <br>OS:.Os}} <br>Question:.Content}} <br>Image:<br>range .PhotoList}} .}} <br> end}}</div>"
+  },
+  {
+    "id": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》即将开始",
+    "translation":"The event 《<a class='link' href='/%d/activity/detail/%d'>%s</a>》will start shortly."
+  },
+  {
+    "id": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》在%s即将开始",
+    "translation":"The event 《<a class='link' href='/%d/activity/detail/%d'>%s</a>》will start in %s."
+  },
+  {
+    "id": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》即将结束",
+    "translation":"The event 《<a class='link' href='/%d/activity/detail/%d'>%s</a>》will end soon."
+  },
+  {
+    "id": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》在%s即将结束",
+    "translation":"The event 《<a class='link' href='/%d/activity/detail/%d'>%s</a>》will end in %s."
+  },
+  {
+    "id": "有%d位新成员加入俱乐部",
+    "translation":"%d new members joined the club."
+  },
+  {
+    "id": "描述长度不大于 5000 字",
+    "translation":"Description can be up to 5000 characters."
+  },
+  {
+    "id": "所属行业无效",
+    "translation":"Invalid industry type"
+  },
+  {
+    "id": "团队名称长度范围是 1 ~ 64 个字",
+    "translation":"Company name can be up to 64 characters."
+  },
+  {
+    "id": "所属企业名称长度范围是 2 ~ 128 个字",
+    "translation":"The company name must be between 2 and 128 characters in length."
+  },
+  {
+    "id": "规模值无效",
+    "translation":"Invalid size value."
+  },
+  {
+    "id": "加入密码长度范围是 0 ~ 16 位",
+    "translation":"Join password can be up to 16 characters."
+  },
+  {
+    "id": "阅读 {readNum} 次",
+    "translation":"{readNum} views"
+  },
+  {
+    "id": "积分兑换",
+    "translation":"Ues WeMiles"
+  },
+  {
+    "id": "积分抽奖",
+    "translation":"Lottery using WeMiles"
+  },
+  {
+    "id": "每日任务",
+    "translation":"Daily mission"
+  },
+  {
+    "id": "订单撤销",
+    "translation":"Cancel order"
+  },
+  {
+    "id": "订单退款:",
+    "translation":"Refund"
+  },
+  {
+    "id": "支付已完成，处理订单状态失败，请联系客服",
+    "translation":"Payment completed. Failed to process order. Please contact the customer service."
+  },
+  {
+    "id": "订单已支付，无需重复支付",
+    "translation":"Payment has already been completed."
+  },
+  {
+    "id": "订单超时撤销",
+    "translation":"Overdue order cancelled"
+  },
+  {
+    "id": "管理员撤销订单",
+    "translation":"Cancelled by WeRUN team"
+  },
+  {
+    "id": "LinePay 取消",
+    "translation":"Cancelled by LinePay"
+  },
+  {
+    "id": "库存不足",
+    "translation":"Currently out of stock. Please wait for restocking."
+  },
+  {
+    "id": "积分不足",
+    "translation":"You do not have enough WeMiles."
+  },
+  {
+    "id": "获取CulrrentClub失败",
+    "translation":"Failed to retrieve CulrrentClub"
+  },
+  {
+    "id": "邀请新用户注册:%s",
+    "translation":"Invited new user %s"
+  },
+  {
+    "id": "邀请新用户注册",
+    "translation":"Invited new user"
+  },
+  {
+    "id": "注册奖励(邀请人:%s)",
+    "translation":"Registration bonus (Inviter: %s)"
+  },
+  {
+    "id": "修改密码失败",
+    "translation":"Failed to change password"
+  },
+  {
+    "id": "修改手机号失败",
+    "translation":"Failed to change mobile number"
+  },
+  {
+    "id": "修改邮箱失败",
+    "translation":"Failed to change email address"
+  },
+  {
+    "id": "手机号已注册",
+    "translation":"Mobile number is already registered."
+  },
+  {
+    "id": "手机已被使用",
+    "translation":"This mobile number is already in use."
+  },
+  {
+    "id": "新密码不能少于6位",
+    "translation":"New password must be at least 6 characters."
+  },
+  {
+    "id": "旧密码错误",
+    "translation":"Old password is incorrect."
+  },
+  {
+    "id": "昵称不能为空",
+    "translation":"Please enter your username."
+  },
+  {
+    "id": "昵称已被使用",
+    "translation":"Username is already in use."
+  },
+  {
+    "id": "用户名或密码错误",
+    "translation":"Account or password is incorrect"
+  },
+  {
+    "id": "邮箱已注册",
+    "translation":"Email address is already registered."
+  },
+  {
+    "id": "邮箱已被使用",
+    "translation":"Email address is already in use."
+  },
+  {
+    "id": "重置密码失败",
+    "translation":"Failed to reset password"
+  },
+  {
+    "id": "至少两个字符",
+    "translation":"At least two characters"
+  },
+  {
+    "id": "超过最大长度",
+    "translation":"Exceeded the maximum limit of characters"
+  },
+  {
+    "id": "昵称只能包含字母数字下划线减号",
+    "translation":"Username can only contain letters, numbers, underscores, and hyphens."
+  },
+  {
+    "id": "只能在0-23之间",
+    "translation":"Can only be between 0 and 23"
+  },
+  {
+    "id": "生日格式错误",
+    "translation":"Date of birth format error"
+  },
+  {
+    "id": "注册邀请码不存在",
+    "translation":"Invitation code is incorrect."
+  },
+  {
+    "id": "到站通知",
+    "translation":"You have arrived at the checkpoint."
+  },
+  {
+    "id": "你已经到达 “%s” 活动的 “%s”",
+    "translation":"You have arrived at the %[2]s of event %[1]s."
+  },
+  {
+    "id": "完走通知",
+    "translation":"You have completed the race."
+  },
+  {
+    "id": "恭喜你走完 “%s” 活动的全部路程",
+    "translation":"You have completed the event %s. Congratulations!"
+  },
+  {
+    "id": "只能在活动进行期间点赞",
+    "translation":"You can only Like during the event period."
+  },
+  {
+    "id": "虚拟路线活动排行榜点赞通知",
+    "translation":"A like from virtual rally event ranking"
+  }
+]
+  

@@ -1,0 +1,3982 @@
+[
+  {
+    "id": "#战帖来了#“%v”表示不服，特来向你发起挑战，快去应战吧！",
+    "translation": "#战帖来了#“%v”表示不服，特来向你发起挑战，快去应战吧！"
+  },
+  {
+    "id": "%s 俱乐部",
+    "translation": "%s 俱乐部"
+  },
+  {
+    "id": "%s 团队",
+    "translation": "%s 团队"
+  },
+  {
+    "id": "%s 活动即将结束，赶快上传数据吧",
+    "translation": "%s 活动即将结束，赶快上传数据吧"
+  },
+  {
+    "id": "%s 活动结束了, 你获得了第 %d 名",
+    "translation": "%s 活动结束了, 你获得了第 %d 名"
+  },
+  {
+    "id": "%s 活动结束了，你的团队获得了第 %d",
+    "translation": "%s 活动结束了，你的团队获得了第 %d"
+  },
+  {
+    "id": "%s%d分",
+    "translation": "%s%d分"
+  },
+  {
+    "id": "%s%d天",
+    "translation": "%s%d天"
+  },
+  {
+    "id": "%s%d小时",
+    "translation": "%s%d小时"
+  },
+  {
+    "id": "%s%d秒",
+    "translation": "%s%d秒"
+  },
+  {
+    "id": "%s向你发起了一次挑战",
+    "translation": "%s向你发起了一次挑战"
+  },
+  {
+    "id": "%s在%s给你点了赞",
+    "translation": "%s在%s给你点了赞"
+  },
+  {
+    "id": "%s拒绝了你的挑战",
+    "translation": "%s拒绝了你的挑战"
+  },
+  {
+    "id": "%s接受了你的挑战",
+    "translation": "%s接受了你的挑战"
+  },
+  {
+    "id": "%s时间范围: %s 到 %s",
+    "translation": "%s时间范围: %s 到 %s"
+  },
+  {
+    "id": "%s版本新功能介绍",
+    "translation": "%s版本新功能介绍"
+  },
+  {
+    "id": "%s给你点了赞",
+    "translation": "%s给你点了赞"
+  },
+  {
+    "id": "%v已退出团队，你和对方所有的挑战活动取消啦。再去试试挑战下别的小伙伴吧！",
+    "translation": "%v已退出团队，你和对方所有的挑战活动取消啦。再去试试挑战下别的小伙伴吧！"
+  },
+  {
+    "id": "./res/tutorial_email.html",
+    "translation": "./res/tutorial_email.html"
+  },
+  {
+    "id": "0秒",
+    "translation": "0秒"
+  },
+  {
+    "id": "10公里",
+    "translation": "10公里"
+  },
+  {
+    "id": "24 小时内不能创建相同的导出任务",
+    "translation": "24 小时内不能创建相同的导出任务"
+  },
+  {
+    "id": "24小时内只能发送 %d 条群发消息",
+    "translation": "24小时内只能发送 %d 条群发消息"
+  },
+  {
+    "id": "3公里",
+    "translation": "3公里"
+  },
+  {
+    "id": "5公里",
+    "translation": "5公里"
+  },
+  {
+    "id": "DataType 必须大于等于100",
+    "translation": "DataType 必须大于等于100"
+  },
+  {
+    "id": "DndEndTime 格式错误",
+    "translation": "DndEndTime 格式错误"
+  },
+  {
+    "id": "DndStartTime 格式错误",
+    "translation": "DndStartTime 格式错误"
+  },
+  {
+    "id": "GPS 定点不能为空",
+    "translation": "GPS 定点不能为空"
+  },
+  {
+    "id": "GPS 定点必须是一个 JSON 对象",
+    "translation": "GPS 定点必须是一个 JSON 对象"
+  },
+  {
+    "id": "GPS 定点数组内包含有空的 JSON 对象",
+    "translation": "GPS 定点数组内包含有空的 JSON 对象"
+  },
+  {
+    "id": "GPS 记录 ID 列表不能为空",
+    "translation": "GPS 记录 ID 列表不能为空"
+  },
+  {
+    "id": "GPS 记录不存在",
+    "translation": "GPS 记录不存在"
+  },
+  {
+    "id": "GPS定点不能为空",
+    "translation": "GPS定点不能为空"
+  },
+  {
+    "id": "ID 列表不能为空",
+    "translation": "ID 列表不能为空"
+  },
+  {
+    "id": "IntArrayField 来源 value 类型不是字符串",
+    "translation": "IntArrayField 来源 value 类型不是字符串"
+  },
+  {
+    "id": "JSON序列化失败",
+    "translation": "JSON序列化失败"
+  },
+  {
+    "id": "LongTimeEndTime 格式错误",
+    "translation": "LongTimeEndTime 格式错误"
+  },
+  {
+    "id": "LongTimeStartTime 格式错误",
+    "translation": "LongTimeStartTime 格式错误"
+  },
+  {
+    "id": "PK取消",
+    "translation": "PK取消"
+  },
+  {
+    "id": "PK应战通知",
+    "translation": "PK应战通知"
+  },
+  {
+    "id": "PK拒绝通知",
+    "translation": "PK拒绝通知"
+  },
+  {
+    "id": "PK点赞通知",
+    "translation": "PK点赞通知"
+  },
+  {
+    "id": "PK赛时长不能超过7天",
+    "translation": "PK赛时长不能超过7天"
+  },
+  {
+    "id": "PK邀请",
+    "translation": "PK邀请"
+  },
+  {
+    "id": "Payload 不能为空",
+    "translation": "Payload 不能为空"
+  },
+  {
+    "id": "RequestID 不能为空",
+    "translation": "RequestID 不能为空"
+  },
+  {
+    "id": "SleepEndTime 格式错误",
+    "translation": "SleepEndTime 格式错误"
+  },
+  {
+    "id": "SleepStartTime 格式错误",
+    "translation": "SleepStartTime 格式错误"
+  },
+  {
+    "id": "URL 不能为空",
+    "translation": "URL 不能为空"
+  },
+  {
+    "id": "URL 无效",
+    "translation": "URL 无效"
+  },
+  {
+    "id": "[%d] 不是可查询状态",
+    "translation": "[%d] 不是可查询状态"
+  },
+  {
+    "id": "department_id无效",
+    "translation": "department_id无效"
+  },
+  {
+    "id": "invalid UserID",
+    "translation": "invalid UserID"
+  },
+  {
+    "id": "invalid UserIds",
+    "translation": "invalid UserIds"
+  },
+  {
+    "id": "invalid days",
+    "translation": "invalid days"
+  },
+  {
+    "id": "period值无效",
+    "translation": "period值无效"
+  },
+  {
+    "id": "start_time分钟数据格式错误",
+    "translation": "start_time分钟数据格式错误"
+  },
+  {
+    "id": "start_time小时数据格式错误",
+    "translation": "start_time小时数据格式错误"
+  },
+  {
+    "id": "target值不合法",
+    "translation": "target值不合法"
+  },
+  {
+    "id": "type值不合法",
+    "translation": "type值不合法"
+  },
+  {
+    "id": "“%v”已接受你的战帖！小编给你揉揉肩、捶捶腿，即刻去开启pk大战吧！",
+    "translation": "“%v”已接受你的战帖！小编给你揉揉肩、捶捶腿，即刻去开启pk大战吧！"
+  },
+  {
+    "id": "【企业咕咚】",
+    "translation": "【企业咕咚】"
+  },
+  {
+    "id": "【问题反馈】有用户提交了新的反馈问题，请尽快处理反馈",
+    "translation": "【问题反馈】有用户提交了新的反馈问题，请尽快处理反馈"
+  },
+  {
+    "id": "一次最多删除1000条",
+    "translation": "一次最多删除1000条"
+  },
+  {
+    "id": "一次最多接收1000条记录",
+    "translation": "一次最多接收1000条记录"
+  },
+  {
+    "id": "一次最多查询1000个用户",
+    "translation": "一次最多查询1000个用户"
+  },
+  {
+    "id": "一次最多获取 1000 条记录",
+    "translation": "一次最多获取 1000 条记录"
+  },
+  {
+    "id": "一次调用最多只支持 %d 个用户",
+    "translation": "一次调用最多只支持 %d 个用户"
+  },
+  {
+    "id": "一次调用最多只能有%d个用户",
+    "translation": "一次调用最多只能有%d个用户"
+  },
+  {
+    "id": "一级部门自动组队",
+    "translation": "一级部门自动组队"
+  },
+  {
+    "id": "上传图片失败",
+    "translation": "上传图片失败"
+  },
+  {
+    "id": "上传数据为空",
+    "translation": "上传数据为空"
+  },
+  {
+    "id": "上传数据失败",
+    "translation": "上传数据失败"
+  },
+  {
+    "id": "上传文件为空",
+    "translation": "上传文件为空"
+  },
+  {
+    "id": "上传文件失败",
+    "translation": "上传文件失败"
+  },
+  {
+    "id": "上传照片为空",
+    "translation": "上传照片为空"
+  },
+  {
+    "id": "上传睡眠数据失败",
+    "translation": "上传睡眠数据失败"
+  },
+  {
+    "id": "上传计步数据失败",
+    "translation": "上传计步数据失败"
+  },
+  {
+    "id": "不在团队中无法进行本次操作",
+    "translation": "不在团队中无法进行本次操作"
+  },
+  {
+    "id": "不在团队中无法进行此操作",
+    "translation": "不在团队中无法进行此操作"
+  },
+  {
+    "id": "不支持的 GPS 类型",
+    "translation": "不支持的 GPS 类型"
+  },
+  {
+    "id": "不支持的成员操作",
+    "translation": "不支持的成员操作"
+  },
+  {
+    "id": "不支持的操作类型",
+    "translation": "不支持的操作类型"
+  },
+  {
+    "id": "不支持的文件格式: %s",
+    "translation": "不支持的文件格式: %s"
+  },
+  {
+    "id": "不支持的查询类型",
+    "translation": "不支持的查询类型"
+  },
+  {
+    "id": "不支持的活动类型",
+    "translation": "不支持的活动类型"
+  },
+  {
+    "id": "不支持的类型",
+    "translation": "不支持的类型"
+  },
+  {
+    "id": "不支持的顶踩类型",
+    "translation": "不支持的顶踩类型"
+  },
+  {
+    "id": "不是分时计步活动",
+    "translation": "不是分时计步活动"
+  },
+  {
+    "id": "不是昨日完成的任务",
+    "translation": "不是昨日完成的任务"
+  },
+  {
+    "id": "不是管理员",
+    "translation": "不是管理员"
+  },
+  {
+    "id": "不是管理员, 无法修改活动",
+    "translation": "不是管理员, 无法修改活动"
+  },
+  {
+    "id": "不是管理员, 无法删除活动",
+    "translation": "不是管理员, 无法删除活动"
+  },
+  {
+    "id": "不是该队伍的成员",
+    "translation": "不是该队伍的成员"
+  },
+  {
+    "id": "不能为空",
+    "translation": "不能为空"
+  },
+  {
+    "id": "不能为空字符串",
+    "translation": "不能为空字符串"
+  },
+  {
+    "id": "不能修改超级管理员权限",
+    "translation": "不能修改超级管理员权限"
+  },
+  {
+    "id": "不能删除创建人",
+    "translation": "不能删除创建人"
+  },
+  {
+    "id": "不能删除自己",
+    "translation": "不能删除自己"
+  },
+  {
+    "id": "不能挑战自己",
+    "translation": "不能挑战自己"
+  },
+  {
+    "id": "不能添加超级管理员",
+    "translation": "不能添加超级管理员"
+  },
+  {
+    "id": "不能转移给自己",
+    "translation": "不能转移给自己"
+  },
+  {
+    "id": "不能重复加入",
+    "translation": "不能重复加入"
+  },
+  {
+    "id": "不限",
+    "translation": "不限"
+  },
+  {
+    "id": "个人",
+    "translation": "个人"
+  },
+  {
+    "id": "个人成绩排名",
+    "translation": "个人成绩排名"
+  },
+  {
+    "id": "个人赛全体成员",
+    "translation": "个人赛全体成员"
+  },
+  {
+    "id": "个人赛部门成员",
+    "translation": "个人赛部门成员"
+  },
+  {
+    "id": "个人赛默认组队",
+    "translation": "个人赛默认组队"
+  },
+  {
+    "id": "主套餐",
+    "translation": "主套餐"
+  },
+  {
+    "id": "主套餐不可用",
+    "translation": "主套餐不可用"
+  },
+  {
+    "id": "主套餐不存在",
+    "translation": "主套餐不存在"
+  },
+  {
+    "id": "二维码类型无效",
+    "translation": "二维码类型无效"
+  },
+  {
+    "id": "交易号码为空",
+    "translation": "交易号码为空"
+  },
+  {
+    "id": "交易状态错误",
+    "translation": "交易状态错误"
+  },
+  {
+    "id": "交易记录不存在",
+    "translation": "交易记录不存在"
+  },
+  {
+    "id": "亲爱的伙伴，欢迎你成为 %s 的一员。在这里，你可以单挑运动大牛、抢占排行榜、组队运动PK。赶快动起来，爆发你的运动小宇宙吧！",
+    "translation": "亲爱的伙伴，欢迎你成为 %s 的一员。在这里，你可以单挑运动大牛、抢占排行榜、组队运动PK。赶快动起来，爆发你的运动小宇宙吧！"
+  },
+  {
+    "id": "亲爱的管理员大大，今天已经有 %d 个小伙伴们迫不及待地想参与活动了！赶快创建活动，让大家运动起来~",
+    "translation": "亲爱的管理员大大，今天已经有 %d 个小伙伴们迫不及待地想参与活动了！赶快创建活动，让大家运动起来~"
+  },
+  {
+    "id": "亲，今天的抽奖机会已用完，明天再来",
+    "translation": "亲，今天的抽奖机会已用完，明天再来"
+  },
+  {
+    "id": "从%s开始, 为期%d天的比赛,你们的平均步数进行比对, %s说如果他输了, 贡品就是: %s",
+    "translation": "从%s开始, 为期%d天的比赛,你们的平均步数进行比对, %s说如果他输了, 贡品就是: %s"
+  },
+  {
+    "id": "从%s开始，为期%d天的比赛，你们以平均步数进行比对，比赛即将开始，请保持好状态！",
+    "translation": "从%s开始，为期%d天的比赛，你们以平均步数进行比对，比赛即将开始，请保持好状态！"
+  },
+  {
+    "id": "任务导出中",
+    "translation": "任务导出中"
+  },
+  {
+    "id": "任务已分享",
+    "translation": "任务已分享"
+  },
+  {
+    "id": "任务已完成",
+    "translation": "任务已完成"
+  },
+  {
+    "id": "任务未完成",
+    "translation": "任务未完成"
+  },
+  {
+    "id": "任务状态不可用",
+    "translation": "任务状态不可用"
+  },
+  {
+    "id": "企业咕咚功能介绍及常见问题解答",
+    "translation": "企业咕咚功能介绍及常见问题解答"
+  },
+  {
+    "id": "优惠码已使用",
+    "translation": "优惠码已使用"
+  },
+  {
+    "id": "优惠码已过期",
+    "translation": "优惠码已过期"
+  },
+  {
+    "id": "优惠码无效",
+    "translation": "优惠码无效"
+  },
+  {
+    "id": "优惠码超过使总数限制",
+    "translation": "优惠码超过使总数限制"
+  },
+  {
+    "id": "体检人信息不能为空",
+    "translation": "体检人信息不能为空"
+  },
+  {
+    "id": "体检人姓名不能为空",
+    "translation": "体检人姓名不能为空"
+  },
+  {
+    "id": "体检人年龄不符合",
+    "translation": "体检人年龄不符合"
+  },
+  {
+    "id": "体检人性别不复合套餐要求",
+    "translation": "体检人性别不复合套餐要求"
+  },
+  {
+    "id": "体检人数错误",
+    "translation": "体检人数错误"
+  },
+  {
+    "id": "体检套餐",
+    "translation": "体检套餐"
+  },
+  {
+    "id": "体检机构",
+    "translation": "体检机构"
+  },
+  {
+    "id": "体检机构ID不能为空",
+    "translation": "体检机构ID不能为空"
+  },
+  {
+    "id": "体检机构错误",
+    "translation": "体检机构错误"
+  },
+  {
+    "id": "你不在当前团队中",
+    "translation": "你不在当前团队中"
+  },
+  {
+    "id": "你不在该俱乐部无法查看评论",
+    "translation": "你不在该俱乐部无法查看评论"
+  },
+  {
+    "id": "你不在该团队中",
+    "translation": "你不在该团队中"
+  },
+  {
+    "id": "你不是俱乐部成员",
+    "translation": "你不是俱乐部成员"
+  },
+  {
+    "id": "你不是挑战发起人",
+    "translation": "你不是挑战发起人"
+  },
+  {
+    "id": "你不是被挑战人",
+    "translation": "你不是被挑战人"
+  },
+  {
+    "id": "你不是该团队成员",
+    "translation": "你不是该团队成员"
+  },
+  {
+    "id": "你今天有参加的活动快要结束啦！没有上传运动数据会影响你的排名哦，点击通知刷新你的运动步数吧！",
+    "translation": "你今天有参加的活动快要结束啦！没有上传运动数据会影响你的排名哦，点击通知刷新你的运动步数吧！"
+  },
+  {
+    "id": "你参加的 #%s# 活动已经结束啦！最新活动战报火热出炉，赶快去看看你的排名！",
+    "translation": "你参加的 #%s# 活动已经结束啦！最新活动战报火热出炉，赶快去看看你的排名！"
+  },
+  {
+    "id": "你参加的 #%s# 的 #%s# 活动%d月%d日已经开始啦，快去释放你的洪荒之力吧！",
+    "translation": "你参加的 #%s# 的 #%s# 活动%d月%d日已经开始啦，快去释放你的洪荒之力吧！"
+  },
+  {
+    "id": "你可以选择取消挑战，或者是再次向对手发起挑战，如果你不对此条消息进行处理，比赛将于2天后自动取消",
+    "translation": "你可以选择取消挑战，或者是再次向对手发起挑战，如果你不对此条消息进行处理，比赛将于2天后自动取消"
+  },
+  {
+    "id": "你已经重发了三次了，机会已经用完啦",
+    "translation": "你已经重发了三次了，机会已经用完啦"
+  },
+  {
+    "id": "你无法对该活动进行评论",
+    "translation": "你无法对该活动进行评论"
+  },
+  {
+    "id": "你有新活动喽，快去看看吧",
+    "translation": "你有新活动喽，快去看看吧"
+  },
+  {
+    "id": "保存创建活动请求失败",
+    "translation": "保存创建活动请求失败"
+  },
+  {
+    "id": "保存反馈信息失败",
+    "translation": "保存反馈信息失败"
+  },
+  {
+    "id": "保存团队设置失败",
+    "translation": "保存团队设置失败"
+  },
+  {
+    "id": "保存图片失败",
+    "translation": "保存图片失败"
+  },
+  {
+    "id": "保存地址失败",
+    "translation": "保存地址失败"
+  },
+  {
+    "id": "保存心率数据失败",
+    "translation": "保存心率数据失败"
+  },
+  {
+    "id": "保存手环绑定记录失败",
+    "translation": "保存手环绑定记录失败"
+  },
+  {
+    "id": "保存手环设置失败",
+    "translation": "保存手环设置失败"
+  },
+  {
+    "id": "保存更新手环设置失败",
+    "translation": "保存更新手环设置失败"
+  },
+  {
+    "id": "保存计步数据失败:%s",
+    "translation": "保存计步数据失败:%s"
+  },
+  {
+    "id": "保存订单失败",
+    "translation": "保存订单失败"
+  },
+  {
+    "id": "保存订单快递信息失败",
+    "translation": "保存订单快递信息失败"
+  },
+  {
+    "id": "保存部门信息失败",
+    "translation": "保存部门信息失败"
+  },
+  {
+    "id": "保存闹钟设置失败",
+    "translation": "保存闹钟设置失败"
+  },
+  {
+    "id": "修改分类失败",
+    "translation": "修改分类失败"
+  },
+  {
+    "id": "修改团队认证状态失败",
+    "translation": "修改团队认证状态失败"
+  },
+  {
+    "id": "修改图片失败",
+    "translation": "修改图片失败"
+  },
+  {
+    "id": "修改失败",
+    "translation": "修改失败"
+  },
+  {
+    "id": "修改头像失败",
+    "translation": "修改头像失败"
+  },
+  {
+    "id": "修改成绩失败",
+    "translation": "修改成绩失败"
+  },
+  {
+    "id": "修改活动信息失败",
+    "translation": "修改活动信息失败"
+  },
+  {
+    "id": "修改活动失败",
+    "translation": "修改活动失败"
+  },
+  {
+    "id": "修改活动封面失败",
+    "translation": "修改活动封面失败"
+  },
+  {
+    "id": "修改用户信息失败",
+    "translation": "修改用户信息失败"
+  },
+  {
+    "id": "修改认证状态失败",
+    "translation": "修改认证状态失败"
+  },
+  {
+    "id": "修改记录失败",
+    "translation": "修改记录失败"
+  },
+  {
+    "id": "修改里程点失败",
+    "translation": "修改里程点失败"
+  },
+  {
+    "id": "俱乐部ID不能为空",
+    "translation": "俱乐部ID不能为空"
+  },
+  {
+    "id": "俱乐部ID必须大于0",
+    "translation": "俱乐部ID必须大于0"
+  },
+  {
+    "id": "俱乐部不存在",
+    "translation": "俱乐部不存在"
+  },
+  {
+    "id": "健步走",
+    "translation": "健步走"
+  },
+  {
+    "id": "健走",
+    "translation": "健走"
+  },
+  {
+    "id": "先选择参赛部门",
+    "translation": "先选择参赛部门"
+  },
+  {
+    "id": "全程马拉松",
+    "translation": "全程马拉松"
+  },
+  {
+    "id": "关键字不能为空",
+    "translation": "关键字不能为空"
+  },
+  {
+    "id": "关键词不能为空",
+    "translation": "关键词不能为空"
+  },
+  {
+    "id": "其他问题",
+    "translation": "其他问题"
+  },
+  {
+    "id": "内容不能为空",
+    "translation": "内容不能为空"
+  },
+  {
+    "id": "分时活动需要提供时间段",
+    "translation": "分时活动需要提供时间段"
+  },
+  {
+    "id": "分时统计的开始时间错误",
+    "translation": "分时统计的开始时间错误"
+  },
+  {
+    "id": "分时统计的结束时间错误",
+    "translation": "分时统计的结束时间错误"
+  },
+  {
+    "id": "分时计步的时间只能在 [0,23] 之间",
+    "translation": "分时计步的时间只能在 [0,23] 之间"
+  },
+  {
+    "id": "切换数据源失败",
+    "translation": "切换数据源失败"
+  },
+  {
+    "id": "创建中",
+    "translation": "创建中"
+  },
+  {
+    "id": "创建人不存在",
+    "translation": "创建人不存在"
+  },
+  {
+    "id": "创建任务的用户才能执行此操作",
+    "translation": "创建任务的用户才能执行此操作"
+  },
+  {
+    "id": "创建挑战失败",
+    "translation": "创建挑战失败"
+  },
+  {
+    "id": "创建活动分组失败",
+    "translation": "创建活动分组失败"
+  },
+  {
+    "id": "创建活动失败",
+    "translation": "创建活动失败"
+  },
+  {
+    "id": "创建活动队伍失败",
+    "translation": "创建活动队伍失败"
+  },
+  {
+    "id": "创建活动队伍失败: %s",
+    "translation": "创建活动队伍失败: %s"
+  },
+  {
+    "id": "创建用户自定义赌注失败",
+    "translation": "创建用户自定义赌注失败"
+  },
+  {
+    "id": "创建者才能转移操作",
+    "translation": "创建者才能转移操作"
+  },
+  {
+    "id": "创建者权限不能被修改",
+    "translation": "创建者权限不能被修改"
+  },
+  {
+    "id": "创建记录时发生数据库错误",
+    "translation": "创建记录时发生数据库错误"
+  },
+  {
+    "id": "创建评论失败",
+    "translation": "创建评论失败"
+  },
+  {
+    "id": "创建部门与活动队伍映射失败: %s",
+    "translation": "创建部门与活动队伍映射失败: %s"
+  },
+  {
+    "id": "创建部门与随机活动队伍映射失败: %s",
+    "translation": "创建部门与随机活动队伍映射失败: %s"
+  },
+  {
+    "id": "初始化活动关联的部门信息失败",
+    "translation": "初始化活动关联的部门信息失败"
+  },
+  {
+    "id": "初始化活动成员关联的部门信息失败",
+    "translation": "初始化活动成员关联的部门信息失败"
+  },
+  {
+    "id": "初始化活动成员失败",
+    "translation": "初始化活动成员失败"
+  },
+  {
+    "id": "删除",
+    "translation": "删除"
+  },
+  {
+    "id": "删除/归档失败",
+    "translation": "删除/归档失败"
+  },
+  {
+    "id": "删除分类失败",
+    "translation": "删除分类失败"
+  },
+  {
+    "id": "删除失败",
+    "translation": "删除失败"
+  },
+  {
+    "id": "删除成员失败",
+    "translation": "删除成员失败"
+  },
+  {
+    "id": "删除成员时，获取成员信息失败",
+    "translation": "删除成员时，获取成员信息失败"
+  },
+  {
+    "id": "删除文章失败",
+    "translation": "删除文章失败"
+  },
+  {
+    "id": "删除活动出错",
+    "translation": "删除活动出错"
+  },
+  {
+    "id": "删除活动失败",
+    "translation": "删除活动失败"
+  },
+  {
+    "id": "删除活动成员失败",
+    "translation": "删除活动成员失败"
+  },
+  {
+    "id": "删除记录失败",
+    "translation": "删除记录失败"
+  },
+  {
+    "id": "删除评论失败",
+    "translation": "删除评论失败"
+  },
+  {
+    "id": "刷新库存失败",
+    "translation": "刷新库存失败"
+  },
+  {
+    "id": "刷新访问令牌失败",
+    "translation": "刷新访问令牌失败"
+  },
+  {
+    "id": "加入密码错误",
+    "translation": "加入密码错误"
+  },
+  {
+    "id": "加入无需密码",
+    "translation": "加入无需密码"
+  },
+  {
+    "id": "加入日期",
+    "translation": "加入日期"
+  },
+  {
+    "id": "加入需要密码",
+    "translation": "加入需要密码"
+  },
+  {
+    "id": "包含空对象",
+    "translation": "包含空对象"
+  },
+  {
+    "id": "半程马拉松",
+    "translation": "半程马拉松"
+  },
+  {
+    "id": "单选只能有一个答案",
+    "translation": "单选只能有一个答案"
+  },
+  {
+    "id": "参数不可用",
+    "translation": "参数不可用"
+  },
+  {
+    "id": "参数格式错误",
+    "translation": "参数格式错误"
+  },
+  {
+    "id": "参数错误",
+    "translation": "参数错误"
+  },
+  {
+    "id": "参数错误, 必须是 GPSRank 实例",
+    "translation": "参数错误, 必须是 GPSRank 实例"
+  },
+  {
+    "id": "参数错误：invalid day",
+    "translation": "参数错误：invalid day"
+  },
+  {
+    "id": "参数错误：invalid userIds",
+    "translation": "参数错误：invalid userIds"
+  },
+  {
+    "id": "参赛部门错误",
+    "translation": "参赛部门错误"
+  },
+  {
+    "id": "反馈信息入库失败",
+    "translation": "反馈信息入库失败"
+  },
+  {
+    "id": "发送短信内容不能为空",
+    "translation": "发送短信内容不能为空"
+  },
+  {
+    "id": "发送短信内容不能超过 500 个字",
+    "translation": "发送短信内容不能超过 500 个字"
+  },
+  {
+    "id": "发送者ID不能为空",
+    "translation": "发送者ID不能为空"
+  },
+  {
+    "id": "取消挑战失败",
+    "translation": "取消挑战失败"
+  },
+  {
+    "id": "取消收藏文章出错",
+    "translation": "取消收藏文章出错"
+  },
+  {
+    "id": "取消点赞失败",
+    "translation": "取消点赞失败"
+  },
+  {
+    "id": "取消置顶失败",
+    "translation": "取消置顶失败"
+  },
+  {
+    "id": "取消踩失败",
+    "translation": "取消踩失败"
+  },
+  {
+    "id": "取消顶失败",
+    "translation": "取消顶失败"
+  },
+  {
+    "id": "只有俱乐部管理员可以置顶活动",
+    "translation": "只有俱乐部管理员可以置顶活动"
+  },
+  {
+    "id": "只有变更前后属于同一个活动才能调用",
+    "translation": "只有变更前后属于同一个活动才能调用"
+  },
+  {
+    "id": "只有本人或管理员可以查看 GPS 记录",
+    "translation": "只有本人或管理员可以查看 GPS 记录"
+  },
+  {
+    "id": "只有本人或者管理员可以查看 GPS 记录",
+    "translation": "只有本人或者管理员可以查看 GPS 记录"
+  },
+  {
+    "id": "只能修改自定义类型活动",
+    "translation": "只能修改自定义类型活动"
+  },
+  {
+    "id": "只能修改自定义类型的活动",
+    "translation": "只能修改自定义类型的活动"
+  },
+  {
+    "id": "只能修改自己的 GPS 记录",
+    "translation": "只能修改自己的 GPS 记录"
+  },
+  {
+    "id": "只能修改自己的用户信息",
+    "translation": "只能修改自己的用户信息"
+  },
+  {
+    "id": "只能删除未开始和已结束的活动",
+    "translation": "只能删除未开始和已结束的活动"
+  },
+  {
+    "id": "只能删除自己的 GPS 记录",
+    "translation": "只能删除自己的 GPS 记录"
+  },
+  {
+    "id": "只能删除自己的评论",
+    "translation": "只能删除自己的评论"
+  },
+  {
+    "id": "只能完成自己的任务",
+    "translation": "只能完成自己的任务"
+  },
+  {
+    "id": "只能查看自己团队的活动",
+    "translation": "只能查看自己团队的活动"
+  },
+  {
+    "id": "只能查看自己的 GPS 记录",
+    "translation": "只能查看自己的 GPS 记录"
+  },
+  {
+    "id": "只能查看自己的任务详情",
+    "translation": "只能查看自己的任务详情"
+  },
+  {
+    "id": "只能添加必选任务",
+    "translation": "只能添加必选任务"
+  },
+  {
+    "id": "只能用于活动实例",
+    "translation": "只能用于活动实例"
+  },
+  {
+    "id": "只能预约 3 个工作日之后",
+    "translation": "只能预约 3 个工作日之后"
+  },
+  {
+    "id": "只能预约 3 个月内",
+    "translation": "只能预约 3 个月内"
+  },
+  {
+    "id": "可用",
+    "translation": "可用"
+  },
+  {
+    "id": "同步用户失败",
+    "translation": "同步用户失败"
+  },
+  {
+    "id": "名称已经存在",
+    "translation": "名称已经存在"
+  },
+  {
+    "id": "后台获取文章失败",
+    "translation": "后台获取文章失败"
+  },
+  {
+    "id": "周排行榜",
+    "translation": "周排行榜"
+  },
+  {
+    "id": "周末无法预约",
+    "translation": "周末无法预约"
+  },
+  {
+    "id": "咕咚昵称",
+    "translation": "咕咚昵称"
+  },
+  {
+    "id": "商品不存在",
+    "translation": "商品不存在"
+  },
+  {
+    "id": "回复用户的 ID 格式错误",
+    "translation": "回复用户的 ID 格式错误"
+  },
+  {
+    "id": "回答不能为空",
+    "translation": "回答不能为空"
+  },
+  {
+    "id": "回跳地址不能为空",
+    "translation": "回跳地址不能为空"
+  },
+  {
+    "id": "团队",
+    "translation": "团队"
+  },
+  {
+    "id": "团队 ID 不能为空",
+    "translation": "团队 ID 不能为空"
+  },
+  {
+    "id": "团队: %d%d",
+    "translation": "团队: %d%d"
+  },
+  {
+    "id": "团队ID不能为空",
+    "translation": "团队ID不能为空"
+  },
+  {
+    "id": "团队ID无效",
+    "translation": "团队ID无效"
+  },
+  {
+    "id": "团队不存在",
+    "translation": "团队不存在"
+  },
+  {
+    "id": "团队创建人不能退出",
+    "translation": "团队创建人不能退出"
+  },
+  {
+    "id": "团队名称已经存在",
+    "translation": "团队名称已经存在"
+  },
+  {
+    "id": "团队成员才能执行此操作",
+    "translation": "团队成员才能执行此操作"
+  },
+  {
+    "id": "团队成绩",
+    "translation": "团队成绩"
+  },
+  {
+    "id": "团队成绩(平均)",
+    "translation": "团队成绩(平均)"
+  },
+  {
+    "id": "团队成绩(总)",
+    "translation": "团队成绩(总)"
+  },
+  {
+    "id": "团队按平均数据排名",
+    "translation": "团队按平均数据排名"
+  },
+  {
+    "id": "团队按总数据排序",
+    "translation": "团队按总数据排序"
+  },
+  {
+    "id": "团队管理员",
+    "translation": "团队管理员"
+  },
+  {
+    "id": "团队赛必须提供组队",
+    "translation": "团队赛必须提供组队"
+  },
+  {
+    "id": "团队赛必须提供组队方式",
+    "translation": "团队赛必须提供组队方式"
+  },
+  {
+    "id": "图片链接不能为空",
+    "translation": "图片链接不能为空"
+  },
+  {
+    "id": "都市",
+    "translation": "都市"
+  },
+  {
+    "id": "增加挑战热度失败",
+    "translation": "增加挑战热度失败"
+  },
+  {
+    "id": "处理数据失败",
+    "translation": "处理数据失败"
+  },
+  {
+    "id": "失败",
+    "translation": "失败"
+  },
+  {
+    "id": "头像文件格式不支持",
+    "translation": "头像文件格式不支持"
+  },
+  {
+    "id": "套餐ID不能为空",
+    "translation": "套餐ID不能为空"
+  },
+  {
+    "id": "套餐不存在",
+    "translation": "套餐不存在"
+  },
+  {
+    "id": "女",
+    "translation": "女"
+  },
+  {
+    "id": "姓名",
+    "translation": "姓名"
+  },
+  {
+    "id": "存储设备信息失败",
+    "translation": "存储设备信息失败"
+  },
+  {
+    "id": "完成任务分享:%s",
+    "translation": "完成任务分享:%s"
+  },
+  {
+    "id": "密码不能为空",
+    "translation": "密码不能为空"
+  },
+  {
+    "id": "对方已应战",
+    "translation": "对方已应战"
+  },
+  {
+    "id": "对方已经设置拒绝挑战请求",
+    "translation": "对方已经设置拒绝挑战请求"
+  },
+  {
+    "id": "导出部门二维码",
+    "translation": "导出部门二维码"
+  },
+  {
+    "id": "封面不能为空",
+    "translation": "封面不能为空"
+  },
+  {
+    "id": "小伙伴请求创建活动",
+    "translation": "小伙伴请求创建活动"
+  },
+  {
+    "id": "已婚女",
+    "translation": "已婚女"
+  },
+  {
+    "id": "已完成",
+    "translation": "已完成"
+  },
+  {
+    "id": "已支付",
+    "translation": "已支付"
+  },
+  {
+    "id": "已经失败的任务才能被重新打开",
+    "translation": "已经失败的任务才能被重新打开"
+  },
+  {
+    "id": "已经是成员",
+    "translation": "已经是成员"
+  },
+  {
+    "id": "已经结束的活动才能进行归档操作",
+    "translation": "已经结束的活动才能进行归档操作"
+  },
+  {
+    "id": "已购买过相同的附加套餐",
+    "translation": "已购买过相同的附加套餐"
+  },
+  {
+    "id": "已超请求数量限制",
+    "translation": "已超请求数量限制"
+  },
+  {
+    "id": "已达标",
+    "translation": "已达标"
+  },
+  {
+    "id": "已过期",
+    "translation": "已过期"
+  },
+  {
+    "id": "帐号在别处登录",
+    "translation": "帐号在别处登录"
+  },
+  {
+    "id": "常见问题",
+    "translation": "常见问题"
+  },
+  {
+    "id": "序列化失败",
+    "translation": "序列化失败"
+  },
+  {
+    "id": "序列化活动失败",
+    "translation": "序列化活动失败"
+  },
+  {
+    "id": "序号",
+    "translation": "序号"
+  },
+  {
+    "id": "开始以及结束时间不能为空",
+    "translation": "开始以及结束时间不能为空"
+  },
+  {
+    "id": "开始或结束时间有误",
+    "translation": "开始或结束时间有误"
+  },
+  {
+    "id": "开始日期不能大于结束日期",
+    "translation": "开始日期不能大于结束日期"
+  },
+  {
+    "id": "开始日期必须大于当前日期",
+    "translation": "开始日期必须大于当前日期"
+  },
+  {
+    "id": "开始日期无效",
+    "translation": "开始日期无效"
+  },
+  {
+    "id": "开始日期格式有误",
+    "translation": "开始日期格式有误"
+  },
+  {
+    "id": "开始时间[%s]不能晚于结束时间[%s]",
+    "translation": "开始时间[%s]不能晚于结束时间[%s]"
+  },
+  {
+    "id": "开始时间不能为空",
+    "translation": "开始时间不能为空"
+  },
+  {
+    "id": "开始时间不能为零值",
+    "translation": "开始时间不能为零值"
+  },
+  {
+    "id": "开始时间不能大于结束时间",
+    "translation": "开始时间不能大于结束时间"
+  },
+  {
+    "id": "开始时间不能早于 '%s'",
+    "translation": "开始时间不能早于 '%s'"
+  },
+  {
+    "id": "开始时间不能早于'%s'",
+    "translation": "开始时间不能早于'%s'"
+  },
+  {
+    "id": "开始时间不能晚于当前实际时间",
+    "translation": "开始时间必须晚于当前实际时间"
+  },
+  {
+    "id": "开始时间不能晚于结束时间",
+    "translation": "开始时间不能晚于结束时间"
+  },
+  {
+    "id": "开始时间必须大于结束时间",
+    "translation": "开始时间必须小于结束时间"
+  },
+  {
+    "id": "开始时间必须小于结束时间",
+    "translation": "开始时间必须小于结束时间"
+  },
+  {
+    "id": "开始时间必须晚于当前时间",
+    "translation": "开始时间必须晚于当前时间"
+  },
+  {
+    "id": "开始时间至少要在两小时之后",
+    "translation": "开始时间至少要在两小时之后"
+  },
+  {
+    "id": "开放方式无效",
+    "translation": "开放方式无效"
+  },
+  {
+    "id": "开放的排行榜无效",
+    "translation": "开放的排行榜无效"
+  },
+  {
+    "id": "归档",
+    "translation": "归档"
+  },
+  {
+    "id": "当前版本只支持 period: daily",
+    "translation": "当前版本只支持 period: daily"
+  },
+  {
+    "id": "当前版本号小于等于最新版本号",
+    "translation": "当前版本号小于等于最新版本号"
+  },
+  {
+    "id": "当前登录用户ID不能为空",
+    "translation": "当前登录用户ID不能为空"
+  },
+  {
+    "id": "很遗憾，“%v”没有接受你的战帖！",
+    "translation": "很遗憾，“%v”没有接受你的战帖！"
+  },
+  {
+    "id": "性别",
+    "translation": "性别"
+  },
+  {
+    "id": "性别不能为空",
+    "translation": "性别不能为空"
+  },
+  {
+    "id": "总排行榜",
+    "translation": "总排行榜"
+  },
+  {
+    "id": "总步数",
+    "translation": "总步数"
+  },
+  {
+    "id": "总米数",
+    "translation": "总米数"
+  },
+  {
+    "id": "悄悄告诉你，“%v“给你点了赞。有人在给你加油，赶紧去看看PK战况！",
+    "translation": "悄悄告诉你，“%v“给你点了赞。有人在给你加油，赶紧去看看PK战况！"
+  },
+  {
+    "id": "您参加的 %s 活动，已经由您的团队管理员提前结束",
+    "translation": "您参加的 %s 活动，已经由您的团队管理员提前结束"
+  },
+  {
+    "id": "您参加的活动 %s 已经由您的团队管理员删除",
+    "translation": "您参加的活动 %s 已经由您的团队管理员删除"
+  },
+  {
+    "id": "您发起的活动 %s 创建失败",
+    "translation": "您发起的活动 %s 创建失败"
+  },
+  {
+    "id": "您发起的活动 %s 因为创建失败",
+    "translation": "您发起的活动 %s 因为创建失败"
+  },
+  {
+    "id": "您已应战",
+    "translation": "您已应战"
+  },
+  {
+    "id": "您已经对这场挑战过赞了",
+    "translation": "您已经对这场挑战过赞了"
+  },
+  {
+    "id": "您已经很久没有上传运动数据啦",
+    "translation": "您已经很久没有上传运动数据啦"
+  },
+  {
+    "id": "您的团队 “%s” 有新成员 “%s” 加入",
+    "translation": "您的团队 “%s” 有新成员 “%s” 加入"
+  },
+  {
+    "id": "您的团队 “%s” 有新成员 “%s” 加入到 “%s” 部门",
+    "translation": "您的团队 “%s” 有新成员 “%s” 加入到 “%s” 部门"
+  },
+  {
+    "id": "您的积分已不足",
+    "translation": "您的积分已不足"
+  },
+  {
+    "id": "成员: %s 已经退出团队",
+    "translation": "成员: %s 已经退出团队"
+  },
+  {
+    "id": "成员不存在",
+    "translation": "成员不存在"
+  },
+  {
+    "id": "成员不存在或已退出",
+    "translation": "成员不存在或已退出"
+  },
+  {
+    "id": "成员不存在或获取用户失败",
+    "translation": "成员不存在或获取用户失败"
+  },
+  {
+    "id": "成员列表不能为空",
+    "translation": "成员列表不能为空"
+  },
+  {
+    "id": "成员成绩",
+    "translation": "成员成绩"
+  },
+  {
+    "id": "成员排行",
+    "translation": "成员排行"
+  },
+  {
+    "id": "成员退出",
+    "translation": "成员退出"
+  },
+  {
+    "id": "成绩",
+    "translation": "成绩"
+  },
+  {
+    "id": "成绩(步)",
+    "translation": "成绩(步)"
+  },
+  {
+    "id": "成绩(米)",
+    "translation": "成绩(米)"
+  },
+  {
+    "id": "我的成绩失败",
+    "translation": "我的成绩失败"
+  },
+  {
+    "id": "截至时间不能为空",
+    "translation": "截至时间不能为空"
+  },
+  {
+    "id": "所有类型",
+    "translation": "所有类型"
+  },
+  {
+    "id": "手动分配组队时部门不能为空",
+    "translation": "手动分配组队时部门不能为空"
+  },
+  {
+    "id": "手机号和密码不能为空",
+    "translation": "手机号和密码不能为空"
+  },
+  {
+    "id": "手机号应为11位数字",
+    "translation": "手机号应为11位数字"
+  },
+  {
+    "id": "手机号开头不能为0",
+    "translation": "手机号开头不能为0"
+  },
+  {
+    "id": "手机号未注册",
+    "translation": "手机号未注册"
+  },
+  {
+    "id": "手机号码不能为空",
+    "translation": "手机号码不能为空"
+  },
+  {
+    "id": "手机号码错误",
+    "translation": "手机号码错误"
+  },
+  {
+    "id": "手机号请求次数过于频繁, 请稍后再试",
+    "translation": "手机号请求次数过于频繁, 请稍后再试"
+  },
+  {
+    "id": "手环用户每日任务获取积分加成",
+    "translation": "手环用户每日任务获取积分加成"
+  },
+  {
+    "id": "批量删除评论失败",
+    "translation": "批量删除评论失败"
+  },
+  {
+    "id": "批量获取团队信息失败",
+    "translation": "批量获取团队信息失败"
+  },
+  {
+    "id": "抽奖出错",
+    "translation": "抽奖出错"
+  },
+  {
+    "id": "抽奖出错,稍候再试",
+    "translation": "抽奖出错,稍候再试"
+  },
+  {
+    "id": "抽奖失败",
+    "translation": "抽奖失败"
+  },
+  {
+    "id": "抽奖扣除积分失败",
+    "translation": "抽奖扣除积分失败"
+  },
+  {
+    "id": "拉取俱乐部信息失败",
+    "translation": "拉取俱乐部信息失败"
+  },
+  {
+    "id": "拉取团队信息失败",
+    "translation": "拉取团队信息失败"
+  },
+  {
+    "id": "指定任务不存在",
+    "translation": "指定任务不存在"
+  },
+  {
+    "id": "指定帮助信息不存在",
+    "translation": "指定帮助信息不存在"
+  },
+  {
+    "id": "指定成员不存在或已退出活动",
+    "translation": "指定成员不存在或已退出活动"
+  },
+  {
+    "id": "指定活动不存在",
+    "translation": "指定活动不存在"
+  },
+  {
+    "id": "指定部门不存在",
+    "translation": "指定部门不存在"
+  },
+  {
+    "id": "按部门组队",
+    "translation": "按部门组队"
+  },
+  {
+    "id": "按部门组队, 队伍`%s`的部门不能为空",
+    "translation": "按部门组队, 队伍`%s`的部门不能为空"
+  },
+  {
+    "id": "挑战不存在",
+    "translation": "挑战不存在"
+  },
+  {
+    "id": "挑战双方不在同一个团队",
+    "translation": "挑战双方不在同一个团队"
+  },
+  {
+    "id": "挑战双方用户不存在",
+    "translation": "挑战双方用户不存在"
+  },
+  {
+    "id": "挑战存在",
+    "translation": "挑战存在"
+  },
+  {
+    "id": "挑战已失效",
+    "translation": "挑战已失效"
+  },
+  {
+    "id": "挑战已存在",
+    "translation": "挑战已存在"
+  },
+  {
+    "id": "挑战已开始",
+    "translation": "挑战已开始"
+  },
+  {
+    "id": "挑战已结束",
+    "translation": "挑战已结束"
+  },
+  {
+    "id": "挑战已被取消",
+    "translation": "挑战已被取消"
+  },
+  {
+    "id": "挑战已被拒绝",
+    "translation": "挑战已被拒绝"
+  },
+  {
+    "id": "挑战已被接受不能取消",
+    "translation": "挑战已被接受不能取消"
+  },
+  {
+    "id": "挑战已过期",
+    "translation": "挑战已过期"
+  },
+  {
+    "id": "挑战截止不能早于今日",
+    "translation": "挑战截止不能早于今日"
+  },
+  {
+    "id": "排序方式错误",
+    "translation": "排序方式错误"
+  },
+  {
+    "id": "排行周期无效",
+    "translation": "排行周期无效"
+  },
+  {
+    "id": "排行榜",
+    "translation": "排行榜"
+  },
+  {
+    "id": "排行榜周期不能为空",
+    "translation": "排行榜周期不能为空"
+  },
+  {
+    "id": "排行榜点赞通知",
+    "translation": "排行榜点赞通知"
+  },
+  {
+    "id": "排行榜类型无效",
+    "translation": "排行榜类型无效"
+  },
+  {
+    "id": "接收用户也必须是团队成员",
+    "translation": "接收用户也必须是团队成员"
+  },
+  {
+    "id": "提交人年龄不符合要求",
+    "translation": "提交人年龄不符合要求"
+  },
+  {
+    "id": "搜索团队失败",
+    "translation": "搜索团队失败"
+  },
+  {
+    "id": "操作用户不是团队成员",
+    "translation": "操作用户不是团队成员"
+  },
+  {
+    "id": "操作者ID不能为空",
+    "translation": "操作者ID不能为空"
+  },
+  {
+    "id": "操作者用户ID不能为空",
+    "translation": "操作者用户ID不能为空"
+  },
+  {
+    "id": "支付宝下单失败",
+    "translation": "支付宝下单失败"
+  },
+  {
+    "id": "支付方式错误",
+    "translation": "支付方式错误"
+  },
+  {
+    "id": "支付金额错误",
+    "translation": "支付金额错误"
+  },
+  {
+    "id": "收藏文章出错",
+    "translation": "收藏文章出错"
+  },
+  {
+    "id": "数据上传提醒",
+    "translation": "数据上传提醒"
+  },
+  {
+    "id": "数据为空",
+    "translation": "数据为空"
+  },
+  {
+    "id": "数据单位错误",
+    "translation": "数据单位错误"
+  },
+  {
+    "id": "数据库错误",
+    "translation": "数据库错误"
+  },
+  {
+    "id": "数据类型错误",
+    "translation": "数据类型错误"
+  },
+  {
+    "id": "数据转换失败: %s",
+    "translation": "数据转换失败: %s"
+  },
+  {
+    "id": "文件为空",
+    "translation": "文件为空"
+  },
+  {
+    "id": "文件大小超过限制",
+    "translation": "文件大小超过限制"
+  },
+  {
+    "id": "文件太大",
+    "translation": "文件太大"
+  },
+  {
+    "id": "文件格式不支持",
+    "translation": "文件格式不支持"
+  },
+  {
+    "id": "文件类型不支持",
+    "translation": "文件类型不支持"
+  },
+  {
+    "id": "文章ID不能为空",
+    "translation": "文章ID不能为空"
+  },
+  {
+    "id": "文章ID或修改人ID不能为空",
+    "translation": "文章ID或修改人ID不能为空"
+  },
+  {
+    "id": "文章不存在",
+    "translation": "文章不存在"
+  },
+  {
+    "id": "文章状态跳转表不支持的类型",
+    "translation": "文章状态跳转表不支持的类型"
+  },
+  {
+    "id": "新增分类失败",
+    "translation": "新增分类失败"
+  },
+  {
+    "id": "新增文章出错",
+    "translation": "新增文章出错"
+  },
+  {
+    "id": "新建团队失败",
+    "translation": "新建团队失败"
+  },
+  {
+    "id": "新建团队，添加管理员失败",
+    "translation": "新建团队，添加管理员失败"
+  },
+  {
+    "id": "新成员加入通知",
+    "translation": "新成员加入通知"
+  },
+  {
+    "id": "无删除评论权限",
+    "translation": "无删除评论权限"
+  },
+  {
+    "id": "无删除评论的权限",
+    "translation": "无删除评论的权限"
+  },
+  {
+    "id": "无名团队",
+    "translation": "无名团队"
+  },
+  {
+    "id": "无商品信息",
+    "translation": "无商品信息"
+  },
+  {
+    "id": "无效令牌",
+    "translation": "无效令牌"
+  },
+  {
+    "id": "无效参数",
+    "translation": "无效参数"
+  },
+  {
+    "id": "无效团队ID",
+    "translation": "无效团队ID"
+  },
+  {
+    "id": "无效用户ID",
+    "translation": "无效用户ID"
+  },
+  {
+    "id": "无效的 clubid",
+    "translation": "无效的 clubid"
+  },
+  {
+    "id": "无效的 distance",
+    "translation": "无效的 distance"
+  },
+  {
+    "id": "无效的 distance_avg",
+    "translation": "无效的 distance_avg"
+  },
+  {
+    "id": "无效的 person_count",
+    "translation": "无效的 person_count"
+  },
+  {
+    "id": "无效的 steps",
+    "translation": "无效的 steps"
+  },
+  {
+    "id": "无效的 steps_avg",
+    "translation": "无效的 steps_avg"
+  },
+  {
+    "id": "无效的 week",
+    "translation": "无效的 week"
+  },
+  {
+    "id": "无效的操作",
+    "translation": "无效的操作"
+  },
+  {
+    "id": "无效签名",
+    "translation": "无效签名"
+  },
+  {
+    "id": "无最新版本",
+    "translation": "无最新版本"
+  },
+  {
+    "id": "无权查看",
+    "translation": "无权查看"
+  },
+  {
+    "id": "无权限",
+    "translation": "无权限"
+  },
+  {
+    "id": "无法修改活动",
+    "translation": "无法修改活动"
+  },
+  {
+    "id": "无法获取主套餐",
+    "translation": "无法获取主套餐"
+  },
+  {
+    "id": "无法获取到活动",
+    "translation": "无法获取到活动"
+  },
+  {
+    "id": "无法获取用户加入的团队",
+    "translation": "无法获取用户加入的团队"
+  },
+  {
+    "id": "无法转换成VoteAction",
+    "translation": "无法转换成VoteAction"
+  },
+  {
+    "id": "无预约记录",
+    "translation": "无预约记录"
+  },
+  {
+    "id": "日排行榜",
+    "translation": "日排行榜"
+  },
+  {
+    "id": "日期无效",
+    "translation": "日期无效"
+  },
+  {
+    "id": "日期格式解析错误",
+    "translation": "日期格式解析错误"
+  },
+  {
+    "id": "日期格式错误",
+    "translation": "日期格式错误"
+  },
+  {
+    "id": "日期解析失败",
+    "translation": "日期解析失败"
+  },
+  {
+    "id": "时间只能是 [0-23]",
+    "translation": "时间只能是 [0-23]"
+  },
+  {
+    "id": "时间格式错误",
+    "translation": "时间格式错误"
+  },
+  {
+    "id": "时间格式错误 `%s`",
+    "translation": "时间格式错误 `%s`"
+  },
+  {
+    "id": "昵称已经被占用",
+    "translation": "昵称已经被占用"
+  },
+  {
+    "id": "昵称已被占用",
+    "translation": "昵称已被占用"
+  },
+  {
+    "id": "普通成员",
+    "translation": "普通成员"
+  },
+  {
+    "id": "更新团队信息失败",
+    "translation": "更新团队信息失败"
+  },
+  {
+    "id": "更新团队失败",
+    "translation": "更新团队失败"
+  },
+  {
+    "id": "更新团队头像失败",
+    "translation": "更新团队头像失败"
+  },
+  {
+    "id": "更新失败",
+    "translation": "更新失败"
+  },
+  {
+    "id": "更新头像失败",
+    "translation": "更新头像失败"
+  },
+  {
+    "id": "更新数据失败",
+    "translation": "更新数据失败"
+  },
+  {
+    "id": "更新数据源失败",
+    "translation": "更新数据源失败"
+  },
+  {
+    "id": "更新文章失败",
+    "translation": "更新文章失败"
+  },
+  {
+    "id": "更新文章状态失败",
+    "translation": "更新文章状态失败"
+  },
+  {
+    "id": "更新日数据失败",
+    "translation": "更新日数据失败"
+  },
+  {
+    "id": "更新活动失败",
+    "translation": "更新活动失败"
+  },
+  {
+    "id": "更新用户绑定标志失败",
+    "translation": "更新用户绑定标志失败"
+  },
+  {
+    "id": "更新订单状态失败",
+    "translation": "更新订单状态失败"
+  },
+  {
+    "id": "更活动封面失败",
+    "translation": "更活动封面失败"
+  },
+  {
+    "id": "最低配速不符合规则",
+    "translation": "最低配速不符合规则"
+  },
+  {
+    "id": "最低配速不能大于最高配速",
+    "translation": "最低配速不能大于最高配速"
+  },
+  {
+    "id": "最远距离",
+    "translation": "最远距离"
+  },
+  {
+    "id": "最长时长",
+    "translation": "最长时长"
+  },
+  {
+    "id": "最高配速不符合规则",
+    "translation": "最高配速不符合规则"
+  },
+  {
+    "id": "月排行榜",
+    "translation": "月排行榜"
+  },
+  {
+    "id": "服务器内部错误",
+    "translation": "服务器内部错误"
+  },
+  {
+    "id": "服务器异常",
+    "translation": "服务器异常"
+  },
+  {
+    "id": "服务器错误",
+    "translation": "服务器错误"
+  },
+  {
+    "id": "未发现新部门所属队伍",
+    "translation": "未发现新部门所属队伍"
+  },
+  {
+    "id": "未指定操作人ID",
+    "translation": "未指定操作人ID"
+  },
+  {
+    "id": "未点赞",
+    "translation": "未点赞"
+  },
+  {
+    "id": "未登录",
+    "translation": "未登录"
+  },
+  {
+    "id": "未知",
+    "translation": "未知"
+  },
+  {
+    "id": "未知套餐类型",
+    "translation": "未知套餐类型"
+  },
+  {
+    "id": "未知排行榜周期类型",
+    "translation": "未知排行榜周期类型"
+  },
+  {
+    "id": "未知排行榜类型",
+    "translation": "未知排行榜类型"
+  },
+  {
+    "id": "未知状态",
+    "translation": "未知状态"
+  },
+  {
+    "id": "未知的最佳类型",
+    "translation": "未知的最佳类型"
+  },
+  {
+    "id": "未知类型",
+    "translation": "未知类型"
+  },
+  {
+    "id": "未知组队类型",
+    "translation": "未知组队类型"
+  },
+  {
+    "id": "未知部门",
+    "translation": "未知部门"
+  },
+  {
+    "id": "未知错误",
+    "translation": "未知错误"
+  },
+  {
+    "id": "未获取到交易信息",
+    "translation": "未获取到交易信息"
+  },
+  {
+    "id": "未获取到俱乐部部门信息",
+    "translation": "未获取到俱乐部部门信息"
+  },
+  {
+    "id": "未获取到部门信息",
+    "translation": "未获取到部门信息"
+  },
+  {
+    "id": "未获取到部门信息, 无法自动组队",
+    "translation": "未获取到部门信息, 无法自动组队"
+  },
+  {
+    "id": "未设置部门",
+    "translation": "未设置部门"
+  },
+  {
+    "id": "未达标",
+    "translation": "未达标"
+  },
+  {
+    "id": "末级部门自动组队",
+    "translation": "末级部门自动组队"
+  },
+  {
+    "id": "机构ID错误",
+    "translation": "机构ID错误"
+  },
+  {
+    "id": "权限校验失败",
+    "translation": "权限校验失败"
+  },
+  {
+    "id": "权限错误",
+    "translation": "权限错误"
+  },
+  {
+    "id": "构建活动队伍失败",
+    "translation": "构建活动队伍失败"
+  },
+  {
+    "id": "查找成员失败",
+    "translation": "查找成员失败"
+  },
+  {
+    "id": "查询分类失败",
+    "translation": "查询分类失败"
+  },
+  {
+    "id": "查询商品失败",
+    "translation": "查询商品失败"
+  },
+  {
+    "id": "查询团队失败",
+    "translation": "查询团队失败"
+  },
+  {
+    "id": "查询心率数据失败",
+    "translation": "查询心率数据失败"
+  },
+  {
+    "id": "查询所有子分类失败",
+    "translation": "查询所有子分类失败"
+  },
+  {
+    "id": "查询推荐文章列表失败",
+    "translation": "查询推荐文章列表失败"
+  },
+  {
+    "id": "查询文章列表出错",
+    "translation": "查询文章列表出错"
+  },
+  {
+    "id": "查询文章列表失败",
+    "translation": "查询文章列表失败"
+  },
+  {
+    "id": "查询用户地址失败",
+    "translation": "查询用户地址失败"
+  },
+  {
+    "id": "查询用户失败",
+    "translation": "查询用户失败"
+  },
+  {
+    "id": "查询用户是否是俱乐部成员失败",
+    "translation": "查询用户是否是俱乐部成员失败"
+  },
+  {
+    "id": "查询用户积分失败",
+    "translation": "查询用户积分失败"
+  },
+  {
+    "id": "查询用户积分流水失败",
+    "translation": "查询用户积分流水失败"
+  },
+  {
+    "id": "查询的起始时间必须小于截至时间",
+    "translation": "查询的起始时间必须小于截至时间"
+  },
+  {
+    "id": "查询睡眠数据失败",
+    "translation": "查询睡眠数据失败"
+  },
+  {
+    "id": "查询礼品失败",
+    "translation": "查询礼品失败"
+  },
+  {
+    "id": "查询订单列表出错",
+    "translation": "查询订单列表出错"
+  },
+  {
+    "id": "查询设备出错",
+    "translation": "查询设备出错"
+  },
+  {
+    "id": "查询间隔不能超过2个月",
+    "translation": "查询间隔不能超过2个月"
+  },
+  {
+    "id": "查询间隔不能超过31天",
+    "translation": "查询间隔不能超过31天"
+  },
+  {
+    "id": "标签不能为空",
+    "translation": "标签不能为空"
+  },
+  {
+    "id": "标题不能为空",
+    "translation": "标题不能为空"
+  },
+  {
+    "id": "格式错误, 需要一个 JSON 数组",
+    "translation": "格式错误, 需要一个 JSON 数组"
+  },
+  {
+    "id": "模型转协议失败",
+    "translation": "模型转协议失败"
+  },
+  {
+    "id": "模板ID不能为空",
+    "translation": "模板ID不能为空"
+  },
+  {
+    "id": "模板不存在",
+    "translation": "模板不存在"
+  },
+  {
+    "id": "欢迎加入 %s",
+    "translation": "欢迎加入 %s"
+  },
+  {
+    "id": "此团队禁止任何人加入",
+    "translation": "此团队禁止任何人加入"
+  },
+  {
+    "id": "每公里配速不能为空",
+    "translation": "每公里配速不能为空"
+  },
+  {
+    "id": "每英里配速不能为空",
+    "translation": "每英里配速不能为空"
+  },
+  {
+    "id": "没有修改本活动的成员数据的权限",
+    "translation": "没有修改本活动的成员数据的权限"
+  },
+  {
+    "id": "没有修改的权限",
+    "translation": "没有修改的权限"
+  },
+  {
+    "id": "没有创建活动的权限",
+    "translation": "没有创建活动的权限"
+  },
+  {
+    "id": "没有创建自定义活动的权限",
+    "translation": "没有创建自定义活动的权限"
+  },
+  {
+    "id": "没有执行归档操作的权限",
+    "translation": "没有执行归档操作的权限"
+  },
+  {
+    "id": "没有找到相应最新版本",
+    "translation": "没有找到相应最新版本"
+  },
+  {
+    "id": "没有指定任何成员",
+    "translation": "没有指定任何成员"
+  },
+  {
+    "id": "没有操作的权限",
+    "translation": "没有操作的权限"
+  },
+  {
+    "id": "没有权限",
+    "translation": "没有权限"
+  },
+  {
+    "id": "没有权限, 当前管理员需要拥有 '被修改成员' 所在部门的管理权限",
+    "translation": "没有权限, 当前管理员需要拥有 '被修改成员' 所在部门的管理权限"
+  },
+  {
+    "id": "没有权限执行修改",
+    "translation": "没有权限执行修改"
+  },
+  {
+    "id": "没有权限执行此操作",
+    "translation": "没有权限执行此操作"
+  },
+  {
+    "id": "没有系统赌注",
+    "translation": "没有系统赌注"
+  },
+  {
+    "id": "没有该分类",
+    "translation": "没有该分类"
+  },
+  {
+    "id": "没有该订单",
+    "translation": "没有该订单"
+  },
+  {
+    "id": "注册失败",
+    "translation": "注册失败"
+  },
+  {
+    "id": "活动",
+    "translation": "活动"
+  },
+  {
+    "id": "活动 GPS 记录不存在",
+    "translation": "活动 GPS 记录不存在"
+  },
+  {
+    "id": "活动 ID 不能为空",
+    "translation": "活动 ID 不能为空"
+  },
+  {
+    "id": "活动: \u003cid: %d\u003e",
+    "translation": "活动: \u003cid: %d\u003e"
+  },
+  {
+    "id": "活动: \u003c标题: %s, id: %d\u003e",
+    "translation": "活动: \u003c标题: %s, id: %d\u003e"
+  },
+  {
+    "id": "活动ID不能为空",
+    "translation": "活动ID不能为空"
+  },
+  {
+    "id": "活动ID必须大于0",
+    "translation": "活动ID必须大于0"
+  },
+  {
+    "id": "活动ID必须是大于0",
+    "translation": "活动ID必须是大于0"
+  },
+  {
+    "id": "活动ID必须是大于0的整数",
+    "translation": "活动ID必须是大于0的整数"
+  },
+  {
+    "id": "活动不存在",
+    "translation": "活动不存在"
+  },
+  {
+    "id": "活动不存在或已删除",
+    "translation": "活动不存在或已删除"
+  },
+  {
+    "id": "活动不存在或已被删除",
+    "translation": "活动不存在或已被删除"
+  },
+  {
+    "id": "活动不存在或获取活动信息失败",
+    "translation": "活动不存在或获取活动信息失败"
+  },
+  {
+    "id": "活动人数不能小于0",
+    "translation": "活动人数不能小于0"
+  },
+  {
+    "id": "活动介绍不能为空",
+    "translation": "活动介绍不能为空"
+  },
+  {
+    "id": "活动创建失败",
+    "translation": "活动创建失败"
+  },
+  {
+    "id": "活动创建者ID不能为空",
+    "translation": "活动创建者ID不能为空"
+  },
+  {
+    "id": "活动即将结束",
+    "translation": "活动即将结束"
+  },
+  {
+    "id": "活动参数不能为空",
+    "translation": "活动参数不能为空"
+  },
+  {
+    "id": "活动图标不能为空",
+    "translation": "活动图标不能为空"
+  },
+  {
+    "id": "活动封面不能为空",
+    "translation": "活动封面不能为空"
+  },
+  {
+    "id": "活动已删除",
+    "translation": "活动已删除"
+  },
+  {
+    "id": "活动已开始",
+    "translation": "活动已开始"
+  },
+  {
+    "id": "活动已开始无法修改封面",
+    "translation": "活动已开始无法修改封面"
+  },
+  {
+    "id": "活动已经开始, 无法修改活动",
+    "translation": "活动已经开始, 无法修改活动"
+  },
+  {
+    "id": "活动已经结束，不允许修改",
+    "translation": "活动已经结束，不允许修改"
+  },
+  {
+    "id": "活动已结束",
+    "translation": "活动已结束"
+  },
+  {
+    "id": "活动开始后仅可修改活动介绍",
+    "translation": "活动开始后仅可修改活动介绍"
+  },
+  {
+    "id": "活动开始时间最早为明天",
+    "translation": "活动开始时间最早为明天"
+  },
+  {
+    "id": "活动成员ID不能为空",
+    "translation": "活动成员ID不能为空"
+  },
+  {
+    "id": "活动成员不存在",
+    "translation": "活动成员不存在"
+  },
+  {
+    "id": "活动提前结束",
+    "translation": "活动提前结束"
+  },
+  {
+    "id": "活动数据异常，结束时间为空",
+    "translation": "活动数据异常，结束时间为空"
+  },
+  {
+    "id": "活动未开始",
+    "translation": "活动未开始"
+  },
+  {
+    "id": "活动未结束不能导出",
+    "translation": "活动未结束不能导出"
+  },
+  {
+    "id": "活动标题不能为空",
+    "translation": "活动标题不能为空"
+  },
+  {
+    "id": "活动模板不能为空",
+    "translation": "活动模板不能为空"
+  },
+  {
+    "id": "活动正在创建中",
+    "translation": "活动正在创建中"
+  },
+  {
+    "id": "活动正在进行中, 无法修改模板里程点",
+    "translation": "活动正在进行中, 无法修改模板里程点"
+  },
+  {
+    "id": "活动正在进行中, 无法重建模板里程点",
+    "translation": "活动正在进行中, 无法重建模板里程点"
+  },
+  {
+    "id": "活动的数据来源暂不支持成绩修改",
+    "translation": "活动的数据来源暂不支持成绩修改"
+  },
+  {
+    "id": "活动结果",
+    "translation": "活动结果"
+  },
+  {
+    "id": "活动结果导出",
+    "translation": "活动结果导出"
+  },
+  {
+    "id": "活动队伍不存在",
+    "translation": "活动队伍不存在"
+  },
+  {
+    "id": "活动队伍数不能小于0",
+    "translation": "活动队伍数不能小于0"
+  },
+  {
+    "id": "活动队伍数量为 0",
+    "translation": "活动队伍数量为 0"
+  },
+  {
+    "id": "添加活动成员失败",
+    "translation": "添加活动成员失败"
+  },
+  {
+    "id": "添加活动成员失败: %v",
+    "translation": "添加活动成员失败: %v"
+  },
+  {
+    "id": "添加积分失败",
+    "translation": "添加积分失败"
+  },
+  {
+    "id": "添加评论失败",
+    "translation": "添加评论失败"
+  },
+  {
+    "id": "点赞人不能为空",
+    "translation": "点赞人不能为空"
+  },
+  {
+    "id": "点赞失败",
+    "translation": "点赞失败"
+  },
+  {
+    "id": "点赞对象不存在",
+    "translation": "点赞对象不存在"
+  },
+  {
+    "id": "点赞对象不存或已退出团队",
+    "translation": "点赞对象不存或已退出团队"
+  },
+  {
+    "id": "点赞对象不能为空",
+    "translation": "点赞对象不能为空"
+  },
+  {
+    "id": "点赞对象未在排行榜中",
+    "translation": "点赞对象未在排行榜中"
+  },
+  {
+    "id": "点赞排行榜消息失败",
+    "translation": "点赞排行榜消息失败"
+  },
+  {
+    "id": "照片大小超过限制",
+    "translation": "照片大小超过限制"
+  },
+  {
+    "id": "照片格式不支持",
+    "translation": "照片格式不支持"
+  },
+  {
+    "id": "生成令牌失败",
+    "translation": "生成令牌失败"
+  },
+  {
+    "id": "生成验证码失败",
+    "translation": "生成验证码失败"
+  },
+  {
+    "id": "生成验证码短信失败",
+    "translation": "生成验证码短信失败"
+  },
+  {
+    "id": "用户ID",
+    "translation": "用户ID"
+  },
+  {
+    "id": "用户ID不能为空",
+    "translation": "用户ID不能为空"
+  },
+  {
+    "id": "用户ID不能未空字符串",
+    "translation": "用户ID不能未空字符串"
+  },
+  {
+    "id": "用户ID无效",
+    "translation": "用户ID无效"
+  },
+  {
+    "id": "用户不在该活动中",
+    "translation": "用户不在该活动中"
+  },
+  {
+    "id": "用户不存在",
+    "translation": "用户不存在"
+  },
+  {
+    "id": "用户信息不能为空",
+    "translation": "用户信息不能为空"
+  },
+  {
+    "id": "用户分享事件广播失败",
+    "translation": "用户分享事件广播失败"
+  },
+  {
+    "id": "用户列表不能为空",
+    "translation": "用户列表不能为空"
+  },
+  {
+    "id": "用户名不能为空",
+    "translation": "用户名不能为空"
+  },
+  {
+    "id": "用户数据详情",
+    "translation": "用户数据详情"
+  },
+  {
+    "id": "用户数据（按天）导出",
+    "translation": "用户数据（按天）导出"
+  },
+  {
+    "id": "用户未加入该团队",
+    "translation": "用户未加入该团队"
+  },
+  {
+    "id": "用户积分查询失败",
+    "translation": "用户积分查询失败"
+  },
+  {
+    "id": "用户退出团队时间不能为空",
+    "translation": "用户退出团队时间不能为空"
+  },
+  {
+    "id": "申请俱乐部",
+    "translation": "申请俱乐部"
+  },
+  {
+    "id": "电话",
+    "translation": "电话"
+  },
+  {
+    "id": "男",
+    "translation": "男"
+  },
+  {
+    "id": "登录失败",
+    "translation": "登录失败"
+  },
+  {
+    "id": "登录已过期",
+    "translation": "登录已过期"
+  },
+  {
+    "id": "目标不能小于0",
+    "translation": "目标不能小于0"
+  },
+  {
+    "id": "目标状态无效",
+    "translation": "目标状态无效"
+  },
+  {
+    "id": "目标设备类型不能为空",
+    "translation": "目标设备类型不能为空"
+  },
+  {
+    "id": "睡眠数据开始时间格式出错",
+    "translation": "睡眠数据开始时间格式出错"
+  },
+  {
+    "id": "短信网关http请求失败",
+    "translation": "短信网关http请求失败"
+  },
+  {
+    "id": "短信网关解析返回值失败",
+    "translation": "短信网关解析返回值失败"
+  },
+  {
+    "id": "礼品不存在",
+    "translation": "礼品不存在"
+  },
+  {
+    "id": "积分不足，无法参与抽奖",
+    "translation": "积分不足，无法参与抽奖"
+  },
+  {
+    "id": "站点ID不能为空",
+    "translation": "站点ID不能为空"
+  },
+  {
+    "id": "站点距离必须大于0",
+    "translation": "站点距离必须大于0"
+  },
+  {
+    "id": "站点错误",
+    "translation": "站点错误"
+  },
+  {
+    "id": "活动类型错误",
+    "translation": "活动类型错误"
+  },
+  {
+    "id": "答案超出选项范围",
+    "translation": "答案超出选项范围"
+  },
+  {
+    "id": "签名错误",
+    "translation": "签名错误"
+  },
+  {
+    "id": "管理俱乐部",
+    "translation": "管理俱乐部"
+  },
+  {
+    "id": "管理员只有创建者才能删除",
+    "translation": "管理员只有创建者才能删除"
+  },
+  {
+    "id": "管理员才能修改",
+    "translation": "管理员才能修改"
+  },
+  {
+    "id": "系统内部错误",
+    "translation": "系统内部错误"
+  },
+  {
+    "id": "绑定用户设备失败",
+    "translation": "绑定用户设备失败"
+  },
+  {
+    "id": "绑定设备失败",
+    "translation": "绑定设备失败"
+  },
+  {
+    "id": "结束日期无效",
+    "translation": "结束日期无效"
+  },
+  {
+    "id": "结束日期格式有误",
+    "translation": "结束日期格式有误"
+  },
+  {
+    "id": "结束时间[%s]不能早于开始时间[%s]",
+    "translation": "结束时间[%s]不能早于开始时间[%s]"
+  },
+  {
+    "id": "结束时间不能为空",
+    "translation": "结束时间不能为空"
+  },
+  {
+    "id": "结束时间不能为零值",
+    "translation": "结束时间不能为零值"
+  },
+  {
+    "id": "结束时间不能晚于当前实际时间",
+    "translation": "结束时间不能晚于当前实际时间"
+  },
+  {
+    "id": "结束时间必须大于开始时间",
+    "translation": "结束时间必须大于开始时间"
+  },
+  {
+    "id": "结束时间必须晚于当前时间",
+    "translation": "结束时间必须晚于当前时间"
+  },
+  {
+    "id": "统计",
+    "translation": "统计"
+  },
+  {
+    "id": "置顶值必须大于 0",
+    "translation": "置顶值必须大于 0"
+  },
+  {
+    "id": "置顶失败",
+    "translation": "置顶失败"
+  },
+  {
+    "id": "联系方式",
+    "translation": "联系方式"
+  },
+  {
+    "id": "自定义赌注内容不能为空",
+    "translation": "自定义赌注内容不能为空"
+  },
+  {
+    "id": "自由输入",
+    "translation": "自由输入"
+  },
+  {
+    "id": "至少提供一个条件",
+    "translation": "至少提供一个条件"
+  },
+  {
+    "id": "至少需要一个成员排名",
+    "translation": "至少需要一个成员排名"
+  },
+  {
+    "id": "至少需要两个队伍",
+    "translation": "至少需要两个队伍"
+  },
+  {
+    "id": "获取 GPS 记录列表失败",
+    "translation": "获取 GPS 记录列表失败"
+  },
+  {
+    "id": "获取 GPS 记录失败",
+    "translation": "获取 GPS 记录失败"
+  },
+  {
+    "id": "获取game出错",
+    "translation": "获取game出错"
+  },
+  {
+    "id": "获取一级分类失败",
+    "translation": "获取一级分类失败"
+  },
+  {
+    "id": "获取上传文件失败",
+    "translation": "获取上传文件失败"
+  },
+  {
+    "id": "获取主套餐信息失败",
+    "translation": "获取主套餐信息失败"
+  },
+  {
+    "id": "获取企业风云榜失败",
+    "translation": "获取企业风云榜失败"
+  },
+  {
+    "id": "获取作者信息出错",
+    "translation": "获取作者信息出错"
+  },
+  {
+    "id": "获取修改后的活动信息失败",
+    "translation": "获取修改后的活动信息失败"
+  },
+  {
+    "id": "获取俱乐部信息失败",
+    "translation": "获取俱乐部信息失败"
+  },
+  {
+    "id": "获取俱乐部排行失败",
+    "translation": "获取俱乐部排行失败"
+  },
+  {
+    "id": "获取俱乐部部门失败",
+    "translation": "获取俱乐部部门失败"
+  },
+  {
+    "id": "获取分类失败",
+    "translation": "获取分类失败"
+  },
+  {
+    "id": "获取历史计步数据失败",
+    "translation": "获取历史计步数据失败"
+  },
+  {
+    "id": "获取参数失败",
+    "translation": "获取参数失败"
+  },
+  {
+    "id": "获取商品失败",
+    "translation": "获取商品失败"
+  },
+  {
+    "id": "获取团队信息失败",
+    "translation": "获取团队信息失败"
+  },
+  {
+    "id": "获取团队失败",
+    "translation": "获取团队失败"
+  },
+  {
+    "id": "获取团队成员信息失败",
+    "translation": "获取团队成员信息失败"
+  },
+  {
+    "id": "获取头像文件失败",
+    "translation": "获取头像文件失败"
+  },
+  {
+    "id": "获取当前排名失败",
+    "translation": "获取当前排名失败"
+  },
+  {
+    "id": "获取当前用户的排行信息失败",
+    "translation": "获取当前用户的排行信息失败"
+  },
+  {
+    "id": "获取当前用户的排行榜信息失败",
+    "translation": "获取当前用户的排行榜信息失败"
+  },
+  {
+    "id": "获取当前部门失败",
+    "translation": "获取当前部门失败"
+  },
+  {
+    "id": "获取总里程失败",
+    "translation": "获取总里程失败"
+  },
+  {
+    "id": "获取成员信息失败",
+    "translation": "获取成员信息失败"
+  },
+  {
+    "id": "获取成绩汇总失败",
+    "translation": "获取成绩汇总失败"
+  },
+  {
+    "id": "获取抽奖信息出错",
+    "translation": "获取抽奖信息出错"
+  },
+  {
+    "id": "获取指定队伍详情时, 队伍ID不能为空",
+    "translation": "获取指定队伍详情时, 队伍ID不能为空"
+  },
+  {
+    "id": "获取排行榜失败",
+    "translation": "获取排行榜失败"
+  },
+  {
+    "id": "获取排行榜点赞信息",
+    "translation": "获取排行榜点赞信息"
+  },
+  {
+    "id": "获取推荐活动封面失败",
+    "translation": "获取推荐活动封面失败"
+  },
+  {
+    "id": "获取收藏文章出错",
+    "translation": "获取收藏文章出错"
+  },
+  {
+    "id": "获取数据失败",
+    "translation": "获取数据失败"
+  },
+  {
+    "id": "获取数据源失败",
+    "translation": "获取数据源失败"
+  },
+  {
+    "id": "获取文件失败",
+    "translation": "获取文件失败"
+  },
+  {
+    "id": "获取文章出错",
+    "translation": "获取文章出错"
+  },
+  {
+    "id": "获取新团队信息失败",
+    "translation": "获取新团队信息失败"
+  },
+  {
+    "id": "获取活动 GPS 记录详情失败",
+    "translation": "获取活动 GPS 记录详情失败"
+  },
+  {
+    "id": "获取活动人数失败",
+    "translation": "获取活动人数失败"
+  },
+  {
+    "id": "获取活动信息发生错误",
+    "translation": "获取活动信息发生错误"
+  },
+  {
+    "id": "获取活动信息失败",
+    "translation": "获取活动信息失败"
+  },
+  {
+    "id": "获取活动列表失败",
+    "translation": "获取活动列表失败"
+  },
+  {
+    "id": "获取活动失败",
+    "translation": "获取活动失败"
+  },
+  {
+    "id": "获取活动成员 GPS 记录失败",
+    "translation": "获取活动成员 GPS 记录失败"
+  },
+  {
+    "id": "获取活动成员列表失败",
+    "translation": "获取活动成员列表失败"
+  },
+  {
+    "id": "获取活动成员失败",
+    "translation": "获取活动成员失败"
+  },
+  {
+    "id": "获取活动成员数失败",
+    "translation": "获取活动成员数失败"
+  },
+  {
+    "id": "获取活动成员详情失败",
+    "translation": "获取活动成员详情失败"
+  },
+  {
+    "id": "获取活动数据失败",
+    "translation": "获取活动数据失败"
+  },
+  {
+    "id": "获取活动活跃人数失败",
+    "translation": "获取活动活跃人数失败"
+  },
+  {
+    "id": "获取活动类型失败",
+    "translation": "获取活动类型失败"
+  },
+  {
+    "id": "获取活动组队失败",
+    "translation": "获取活动组队失败"
+  },
+  {
+    "id": "获取活动评论列表失败",
+    "translation": "获取活动评论列表失败"
+  },
+  {
+    "id": "获取活动详情失败",
+    "translation": "获取活动详情失败"
+  },
+  {
+    "id": "获取活动部门发生错误",
+    "translation": "获取活动部门发生错误"
+  },
+  {
+    "id": "获取活动队伍列表失败",
+    "translation": "获取活动队伍列表失败"
+  },
+  {
+    "id": "获取活动队伍失败",
+    "translation": "获取活动队伍失败"
+  },
+  {
+    "id": "获取活动队伍详情失败",
+    "translation": "获取活动队伍详情失败"
+  },
+  {
+    "id": "获取点赞列表失败",
+    "translation": "获取点赞列表失败"
+  },
+  {
+    "id": "获取点赞排行榜实榜出错",
+    "translation": "获取点赞排行榜实榜出错"
+  },
+  {
+    "id": "获取点赞排行榜空榜出错",
+    "translation": "获取点赞排行榜空榜出错"
+  },
+  {
+    "id": "获取用户信息出错",
+    "translation": "获取用户信息出错"
+  },
+  {
+    "id": "获取用户信息失败",
+    "translation": "获取用户信息失败"
+  },
+  {
+    "id": "获取用户历史最佳成绩失败",
+    "translation": "获取用户历史最佳成绩失败"
+  },
+  {
+    "id": "获取用户参与的活动失败",
+    "translation": "获取用户参与的活动失败"
+  },
+  {
+    "id": "获取用户可管理的部门失败",
+    "translation": "获取用户可管理的部门失败"
+  },
+  {
+    "id": "获取用户地址失败",
+    "translation": "获取用户地址失败"
+  },
+  {
+    "id": "获取用户失败",
+    "translation": "获取用户失败"
+  },
+  {
+    "id": "获取用户心率报数据失败",
+    "translation": "获取用户心率报数据失败"
+  },
+  {
+    "id": "获取用户心率数据失败",
+    "translation": "获取用户心率数据失败"
+  },
+  {
+    "id": "获取用户所在团队失败",
+    "translation": "获取用户所在团队失败"
+  },
+  {
+    "id": "获取用户数据失败",
+    "translation": "获取用户数据失败"
+  },
+  {
+    "id": "获取用户活动 GPS 列表失败",
+    "translation": "获取用户活动 GPS 列表失败"
+  },
+  {
+    "id": "获取用户睡眠数据失败",
+    "translation": "获取用户睡眠数据失败"
+  },
+  {
+    "id": "获取用户睡眠数据报表失败",
+    "translation": "获取用户睡眠数据报表失败"
+  },
+  {
+    "id": "获取用户管理的最末级部门失败",
+    "translation": "获取用户管理的最末级部门失败"
+  },
+  {
+    "id": "获取用户管理的根部门失败",
+    "translation": "获取用户管理的根部门失败"
+  },
+  {
+    "id": "获取用户详情失败",
+    "translation": "获取用户详情失败"
+  },
+  {
+    "id": "获取礼品列表失败",
+    "translation": "获取礼品列表失败"
+  },
+  {
+    "id": "获取管理员失败",
+    "translation": "获取管理员失败"
+  },
+  {
+    "id": "获取计步详情数据失败",
+    "translation": "获取计步详情数据失败"
+  },
+  {
+    "id": "获取订单信息失败",
+    "translation": "获取订单信息失败"
+  },
+  {
+    "id": "获取订单地址失败",
+    "translation": "获取订单地址失败"
+  },
+  {
+    "id": "获取评论失败",
+    "translation": "获取评论失败"
+  },
+  {
+    "id": "获取返回数据失败",
+    "translation": "获取返回数据失败"
+  },
+  {
+    "id": "获取部门的顶级部门失败",
+    "translation": "获取部门的顶级部门失败"
+  },
+  {
+    "id": "获取部门计步排行榜失败",
+    "translation": "获取部门计步排行榜失败"
+  },
+  {
+    "id": "获取附加套餐错误",
+    "translation": "获取附加套餐错误"
+  },
+  {
+    "id": "虚拟路线创建完成后调用活动服务更新失败",
+    "translation": "虚拟路线创建完成后调用活动服务更新失败"
+  },
+  {
+    "id": "虚拟路线活动暂时不支持导出",
+    "translation": "虚拟路线活动暂时不支持导出"
+  },
+  {
+    "id": "被修改活动不存在",
+    "translation": "被修改活动不存在"
+  },
+  {
+    "id": "被修改用户不是团队成员",
+    "translation": "被修改用户不是团队成员"
+  },
+  {
+    "id": "规模值无效",
+    "translation": "规模值无效"
+  },
+  {
+    "id": "解析回调参数失败",
+    "translation": "解析回调参数失败"
+  },
+  {
+    "id": "解析数据失败",
+    "translation": "解析数据失败"
+  },
+  {
+    "id": "解析请求数据失败",
+    "translation": "解析请求数据失败"
+  },
+  {
+    "id": "解绑设备失败",
+    "translation": "解绑设备失败"
+  },
+  {
+    "id": "计步",
+    "translation": "计步"
+  },
+  {
+    "id": "订单不存在",
+    "translation": "订单不存在"
+  },
+  {
+    "id": "订单号",
+    "translation": "订单号"
+  },
+  {
+    "id": "订单号生成失败",
+    "translation": "订单号生成失败"
+  },
+  {
+    "id": "订单号码不能为空",
+    "translation": "订单号码不能为空"
+  },
+  {
+    "id": "订单号错误",
+    "translation": "订单号错误"
+  },
+  {
+    "id": "订单应支付金额错误",
+    "translation": "订单应支付金额错误"
+  },
+  {
+    "id": "订单无法自助申请退款",
+    "translation": "订单无法自助申请退款"
+  },
+  {
+    "id": "订单状态不是预约中",
+    "translation": "订单状态不是预约中"
+  },
+  {
+    "id": "订单状态错误",
+    "translation": "订单状态错误"
+  },
+  {
+    "id": "订单联系人不能为空",
+    "translation": "订单联系人不能为空"
+  },
+  {
+    "id": "订单错误",
+    "translation": "订单错误"
+  },
+  {
+    "id": "认证失败",
+    "translation": "认证失败"
+  },
+  {
+    "id": "记录不存在",
+    "translation": "记录不存在"
+  },
+  {
+    "id": "记录不存在或已删除",
+    "translation": "记录不存在或已删除"
+  },
+  {
+    "id": "记录用户阅读失败",
+    "translation": "记录用户阅读失败"
+  },
+  {
+    "id": "记录重复",
+    "translation": "记录重复"
+  },
+  {
+    "id": "设备唯一ID无效",
+    "translation": "设备唯一ID无效"
+  },
+  {
+    "id": "设备未找到",
+    "translation": "设备未找到"
+  },
+  {
+    "id": "设置免打扰失败",
+    "translation": "设置免打扰失败"
+  },
+  {
+    "id": "设置推送角标错误",
+    "translation": "设置推送角标错误"
+  },
+  {
+    "id": "证件信息不能为空",
+    "translation": "证件信息不能为空"
+  },
+  {
+    "id": "评论ID [index: %d] 不能为空",
+    "translation": "评论ID [index: %d] 不能为空"
+  },
+  {
+    "id": "评论ID [index: %d] 格式错误",
+    "translation": "评论ID [index: %d] 格式错误"
+  },
+  {
+    "id": "评论ID不能为空",
+    "translation": "评论ID不能为空"
+  },
+  {
+    "id": "评论ID无效",
+    "translation": "评论ID无效"
+  },
+  {
+    "id": "评论不存在",
+    "translation": "评论不存在"
+  },
+  {
+    "id": "评论不存在或已删除",
+    "translation": "评论不存在或已删除"
+  },
+  {
+    "id": "评论内容不能为空",
+    "translation": "评论内容不能为空"
+  },
+  {
+    "id": "该任务由系统自动判断完成状态",
+    "translation": "该任务由系统自动判断完成状态"
+  },
+  {
+    "id": "该活动不支持评论",
+    "translation": "该活动不支持评论"
+  },
+  {
+    "id": "该部门不在活动中",
+    "translation": "该部门不在活动中"
+  },
+  {
+    "id": "请先登录",
+    "translation": "请先登录"
+  },
+  {
+    "id": "请提供拒绝认证原因",
+    "translation": "请提供拒绝认证原因"
+  },
+  {
+    "id": "请求内容不存在或已删除",
+    "translation": "请求内容不存在或已删除"
+  },
+  {
+    "id": "请求参数错误",
+    "translation": "请求参数错误"
+  },
+  {
+    "id": "请求失败",
+    "translation": "请求失败"
+  },
+  {
+    "id": "请求的资源不存在或已被删除",
+    "translation": "请求的资源不存在或已被删除"
+  },
+  {
+    "id": "请求资源不存在",
+    "translation": "请求资源不存在"
+  },
+  {
+    "id": "请重新登录",
+    "translation": "请重新登录"
+  },
+  {
+    "id": "读取上传文件失败",
+    "translation": "读取上传文件失败"
+  },
+  {
+    "id": "读取头像文件出错",
+    "translation": "读取头像文件出错"
+  },
+  {
+    "id": "调用 RPC 失败",
+    "translation": "调用 RPC 失败"
+  },
+  {
+    "id": "调用活动组队信息失败",
+    "translation": "调用活动组队信息失败"
+  },
+  {
+    "id": "调用活动队伍列表失败",
+    "translation": "调用活动队伍列表失败"
+  },
+  {
+    "id": "账户已停用",
+    "translation": "账户已停用"
+  },
+  {
+    "id": "资源不存在或已被删除",
+    "translation": "资源不存在或已被删除"
+  },
+  {
+    "id": "起始时间不能为空",
+    "translation": "起始时间不能为空"
+  },
+  {
+    "id": "超级管理员才能修改管理员权限",
+    "translation": "超级管理员才能修改管理员权限"
+  },
+  {
+    "id": "跑步",
+    "translation": "跑步"
+  },
+  {
+    "id": "跑量",
+    "translation": "跑量"
+  },
+  {
+    "id": "踩文章失败",
+    "translation": "踩文章失败"
+  },
+  {
+    "id": "身份证",
+    "translation": "身份证"
+  },
+  {
+    "id": "身份证号码错误",
+    "translation": "身份证号码错误"
+  },
+  {
+    "id": "转移失败",
+    "translation": "转移失败"
+  },
+  {
+    "id": "输入关键字为空或无效",
+    "translation": "输入关键字为空或无效"
+  },
+  {
+    "id": "达标",
+    "translation": "达标"
+  },
+  {
+    "id": "达标时间",
+    "translation": "达标时间"
+  },
+  {
+    "id": "运动类型错误",
+    "translation": "运动类型错误"
+  },
+  {
+    "id": "运动记录ID不能为空",
+    "translation": "运动记录ID不能为空"
+  },
+  {
+    "id": "连接 RPC 服务失败",
+    "translation": "连接 RPC 服务失败"
+  },
+  {
+    "id": "连接数据库失败",
+    "translation": "连接数据库失败"
+  },
+  {
+    "id": "退出失败",
+    "translation": "退出失败"
+  },
+  {
+    "id": "退款失败",
+    "translation": "退款失败"
+  },
+  {
+    "id": "选择赌注不存在",
+    "translation": "选择赌注不存在"
+  },
+  {
+    "id": "邮箱",
+    "translation": "邮箱"
+  },
+  {
+    "id": "部分成员不存在",
+    "translation": "部分成员不存在"
+  },
+  {
+    "id": "部门",
+    "translation": "部门"
+  },
+  {
+    "id": "部门: (id: %d)，",
+    "translation": "部门: (id: %d)，"
+  },
+  {
+    "id": "部门: (名称: %s, id: %d)，",
+    "translation": "部门: (名称: %s, id: %d)，"
+  },
+  {
+    "id": "部门ID不能为空",
+    "translation": "部门ID不能为空"
+  },
+  {
+    "id": "部门ID不能小于0",
+    "translation": "部门ID不能小于0"
+  },
+  {
+    "id": "部门ID必须大于0",
+    "translation": "部门ID必须大于0"
+  },
+  {
+    "id": "部门ID无效",
+    "translation": "部门ID无效"
+  },
+  {
+    "id": "部门不在可管理的范围内",
+    "translation": "部门不在可管理的范围内"
+  },
+  {
+    "id": "部门不存在",
+    "translation": "部门不存在"
+  },
+  {
+    "id": "部门只支持顶级和末级",
+    "translation": "部门只支持顶级和末级"
+  },
+  {
+    "id": "部门排行",
+    "translation": "部门排行"
+  },
+  {
+    "id": "部门排行榜目前只支持计步",
+    "translation": "部门排行榜目前只支持计步"
+  },
+  {
+    "id": "部门错误",
+    "translation": "部门错误"
+  },
+  {
+    "id": "重复点赞",
+    "translation": "重复点赞"
+  },
+  {
+    "id": "重新打开挑战出错",
+    "translation": "重新打开挑战出错"
+  },
+  {
+    "id": "门店地址",
+    "translation": "门店地址"
+  },
+  {
+    "id": "队伍ID和用户ID不能同时为空",
+    "translation": "队伍ID和用户ID不能同时为空"
+  },
+  {
+    "id": "队伍不存在",
+    "translation": "队伍不存在"
+  },
+  {
+    "id": "队伍信息不能为空",
+    "translation": "队伍信息不能为空"
+  },
+  {
+    "id": "队伍名不能为空",
+    "translation": "队伍名不能为空"
+  },
+  {
+    "id": "队伍名不能未空",
+    "translation": "队伍名不能未空"
+  },
+  {
+    "id": "附加套餐",
+    "translation": "附加套餐"
+  },
+  {
+    "id": "附加套餐不可用",
+    "translation": "附加套餐不可用"
+  },
+  {
+    "id": "附加套餐错误",
+    "translation": "附加套餐错误"
+  },
+  {
+    "id": "随机组队",
+    "translation": "随机组队"
+  },
+  {
+    "id": "需要回答所有必选题",
+    "translation": "需要回答所有必选题"
+  },
+  {
+    "id": "需要提供图片地址",
+    "translation": "需要提供图片地址"
+  },
+  {
+    "id": "需要提供用户ID",
+    "translation": "需要提供用户ID"
+  },
+  {
+    "id": "需要活动ID",
+    "translation": "需要活动ID"
+  },
+  {
+    "id": "需要登录",
+    "translation": "需要登录"
+  },
+  {
+    "id": "非俱乐部成员无法查看活动详情",
+    "translation": "非俱乐部成员无法查看活动详情"
+  },
+  {
+    "id": "非本人订单",
+    "translation": "非本人订单"
+  },
+  {
+    "id": "非法参数",
+    "translation": "非法参数"
+  },
+  {
+    "id": "非法签名",
+    "translation": "非法签名"
+  },
+  {
+    "id": "顶文章失败",
+    "translation": "顶文章失败"
+  },
+  {
+    "id": "预约已满",
+    "translation": "预约已满"
+  },
+  {
+    "id": "预约日期",
+    "translation": "预约日期"
+  },
+  {
+    "id": "预约日期错误",
+    "translation": "预约日期错误"
+  },
+  {
+    "id": "预约状态只能是成功或失败",
+    "translation": "预约状态只能是成功或失败"
+  },
+  {
+    "id": "题目ID不能为空",
+    "translation": "题目ID不能为空"
+  },
+  {
+    "id": "验证码错误",
+    "translation": "验证码错误"
+  },
+  {
+    "id": "验证码：%s (请于两分钟内输入)。【企业咕咚】",
+    "translation": "验证码：%s (请于两分钟内输入)。【企业咕咚】"
+  },
+  {
+    "id": "骑行",
+    "translation": "骑行"
+  },
+  {
+    "id": "默认部门",
+    "translation": "默认部门"
+  },
+  {
+    "id": "服务器开小差了，稍后再试吧",
+    "translation": "服务器开小差了，稍后再试吧"
+  },
+  {
+    "id": "欢迎你再次回到企业咕咚，小伙伴们都在等着你一起运动呢，赶快开启你的运动之旅吧",
+    "translation": "欢迎你再次回到企业咕咚，小伙伴们都在等着你一起运动呢，赶快开启你的运动之旅吧"
+  },
+  {
+    "id": "欢迎回来",
+    "translation": "欢迎回来"
+  },
+  {
+    "id": "企业咕咚团队",
+    "translation": "企业咕咚团队"
+  },
+  {
+    "id": "欢迎加入",
+    "translation": "欢迎加入"
+  },
+  {
+    "id": "欢迎使用企业咕咚，即刻 “创建/加入” 你的运动团队，开启全新的团队运动之旅。（企业咕咚将作为团队运动数据唯一来源，将自动同步至咕咚企业俱乐部）",
+    "translation": "欢迎使用企业咕咚，即刻 “创建/加入” 你的运动团队，开启全新的团队运动之旅。（企业咕咚将作为团队运动数据唯一来源，将自动同步至咕咚企业俱乐部）"
+  },
+  {
+    "id": "验证码：%s (请于两分钟内输入)。",
+    "translation": "验证码：%s (请于两分钟内输入)。"
+  },
+  {
+    "id": "【企业咕咚】",
+    "translation": "【企业咕咚】"
+  },
+  {
+    "id": "你的验证码",
+    "translation": "你的验证码"
+  },
+  {
+    "id": "你的验证码：%s (请于10分钟内输入)。【企业咕咚】",
+    "translation": "你的验证码：%s (请于10分钟内输入)。【企业咕咚】"
+  },
+  {
+    "id": "无效号码",
+    "translation": "无效号码"
+  },
+  {
+    "id": "团队通知",
+    "translation": "团队通知"
+  },
+  {
+    "id": "系统通知",
+    "translation": "系统通知"
+  },
+  {
+    "id": "欢迎使用企业咕咚，您已成功创建团队，更多功能介绍及常见问题解答详见 (http://t.cn/ROgZIM9)",
+    "translation": "欢迎使用企业咕咚，您已成功创建团队，更多功能介绍及常见问题解答详见 (http://t.cn/ROgZIM9)"
+  },
+  {
+    "id": "邮箱格式有误，请重新输入",
+    "translation": "邮箱格式有误，请重新输入"
+  },
+  {
+    "id": "无效的手机号码",
+    "translation": "无效的手机号码"
+  },
+  {
+    "id": "邮箱验证请求次数过于频繁, 请稍后再试",
+    "translation": "邮箱验证请求次数过于频繁, 请稍后再试"
+  },
+  {
+    "id": "活动通知",
+    "translation": "活动通知"
+  },
+  {
+    "id": "请求资源不存在",
+    "translation": "请求资源不存在"
+  },
+  {
+    "id": "<div>用户ID:{{.UserID}} <br>俱乐部ID:{{.ClubID}} <br>联系电话:{{.Mobile}} <br>APP版本:{{.AppVersion}} <br>手机品牌:{{.Brand}} <br>设备类型:{{.DeviceType}} <br>手机型号:{{.Model}} <br>网络类型:{{.NetworkType}} <br>系统类型:{{.Os}} <br>问题:{{.Content}} <br>图片地址:<br>{{range .PhotoList}} {{.}} <br> {{end}}</div>",
+    "translation": "<div>用户ID:{{.UserID}} <br>俱乐部ID:{{.ClubID}} <br>联系电话:{{.Mobile}} <br>APP版本:{{.AppVersion}} <br>手机品牌:{{.Brand}} <br>设备类型:{{.DeviceType}} <br>手机型号:{{.Model}} <br>网络类型:{{.NetworkType}} <br>系统类型:{{.Os}} <br>问题:{{.Content}} <br>图片地址:<br>{{range .PhotoList}} {{.}} <br> {{end}}</div>"
+  },
+  {
+    "id": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》即将开始",
+    "translation": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》即将开始"
+  },
+  {
+    "id": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》在%s即将开始",
+    "translation": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》在%s即将开始"
+  },
+  {
+    "id": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》即将结束",
+    "translation": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》即将结束"
+  },
+  {
+    "id": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》在%s即将结束",
+    "translation": "活动《<a class='link' href='/%d/activity/detail/%d'>%s</a>》在%s即将结束"
+  },
+  {
+    "id": "有%d位新成员加入俱乐部",
+    "translation": "有%d位新成员加入俱乐部"
+  },
+  {
+    "id": "描述长度不大于 5000 字",
+    "translation": "描述长度不大于 5000 字"
+  },
+  {
+    "id": "所属行业无效",
+    "translation": "所属行业无效"
+  },
+  {
+    "id": "团队名称长度范围是 1 ~ 64 个字",
+    "translation": "团队名称长度范围是 1 ~ 64 个字"
+  },
+  {
+    "id": "所属企业名称长度范围是 2 ~ 128 个字",
+    "translation": "所属企业名称长度范围是 2 ~ 128 个字"
+  },
+  {
+    "id": "规模值无效",
+    "translation": "规模值无效"
+  },
+  {
+    "id": "加入密码长度范围是 0 ~ 16 位",
+    "translation": "加入密码长度范围是 0 ~ 16 位"
+  },
+  {
+    "id": "阅读 {readNum} 次",
+    "translation": "阅读 {readNum} 次"
+  },
+  {
+    "id": "积分兑换",
+    "translation": "积分兑换"
+  },
+  {
+    "id": "积分抽奖",
+    "translation": "积分抽奖"
+  },
+  {
+    "id": "每日任务",
+    "translation": "每日任务"
+  },
+  {
+    "id": "订单撤销",
+    "translation": "订单撤销"
+  },
+  {
+    "id": "订单退款:",
+    "translation": "订单退款:"
+  },
+  {
+    "id": "支付已完成，处理订单状态失败，请联系客服",
+    "translation": "支付已完成，处理订单状态失败，请联系客服"
+  },
+  {
+    "id": "订单已支付，无需重复支付",
+    "translation": "订单已支付，无需重复支付"
+  },
+  {
+    "id": "订单超时撤销",
+    "translation": "订单超时撤销"
+  },
+  {
+    "id": "管理员撤销订单",
+    "translation": "管理员撤销订单"
+  },
+  {
+    "id": "LinePay 取消",
+    "translation": "LinePay 取消"
+  },
+  {
+    "id": "库存不足",
+    "translation": "库存不足"
+  },
+  {
+    "id": "积分不足",
+    "translation": "积分不足"
+  },
+  {
+    "id": "获取CulrrentClub失败",
+    "translation": "获取CulrrentClub失败"
+  },
+  {
+    "id": "邀请新用户注册:%s",
+    "translation": "邀请新用户注册:%s"
+  },
+  {
+    "id": "邀请新用户注册",
+    "translation": "邀请新用户注册"
+  },
+  {
+    "id": "注册奖励(邀请人:%s)",
+    "translation": "注册奖励(邀请人:%s)"
+  },
+  {
+    "id": "修改密码失败",
+    "translation": "修改密码失败"
+  },
+  {
+    "id": "修改手机号失败",
+    "translation": "修改手机号失败"
+  },
+  {
+    "id": "修改邮箱失败",
+    "translation": "修改邮箱失败"
+  },
+  {
+    "id": "手机号已注册",
+    "translation": "手机号已注册"
+  },
+  {
+    "id": "手机已被使用",
+    "translation": "手机已被使用"
+  },
+  {
+    "id": "新密码不能少于6位",
+    "translation": "新密码不能少于6位"
+  },
+  {
+    "id": "旧密码错误",
+    "translation": "旧密码错误"
+  },
+  {
+    "id": "昵称不能为空",
+    "translation": "昵称不能为空"
+  },
+  {
+    "id": "昵称已被使用",
+    "translation": "昵称已被使用"
+  },
+  {
+    "id": "用户名或密码错误",
+    "translation": "用户名或密码错误"
+  },
+  {
+    "id": "邮箱已注册",
+    "translation": "邮箱已注册"
+  },
+  {
+    "id": "邮箱已被使用",
+    "translation": "邮箱已被使用"
+  },
+  {
+    "id": "重置密码失败",
+    "translation": "重置密码失败"
+  },
+  {
+    "id": "至少两个字符",
+    "translation": "至少两个字符"
+  },
+  {
+    "id": "超过最大长度",
+    "translation": "超过最大长度"
+  },
+  {
+    "id": "昵称只能包含字母数字下划线减号",
+    "translation": "昵称只能包含字母数字下划线减号"
+  },
+  {
+    "id": "只能在0-23之间",
+    "translation": "只能在0-23之间"
+  },
+  {
+    "id": "生日格式错误",
+    "translation": "生日格式错误"
+  },
+  {
+    "id": "注册邀请码不存在",
+    "translation": "注册邀请码不存在"
+  },
+  {
+    "id": "到站通知",
+    "translation": "到站通知"
+  },
+  {
+    "id": "你已经到达 “%s” 活动的 “%s”",
+    "translation": "你已经到达 “%s” 活动的 “%s”"
+  },
+  {
+    "id": "完走通知",
+    "translation": "完走通知"
+  },
+  {
+    "id": "恭喜你走完 “%s” 活动的全部路程",
+    "translation": "恭喜你走完 “%s” 活动的全部路程"
+  },
+  {
+    "id": "只能在活动进行期间点赞",
+    "translation": "只能在活动进行期间点赞"
+  },
+  {
+    "id": "虚拟路线活动排行榜点赞通知",
+    "translation": "虚拟路线活动排行榜点赞通知"
+  }
+]
