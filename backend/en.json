@@ -1392,10 +1392,6 @@
     "translation":"Start time must be earlier than end time."
   },
   {
-    "id": "开始时间必须大于结束时间",
-    "translation":"Start time must be earlier than end time."
-  },
-  {
     "id": "开始时间必须小于结束时间",
     "translation":"Start time must be earlier than end time."
   },
@@ -3969,7 +3965,7 @@
   },
   {
     "id": "恭喜你走完 “%s” 活动的全部路程",
-    "translation":"You have completed the event %s. Congratulations!"
+    "translation":"You have completed the event %s. Congratulations! A certificate of completion has been issued. Tap here to view it."
   },
   {
     "id": "只能在活动进行期间点赞",
@@ -3978,6 +3974,86 @@
   {
     "id": "虚拟路线活动排行榜点赞通知",
     "translation":"A like from virtual rally event ranking"
+  },
+  {
+    "id": "歩数ランキングレース",
+    "translation": "Step ranking race"
+  },
+  {
+    "id": "GPS屋外ウォーキングレース",
+    "translation": "Outdoor GPS walking"
+  },
+  {
+    "id": "GPS屋外ランニングレース",
+    "translation": "Outdoor GPS running"
+  },
+  {
+    "id": "バーチャルラリー",
+    "translation": "Virtual rally"
+  },
+  {
+    "id": "1万歩目標達成レース",
+    "translation": "10,000 steps goal"
+  },
+  {
+    "id": "カスタマイズサービス",
+    "translation": "Customized service"
+  },
+  {
+    "id": "時間指定歩数レース",
+    "translation": "Timed step race"
+  },
+  {
+    "id": "千里の道も一歩から",
+    "translation": "A journey of a thousand miles begins with a single step."
+  },
+  {
+    "id": "出かけよう、夢広がる。",
+    "translation": "Go out, widen your horizon."
+  },
+  {
+    "id": "歩いて世界を巡ろう",
+    "translation": "Let's walk around the world."
+  },
+  {
+    "id": "継続は力なり",
+    "translation": "Persistence pays off."
+  },
+  {
+    "id": "御社専用のイベントをお作りします",
+    "translation": "Create an exclusive event for your organization."
+  },
+  {
+    "id": "WeBand会員専用",
+    "translation": "For WeBand users only."
+  },
+  {
+    "id": "バーチャルラリー（個人戦）：開催期間中、参加者が各駅の区間歩数をクリアした時間の早い順で順位が決まります。\\nバーチャルラリー（チーム戦）：開催期間中、チームの平均歩数（合計歩数/人数）で各駅の区間歩数をクリアした時間の早い順で順位が決まります。",
+    "translation": "Virtual Rally (Personal):  Participants are ranked in the order of the arrival time at each checkpoint during the event period.\\nVirtual rally (Team): Teams are ranked in order of average steps covered by the team members at each checkpoint during the event period."
+  },
+  {
+    "id": "イベントテンプレートのカスタマイズサービス",
+    "translation": "Event template customization service"
+  },
+  {
+    "id": "1、個人戦（ノーマル）：開催期間中の参加者の合計歩数（距離）の多い順で順位が決まります。\\n2、個人戦（チャレンジ）：開催期間中に、参加者が目標歩数（距離）をクリアした時間の早い順で順位が決まります。\\n3、チーム戦（ノーマル）：開催期間中のチームの平均歩数（合計歩数／人数）または平均距離（合計距離/人数）の多い順で順位が決まります。\\n4、チーム戦（チャレンジ）：開催期間中、チームの合計歩数で目標歩数（距離）をクリアした時間の早い順で順位が決まります。",
+    "translation": "1. Personal (Normal): Participants are ranked in the order of total steps (or distance) during the event.\\n2. Personal (Challenge): Participants are ranked in the order of the fastest time to reach the target steps (or distance) during the event.\\n3. Team (Normal): Teams are ranked in the order of the average steps (or distance) during the event.\\n4. Team (Challenge): Total steps in each team is tallied and teams are ranked in the order of the fastest time to reach the target steps (or distance) during the event."
+  },
+  {
+    "id": "1、個人戦（ノーマル）：開催期間中、参加者がGPSウォークで記録した累計距離の多い順で順位が決まります。\\n2、個人戦（チャレンジ）：開催期間中、参加者がGPSウォークで記録した累計距離で目標距離をクリアした時間の早い順で順位が決まります。\\n3、チーム戦（ノーマル）：開催期間中、チーム全員がGPSウォークで記録した累計距離の平均値（累計距離/人数）の多い順で順位が決まります。\\n4、チーム戦（チャレンジ）：開催期間中、チーム全員がGPSウォークで記録した累計距離の合計値で目標距離をクリアした時間の早い順で順位が決まります。",
+    "translation": "1. Personal (Normal): Participants are ranked in the order of total distance recorded by GPS walk during the event.\\n2. Personal (Challenge): Participants are ranked in the order of the fastest time to reach the target steps recorded by GPS walk during the event.\\n3. Team (Normal): Teams are ranked in the order of the average distance recorded by GPS walk during the event.\\n4、Team (Challenge): Teams are ranked in the order of the fastest time to reach the target steps which is determined by each team's total distance recorded by GPS walk during the event."
+  }
+  {
+    "id": "1、個人戦（ノーマル）：開催期間中、参加者がGPSランで記録した累計距離の多い順で順位が決まります。\\n2、個人戦（チャレンジ）：開催期間中、参加者がGPSランで記録した累計距離で目標距離をクリアした時間の早い順で順位が決まります。\\n3、チーム戦（ノーマル）：開催期間中、チーム全員がGPSランで記録した累計距離の平均値（累計距離/人数）の多い順で順位が決まります。\\n4、チーム戦（チャレンジ）：開催期間中、チーム全員がGPSランで記録した累計距離の合計値で目標距離をクリアした時間の早い順で順位が決まります。",
+    "translation": "1. Personal (Normal): Participants are ranked in the order of total distance recorded by GPS run during the event.\\n2. Personal (Challenge): Participants are ranked in the order of the fastest time to reach the target steps recorded by GPS run during the event.\\n3. Team (Normal): Teams are ranked in the order of the average distance recorded by GPS run during the event .\\n4、Team (Challenge): Teams are ranked in the order of the fastest time to reach the target steps which is determined by each team's total distance recorded by GPS run during the event."
+  },
+  {
+    "id": "1、バーチャルラリー（個人戦）：開催期間中、参加者が各駅の区間歩数をクリアした時間の早い順で順位が決まります。\\n2、バーチャルラリー（チーム戦）：開催期間中、チームの平均歩数（合計歩数/人数）で各駅の区間歩数をクリアした時間の早い順で順位が決まります。\\n3、駅間の区間歩数をクリアすると、順番に駅の表示ロックが解除されます。\\n4、部門名や所属の変更は開催中のイベントに影響しません。\\n5、イベント開催中に参加者の所属変更はグループ退会＞グループ参加の順で操作してください。新規参加者の参加日からの歩数はスコアとして算入されます。",
+    "translation": "1. Virtual Rally (Personal):  Participants are ranked in the order of the arrival time at each checkpoint during the event.\\n2. Virtual Rally (Team): Teams are ranked in the order of the arrival time at each checkpoint which is determined by each team's average steps during the event.\\n3. Upon completing the interval steps, respective checkpoint information will be unlocked for you.\\n4. Changes in department name or affiliation will not affect ongoing events.\\n5. During the event, if a participant wish to change their affliation, they must first leave the group and join again to change affliation."
+  },
+  {
+    "id": "1、参加者がWeBandで歩数を記録します。\\n2、設定されている有効時間内の歩数のみがスコアとして算入されます。\\n3、合計スコアの多い順で順位が決まります。\\n4、データはWEB管理者ページで出力することができます。",
+    "translation": "1. Participants record the number of steps they have taken with WeBand.\\n2. Only the steps taken during the set validity period is counted towards the score.\\n3. Ranking is in the order of total score.\\n4.Data can be exported  via web administrator page."
   }
 ]
   
