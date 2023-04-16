@@ -601,7 +601,7 @@
   },
   {
     "id": "你参加的 #%s# 的 #%s# 活动%d月%d日已经开始啦，快去释放你的洪荒之力吧！",
-    "translation":"Event %[2]s of %[1]s has started on %[3]d-%[4]d. Go for it!"
+    "translation":"Event %[2]s of %[1]s has started on %[3]d/%[4]d. Go for it!"
   },
   {
     "id": "你可以选择取消挑战，或者是再次向对手发起挑战，如果你不对此条消息进行处理，比赛将于2天后自动取消",
@@ -2293,7 +2293,7 @@
   },
   {
     "id": "欢迎加入 %s",
-    "translation":"Welcome to the %s!"
+    "translation":"Welcome to %s!"
   },
   {
     "id": "此团队禁止任何人加入",
@@ -4045,7 +4045,7 @@
   },
   {
     "id": "バーチャルラリー（個人戦）：開催期間中、参加者が各駅の区間歩数をクリアした時間の早い順で順位が決まります。\r\nバーチャルラリー（チーム戦）：開催期間中、チームの平均歩数（合計歩数/人数）で各駅の区間歩数をクリアした時間の早い順で順位が決まります。",
-    "translation": "Virtual Rally (Personal):  Participants are ranked in the order of the arrival time at each checkpoint during the event period.\r\nVirtual rally (Team): Teams are ranked in order of average steps covered by the team members at each checkpoint during the event period."
+    "translation": "Virtual Rally (Personal):  Participants are ranked in the order of the arrival time at each checkpoint during the event period.\r\nVirtual Rally (Team): Teams are ranked in order of average steps covered by the team members at each checkpoint during the event period."
   },
   {
     "id": "イベントテンプレートのカスタマイズサービス",
