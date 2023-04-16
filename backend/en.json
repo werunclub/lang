@@ -45,7 +45,7 @@
   },
   {
     "id": "%s在%s给你点了赞",
-    "translation":"%s liked your score in the %s."
+    "translation":"%s liked your ranking in the %s."
   },
   {
     "id": "%s拒绝了你的挑战",
@@ -65,7 +65,7 @@
   },
   {
     "id": "%s给你点了赞",
-    "translation":"%s liked your score!"
+    "translation":"%s liked your ranking!"
   },
   {
     "id": "%v已退出团队，你和对方所有的挑战活动取消啦。再去试试挑战下别的小伙伴吧！",
@@ -169,7 +169,7 @@
   },
   {
     "id": "PK点赞通知",
-    "translation":"Challenge liked"
+    "translation":"Notification for liking a challenge "
   },
   {
     "id": "PK赛时长不能超过7天",
@@ -1453,7 +1453,7 @@
   },
   {
     "id": "悄悄告诉你，“%v“给你点了赞。有人在给你加油，赶紧去看看PK战况！",
-    "translation":"%v liked you! Someone is cheering you on. Let's go see your progress now!"
+    "translation":"%v liked your challenge! Someone is cheering you on. Let's go see your progress now!"
   },
   {
     "id": "您参加的 %s 活动，已经由您的团队管理员提前结束",
@@ -1717,7 +1717,7 @@
   },
   {
     "id": "排行榜点赞通知",
-    "translation":"Like ranking notification"
+    "translation":"Notification for liking a ranking"
   },
   {
     "id": "排行榜类型无效",
@@ -3969,11 +3969,11 @@
   },
   {
     "id": "只能在活动进行期间点赞",
-    "translation":"You can only Like during the event period."
+    "translation":"You can only like it during the event period."
   },
   {
     "id": "虚拟路线活动排行榜点赞通知",
-    "translation":"A like from virtual rally event ranking"
+    "translation":"Notification for liking the ranking of the virtual rally event"
   },
   {
     "id": "开启用户状态失败",
