@@ -169,7 +169,7 @@
   },
   {
     "id": "PK点赞通知",
-    "translation":"Notification for liking a challenge "
+    "translation":"You got a new like on your challenge"
   },
   {
     "id": "PK赛时长不能超过7天",
@@ -653,7 +653,7 @@
   },
   {
     "id": "保存更新手环设置失败",
-    "translation":"Failed to update WeBandsettings"
+    "translation":"Failed to update WeBand settings"
   },
   {
     "id": "保存计步数据失败:%s",
@@ -989,7 +989,7 @@
   },
   {
     "id": "发送者ID不能为空",
-    "translation":"Please enter sender ID."
+    "translation":"Please enter sender ID"
   },
   {
     "id": "取消挑战失败",
@@ -1033,11 +1033,11 @@
   },
   {
     "id": "只能修改自定义类型活动",
-    "translation":"Only customized events can be edited."
+    "translation":"Only custom events can be edited."
   },
   {
     "id": "只能修改自定义类型的活动",
-    "translation":"Only customized events can be edited."
+    "translation":"Only custom events can be edited."
   },
   {
     "id": "只能修改自己的 GPS 记录",
@@ -1108,8 +1108,8 @@
     "translation":"Failed to retrieve article in background"
   },
   {
-    "id": "周排行榜",
-    "translation":"Weekly Ranking"
+    "id": "%s周排行榜",
+    "translation":"weekly %s Ranking"
   },
   {
     "id": "周末无法预约",
@@ -1457,11 +1457,11 @@
   },
   {
     "id": "您参加的 %s 活动，已经由您的团队管理员提前结束",
-    "translation":"Event %s you joined has been closed by admin ahead of schedule."
+    "translation":"The %s event has been closed by admin ahead of schedule."
   },
   {
     "id": "您参加的活动 %s 已经由您的团队管理员删除",
-    "translation":"Event %s you joined has been deleted by admin."
+    "translation":"The %s event has been deleted by admin."
   },
   {
     "id": "您发起的活动 %s 创建失败",
@@ -1585,7 +1585,7 @@
   },
   {
     "id": "手环用户每日任务获取积分加成",
-    "translation":"WeBand Member Bonus"
+    "translation":"WeBand user bonus"
   },
   {
     "id": "批量删除评论失败",
@@ -1717,7 +1717,7 @@
   },
   {
     "id": "排行榜点赞通知",
-    "translation":"Notification for liking a ranking"
+    "translation":"You got a new like on your ranking"
   },
   {
     "id": "排行榜类型无效",
@@ -1948,8 +1948,8 @@
     "translation":"There's no reservation record."
   },
   {
-    "id": "日排行榜",
-    "translation":"Daily ranking"
+    "id": "%s日排行榜",
+    "translation":"daily %s ranking"
   },
   {
     "id": "日期无效",
@@ -2068,8 +2068,8 @@
     "translation":"The maximum pace does not comply with the rules."
   },
   {
-    "id": "月排行榜",
-    "translation":"Monthly ranking"
+    "id": "%s月排行榜",
+    "translation":"monthly %s ranking"
   },
   {
     "id": "服务器内部错误",
@@ -3953,7 +3953,7 @@
   },
   {
     "id": "到站通知",
-    "translation":"You have arrived at the checkpoint."
+    "translation":"You have arrived at the checkpoint"
   },
   {
     "id": "你已经到达 “%s” 活动的 “%s”",
@@ -3961,7 +3961,7 @@
   },
   {
     "id": "完走通知",
-    "translation":"You have completed the race."
+    "translation":"You have completed the race"
   },
   {
     "id": "恭喜你走完 “%s” 活动的全部路程",
@@ -3973,7 +3973,7 @@
   },
   {
     "id": "虚拟路线活动排行榜点赞通知",
-    "translation":"Notification for liking the ranking of the virtual rally event"
+    "translation":"You got a new like on your ranking of the V-Rally event"
   },
   {
     "id": "开启用户状态失败",
@@ -4013,7 +4013,7 @@
   },
   {
     "id": "カスタマイズサービス",
-    "translation": "Customized service"
+    "translation": "Custom event"
   },
   {
     "id": "時間指定歩数レース",
@@ -4021,27 +4021,27 @@
   },
   {
     "id": "千里の道も一歩から",
-    "translation": "A journey of a thousand miles begins with a single step."
+    "translation": "A journey of a thousand miles begins with a single step"
   },
   {
     "id": "出かけよう、夢広がる。",
-    "translation": "Go out, widen your horizon."
+    "translation": "Go out, widen your horizon"
   },
   {
     "id": "歩いて世界を巡ろう",
-    "translation": "Let's walk around the world."
+    "translation": "Let's walk around the world"
   },
   {
     "id": "継続は力なり",
-    "translation": "Persistence pays off."
+    "translation": "Persistence pays off"
   },
   {
     "id": "御社専用のイベントをお作りします",
-    "translation": "Create an exclusive event for your organization."
+    "translation": "Create an exclusive event for your organization"
   },
   {
     "id": "WeBand会員専用",
-    "translation": "For WeBand users only."
+    "translation": "For WeBand users only"
   },
   {
     "id": "バーチャルラリー（個人戦）：開催期間中、参加者が各駅の区間歩数をクリアした時間の早い順で順位が決まります。\r\nバーチャルラリー（チーム戦）：開催期間中、チームの平均歩数（合計歩数/人数）で各駅の区間歩数をクリアした時間の早い順で順位が決まります。",
@@ -4070,5 +4070,17 @@
   {
     "id": "1、参加者がWeBandで歩数を記録します。\n2、設定されている有効時間内の歩数のみがスコアとして算入されます。\n3、合計スコアの多い順で順位が決まります。\n4、データはWEB管理者ページで出力することができます。",
     "translation": "1. Participants record the number of steps they have taken with WeBand.\n2. Only the steps taken during the set validity period is counted towards the score.\n3. Ranking is in the order of total score.\n4.Data can be exported  via web administrator page."
+  },
+  {
+    "id": "计步s",
+    "translation":"steps"
+  },
+  {
+    "id": "跑步s",
+    "translation":"run"
+  },
+  {
+    "id": "健走s",
+    "translation":"walk"
   }
 ]
