@@ -425,7 +425,7 @@
   },
   {
     "id": "个人成绩排名",
-    "translation":"Individual Ranking"
+    "translation":"Individual ranking"
   },
   {
     "id": "个人赛全体成员",
@@ -1109,7 +1109,7 @@
   },
   {
     "id": "%s周排行榜",
-    "translation":"weekly %s Ranking"
+    "translation":"weekly %s ranking"
   },
   {
     "id": "周末无法预约",
@@ -1441,7 +1441,7 @@
   },
   {
     "id": "总排行榜",
-    "translation":"Overall Ranking"
+    "translation":"Overall ranking"
   },
   {
     "id": "总步数",
@@ -4037,7 +4037,7 @@
   },
   {
     "id": "御社専用のイベントをお作りします",
-    "translation": "Create an exclusive event for your organization"
+    "translation": "Create your own exclusive event"
   },
   {
     "id": "WeBand会員専用",
@@ -4045,7 +4045,7 @@
   },
   {
     "id": "バーチャルラリー（個人戦）：開催期間中、参加者が各駅の区間歩数をクリアした時間の早い順で順位が決まります。\r\nバーチャルラリー（チーム戦）：開催期間中、チームの平均歩数（合計歩数/人数）で各駅の区間歩数をクリアした時間の早い順で順位が決まります。",
-    "translation": "Virtual Rally (Personal):  Participants are ranked in the order of the arrival time at each checkpoint during the event period.\r\nVirtual Rally (Team): Teams are ranked in order of average steps covered by the team members at each checkpoint during the event period."
+    "translation": "Virtual rally (Personal):  Participants are ranked in the order of the arrival time at each checkpoint during the event period.\r\nVirtual rally (Team): Teams are ranked in order of average steps covered by the team members at each checkpoint during the event period."
   },
   {
     "id": "イベントテンプレートのカスタマイズサービス",
@@ -4057,19 +4057,19 @@
   },
   {
     "id": "1、個人戦（ノーマル）：開催期間中、参加者がGPSウォークで記録した累計距離の多い順で順位が決まります。\n2、個人戦（チャレンジ）：開催期間中、参加者がGPSウォークで記録した累計距離で目標距離をクリアした時間の早い順で順位が決まります。\n3、チーム戦（ノーマル）：開催期間中、チーム全員がGPSウォークで記録した累計距離の平均値（累計距離/人数）の多い順で順位が決まります。\n4、チーム戦（チャレンジ）：開催期間中、チーム全員がGPSウォークで記録した累計距離の合計値で目標距離をクリアした時間の早い順で順位が決まります。",
-    "translation": "1. Personal (Normal): Participants are ranked in the order of total distance recorded by GPS walk during the event.\n2. Personal (Challenge): Participants are ranked in the order of the fastest time to reach the target steps recorded by GPS walk during the event.\n3. Team (Normal): Teams are ranked in the order of the average distance recorded by GPS walk during the event.\n4、Team (Challenge): Teams are ranked in the order of the fastest time to reach the target steps which is determined by each team's total distance recorded by GPS walk during the event."
+    "translation": "1. Personal (Normal): Participants are ranked in the order of total distance recorded by GPS walk during the event.\n2. Personal (Challenge): Participants are ranked in the order of the fastest time to reach the target steps recorded by GPS walk during the event.\n3. Team (Normal): Teams are ranked in the order of the average distance recorded by GPS walk during the event.\n4. Team (Challenge): Teams are ranked in the order of the fastest time to reach the target steps which is determined by each team's total distance recorded by GPS walk during the event."
   },
   {
     "id": "1、個人戦（ノーマル）：開催期間中、参加者がGPSランで記録した累計距離の多い順で順位が決まります。\n2、個人戦（チャレンジ）：開催期間中、参加者がGPSランで記録した累計距離で目標距離をクリアした時間の早い順で順位が決まります。\n3、チーム戦（ノーマル）：開催期間中、チーム全員がGPSランで記録した累計距離の平均値（累計距離/人数）の多い順で順位が決まります。\n4、チーム戦（チャレンジ）：開催期間中、チーム全員がGPSランで記録した累計距離の合計値で目標距離をクリアした時間の早い順で順位が決まります。",
-    "translation": "1. Personal (Normal): Participants are ranked in the order of total distance recorded by GPS run during the event.\n2. Personal (Challenge): Participants are ranked in the order of the fastest time to reach the target steps recorded by GPS run during the event.\n3. Team (Normal): Teams are ranked in the order of the average distance recorded by GPS run during the event .\n4、Team (Challenge): Teams are ranked in the order of the fastest time to reach the target steps which is determined by each team's total distance recorded by GPS run during the event."
+    "translation": "1. Personal (Normal): Participants are ranked in the order of total distance recorded by GPS run during the event.\n2. Personal (Challenge): Participants are ranked in the order of the fastest time to reach the target steps recorded by GPS run during the event.\n3. Team (Normal): Teams are ranked in the order of the average distance recorded by GPS run during the event .\n4. Team (Challenge): Teams are ranked in the order of the fastest time to reach the target steps which is determined by each team's total distance recorded by GPS run during the event."
   },
   {
     "id": "1、バーチャルラリー（個人戦）：開催期間中、参加者が各駅の区間歩数をクリアした時間の早い順で順位が決まります。\n2、バーチャルラリー（チーム戦）：開催期間中、チームの平均歩数（合計歩数/人数）で各駅の区間歩数をクリアした時間の早い順で順位が決まります。\n3、駅間の区間歩数をクリアすると、順番に駅の表示ロックが解除されます。\n4、部門名や所属の変更は開催中のイベントに影響しません。\n5、イベント開催中に参加者の所属変更はグループ退会＞グループ参加の順で操作してください。新規参加者の参加日からの歩数はスコアとして算入されます。",
-    "translation": "1. Virtual Rally (Personal):  Participants are ranked in the order of the arrival time at each checkpoint during the event.\n2. Virtual Rally (Team): Teams are ranked in the order of the arrival time at each checkpoint which is determined by each team's average steps during the event.\n3. Upon completing the interval steps, respective checkpoint information will be unlocked for you.\n4. Changes in department name or affiliation will not affect ongoing events.\n5. During the event, if a participant wish to change their affliation, they must first leave the group and join again to change affliation."
+    "translation": "1. Virtual rally (Personal): Participants are ranked in the order of the arrival time at each checkpoint during the event.\n2. Virtual rally (Team): Teams are ranked in the order of the arrival time at each checkpoint which is determined by each team's average steps during the event.\n3. Upon completing the interval steps, respective checkpoint information will be unlocked for you.\n4. Changes in department name or affiliation will not affect ongoing events.\n5. During the event, if a participant wish to change their affiliation, they must first leave the group and join again to change affliation."
   },
   {
     "id": "1、参加者がWeBandで歩数を記録します。\n2、設定されている有効時間内の歩数のみがスコアとして算入されます。\n3、合計スコアの多い順で順位が決まります。\n4、データはWEB管理者ページで出力することができます。",
-    "translation": "1. Participants record the number of steps they have taken with WeBand.\n2. Only the steps taken during the set validity period is counted towards the score.\n3. Ranking is in the order of total score.\n4.Data can be exported  via web administrator page."
+    "translation": "1. Participants record the number of steps they have taken with WeBand.\n2. Only the steps taken during the set validity period is counted towards the score.\n3. Ranking is in the order of total score.\n4. Data can be exported  via web administrator page."
   },
   {
     "id": "计步s",
