@@ -4082,5 +4082,17 @@
   {
     "id": "健走s",
     "translation": "健走"
+  },
+  {
+    "id": "歩数",
+    "translation":"计步"
+  },
+  {
+    "id": "ラン",
+    "translation":"跑步"
+  },
+  {
+    "id": "ウォーク",
+    "translation": "健走"
   }
 ]
