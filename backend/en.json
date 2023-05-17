@@ -4102,5 +4102,9 @@
   {
     "id": "現在のプランではご利用頂けません。プランをアップグレードすると機能制限が解除され、マイルのAmazonギフト券交換などの特典もご利用頂けます。",
     "translation":"The current plan does not allow you to use this feature. By upgrading your plan, you can unlock feature restrictions and also enjoy benefits such as exchanging miles for Amazon gift cards."
+  },
+  {
+    "id": "活动点赞通知",
+    "translation":"You got a new like on your ranking"
   }
 ]
