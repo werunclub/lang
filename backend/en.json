@@ -389,7 +389,7 @@
   },
   {
     "id": "不能修改超级管理员权限",
-    "translation":"Cannot change super admin permissions."
+    "translation":"Cannot change group owner privileges."
   },
   {
     "id": "不能删除创建人",
@@ -405,7 +405,7 @@
   },
   {
     "id": "不能添加超级管理员",
-    "translation":"Cannot add a super administrator"
+    "translation":"Cannot add a group owner"
   },
   {
     "id": "不能转移给自己",
@@ -3433,7 +3433,7 @@
   },
   {
     "id": "超级管理员才能修改管理员权限",
-    "translation":"Only super admin can edit administrative privileges."
+    "translation":"Only group owber can edit administrative privileges."
   },
   {
     "id": "跑步",
