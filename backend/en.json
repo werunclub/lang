@@ -1457,11 +1457,11 @@
   },
   {
     "id": "您参加的 %s 活动，已经由您的团队管理员提前结束",
-    "translation":"The %s event has been closed by admin ahead of schedule."
+    "translation":"The event, %s，has been closed by admin ahead of schedule."
   },
   {
     "id": "您参加的活动 %s 已经由您的团队管理员删除",
-    "translation":"The %s event has been deleted by admin."
+    "translation":"The event, %s, has been deleted by admin."
   },
   {
     "id": "您发起的活动 %s 创建失败",
@@ -1485,7 +1485,7 @@
   },
   {
     "id": "您的团队 “%s” 有新成员 “%s” 加入",
-    "translation":"A new nember %[2]s has joined your group %[1]s."
+    "translation":"A new nember, %[2]s, has joined your group %[1]s."
   },
   {
     "id": "您的团队 “%s” 有新成员 “%s” 加入到 “%s” 部门",
@@ -1497,7 +1497,7 @@
   },
   {
     "id": "成员: %s 已经退出团队",
-    "translation":"Member %s has left the group."
+    "translation":"Member, %s, has left the group."
   },
   {
     "id": "成员不存在",
@@ -1505,7 +1505,7 @@
   },
   {
     "id": "成员不存在或已退出",
-    "translation":"Member %s does not exist or has left the group."
+    "translation":"Member, %s, does not exist or has left the group."
   },
   {
     "id": "成员不存在或获取用户失败",
@@ -1525,7 +1525,7 @@
   },
   {
     "id": "成员退出",
-    "translation":"Member has left the group."
+    "translation":"Member has left the group"
   },
   {
     "id": "成绩",
