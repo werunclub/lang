@@ -4106,5 +4106,9 @@
   {
     "id": "活动点赞通知",
     "translation":"You got a new like on your ranking"
+  },
+  {
+    "id": "ピン留めは100人までできます",
+    "translation":"You can only pin up to 100 members"
   }
 ]
