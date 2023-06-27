@@ -4108,7 +4108,11 @@
     "translation":"You got a new like on your ranking"
   },
   {
-    "id": "ピン留めは100人までできます",
-    "translation":"You can only pin up to 100 members"
+    "id": "フォローできる上限人数に達しました",
+    "translation":"The maximum number of followers has been reached"
+  },
+  {
+    "id": "既にフォローされています",
+    "translation":"Already following"
   }
 ]
