@@ -69,7 +69,7 @@
   },
   {
     "id": "%v已退出团队，你和对方所有的挑战活动取消啦。再去试试挑战下别的小伙伴吧！",
-    "translation":"All events with %v have been cancelled since he/she has left the group. Pick another member to compete!"
+    "translation":"All challenges against %v have been cancelled since they have left the group. Pick another member to compete!"
   },
   {
     "id": "./res/tutorial_email.html",
@@ -4114,5 +4114,25 @@
   {
     "id": "既にフォローされています",
     "translation":"Already following"
+  },
+  {
+    "id": "超级管理员请使用web管理员后台将权限转让给其他成员，或者从团队管理菜单里删除此团队。",
+    "translation":"Please transfer the owner role to another member or delete your group in the Group management"
+  },
+  {
+    "id": "オーナーのみ削除できます",
+    "translation":"Only owner can delete group"
+  },
+  {
+    "id": "まだ参加中のメンバーがいます",
+    "translation":"There are other members inside the group"
+  },
+  {
+    "id": "開催中または開催待ちのイベントがあります",
+    "translation":"There is an event in progress or beginning soon"
+  },
+  {
+    "id": "グループ削除に失敗しました",
+    "translation":"Failed to delete group"
   }
 ]
