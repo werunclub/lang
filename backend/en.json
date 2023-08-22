@@ -3793,11 +3793,11 @@
   },
   {
     "id": "团队名称长度范围是 1 ~ 64 个字",
-    "translation":"Company name can be up to 64 characters."
+    "translation":"Group name must be within 64 characters"
   },
   {
     "id": "所属企业名称长度范围是 2 ~ 128 个字",
-    "translation":"The company name must be between 2 and 128 characters in length."
+    "translation":"Company name must be within 200 characters"
   },
   {
     "id": "规模值无效",
