@@ -4134,5 +4134,21 @@
   {
     "id": "グループ削除に失敗しました",
     "translation":"Failed to delete group"
+  },
+  {
+    "id": "目标赛挑战成功通知",
+    "translation":"You have achieved the goal in the Challenge match"
+  },
+  {
+    "id": "恭喜你在 #%s# 活动中挑战 #%s%s# 成功！点击这里查看大家的排行榜吧。",
+    "translation":"Congratulations! You have achieved your goal of #%[2]s%[3]s# in the #%[1]s# event! Tap to see everyone's ranking now."
+  },
+  {
+    "id": "歩",
+    "translation":"Steps"
+  },
+  {
+    "id": "万歩",
+    "translation":"0K Steps"
   }
 ]
