@@ -3960,6 +3960,10 @@
     "translation":"You have arrived at the %[2]s of event %[1]s."
   },
   {
+    "id": "你已经到达 #%s# 活动的  #%s#（%s）。完成率是%s。点击这里查看大家的排行榜吧。",
+    "translation": "You have arrived at the #%[2]s# (%[3]s) of event #%[1]s#. Percentage of completion is %[4]s. Tap to see everyone's ranking now."
+  },
+  {
     "id": "完走通知",
     "translation":"You have completed the race"
   },
