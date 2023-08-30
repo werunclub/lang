@@ -2480,8 +2480,8 @@
     "translation":"Event has ended."
   },
   {
-    "id": "活动开始后仅可修改活动介绍",
-    "translation":"After an event has started, only the event description can be modified."
+    "id": "活动开始后仅可修改标题和活动介绍",
+    "translation":"Once the event has started, only title and description can be changed."
   },
   {
     "id": "活动开始时间最早为明天",
