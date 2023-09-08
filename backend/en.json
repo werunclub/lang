@@ -597,11 +597,11 @@
   },
   {
     "id": "你参加的 #%s# 活动已经结束啦！最新活动战报火热出炉，赶快去看看你的排名！",
-    "translation":"Event %s has ended. Great job. Check your ranking now!"
+    "translation":"Event #%s# has ended. Great job. Check your ranking now!"
   },
   {
     "id": "你参加的 #%s# 的 #%s# 活动%d月%d日已经开始啦，快去释放你的洪荒之力吧！",
-    "translation":"Event %[2]s of %[1]s has started on %[3]d/%[4]d. Go for it!"
+    "translation":"Event #%[2]s# of #%[1]s# has started on %[3]d/%[4]d. Go for it!"
   },
   {
     "id": "你可以选择取消挑战，或者是再次向对手发起挑战，如果你不对此条消息进行处理，比赛将于2天后自动取消",
@@ -1485,11 +1485,11 @@
   },
   {
     "id": "您的团队 “%s” 有新成员 “%s” 加入",
-    "translation":"A new nember, %[2]s, has joined your group %[1]s."
+    "translation":"A new nember #%[2]s# has joined your group #%[1]s#."
   },
   {
     "id": "您的团队 “%s” 有新成员 “%s” 加入到 “%s” 部门",
-    "translation":"A new member %[2]s has joined the department %[3]s of your group %[1]s."
+    "translation":"A new member #%[2]s# has joined the department #%[3]s# of your group #%[1]s#."
   },
   {
     "id": "您的积分已不足",
@@ -3957,7 +3957,7 @@
   },
   {
     "id": "你已经到达 “%s” 活动的 “%s”",
-    "translation":"You have arrived at the %[2]s of event %[1]s."
+    "translation":"You have arrived at the #%[2]s# of event #%[1]s#."
   },
   {
     "id": "你已经到达 #%s# 活动的  #%s#（%s）。完成率是%s。点击这里查看大家的排行榜吧。",
@@ -3969,7 +3969,7 @@
   },
   {
     "id": "恭喜你走完 “%s” 活动的全部路程",
-    "translation":"You have completed the event %s. Congratulations! A certificate of completion has been issued. Tap here to view it."
+    "translation":"You have completed the event #%s#. Congratulations! A certificate of completion has been issued. Tap here to view it."
   },
   {
     "id": "只能在活动进行期间点赞",
