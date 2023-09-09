@@ -13,15 +13,15 @@
   },
   {
     "id": "%s 活动即将结束，赶快上传数据吧",
-    "translation":"%s event will end soon. Sync your data now."
+    "translation":"Event #%s# will end soon. Sync your data now."
   },
   {
     "id": "%s 活动结束了, 你获得了第 %d 名",
-    "translation":"%s Event has ended. You ranked %d."
+    "translation":"Event #%s# has ended. You ranked %d."
   },
   {
     "id": "%s 活动结束了，你的团队获得了第 %d",
-    "translation":"%s event has ended. Your team ranked #%d."
+    "translation":"Event #%s# has ended. Your team ranked #%d."
   },
   {
     "id": "%s%d分",
