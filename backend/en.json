@@ -1681,11 +1681,11 @@
   },
   {
     "id": "挑战已被取消",
-    "translation":"The Challenge has been canceled."
+    "translation":"The Challenge has been canceled"
   },
   {
     "id": "挑战已被拒绝",
-    "translation":"The Challenge has been rejected."
+    "translation":"The Challenge has been rejected"
   },
   {
     "id": "挑战已被接受不能取消",
@@ -2457,11 +2457,11 @@
   },
   {
     "id": "活动已删除",
-    "translation":"Event has been deleted."
+    "translation":"Event has been deleted"
   },
   {
     "id": "活动已开始",
-    "translation":"Event has started."
+    "translation":"Event has started"
   },
   {
     "id": "活动已开始无法修改封面",
@@ -3861,7 +3861,7 @@
   },
   {
     "id": "获取CulrrentClub失败",
-    "translation":"Failed to retrieve CulrrentClub"
+    "translation":"Failed to retrieve CulrrentClub."
   },
   {
     "id": "邀请新用户注册:%s",
@@ -3877,15 +3877,15 @@
   },
   {
     "id": "修改密码失败",
-    "translation":"Failed to change password"
+    "translation":"Failed to change password."
   },
   {
     "id": "修改手机号失败",
-    "translation":"Failed to change mobile number"
+    "translation":"Failed to change mobile number."
   },
   {
     "id": "修改邮箱失败",
-    "translation":"Failed to change email address"
+    "translation":"Failed to change email address."
   },
   {
     "id": "手机号已注册",
@@ -3913,7 +3913,7 @@
   },
   {
     "id": "用户名或密码错误",
-    "translation":"Account or password is incorrect"
+    "translation":"Account or password is incorrect."
   },
   {
     "id": "邮箱已注册",
@@ -3925,15 +3925,15 @@
   },
   {
     "id": "重置密码失败",
-    "translation":"Failed to reset password"
+    "translation":"Failed to reset password."
   },
   {
     "id": "至少两个字符",
-    "translation":"At least two characters"
+    "translation":"At least two characters."
   },
   {
     "id": "超过最大长度",
-    "translation":"Exceeded the maximum limit of characters"
+    "translation":"Exceeded the maximum limit of characters."
   },
   {
     "id": "昵称只能包含字母数字下划线减号",
@@ -3941,11 +3941,11 @@
   },
   {
     "id": "只能在0-23之间",
-    "translation":"Can only be between 0 and 23"
+    "translation":"Can only be between 0 and 23."
   },
   {
     "id": "生日格式错误",
-    "translation":"Date of birth format error"
+    "translation":"Date of birth format error."
   },
   {
     "id": "注册邀请码不存在",
