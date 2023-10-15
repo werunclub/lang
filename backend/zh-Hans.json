@@ -4162,5 +4162,53 @@
   {
     "id": "恭喜今天你在 #%s# 活动中挑战  #%s%s# 达标成功！点击这里查看大家的排行榜吧。",
     "translation":"恭喜今天你在 #%s# 活动中挑战  #%s%s# 达标成功！点击这里查看大家的排行榜吧。"
+  },
+  {
+    "id": "Notify.OrerPayFinish.Title",
+    "translation": "支付成功通知"
+  },
+  {
+    "id": "Notify.OrerPayFinish.Body",
+    "translation": "您购买的“{giftName}”已完成支付，我们会尽快为您准备商品，请留意发货通知。"
+  },
+  {
+    "id": "Notify.OrerPayFinish.Link",
+    "translation": "https://h5.werunclub.net/user-bean/index.html#/orders"
+  },
+  {
+    "id": "Notify.OrderDelivered.Title",
+    "translation": "已发货通知"
+  },
+  {
+    "id": "Notify.OrderDelivered.Body",
+    "translation": "您购买的“{giftName}”已发货，请注意查收。"
+  },
+  {
+    "id": "Notify.OrderDelivered.Link",
+    "translation": "https://h5.werunclub.net/user-bean/index.html#/orders"
+  },
+  {
+    "id": "Notify.OrderCanceled.Title",
+    "translation": "订单取消成功"
+  },
+  {
+    "id": "Notify.OrderCanceled.Body",
+    "translation": "已为您取消“{giftName}”的订单，积分将在24小时内返还。"
+  },
+  {
+    "id": "Notify.OrderCanceled.Link",
+    "translation": "https://h5.werunclub.net/user-bean/index.html#/orders"
+  },
+  {
+    "id": "Notify.OrderRefunded.Title",
+    "translation": "退款成功"
+  },
+  {
+    "id": "Notify.OrderRefunded.Body",
+    "translation": "您购买的“{giftName}”的订单已退款成功。"
+  },
+  {
+    "id": "Notify.OrderRefunded.Link",
+    "translation": "https://h5.werunclub.net/user-bean/index.html#/orders"
   }
 ]

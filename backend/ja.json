@@ -1285,7 +1285,7 @@
   },
   {
     "id": "已支付",
-    "translation": "支払完了"
+    "translation": "支払い完了"
   },
   {
     "id": "已经失败的任务才能被重新打开",
@@ -3833,11 +3833,11 @@
   },
   {
     "id": "支付已完成，处理订单状态失败，请联系客服",
-    "translation": "決済完了。注文データの処理に失敗しました。窓口までお問い合わせください。"
+    "translation": "支払い完了。注文データの処理に失敗しました。窓口までお問い合わせください。"
   },
   {
     "id": "订单已支付，无需重复支付",
-    "translation": "すでに決済完了です"
+    "translation": "すでに支払い完了です"
   },
   {
     "id": "订单超时撤销",
@@ -4162,5 +4162,53 @@
   {
     "id": "恭喜今天你在 #%s# 活动中挑战  #%s%s# 达标成功！点击这里查看大家的排行榜吧。",
     "translation":"おめでとうございます。「%s」イベントで毎日の目標「%s%s」を達成しました。今すぐランキングを確認しよう。"
+  },
+  {
+    "id": "Notify.OrerPayFinish.Title",
+    "translation": "お支払い完了のお知らせ"
+  },
+  {
+    "id": "Notify.OrerPayFinish.Body",
+    "translation": "ご注文いただいた「{giftName}」のお支払手続きが完了しました。発送の準備に入らせていただきますので、商品の発送まで今しばらくお待ちください。"
+  },
+  {
+    "id": "Notify.OrerPayFinish.Link",
+    "translation": "https://h5.werunclub.net/user-bean/index.html#/orders"
+  },
+  {
+    "id": "Notify.OrderDelivered.Title",
+    "translation": "発送完了のお知らせ"
+  },
+  {
+    "id": "Notify.OrderDelivered.Body",
+    "translation": "ご注文いただいた「{giftName}」を発送いたしました。到着までもうしばらくお待ちください。"
+  },
+  {
+    "id": "Notify.OrderDelivered.Link",
+    "translation": "https://h5.werunclub.net/user-bean/index.html#/orders"
+  },
+  {
+    "id": "Notify.OrderCanceled.Title",
+    "translation": "ご注文キャンセル完了のお知らせ"
+  },
+  {
+    "id": "Notify.OrderCanceled.Body",
+    "translation": "「{giftName}」のご注文キャンセルが完了しました。使用済みマイルが24時間以内に返還されますので今しばらくお待ちください。"
+  },
+  {
+    "id": "Notify.OrderCanceled.Link",
+    "translation": "https://h5.werunclub.net/user-bean/index.html#/orders"
+  },
+  {
+    "id": "Notify.OrderRefunded.Title",
+    "translation": "返金完了のお知らせ"
+  },
+  {
+    "id": "Notify.OrderRefunded.Body",
+    "translation": "「{giftName}」の返金手続きが完了しました。"
+  },
+  {
+    "id": "Notify.OrderRefunded.Link",
+    "translation": "https://h5.werunclub.net/user-bean/index.html#/orders"
   }
 ]
