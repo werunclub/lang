@@ -1117,7 +1117,7 @@
   },
   {
     "id": "咕咚昵称",
-    "translation": "WeRUNニックネーム"
+    "translation": "WeRUNユーザー名"
   },
   {
     "id": "商品不存在",
@@ -1241,7 +1241,7 @@
   },
   {
     "id": "姓名",
-    "translation": "氏名"
+    "translation": "表示名"
   },
   {
     "id": "存储设备信息失败",

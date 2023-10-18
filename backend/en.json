@@ -1117,7 +1117,7 @@
   },
   {
     "id": "咕咚昵称",
-    "translation":"WeRUN Nickname"
+    "translation":"WeRUN Username"
   },
   {
     "id": "商品不存在",
@@ -1241,7 +1241,7 @@
   },
   {
     "id": "姓名",
-    "translation":"Full name"
+    "translation":"Group alias"
   },
   {
     "id": "存储设备信息失败",
@@ -4165,11 +4165,11 @@
   },
   {
     "id": "Notify.OrerPayFinish.Title",
-    "translation": "お支払い完了のお知らせ"
+    "translation": "Payment Notification"
   },
   {
     "id": "Notify.OrerPayFinish.Body",
-    "translation": "ご注文いただいた「{giftName}」のお支払手続きが完了しました。発送の準備に入らせていただきますので、商品の発送まで今しばらくお待ちください。"
+    "translation": "We've succesfully received your payment for the order {giftName}. Please wait while we prepare your order for shipment."
   },
   {
     "id": "Notify.OrerPayFinish.Link",
@@ -4177,11 +4177,11 @@
   },
   {
     "id": "Notify.OrderDelivered.Title",
-    "translation": "発送完了のお知らせ"
+    "translation": "Order Shipped Notification"
   },
   {
     "id": "Notify.OrderDelivered.Body",
-    "translation": "ご注文いただいた「{giftName}」を発送いたしました。到着までもうしばらくお待ちください。"
+    "translation": "Your item {giftName} is on its way and will be delivered to your place soon."
   },
   {
     "id": "Notify.OrderDelivered.Link",
@@ -4189,11 +4189,11 @@
   },
   {
     "id": "Notify.OrderCanceled.Title",
-    "translation": "ご注文キャンセル完了のお知らせ"
+    "translation": "Order Canceled Notification "
   },
   {
     "id": "Notify.OrderCanceled.Body",
-    "translation": "「{giftName}」のご注文キャンセルが完了しました。使用済みマイルが24時間以内に返還されますので今しばらくお待ちください。"
+    "translation": "Your order {giftName} has been canceled. Your miles will be returned to within 24 hours."
   },
   {
     "id": "Notify.OrderCanceled.Link",
@@ -4201,11 +4201,11 @@
   },
   {
     "id": "Notify.OrderRefunded.Title",
-    "translation": "返金完了のお知らせ"
+    "translation": "Order Refunded Notification"
   },
   {
     "id": "Notify.OrderRefunded.Body",
-    "translation": "「{giftName}」の返金手続きが完了しました。"
+    "translation": "We've issued your refund for the item {giftName}."
   },
   {
     "id": "Notify.OrderRefunded.Link",
