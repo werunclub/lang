@@ -4217,11 +4217,7 @@
   },
   {
     "id": "Mail.Notify.OrderPayFinish.Body",
-    "translation": "-|
-    订单已完成支付，请尽快发货
-    订单号：#{orderNo}
-    购买商品：#{giftName}
-    购买数量：#{giftCount}"
+    "translation": "订单已完成支付，请尽快发货。订单号：#{orderNo} 购买商品：#{giftName} 购买数量：#{giftCount}"
   },
   {
     "id": "Mail.Notify.OrderDelivered.Title",
