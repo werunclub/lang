@@ -4210,5 +4210,37 @@
   {
     "id": "Notify.OrderRefunded.Link",
     "translation": "https://h5.werunclub.net/user-bean/index.html#/orders"
+  },
+  {
+    "id": "Mail.Notify.OrderPayFinish.Title",
+    "translation": "お支払い完了のお知らせ"
+  },
+  {
+    "id": "Mail.Notify.OrderPayFinish.Body",
+    "translation": "订单已完成支付，请尽快发货。订单号：#{orderNo} 购买商品：#{giftName} 购买数量：#{giftCount}"
+  },
+  {
+    "id": "Mail.Notify.OrderDelivered.Title",
+    "translation": "発送完了のお知らせ"
+  },
+  {
+    "id": "Mail.Notify.OrderDelivered.Body",
+    "translation": "订单 #{orderNo} 已发货，请尽快处理"
+  },
+  {
+    "id": "Mail.Notify.OrderCanceled.Title",
+    "translation": "ご注文キャンセル完了のお知らせ"
+  },
+  {
+    "id": "Mail.Notify.OrderCanceled.Body",
+    "translation": "订单 #{orderNo} 已取消，请尽快处理"
+  },
+  {
+    "id": "Mail.Notify.OrderRefunded.Title",
+    "translation": "返金完了のお知らせ"
+  },
+  {
+    "id": "Mail.Notify.OrderRefunded.Body",
+    "translation": "订单 #{orderNo} 已退款，请尽快处理"
   }
 ]
