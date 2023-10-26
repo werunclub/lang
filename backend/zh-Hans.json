@@ -4213,34 +4213,34 @@
   },
   {
     "id": "Mail.Notify.OrderPayFinish.Title",
-    "translation": "订单支付成功通知"
+    "translation": "[WeRUN]订单支付成功通知-{orderNo}-{giftName}"
   },
   {
     "id": "Mail.Notify.OrderPayFinish.Body",
-    "translation": "订单已完成支付，请尽快发货。订单号：#{orderNo} 购买商品：#{giftName} 购买数量：#{giftCount}"
+    "translation": "订单已完成支付，请尽快发货后，用Club-admin完成发货操作。订单号：#{orderNo} 购买商品：#{giftName} 购买数量：#{giftCount}。"
   },
   {
     "id": "Mail.Notify.OrderDelivered.Title",
-    "translation": "订单已发货通知"
+    "translation": "[WeRUN]订单已发货通知-{orderNo}-{giftName}"
   },
   {
     "id": "Mail.Notify.OrderDelivered.Body",
-    "translation": "订单 #{orderNo} 已发货，请尽快处理"
+    "translation": "订单 #{orderNo} 已发货。"
   },
   {
     "id": "Mail.Notify.OrderCanceled.Title",
-    "translation": "订单取消成功通知"
+    "translation": "[WeRUN]订单取消成功通知-{orderNo}-{giftName}"
   },
   {
     "id": "Mail.Notify.OrderCanceled.Body",
-    "translation": "订单 #{orderNo} 已取消，请尽快处理"
+    "translation": "订单 #{orderNo} 已取消，请尽快用Club-admin完成退款操作。"
   },
   {
     "id": "Mail.Notify.OrderRefunded.Title",
-    "translation": "订单退款成功通知"
+    "translation": "[WeRUN]订单退款成功通知-{orderNo}-{giftName}"
   },
   {
     "id": "Mail.Notify.OrderRefunded.Body",
-    "translation": "订单 #{orderNo} 已退款，请尽快处理"
+    "translation": "订单 #{orderNo} 已退款，请尽快通知用户。"
   }
 ]
