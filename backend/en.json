@@ -1185,11 +1185,11 @@
   },
   {
     "id": "团队按平均数据排名",
-    "translation":"Rank by average data of the group"
+    "translation":"Team Average Ranking"
   },
   {
     "id": "团队按总数据排序",
-    "translation":"Rank by total data of the group"
+    "translation":"Team Overall Ranking"
   },
   {
     "id": "团队管理员",
@@ -4242,5 +4242,9 @@
   {
     "id": "Mail.Notify.OrderRefunded.Body",
     "translation": "订单 #{orderNo} 已退款，请尽快处理"
+  },
+  {
+    "id": "队伍",
+    "translation": "Team"
   }
 ]
