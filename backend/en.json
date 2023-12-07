@@ -4129,7 +4129,7 @@
   },
   {
     "id": "まだ参加中のメンバーがいます",
-    "translation":"There are other members inside the group"
+    "translation":"There are other members inside the group. Please delete all members other than the owner and try again."
   },
   {
     "id": "開催中または開催待ちのイベントがあります",
