@@ -4254,5 +4254,49 @@
   {
     "id": "结束日期不能大于当前日期",
     "translation": "结束日期不能大于当前日期"
+  },
+  {
+    "id": "定时发送时间格式错误",
+    "translation": "定时发送时间格式错误"
+  },
+  {
+    "id": "定时发送只能在 1 小时后执行",
+    "translation": "定时发送只能在 1 小时后执行"
+  },
+  {
+    "id": "只能设置认证成功(state: 1)或者认证失败(state: 2)",
+    "translation": "只能设置认证成功(state: 1)或者认证失败(state: 2)"
+  },
+  {
+    "id": "部门不存在",
+    "translation": "部门不存在"
+  },
+  {
+    "id": "消息当前状态不允许修改",
+    "translation": "消息当前状态不允许修改"
+  },
+  {
+    "id": "dry_run_to 不能为空",
+    "translation": "收信人不能为空"
+  },
+  {
+    "id": "dry_run_to 不能超过 10 个",
+    "translation": "收信人不能超过 10 个"
+  },
+  {
+    "id": "dry_run_to 中存在无效用户",
+    "translation": "收信人中存在无效用户"
+  },
+  {
+    "id": "clubId required",
+    "translation": "必须有clubId"
+  },
+  {
+    "id": "MonthStart required",
+    "translation": "必须有MonthStart"
+  },
+  {
+    "id": "WeekStart required",
+    "translation": "必须有WeekStart"
   }
 ]

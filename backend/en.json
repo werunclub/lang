@@ -4254,5 +4254,49 @@
   {
     "id": "结束日期不能大于当前日期",
     "translation": "End date cannot be after today."
+  },
+  {
+    "id": "定时发送时间格式错误",
+    "translation": "Timed delivery time format error"
+  },
+  {
+    "id": "定时发送只能在 1 小时后执行",
+    "translation": "Timed delivery can only be executed after 1 hour"
+  },
+  {
+    "id": "只能设置认证成功(state: 1)或者认证失败(state: 2)",
+    "translation": "Only authentication success (state: 1) or authentication failure (state: 2) can be set."
+  },
+  {
+    "id": "部门不存在",
+    "translation": "Department does not exist."
+  },
+  {
+    "id": "消息当前状态不允许修改",
+    "translation": "The current state of the message is not allowed to be modified."
+  },
+  {
+    "id": "dry_run_to 不能为空",
+    "translation": "Send to cannot be empty."
+  },
+  {
+    "id": "dry_run_to 不能超过 10 个",
+    "translation": "Send to cannot be more than 10."
+  },
+  {
+    "id": "dry_run_to 中存在无效用户",
+    "translation": "Invalid user exists in Send to."
+  },
+  {
+    "id": "clubId required",
+    "translation": "clubId required"
+  },
+  {
+    "id": "MonthStart required",
+    "translation": "MonthStart required"
+  },
+  {
+    "id": "WeekStart required",
+    "translation": "WeekStart required"
   }
 ]

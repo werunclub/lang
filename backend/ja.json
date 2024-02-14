@@ -4254,5 +4254,49 @@
   {
     "id": "结束日期不能大于当前日期",
     "translation": "終了日は今日以前にしてください"
+  },
+  {
+    "id": "定时发送时间格式错误",
+    "translation": "スケジュール配信の時刻形式エラー"
+  },
+  {
+    "id": "定时发送只能在 1 小时后执行",
+    "translation": "配信時刻は1時間後に設定してください"
+  },
+  {
+    "id": "只能设置认证成功(state: 1)或者认证失败(state: 2)",
+    "translation": "認証成功（状態：1）または認証失敗（状態：2）のみ設定可能です"
+  },
+  {
+    "id": "部门不存在",
+    "translation": "部門が存在しない"
+  },
+  {
+    "id": "消息当前状态不允许修改",
+    "translation": "メッセージの現在の状態は変更できません"
+  },
+  {
+    "id": "dry_run_to 不能为空",
+    "translation": "送信先を空にできない"
+  },
+  {
+    "id": "dry_run_to 不能超过 10 个",
+    "translation": "送信先を10件未満に指定してください"
+  },
+  {
+    "id": "dry_run_to 中存在无效用户",
+    "translation": "送信先に無効なユーザーが存在します"
+  },
+  {
+    "id": "clubId required",
+    "translation": "clubId 必須"
+  },
+  {
+    "id": "MonthStart required",
+    "translation": "MonthStart 必須"
+  },
+  {
+    "id": "WeekStart required",
+    "translation": "WeekStart 必須"
   }
 ]
