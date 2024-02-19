@@ -4273,19 +4273,19 @@
   },
   {
     "id": "消息当前状态不允许修改",
-    "translation": "メッセージの現在の状態は変更できません"
+    "translation": "メッセージのステータスは変更できません"
   },
   {
     "id": "dry_run_to 不能为空",
-    "translation": "送信先を空にできない"
+    "translation": "送信先を設定してください"
   },
   {
     "id": "dry_run_to 不能超过 10 个",
-    "translation": "送信先を10件未満に指定してください"
+    "translation": "送信先を10人以下になるように設定してください"
   },
   {
     "id": "dry_run_to 中存在无效用户",
-    "translation": "送信先に無効なユーザーが存在します"
+    "translation": "送信先に無効なユーザーが設定されています"
   },
   {
     "id": "clubId required",
