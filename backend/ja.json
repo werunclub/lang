@@ -4298,5 +4298,21 @@
   {
     "id": "WeekStart required",
     "translation": "WeekStart 必須"
+  },
+  {
+    "id": "消息已发送",
+    "translation": "メッセージを送りました"
+  },
+  {
+    "id": "消息已发送，无法撤销",
+    "translation": "送信済みメッセージは取り消しできません"
+  },
+  {
+    "id": "消息已发送，无法修改",
+    "translation": "送信済みメッセージは修正できません"
+  },
+  {
+    "id": "消息已发送，不允许重复发送",
+    "translation": "送信済みメッセージは再度送信できません"
   }
 ]

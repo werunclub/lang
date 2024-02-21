@@ -4298,5 +4298,21 @@
   {
     "id": "WeekStart required",
     "translation": "WeekStart required"
+  },
+  {
+    "id": "消息已发送",
+    "translation": "The message was sent."
+  },
+  {
+    "id": "消息已发送，无法撤销",
+    "translation": "The message was sent and cannot be undone."
+  },
+  {
+    "id": "消息已发送，无法修改",
+    "translation": "The message has been sent and cannot be modified."
+  },
+  {
+    "id": "消息已发送，不允许重复发送",
+    "translation": "The message has been sent, repeat sending is not allowed."
   }
 ]

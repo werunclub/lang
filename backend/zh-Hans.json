@@ -4298,5 +4298,21 @@
   {
     "id": "WeekStart required",
     "translation": "必须有WeekStart"
+  },
+  {
+    "id": "消息已发送",
+    "translation": "消息已发送"
+  },
+  {
+    "id": "消息已发送，无法撤销",
+    "translation": "消息已发送，无法撤销"
+  },
+  {
+    "id": "消息已发送，无法修改",
+    "translation": "消息已发送，无法修改"
+  },
+  {
+    "id": "消息已发送，不允许重复发送",
+    "translation": "消息已发送，不允许重复发送"
   }
 ]
