@@ -3701,11 +3701,11 @@
   },
   {
     "id": "欢迎加入",
-    "translation":"Welcome aboard!"
+    "translation":"Welcome to WeRUN"
   },
   {
     "id": "欢迎使用企业咕咚，即刻 “创建/加入” 你的运动团队，开启全新的团队运动之旅。（企业咕咚将作为团队运动数据唯一来源，将自动同步至咕咚企业俱乐部）",
-    "translation":"Welcome aboard! Join a group in the menu now to start working on your health with your friends! You can also create your own group by selecting Create group."
+    "translation":"Welcome aboard! Join a group now using slide menu to start walking with your friends! You can also create your own group by selecting Create group."
   },
   {
     "id": "验证码：%s (请于两分钟内输入)。",
@@ -4314,5 +4314,125 @@
   {
     "id": "消息已发送，不允许重复发送",
     "translation": "The message has been sent, repeat sending is not allowed."
+  },
+  {
+    "id": "ItemName length error",
+    "translation": "ItemNameは64文字まで設定可能です"
+  },
+  {
+    "id": "MaxLength error",
+    "translation": "MaxLengthは255まで設定可能です"
+  },
+  {
+    "id": "CharactersAllowed error",
+    "translation": "入力可能文字 error"
+  },
+  {
+    "id": "DefaultValue length error",
+    "translation": "DefaultValue length error"
+  },
+  {
+    "id": "DefaultValue character error",
+    "translation": "DefaultValue character error"
+  },
+  {
+    "id": "Explanation length error",
+    "translation": "Explanation length error"
+  },
+  {
+    "id": "Selections are not nedded",
+    "translation": "Selections are not nedded"
+  },
+  {
+    "id": "MaxLength error",
+    "translation": "MaxLength error"
+  },
+  {
+    "id": "DefaultValue error",
+    "translation": "DefaultValue error"
+  },
+  {
+    "id": "CharactersAllowed error",
+    "translation": "CharactersAllowed error"
+  },
+  {
+    "id": "Explanation error",
+    "translation": "Explanation error"
+  },
+  {
+    "id": "Selections are not nedded",
+    "translation": "Selections are not nedded"
+  },
+  {
+    "id": "MaxLength error",
+    "translation": "MaxLength error"
+  },
+  {
+    "id": "CharactersAllowed error",
+    "translation": "CharactersAllowed error"
+  },
+  {
+    "id": "Explanation length error",
+    "translation": "Explanation length error"
+  },
+  {
+    "id": "There is no selections",
+    "translation": "There is no selections"
+  },
+  {
+    "id": "selection.ClubID error",
+    "translation": "selection.ClubID error"
+  },
+  {
+    "id": "Selection.ItemID error",
+    "translation": "Selection.ItemID error"
+  },
+  {
+    "id": "Selection.DispName length error",
+    "translation": "Selection.DispName length error"
+  },
+  {
+    "id": "Selection.DispOrder error",
+    "translation": "Selection.DispOrder error"
+  },
+  {
+    "id": "Selection.Value length error",
+    "translation": "Selection.Value length error"
+  },
+  {
+    "id": "DefaltValue is not in Selection.Value",
+    "translation": "DefaltValue is not in Selection.Value"
+  },
+  {
+    "id": "ItemType error",
+    "translation": "ItemType error"
+  },
+  {
+    "id": "DispOrder error",
+    "translation": "DispOrder error"
+  },
+  {
+    "id": "StringValue length error",
+    "translation": "StringValue length error"
+  },
+  {
+    "id": "StringValue character error",
+    "translation": "StringValue character error"
+  },
+  {
+    "id": "SelectionValue error",
+    "translation": "SelectionValue error"
+  },
+  {
+    "id": "The maximum number of items has been reached",
+    "translation": "The maximum number of items has been reached"
+  },
+  {
+    "id": "This item has member info",
+    "translation": "This item has member info"
+  },
+  {
+    "id": "Item not found",
+    "translation": "Item not found"
   }
 ]
