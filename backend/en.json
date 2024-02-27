@@ -4316,123 +4316,95 @@
     "translation": "The message has been sent, repeat sending is not allowed."
   },
   {
-    "id": "ItemName length error",
-    "translation": "ItemNameは64文字まで設定可能です"
+    "id": "ItemName length error (max %d characters)",
+    "translation": "Title can be up to %d characters."
   },
   {
-    "id": "MaxLength error",
-    "translation": "MaxLengthは255まで設定可能です"
+    "id": "MaxLength error (max %d characters)",
+    "translation": "Max characters can be up to %d"
   },
   {
     "id": "CharactersAllowed error",
-    "translation": "入力可能文字 error"
+    "translation": "Character limit setting code error."
   },
   {
     "id": "DefaultValue length error",
-    "translation": "DefaultValue length error"
+    "translation": "The default value of characters exceeds the maximum number of characters."
   },
   {
     "id": "DefaultValue character error",
-    "translation": "DefaultValue character error"
+    "translation": "The default value uses a character outside the limit."
   },
   {
-    "id": "Explanation length error",
-    "translation": "Explanation length error"
-  },
-  {
-    "id": "Selections are not nedded",
-    "translation": "Selections are not nedded"
-  },
-  {
-    "id": "MaxLength error",
-    "translation": "MaxLength error"
+    "id": "Explanation length error (max %d characters)",
+    "translation": "The item description can be up to %d characters."
   },
   {
     "id": "DefaultValue error",
-    "translation": "DefaultValue error"
-  },
-  {
-    "id": "CharactersAllowed error",
-    "translation": "CharactersAllowed error"
-  },
-  {
-    "id": "Explanation error",
-    "translation": "Explanation error"
-  },
-  {
-    "id": "Selections are not nedded",
-    "translation": "Selections are not nedded"
-  },
-  {
-    "id": "MaxLength error",
-    "translation": "MaxLength error"
-  },
-  {
-    "id": "CharactersAllowed error",
-    "translation": "CharactersAllowed error"
-  },
-  {
-    "id": "Explanation length error",
-    "translation": "Explanation length error"
+    "translation": "Default value setting code error."
   },
   {
     "id": "There is no selections",
-    "translation": "There is no selections"
+    "translation": "Selection list is not set"
   },
   {
     "id": "selection.ClubID error",
-    "translation": "selection.ClubID error"
+    "translation": "The ClubID of the selection list does not match."
   },
   {
     "id": "Selection.ItemID error",
-    "translation": "Selection.ItemID error"
+    "translation": "ItemID in selection list does not match."
   },
   {
-    "id": "Selection.DispName length error",
-    "translation": "Selection.DispName length error"
+    "id": "Selection.DispName length error (max %d characters)",
+    "translation": "List item names in the selection list are limited to %d characters."
   },
   {
     "id": "Selection.DispOrder error",
-    "translation": "Selection.DispOrder error"
+    "translation": "The value of the display order of the selection list is incorrect."
   },
   {
-    "id": "Selection.Value length error",
-    "translation": "Selection.Value length error"
+    "id": "Selection.Value length error (max %d characters)",
+    "translation": "The list item value in the selection list is limited to %d characters."
   },
   {
     "id": "DefaltValue is not in Selection.Value",
-    "translation": "DefaltValue is not in Selection.Value"
+    "translation": "Default Value is not in Selection."
   },
   {
     "id": "ItemType error",
-    "translation": "ItemType error"
+    "translation": "ItemType does not match the set value."
   },
   {
     "id": "DispOrder error",
-    "translation": "DispOrder error"
+    "translation": "Display order Set value error."
   },
   {
     "id": "StringValue length error",
-    "translation": "StringValue length error"
+    "translation": "Input value is too long."
   },
   {
-    "id": "StringValue character error",
-    "translation": "StringValue character error"
+    "id": "StringValue is restricted to numeric characters",
+    "translation": "Only half-width numeric characters (including decimal point) can be entered."
+  },
+  {
+    "id": "StringValue is restricted to alphanumeric symbols",
+    "translation": "Only one-byte alphanumeric symbols are allowed."
   },
   {
     "id": "SelectionValue error",
-    "translation": "SelectionValue error"
+    "translation": "Unset list item value."
   },
   {
     "id": "The maximum number of items has been reached",
-    "translation": "The maximum number of items has been reached"
+    "translation": "The maximum number of items has been reached."
   },
   {
     "id": "This item has member info",
-    "translation": "This item has member info"
+    "translation": "Cannot change because data has already been registered."
   },
   {
     "id": "Item not found",
-    "translation": "Item not found"
+    "translation": "Item setting not found."
   }
 ]

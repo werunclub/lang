@@ -4314,5 +4314,97 @@
   {
     "id": "消息已发送，不允许重复发送",
     "translation": "消息已发送，不允许重复发送"
+  },
+  {
+    "id": "ItemName length error (max %d characters)",
+    "translation": "标题最多可包含 %d 个字符"
+  },
+  {
+    "id": "MaxLength error (max %d characters)",
+    "translation": "最大字符数可设置为 %d 个字符"
+  },
+  {
+    "id": "CharactersAllowed error",
+    "translation": "字符限制 设置代码错误"
+  },
+  {
+    "id": "DefaultValue length error",
+    "translation": "默认值中的字符数超过了最大字符数"
+  },
+  {
+    "id": "DefaultValue character error",
+    "translation": "默认值中使用了不允许使用的字符"
+  },
+  {
+    "id": "Explanation length error (max %d characters)",
+    "translation": "描述最多可包含 %d 个字符"
+  },
+  {
+    "id": "DefaultValue error",
+    "translation": "默认值 设置代码错误"
+  },
+  {
+    "id": "There is no selections",
+    "translation": "未配置选择列表"
+  },
+  {
+    "id": "selection.ClubID error",
+    "translation": "选择列表的ClubID不匹配"
+  },
+  {
+    "id": "Selection.ItemID error",
+    "translation": "选择列表的ItemID不匹配"
+  },
+  {
+    "id": "Selection.DispName length error (max %d characters)",
+    "translation": "选择列表中的列表项名称最多为 %d 个字符"
+  },
+  {
+    "id": "Selection.DispOrder error",
+    "translation": "选择列表的显示顺序值不正确"
+  },
+  {
+    "id": "Selection.Value length error (max %d characters)",
+    "translation": "选择列表中的列表项的值最多为 %d 个字符"
+  },
+  {
+    "id": "DefaltValue is not in Selection.Value",
+    "translation": "默认值不在选择列表中"
+  },
+  {
+    "id": "ItemType error",
+    "translation": "类型与设定值不匹配"
+  },
+  {
+    "id": "DispOrder error",
+    "translation": "显示顺序 配置错误"
+  },
+  {
+    "id": "StringValue length error",
+    "translation": "输入值过长"
+  },
+  {
+    "id": "StringValue is restricted to numeric characters",
+    "translation": "只能输入半角数字和字符（包括小数点）"
+  },
+  {
+    "id": "StringValue is restricted to alphanumeric symbols",
+    "translation": "只能输入半角字母，数字和符号"
+  },
+  {
+    "id": "SelectionValue error",
+    "translation": "未配置的列表项数值"
+  },
+  {
+    "id": "The maximum number of items has been reached",
+    "translation": "已达到可设置的最大数量"
+  },
+  {
+    "id": "This item has member info",
+    "translation": "配置内容已被成员使用，无法修改"
+  },
+  {
+    "id": "Item not found",
+    "translation": "未找到该数据项的配置内容"
   }
 ]
