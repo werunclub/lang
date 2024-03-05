@@ -4406,5 +4406,41 @@
   {
     "id": "Item not found",
     "translation": "未找到该数据项的配置内容"
+  },
+  {
+    "id": "club_id 不能为空",
+    "translation": "club_id 不能为空"
+  },
+  {
+    "id": "title 长度不能超过 64",
+    "translation": "title 长度不能超过 64"
+  },
+  {
+    "id": "content 长度不能超过 500",
+    "translation": "content 长度不能超过 500"
+  },
+  {
+    "id": "push_content 长度不能超过 200",
+    "translation": "push_content 长度不能超过 200"
+  },
+  {
+    "id": "url 长度不能超过 200",
+    "translation": "url 长度不能超过 200"
+  },
+  {
+    "id": "message_id 不能为空",
+    "translation": "message_id 不能为空"
+  },
+  {
+    "id": "search_keyword 长度不能超过30",
+    "translation": "search_keyword 长度不能超过30"
+  },
+  {
+    "id": "is_dry_run 为 true 时, dry_run_to 不能为空",
+    "translation": "is_dry_run 为 true 时, dry_run_to 不能为空"
+  },
+  {
+    "id": "dry_run_to 长度不能超过 10",
+    "translation": "dry_run_to 长度不能超过 10"
   }
 ]

@@ -4406,5 +4406,41 @@
   {
     "id": "Item not found",
     "translation": "項目の設定が見つかりません"
+  },
+  {
+    "id": "club_id 不能为空",
+    "translation": "club_id が必須です"
+  },
+  {
+    "id": "title 长度不能超过 64",
+    "translation": "title が 64 文字以下でなければいけません"
+  },
+  {
+    "id": "content 长度不能超过 500",
+    "translation": "content が 500 文字以下でなければいけません"
+  },
+  {
+    "id": "push_content 长度不能超过 200",
+    "translation": "push_content が 200 文字以下でなければいけません"
+  },
+  {
+    "id": "url 长度不能超过 200",
+    "translation": "url が 200 文字以下でなければいけません"
+  },
+  {
+    "id": "message_id 不能为空",
+    "translation": "Message ID が必須です"
+  },
+  {
+    "id": "search_keyword 长度不能超过30",
+    "translation": "search_keyword 30 文字以下でなければいけません"
+  },
+  {
+    "id": "is_dry_run 为 true 时, dry_run_to 不能为空",
+    "translation": "is_dry_run が true の時に, dry_run_to が必須です"
+  },
+  {
+    "id": "dry_run_to 长度不能超过 10",
+    "translation": "最大10件までの送信先を指定できます"
   }
 ]

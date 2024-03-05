@@ -4406,5 +4406,41 @@
   {
     "id": "Item not found",
     "translation": "Item setting not found."
+  },
+  {
+    "id": "club_id 不能为空",
+    "translation": "club_id cannot be null."
+  },
+  {
+    "id": "title 长度不能超过 64",
+    "translation": "title length must not exceed 64."
+  },
+  {
+    "id": "content 长度不能超过 500",
+    "translation": "content length must not exceed 500."
+  },
+  {
+    "id": "push_content 长度不能超过 200",
+    "translation": "push_content length must not exceed 200."
+  },
+  {
+    "id": "url 长度不能超过 200",
+    "translation": "url length must not exceed 200."
+  },
+  {
+    "id": "message_id 不能为空",
+    "translation": "message_id cannot be null."
+  },
+  {
+    "id": "search_keyword 长度不能超过30",
+    "translation": "search_keyword length must not exceed 30."
+  },
+  {
+    "id": "is_dry_run 为 true 时, dry_run_to 不能为空",
+    "translation": "If is_dry_run is true, dry_run_to cannot be empty."
+  },
+  {
+    "id": "dry_run_to 长度不能超过 10",
+    "translation": "Up to 10 destinations can be specified."
   }
 ]
