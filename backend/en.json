@@ -1733,7 +1733,7 @@
   },
   {
     "id": "搜索团队失败",
-    "translation":"Group search failed"
+    "translation":"Group search failed."
   },
   {
     "id": "操作用户不是团队成员",
@@ -1741,7 +1741,7 @@
   },
   {
     "id": "操作者ID不能为空",
-    "translation":"Please enter the operator's user ID."
+    "translation":"Please enter the operator's ID."
   },
   {
     "id": "操作者用户ID不能为空",
@@ -4442,5 +4442,17 @@
   {
     "id": "dry_run_to 长度不能超过 10",
     "translation": "Up to 10 destinations can be specified."
+  },
+  {
+    "id": "获取部门数量失败",
+    "translation": "Failed to get number of departments."
+  },
+  {
+    "id": "此团队只能加入末级部门",
+    "translation": "This team can only join the buttom department."
+  },
+  {
+    "id": "请在你所在店铺下选择运动项目后再加入",
+    "translation": "Please select the event under your store before joining!"
   }
 ]
