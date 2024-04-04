@@ -4449,10 +4449,14 @@
   },
   {
     "id": "此团队只能加入末级部门",
-    "translation": "This team can only join the buttom department."
+    "translation": "This group can only join the buttom department."
   },
   {
     "id": "请在你所在店铺下选择运动项目后再加入",
     "translation": "Please select a course under your hotel (department)!"
+  },
+  {
+    "id": "您没有权限执行此操作",
+    "translation": "You do not have permission to perform this operation."
   }
 ]
