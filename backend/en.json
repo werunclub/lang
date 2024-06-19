@@ -4458,5 +4458,17 @@
   {
     "id": "您没有权限执行此操作",
     "translation": "You do not have permission to perform this operation."
+  },
+  {
+    "id": "Can not change ItemType.",
+    "translation": "Cannot change the type of items."
+  },
+  {
+    "id": "Can not change CharactersAllowed.",
+    "translation": "Text constraints on items cannot be changed."
+  },
+  {
+    "id": "Can not change Selection.Value (%s is not found).",
+    "translation": "Cannot change the list content of the list item (%s is not found)."
   }
 ]

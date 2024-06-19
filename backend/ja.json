@@ -4458,5 +4458,17 @@
   {
     "id": "您没有权限执行此操作",
     "translation": "この操作を実行する権限がありません"
+  },
+  {
+    "id": "Can not change ItemType.",
+    "translation": "項目タイプを変更することはできません"
+  },
+  {
+    "id": "Can not change CharactersAllowed.",
+    "translation": "文字制限を変更することはできません"
+  },
+  {
+    "id": "Can not change Selection.Value (%s is not found).",
+    "translation": "リスト項目の設定内容を変更できません（ %s が見つかりません）"
   }
 ]

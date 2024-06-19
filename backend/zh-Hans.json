@@ -4458,5 +4458,17 @@
   {
     "id": "您没有权限执行此操作",
     "translation": "您没有权限执行此操作"
+  },
+  {
+    "id": "Can not change ItemType.",
+    "translation": "不能改变数据项的类型"
+  },
+  {
+    "id": "Can not change CharactersAllowed.",
+    "translation": "不能改变数据项的文字限制条件"
+  },
+  {
+    "id": "Can not change Selection.Value (%s is not found).",
+    "translation": "不能改变列表数据项的列表内容（缺失内容：%s）"
   }
 ]
