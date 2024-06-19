@@ -4469,6 +4469,6 @@
   },
   {
     "id": "Can not change Selection.Value (%s is not found).",
-    "translation": "Cannot reduce the number of list items."
+    "translation": "Cannot reduce the number of list items (%s)."
   }
 ]
