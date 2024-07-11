@@ -201,7 +201,7 @@
   },
   {
     "id": "URL 无效",
-    "translation": "無効なURL です"
+    "translation": "無効なURLです"
   },
   {
     "id": "[%d] 不是可查询状态",
@@ -4470,5 +4470,37 @@
   {
     "id": "Can not change Selection.Value (%s is not found).",
     "translation": "リスト項目の数を減らすことができません(%s)"
+  },
+  {
+    "id": "ExternalLinkUrl length error (max %d characters)",
+    "translation": "URL は %d 文字以下でなければいけません"
+  },
+  {
+    "id": "CheckValue%s is required and must be checked",
+    "translation": "%sをチェックしてください"
+  },
+  {
+    "id": "CheckValue%s is required and must be ON",
+    "translation": "%sをオンにしてください"
+  },
+  {
+    "id": "StringValue%s is required",
+    "translation": "%sは入力必須です"
+  },
+  {
+    "id": "Selection%s is required",
+    "translation": "%sは入力必須です"
+  },
+  {
+    "id": "@@1@test_item_name",
+    "translation": "テストカスタム項目"
+  },
+  {
+    "id": "@@1@test_item_explanation",
+    "translation": "テストカスタム項目の説明"
+  },
+  {
+    "id": "@@1@test_item_selection",
+    "translation": "テストカスタム項目の選択リスト"
   }
 ]

@@ -4470,5 +4470,37 @@
   {
     "id": "Can not change Selection.Value (%s is not found).",
     "translation": "不能减少列表数据项的列表数量(%s)"
+  },
+  {
+    "id": "ExternalLinkUrl length error (max %d characters)",
+    "translation": "URL 长度不能超过 %d"
+  },
+  {
+    "id": "CheckValue%s is required and must be checked",
+    "translation": "必须选择 %s"
+  },
+  {
+    "id": "CheckValue%s is required and must be ON",
+    "translation": "请务必打开 %s"
+  },
+  {
+    "id": "StringValue%s is required",
+    "translation": "%s 不能为空"
+  },
+  {
+    "id": "Selection%s is required",
+    "translation": "%s 不能为空"
+  },
+  {
+    "id": "@@15@test_item_name",
+    "translation": "测试数据项的名称"
+  },
+  {
+    "id": "@@15@test_item_explanation",
+    "translation": "测试数据项的说明"
+  },
+  {
+    "id": "@@15@test_item_selection",
+    "translation": "测试数据项的选择列表"
   }
 ]

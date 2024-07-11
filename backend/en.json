@@ -4470,5 +4470,37 @@
   {
     "id": "Can not change Selection.Value (%s is not found).",
     "translation": "Cannot reduce the number of list items (%s)."
+  },
+  {
+    "id": "ExternalLinkUrl length error (max %d characters)",
+    "translation": "URL length must not exceed %d."
+  },
+  {
+    "id": "CheckValue%s is required and must be checked",
+    "translation": "%s is required and must be checked."
+  },
+  {
+    "id": "CheckValue%s is required and must be ON",
+    "translation": "%s is required and must be ON."
+  },
+  {
+    "id": "StringValue%s is required",
+    "translation": "%s is required."
+  },
+  {
+    "id": "Selection%s is required",
+    "translation": "%s is required."
+  },
+  {
+    "id": "@@1@test_item_name",
+    "translation": "Customize Test Item"
+  },
+  {
+    "id": "@@1@test_item_explanation",
+    "translation": "Explanation of Customize Test Item"
+  },
+  {
+    "id": "@@1@test_item_selection",
+    "translation": "Selection of Customize Test Item"
   }
 ]
