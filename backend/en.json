@@ -4502,5 +4502,29 @@
   {
     "id": "@@1@test_item_selection",
     "translation": "Selection of Customize Test Item"
+  },
+  {
+    "id": "@@1@尾道",
+    "translation": "onomichi"
+  },
+  {
+    "id": "@@1@向島",
+    "translation": "mukoujima"
+  },
+  {
+    "id": "@@1@今治",
+    "translation": "imabari"
+  },
+  {
+    "id": "@@1@しまなみ海道",
+    "translation": "shimanami road"
+  },
+  {
+    "id": "@@1@AAAAAA",
+    "translation": "challenge"
+  },
+  {
+    "id": "@@1@GPS EVENT",
+    "translation": "GPS Event(individual)"
   }
 ]

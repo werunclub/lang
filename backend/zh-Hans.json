@@ -4502,5 +4502,29 @@
   {
     "id": "@@15@test_item_selection",
     "translation": "测试数据项的选择列表"
+  },
+  {
+    "id": "@@1@尾道",
+    "translation": "尾道"
+  },
+  {
+    "id": "@@1@向島",
+    "translation": "向岛"
+  },
+  {
+    "id": "@@1@今治",
+    "translation": "今治"
+  },
+  {
+    "id": "@@1@しまなみ海道",
+    "translation": "岛波海道"
+  },
+  {
+    "id": "@@1@AAAAAA",
+    "translation": "翻译挑战"
+  },
+  {
+    "id": "@@1@GPS EVENT",
+    "translation": "GPS个人活动"
   }
 ]

@@ -4249,7 +4249,7 @@
   },
   {
     "id": "开始日期到结束日期不能大于 %d 个月",
-    "translation":"開始日から終了日は %d か月を超えることはできません"
+    "translation": "開始日から終了日は %d か月を超えることはできません"
   },
   {
     "id": "结束日期不能大于当前日期",
@@ -4502,5 +4502,29 @@
   {
     "id": "@@1@test_item_selection",
     "translation": "テストカスタム項目の選択リスト"
+  },
+  {
+    "id": "@@1@尾道",
+    "translation": "おのみち"
+  },
+  {
+    "id": "@@1@向島",
+    "translation": "むこうじま"
+  },
+  {
+    "id": "@@1@今治",
+    "translation": "いまばり"
+  },
+  {
+    "id": "@@1@しまなみ海道",
+    "translation": "しまなみかいどう"
+  },
+  {
+    "id": "@@1@AAAAAA",
+    "translation": "翻訳チャレンジ"
+  },
+  {
+    "id": "@@1@GPS EVENT",
+    "translation": "GPS翻訳個人"
   }
 ]
