@@ -4505,26 +4505,50 @@
   },
   {
     "id": "@@1@尾道",
-    "translation": "onomichi"
+    "translation": "onomichi1"
   },
   {
     "id": "@@1@向島",
-    "translation": "mukoujima"
+    "translation": "mukoujima1"
   },
   {
     "id": "@@1@今治",
-    "translation": "imabari"
+    "translation": "imabari1"
   },
   {
     "id": "@@1@しまなみ海道",
-    "translation": "shimanami road"
+    "translation": "shimanami road1"
   },
   {
     "id": "@@1@AAAAAA",
-    "translation": "challenge"
+    "translation": "challenge1"
   },
   {
     "id": "@@1@GPS EVENT",
-    "translation": "GPS Event(individual)"
+    "translation": "GPS Event(individual)1"
+  },
+  {
+    "id": "@@all@尾道",
+    "translation": "onomichi"
+  },
+  {
+    "id": "@@all@向島",
+    "translation": "mukoujima"
+  },
+  {
+    "id": "@@all@今治",
+    "translation": "imabari"
+  },
+  {
+    "id": "@@all@しまなみ海道",
+    "translation": "shimanami road"
+  },
+  {
+    "id": "@@all@AAAAAA",
+    "translation": "challenge all"
+  },
+  {
+    "id": "@@all@GPS EVENT",
+    "translation": "GPS Event(individual) all"
   }
 ]

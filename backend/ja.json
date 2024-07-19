@@ -4505,26 +4505,50 @@
   },
   {
     "id": "@@1@尾道",
-    "translation": "おのみち"
+    "translation": "おのみち1"
   },
   {
     "id": "@@1@向島",
-    "translation": "むこうじま"
+    "translation": "むこうじま1"
   },
   {
     "id": "@@1@今治",
-    "translation": "いまばり"
+    "translation": "いまばり1"
   },
   {
     "id": "@@1@しまなみ海道",
-    "translation": "しまなみかいどう"
+    "translation": "翻訳1海道"
   },
   {
     "id": "@@1@AAAAAA",
-    "translation": "翻訳チャレンジ"
+    "translation": "翻訳1チャレンジ"
   },
   {
     "id": "@@1@GPS EVENT",
-    "translation": "GPS翻訳個人"
+    "translation": "GPS翻訳1個人"
+  },
+  {
+    "id": "@@all@尾道",
+    "translation": "尾道"
+  },
+  {
+    "id": "@@all@向島",
+    "translation": "向島"
+  },
+  {
+    "id": "@@all@今治",
+    "translation": "今治"
+  },
+  {
+    "id": "@@all@しまなみ海道",
+    "translation": "しまなみ海道"
+  },
+  {
+    "id": "@@all@AAAAAA",
+    "translation": "翻訳allチャレンジ"
+  },
+  {
+    "id": "@@all@GPS EVENT",
+    "translation": "GPS翻訳all個人"
   }
 ]
