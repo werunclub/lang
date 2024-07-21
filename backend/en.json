@@ -4550,5 +4550,121 @@
   {
     "id": "@@all@GPS EVENT",
     "translation": "GPS Event(individual) all"
+  },
+  {
+    "id": "@@all@個人情報取扱について同意する",
+    "translation": "I agree to the handling of personal information"
+  },
+  {
+    "id": "@@all@個人情報の取り扱いについてご一読いただきき、同意いただける場合はチェックしてからイベントに参加してください。",
+    "translation": "Please read the handling of personal information,and if you agree, please check on the above button to participate in the event."
+  },
+  {
+    "id": "@@all@アメリカ横断ツアー",
+    "translation": "Tour across America"
+  },
+  {
+    "id": "@@all@ﾆｭｰﾖｰｸ",
+    "translation": "New York"
+  },
+  {
+    "id": "@@all@ﾌｨﾗﾃﾞﾙﾌｨｱ",
+    "translation": "Philadelphia"
+  },
+  {
+    "id": "@@all@ﾜｼﾝﾄﾝD.C.",
+    "translation": "Washington, D.C."
+  },
+  {
+    "id": "@@all@ｹﾞﾃｨｽﾊﾞｰｸﾞ",
+    "translation": "Gettysburg"
+  },
+  {
+    "id": "@@all@ﾋﾟｯﾂﾊﾞｰｸﾞ",
+    "translation": "Pittsburgh"
+  },
+  {
+    "id": "@@all@ﾅｲｱｶﾞﾗﾌｫｰﾙｽﾞ",
+    "translation": "Niagara Falls"
+  },
+  {
+    "id": "@@all@ｸﾘｰﾌﾞﾗﾝﾄﾞ",
+    "translation": "Cleveland"
+  },
+  {
+    "id": "@@all@デトロイト",
+    "translation": "Detroit"
+  },
+  {
+    "id": "@@all@シカゴ",
+    "translation": "Chicago"
+  },
+  {
+    "id": "@@all@ｾﾝﾄﾙｲｽ",
+    "translation": "St. Louis"
+  },
+  {
+    "id": "@@all@ｶﾝｻﾞｽｼﾃｨ",
+    "translation": "Kansas City"
+  },
+  {
+    "id": "@@all@ｵｸﾗﾎﾏｼﾃｨ",
+    "translation": "Oklahoma City"
+  },
+  {
+    "id": "@@all@ｱﾙﾊﾞｶｰｷ",
+    "translation": "Albuquerque"
+  },
+  {
+    "id": "@@all@ｺﾛﾗﾄﾞｽﾌﾟﾘﾝｸﾞｽ",
+    "translation": "Colorado Springs"
+  },
+  {
+    "id": "@@all@デンバー",
+    "translation": "Denver"
+  },
+  {
+    "id": "@@all@ｿﾙﾄﾚｲｸｼﾃｨ",
+    "translation": "Salt Lake City"
+  },
+  {
+    "id": "@@all@ﾌﾞﾗｲｽｷｬﾆｵﾝ国立公園",
+    "translation": "Bryce Canyon National Park"
+  },
+  {
+    "id": "@@all@ﾚｲｸﾊﾟｳｴﾙ",
+    "translation": "Lake Powell"
+  },
+  {
+    "id": "@@all@ｸﾞﾗﾝﾄﾞｷｬﾆｵﾝ国立公園",
+    "translation": "Grand Canyon National Park"
+  },
+  {
+    "id": "@@all@セリグマン",
+    "translation": "Seligman"
+  },
+  {
+    "id": "@@all@ラスベガス",
+    "translation": "Las Vegas"
+  },
+  {
+    "id": "@@all@ﾛｻﾝｾﾞﾙｽ",
+    "translation": "Los Angeles"
+  },
+  {
+    "id": "@@all@ｻﾝﾀﾓﾆｶ",
+    "translation": "Santa Monica"
+  },
+  {
+    "id": "@@all@モントレー",
+    "translation": "Monterey"
+  },
+  {
+    "id": "@@all@サンノゼ",
+    "translation": "San Jose"
+  },
+  {
+    "id": "@@all@ｻﾝﾌﾗﾝｼｽｺ",
+    "translation": "San Francisco"
   }
 ]

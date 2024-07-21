@@ -4550,5 +4550,121 @@
   {
     "id": "@@all@GPS EVENT",
     "translation": "GPS个人活动all"
+  },
+  {
+    "id": "@@all@個人情報取扱について同意する",
+    "translation": "同意个人信息的处理"
+  },
+  {
+    "id": "@@all@個人情報の取り扱いについてご一読いただきき、同意いただける場合はチェックしてからイベントに参加してください。",
+    "translation": "请阅读个人信息的处理，如果您同意，请选择同意后再参加活动。"
+  },
+  {
+    "id": "@@all@アメリカ横断ツアー",
+    "translation": "横跨美国之旅"
+  },
+  {
+    "id": "@@all@ﾆｭｰﾖｰｸ",
+    "translation": "纽约"
+  },
+  {
+    "id": "@@all@ﾌｨﾗﾃﾞﾙﾌｨｱ",
+    "translation": "费城"
+  },
+  {
+    "id": "@@all@ﾜｼﾝﾄﾝD.C.",
+    "translation": "华盛顿特区"
+  },
+  {
+    "id": "@@all@ｹﾞﾃｨｽﾊﾞｰｸﾞ",
+    "translation": "盖茨堡"
+  },
+  {
+    "id": "@@all@ﾋﾟｯﾂﾊﾞｰｸﾞ",
+    "translation": "匹兹堡"
+  },
+  {
+    "id": "@@all@ﾅｲｱｶﾞﾗﾌｫｰﾙｽﾞ",
+    "translation": "尼亚加拉大瀑布"
+  },
+  {
+    "id": "@@all@ｸﾘｰﾌﾞﾗﾝﾄﾞ",
+    "translation": "克利夫兰"
+  },
+  {
+    "id": "@@all@デトロイト",
+    "translation": "底特律"
+  },
+  {
+    "id": "@@all@シカゴ",
+    "translation": "芝加哥"
+  },
+  {
+    "id": "@@all@ｾﾝﾄﾙｲｽ",
+    "translation": "圣路易斯"
+  },
+  {
+    "id": "@@all@ｶﾝｻﾞｽｼﾃｨ",
+    "translation": "堪萨斯城"
+  },
+  {
+    "id": "@@all@ｵｸﾗﾎﾏｼﾃｨ",
+    "translation": "俄克拉荷马城"
+  },
+  {
+    "id": "@@all@ｱﾙﾊﾞｶｰｷ",
+    "translation": "阿尔布开克"
+  },
+  {
+    "id": "@@all@ｺﾛﾗﾄﾞｽﾌﾟﾘﾝｸﾞｽ",
+    "translation": "科罗拉多斯普林斯"
+  },
+  {
+    "id": "@@all@デンバー",
+    "translation": "丹佛"
+  },
+  {
+    "id": "@@all@ｿﾙﾄﾚｲｸｼﾃｨ",
+    "translation": "盐湖城"
+  },
+  {
+    "id": "@@all@ﾌﾞﾗｲｽｷｬﾆｵﾝ国立公園",
+    "translation": "布莱斯峡谷国家公园"
+  },
+  {
+    "id": "@@all@ﾚｲｸﾊﾟｳｴﾙ",
+    "translation": "鲍威尔湖"
+  },
+  {
+    "id": "@@all@ｸﾞﾗﾝﾄﾞｷｬﾆｵﾝ国立公園",
+    "translation": "大峡谷国家公园"
+  },
+  {
+    "id": "@@all@セリグマン",
+    "translation": "塞利格曼"
+  },
+  {
+    "id": "@@all@ラスベガス",
+    "translation": "拉斯维加斯"
+  },
+  {
+    "id": "@@all@ﾛｻﾝｾﾞﾙｽ",
+    "translation": "洛杉矶"
+  },
+  {
+    "id": "@@all@ｻﾝﾀﾓﾆｶ",
+    "translation": "圣莫尼卡"
+  },
+  {
+    "id": "@@all@モントレー",
+    "translation": "蒙特雷"
+  },
+  {
+    "id": "@@all@サンノゼ",
+    "translation": "圣何塞"
+  },
+  {
+    "id": "@@all@ｻﾝﾌﾗﾝｼｽｺ",
+    "translation": "旧金山"
   }
 ]
