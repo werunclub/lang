@@ -4456,6 +4456,10 @@
     "translation": "Please select a course under your hotel (department)!"
   },
   {
+    "id": "会社略称を選んでください",
+    "translation": "Select company"
+  },
+  {
     "id": "您没有权限执行此操作",
     "translation": "You do not have permission to perform this operation."
   },
@@ -4552,8 +4556,8 @@
     "translation": "GPS Event(individual) all"
   },
   {
-    "id": "@@all@個人情報取扱について同意する",
-    "translation": "I agree to the handling of personal information"
+    "id": "@@all@個人情報取り扱い同意",
+    "translation": "Consent to privacy policy"
   },
   {
     "id": "@@all@個人情報の取り扱いについてご一読いただきき、同意いただける場合はチェックしてからイベントに参加してください。",
