@@ -4169,7 +4169,7 @@
   },
   {
     "id": "Notify.OrerPayFinish.Body",
-    "translation": "We've succesfully received your payment for the order {giftName}. Please wait while we prepare your order for shipment."
+    "translation": "We've succesfully received your payment for the order #{giftName}#. Please wait while we prepare your order for shipment."
   },
   {
     "id": "Notify.OrerPayFinish.Link",
@@ -4181,7 +4181,7 @@
   },
   {
     "id": "Notify.OrderDelivered.Body",
-    "translation": "Your item {giftName} is on its way and will be delivered to your place soon."
+    "translation": "Your item #{giftName}# is on its way and will be delivered to your place soon."
   },
   {
     "id": "Notify.OrderDelivered.Link",
@@ -4193,7 +4193,7 @@
   },
   {
     "id": "Notify.OrderCanceled.Body",
-    "translation": "Your order {giftName} has been canceled. Your miles will be returned to within 24 hours."
+    "translation": "Your order #{giftName}# has been canceled. Your miles will be returned to within 24 hours."
   },
   {
     "id": "Notify.OrderCanceled.Link",
@@ -4205,7 +4205,7 @@
   },
   {
     "id": "Notify.OrderRefunded.Body",
-    "translation": "We've issued your refund for the item {giftName}."
+    "translation": "We've issued your refund for the item #{giftName}#."
   },
   {
     "id": "Notify.OrderRefunded.Link",
@@ -4261,7 +4261,7 @@
   },
   {
     "id": "定时发送只能在 1 小时后执行",
-    "translation": "Timed delivery can only be executed after 1 hour"
+    "translation": "Timed delivery can only be executed after 1 hour."
   },
   {
     "id": "只能设置认证成功(state: 1)或者认证失败(state: 2)",

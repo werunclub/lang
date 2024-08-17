@@ -4169,7 +4169,7 @@
   },
   {
     "id": "Notify.OrerPayFinish.Body",
-    "translation": "ご注文いただいた「{giftName}」のお支払手続きが完了しました。発送の準備に入らせていただきますので、商品の発送まで今しばらくお待ちください。"
+    "translation": "ご注文いただいた「{giftName}」のお支払手続きが完了しました。商品を発送する準備を進めております。発送が完了次第、改めてご連絡申し上げます。商品到着まで今しばらくお待ちください"
   },
   {
     "id": "Notify.OrerPayFinish.Link",
@@ -4181,7 +4181,7 @@
   },
   {
     "id": "Notify.OrderDelivered.Body",
-    "translation": "ご注文いただいた「{giftName}」を発送いたしました。到着までもうしばらくお待ちください。"
+    "translation": "ご注文いただいた「{giftName}」を発送いたしました。商品到着まで今しばらくお待ちくださいますようお願い申し上げます。"
   },
   {
     "id": "Notify.OrderDelivered.Link",
@@ -4193,7 +4193,7 @@
   },
   {
     "id": "Notify.OrderCanceled.Body",
-    "translation": "「{giftName}」のご注文キャンセルが完了しました。使用済みマイルが24時間以内に返還されますので今しばらくお待ちください。"
+    "translation": "「{giftName}」のご注文キャンセルが完了しました。使用済みマイルが24時間以内に返還されますので、今しばらくお待ちください。"
   },
   {
     "id": "Notify.OrderCanceled.Link",
