@@ -473,7 +473,7 @@
   },
   {
     "id": "亲爱的管理员大大，今天已经有 %d 个小伙伴们迫不及待地想参与活动了！赶快创建活动，让大家运动起来~",
-    "translation":"Dear Admin, you have %d friends who can't wait for an event today! Create an event now and let's all start getting fit!"
+    "translation":"There are already %d members who can't wait to participate in the event today! Create an event now and get everyone moving!"
   },
   {
     "id": "亲，今天的抽奖机会已用完，明天再来",
@@ -3689,7 +3689,7 @@
   },
   {
     "id": "欢迎你再次回到企业咕咚，小伙伴们都在等着你一起运动呢，赶快开启你的运动之旅吧",
-    "translation":"Welcome back! Your friends are waiting for you. Start improving your health with everyone now."
+    "translation":"Welcome back! Your friends are waiting for you. Let's start working out together."
   },
   {
     "id": "欢迎回来",
@@ -3705,7 +3705,7 @@
   },
   {
     "id": "欢迎使用企业咕咚，即刻 “创建/加入” 你的运动团队，开启全新的团队运动之旅。（企业咕咚将作为团队运动数据唯一来源，将自动同步至咕咚企业俱乐部）",
-    "translation":"Welcome aboard! Join a group now using slide menu to start walking with your friends! You can also create your own group by selecting Create group."
+    "translation":"Welcome aboard! Join a group now using [menu > Join group] to start walking with your friends! You can also create your own group by [New group]. Participate in events and win prizes from [News > Open Events]."
   },
   {
     "id": "验证码：%s (请于两分钟内输入)。",
