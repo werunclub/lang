@@ -4686,5 +4686,117 @@
   {
     "id": "完歩証更新が失敗しました",
     "translation":"Failed to update certificate."
+  },
+  {
+    "id": "%s 将你从 #%s# 活动中踢出",
+    "translation": "%s has removed you from the #%s# event."
+  },
+  {
+    "id": "你不在该队伍中",
+    "translation": "You are not in this team."
+  },
+  {
+    "id": "活动类型不支持创建队伍",
+    "translation": "This event type does not support team creation."
+  },
+  {
+    "id": "活动已经结束，不能创建队伍",
+    "translation": "The event has already ended, you cannot create new team."
+  },
+  {
+    "id": "活动已经开始，不能创建队伍",
+    "translation": "The event has already started, you cannot create new team."
+  },
+  {
+    "id": "不是该团队或部门成员",
+    "translation": "You are not a member of this team."
+  },
+  {
+    "id": "检查活动成员信息失败",
+    "translation": "Failed to check event member information."
+  },
+  {
+    "id": "你已经在活动中，不能创建队伍",
+    "translation": "You are already in the event, you cannot create new team."
+  },
+  {
+    "id": "创建队伍失败",
+    "translation": "Failed to create new team."
+  },
+  {
+    "id": "活动已经结束，不能更新队伍",
+    "translation": "The event has already ended, you cannot modify the team settings."
+  },
+  {
+    "id": "你不是该队伍的队长",
+    "translation": "You are not the team leader."
+  },
+  {
+    "id": "更新队伍失败",
+    "translation": "Failed to modify team settings."
+  },
+  {
+    "id": "活动已经开始，不能加入队伍",
+    "translation": "The event has already started, you cannot join the team."
+  },
+  {
+    "id": "队伍人数已满",
+    "translation": "The team is full."
+  },
+  {
+    "id": "添加用户到队伍失败",
+    "translation": "Failed to add user to the team."
+  },
+  {
+    "id": "活动已经开始，不能踢出队伍成员",
+    "translation": "The event has already started, you cannot remove any team member."
+  },
+  {
+    "id": "删除活动成员失败",
+    "translation": "Failed to remove event member."
+  },
+  {
+    "id": "活动已经开始，不能删除队伍",
+    "translation": "The event has already started, you cannot delete the team."
+  },
+  {
+    "id": "你不是团队成员，不能创建队伍",
+    "translation": "You are not a team member, you cannot create new team."
+  },
+  {
+    "id": "您只能创建一个队伍，不能重复创建",
+    "translation": "You can’t create more than one team."
+  },
+  {
+    "id": "您不是队伍的队长，不能更新队伍",
+    "translation": "You cannot modify the team settings as you’re not the team leader."
+  },
+  {
+    "id": "您已加入活动，请不要重复加入",
+    "translation": "You have already joined the event."
+  },
+  {
+    "id": "您不能加入自己创建的队伍",
+    "translation": "You’ve automatically joined the team you created, no need to join again."
+  },
+  {
+    "id": "队伍人数已满，不能加入",
+    "translation": "The team is full, you cannot join."
+  },
+  {
+    "id": "您不是队伍的队长，不能删除队伍",
+    "translation": "You cannot delete the team as you're not the team leader."
+  },
+  {
+    "id": "踢出队伍成员失败",
+    "translation": "Failed to remove team member."
+  },
+  {
+    "id": "加入队伍失败",
+    "translation": "Failed to join the team."
+  },
+  {
+    "id": "删除队伍失败",
+    "translation": "Failed to delete the team."
   }
 ]
