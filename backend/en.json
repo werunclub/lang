@@ -2640,6 +2640,10 @@
     "translation":"You are not a participant of this event."
   },
   {
+    "id": "你不在该活动中",
+    "translation": "You are not a participant of this event."
+  },
+  {
     "id": "用户不存在",
     "translation":"Member does not exist."
   },
