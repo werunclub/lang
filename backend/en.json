@@ -4692,6 +4692,10 @@
     "translation":"Failed to update certificate."
   },
   {
+    "id": "活动被踢出通知",
+    "translation": "Removed from event"
+  },
+  {
     "id": "%s 将你从 #%s# 活动中踢出",
     "translation": "%s has removed you from the #%s# event."
   },
