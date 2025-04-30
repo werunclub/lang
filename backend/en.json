@@ -4813,6 +4813,10 @@
   },
   {
     "id": "你在活动 #%s# 中的队伍已被 %s 解散，你已退出此活动。",
-    "translation":"Your team in event #%s# has been disbanded by %s. You have been removed from the event."
+    "translation":"Your team in event #%s# has been disbanded by %s. You have left the event."
+  },
+  {
+    "id": "%s 将你从 #%s# 活动的 #%s# 队伍中踢出，你已退出此活动",
+    "translation":"%s removed you from the event #%s# and the team #%s#. You have left the event."
   }
 ]
