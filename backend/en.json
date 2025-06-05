@@ -3964,6 +3964,10 @@
     "translation":"You have arrived at the #%[2]s# of event #%[1]s#."
   },
   {
+    "id": "你已经从活动 #%s# 的 #%s# 出发了。和大家一起加油吧！",
+    "translation": "You’ve just started the event #%s# from #%s#. Let’s do our best together!"
+  },
+  {
     "id": "你已经到达 #%s# 活动的  #%s#（%s）。完成率是%s。点击这里查看大家的排行榜吧。",
     "translation": "You have arrived at the #%[2]s# (%[3]s) of event #%[1]s#. %[4]s of the route reached. Tap to see everyone's ranking now."
   },
