@@ -577,7 +577,7 @@
   },
   {
     "id": "你不是俱乐部成员",
-    "translation":"You are not club member."
+    "translation":"You are not group member."
   },
   {
     "id": "你不是挑战发起人",
@@ -1172,23 +1172,23 @@
     "translation":"Only group member can perform this operation."
   },
   {
-    "id": "团队成绩",
-    "translation":"Group score"
+    "id": "队伍成绩",
+    "translation":"Team score"
   },
   {
-    "id": "团队成绩(平均)",
-    "translation":"Group score (Average)"
+    "id": "队伍成绩(平均)",
+    "translation":"Team score (Average)"
   },
   {
-    "id": "团队成绩(总)",
-    "translation":"Group score (Overall)"
+    "id": "队伍成绩(总)",
+    "translation":"Team score (Overall)"
   },
   {
-    "id": "团队按平均数据排名",
+    "id": "队伍按平均数据排名",
     "translation":"Team Average Ranking"
   },
   {
-    "id": "团队按总数据排序",
+    "id": "队伍按总数据排序",
     "translation":"Team Overall Ranking"
   },
   {
@@ -3964,6 +3964,10 @@
     "translation":"You have arrived at the #%[2]s# of event #%[1]s#."
   },
   {
+    "id": "你已经从活动 #%s# 的 #%s# 出发了。和大家一起加油吧！",
+    "translation": "You’ve just started the event #%s# from #%s#. Let’s do our best together!"
+  },
+  {
     "id": "你已经到达 #%s# 活动的  #%s#（%s）。完成率是%s。点击这里查看大家的排行榜吧。",
     "translation": "You have arrived at the #%[2]s# (%[3]s) of event #%[1]s#. %[4]s of the route reached. Tap to see everyone's ranking now."
   },
@@ -4813,6 +4817,14 @@
   },
   {
     "id": "你在活动 #%s# 中的队伍已被 %s 解散，你已退出此活动。",
-    "translation":"Your team in event #%s# has been disbanded by %s. You have been removed from the event."
+    "translation":"Your team in event #%s# has been disbanded by %s. You have now left the event."
+  },
+  {
+    "id": "%s 将你从 #%s# 活动的 #%s# 队伍中踢出，你已退出此活动",
+    "translation":"%s has removed you from the #%s# event and the #%s# team. You have now left the event."
+  },
+  {
+    "id":"活动已经开始，不能退出活动队伍",
+    "translation":"The event has started. You cannot leave the team."
   }
 ]
