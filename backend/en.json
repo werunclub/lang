@@ -4460,8 +4460,20 @@
     "translation": "This group can only join the buttom department."
   },
   {
+    "id": "ボトム部門を選択してから参加してください",
+    "translation": "This group can only join the buttom department."
+  },
+  {
+    "id": "This group can only join the buttom department.",
+    "translation": "This group can only join the buttom department."
+  },
+  {
     "id": "请在你所在店铺下选择运动项目后再加入",
     "translation": "Please select a course under your hotel (department)!"
+  },
+  {
+    "id": "社員番号入力 ※㈱JTB社員必須",
+    "translation": "Employee ID (Required for JTB employees)"
   },
   {
     "id": "会社略称を選んでください",
