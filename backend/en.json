@@ -4473,7 +4473,11 @@
   },
   {
     "id": "@@1067@社員番号入力 ※㈱JTB社員必須",
-    "translation": "Employee ID (Required for JTB employees)"
+    "translation": "Employee ID (JTB Corp. only)"
+  },
+  {
+    "id": "@@1067@㈱JTBの社員のみ入力してください。",
+    "translation": "Please enter this information only if you are an employee of JTB Corporation."
   },
   {
     "id": "会社略称を選んでください",
