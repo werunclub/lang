@@ -4797,7 +4797,7 @@
   },
   {
     "id": "您不是队伍的队长，不能更新队伍",
-    "translation": "You cannot modify the team settings as you’re not the team leader."
+    "translation": "You cannot modify the team as you’re not the team leader."
   },
   {
     "id": "您已加入活动，请不要重复加入",
@@ -4812,8 +4812,16 @@
     "translation": "The team is full, you cannot join."
   },
   {
-    "id": "您不是队伍的队长，不能删除队伍",
-    "translation": "You cannot delete the team as you're not the team leader."
+    "id": "您不是队伍的队长，不能删除成员",
+    "translation": "You cannot delete the member as you're not the team leader."
+  },
+  {
+    "id": "活动类型不支持删除成员",
+    "translation":"Members cannot be removed in this event type."
+  },
+  {
+    "id": "活动类型不支持删除队伍",
+    "translation":"Teams cannot be removed in this event type."
   },
   {
     "id": "踢出队伍成员失败",
@@ -4838,6 +4846,18 @@
   {
     "id": "%s 将你从 #%s# 活动的 #%s# 队伍中踢出，你已退出此活动",
     "translation":"%s has removed you from the #%s# event and the #%s# team. You have now left the event."
+  },
+  {
+    "id": "队伍最小人数不能小于0",
+    "translation":"The minimum team size cannot be less than 0."
+  },
+  {
+    "id": "队伍最大人数不能小于0",
+    "translation":"The maximum team size cannot be less than 0."
+  },
+  {
+    "id": "队伍最小人数不能大于最大人数",
+    "translation":"The minimum team size cannot be greater than the maximum team size."
   },
   {
     "id":"活动已经开始，不能退出活动队伍",
