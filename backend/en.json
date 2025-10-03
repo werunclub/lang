@@ -1497,7 +1497,7 @@
   },
   {
     "id": "成员: %s 已经退出团队",
-    "translation":"Member, %s, has left the group."
+    "translation":"Member #%s# has left club #%s#."
   },
   {
     "id": "成员不存在",
