@@ -4862,5 +4862,9 @@
   {
     "id":"活动已经开始，不能退出活动队伍",
     "translation":"The event has started. You cannot leave the team."
+  },
+  {
+    "id":"队长不能离开队伍",
+    "translation":"The team leader cannot leave the team."
   }
 ]
