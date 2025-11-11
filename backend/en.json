@@ -2385,11 +2385,11 @@
   },
   {
     "id": "活动: \u003cid: %d\u003e",
-    "translation":"Event: \u003cid: %d\u003e"
+    "translation":"Event \u003cid: %d\u003e"
   },
   {
     "id": "活动: \u003c标题: %s, id: %d\u003e",
-    "translation":"Event: \u003cTitle: %s ID: %d\u003e"
+    "translation":"Event \u003cTitle: %s ID: %d\u003e"
   },
   {
     "id": "活动ID不能为空",
