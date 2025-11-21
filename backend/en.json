@@ -3213,7 +3213,35 @@
   },
   {
     "id": "虚拟路线活动暂时不支持导出",
-    "translation":"Exporting virtual rally event unsupported"
+    "translation": "Exporting virtual rally event unsupported"
+  },
+  {
+    "id": "活动尚未结束，暂不支持导出",
+    "translation": "Event has not ended yet, export is not supported"
+  },
+  {
+    "id": "活动名称",
+    "translation": "Event Name"
+  },
+  {
+    "id": "导出时间",
+    "translation": "Export Time"
+  },
+  {
+    "id": "数据日期范围",
+    "translation": "Date Range"
+  },
+  {
+    "id": "特别提示",
+    "translation": "Notice"
+  },
+  {
+    "id": "活动进行中，此导出为当前数据快照，不包含未来日期数据",
+    "translation": "Event is ongoing. This export is a snapshot of current data and does not include future dates"
+  },
+  {
+    "id": "活动已结束，此为最终数据",
+    "translation": "Event has ended. This is the final data"
   },
   {
     "id": "被修改活动不存在",
