@@ -4894,5 +4894,17 @@
   {
     "id":"队长不能离开队伍",
     "translation":"The team leader cannot leave the team."
+  },
+  {
+    "id":"您已经拥有一个团队。如需创建更多团队，请升级到 Pro 套餐。",
+    "translation":"You have reached the maximum number of clubs you can create. To create more clubs, please upgrade to the Pro plan or higher."
+  },
+  {
+    "id":"检查创建权限失败",
+    "translation":"Failed to check creation permission"
+  },
+  {
+    "id":"无法创建团队",
+    "translation":"Unable to create group"
   }
 ]
