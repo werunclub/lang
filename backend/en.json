@@ -4906,5 +4906,9 @@
   {
     "id":"无法创建团队",
     "translation":"Unable to create group"
+  },
+  {
+    "id": "您选择的分组方式当前最多只支持%d个部门，如需帮助请联系WeRUN客服。",
+    "translation": "Team division supports up to %d departments. Contact WeRUN support if needed."
   }
 ]
