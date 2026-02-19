@@ -4548,15 +4548,15 @@
     "translation": "%s 不能为空"
   },
   {
-    "id": "@@15@test_item_name",
+    "id": "@@1@test_item_name",
     "translation": "测试数据项的名称"
   },
   {
-    "id": "@@15@test_item_explanation",
+    "id": "@@1@test_item_explanation",
     "translation": "测试数据项的说明"
   },
   {
-    "id": "@@15@test_item_selection",
+    "id": "@@1@test_item_selection",
     "translation": "测试数据项的选择列表"
   },
   {

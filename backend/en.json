@@ -9,7 +9,7 @@
   },
   {
     "id": "%s 团队",
-    "translation":"%s Group"
+    "translation":"%s Club"
   },
   {
     "id": "%s 活动即将结束，赶快上传数据吧",
@@ -69,7 +69,7 @@
   },
   {
     "id": "%v已退出团队，你和对方所有的挑战活动取消啦。再去试试挑战下别的小伙伴吧！",
-    "translation":"All challenges against %v have been cancelled since they have left the group. Pick another member to compete!"
+    "translation":"All challenges against %v have been cancelled since they have left the club. Pick another member to compete!"
   },
   {
     "id": "./res/tutorial_email.html",
@@ -89,7 +89,7 @@
   },
   {
     "id": "24小时内只能发送 %d 条群发消息",
-    "translation":"A maximum of %d messages can be sent to a group within a 24-hour period."
+    "translation":"A maximum of %d messages can be sent to a club within a 24-hour period."
   },
   {
     "id": "3公里",
@@ -317,11 +317,11 @@
   },
   {
     "id": "不在团队中无法进行本次操作",
-    "translation":"Unable to perform this operation as you are not in the group."
+    "translation":"Unable to perform this operation as you are not in the club."
   },
   {
     "id": "不在团队中无法进行此操作",
-    "translation":"Unable to perform this operation as you are not in the group."
+    "translation":"Unable to perform this operation as you are not in the club."
   },
   {
     "id": "不支持的 GPS 类型",
@@ -377,7 +377,7 @@
   },
   {
     "id": "不是该队伍的成员",
-    "translation":"You are not a member of the group."
+    "translation":"You are not a member of the club."
   },
   {
     "id": "不能为空",
@@ -389,7 +389,7 @@
   },
   {
     "id": "不能修改超级管理员权限",
-    "translation":"Cannot change group owner privileges."
+    "translation":"Club owner privileges cannot be changed."
   },
   {
     "id": "不能删除创建人",
@@ -405,7 +405,7 @@
   },
   {
     "id": "不能添加超级管理员",
-    "translation":"Cannot add a group owner"
+    "translation":"Cannot add a club owner"
   },
   {
     "id": "不能转移给自己",
@@ -413,7 +413,7 @@
   },
   {
     "id": "不能重复加入",
-    "translation":"You are already in the group."
+    "translation":"You are already in the club."
   },
   {
     "id": "不限",
@@ -565,7 +565,7 @@
   },
   {
     "id": "你不在当前团队中",
-    "translation":"You are not a member of the designated group."
+    "translation":"You are not a member of the designated club."
   },
   {
     "id": "你不在该俱乐部无法查看评论",
@@ -573,11 +573,11 @@
   },
   {
     "id": "你不在该团队中",
-    "translation":"You are not a member of the designated group."
+    "translation":"You are not a member of the designated club."
   },
   {
     "id": "你不是俱乐部成员",
-    "translation":"You are not group member."
+    "translation":"You are not a member of the club."
   },
   {
     "id": "你不是挑战发起人",
@@ -589,7 +589,7 @@
   },
   {
     "id": "你不是该团队成员",
-    "translation":"You are not a member of the designated group."
+    "translation":"You are not a member of the designated club."
   },
   {
     "id": "你今天有参加的活动快要结束啦！没有上传运动数据会影响你的排名哦，点击通知刷新你的运动步数吧！",
@@ -629,7 +629,7 @@
   },
   {
     "id": "保存团队设置失败",
-    "translation":"Failed to save group settings"
+    "translation":"Failed to save club settings"
   },
   {
     "id": "保存图片失败",
@@ -681,7 +681,7 @@
   },
   {
     "id": "修改团队认证状态失败",
-    "translation":"Failed to modify group authentication status"
+    "translation":"Failed to modify club authentication status"
   },
   {
     "id": "修改图片失败",
@@ -829,11 +829,11 @@
   },
   {
     "id": "创建者才能转移操作",
-    "translation":"Only the group owner can transfer priviledges."
+    "translation":"Only the club owner can transfer priviledges."
   },
   {
     "id": "创建者权限不能被修改",
-    "translation":"Cannot change the permissions for the group owner."
+    "translation":"Cannot change the permissions for the club owner."
   },
   {
     "id": "创建记录时发生数据库错误",
@@ -845,11 +845,11 @@
   },
   {
     "id": "创建部门与活动队伍映射失败: %s",
-    "translation":"Failed to create association between department and event group %s"
+    "translation":"Failed to create association between department and event team: %s"
   },
   {
     "id": "创建部门与随机活动队伍映射失败: %s",
-    "translation":"Failed to create association between department and random event group %s"
+    "translation":"Failed to create association between department and random event team: %s"
   },
   {
     "id": "初始化活动关联的部门信息失败",
@@ -1137,39 +1137,39 @@
   },
   {
     "id": "团队",
-    "translation":"Group"
+    "translation":"Club"
   },
   {
     "id": "团队 ID 不能为空",
-    "translation":"Please enter group ID."
+    "translation":"Please enter club ID."
   },
   {
     "id": "团队: %d%d",
-    "translation":"Group: %d%d"
+    "translation":"Club: %d%d"
   },
   {
     "id": "团队ID不能为空",
-    "translation":"Please enter group ID."
+    "translation":"Please enter club ID."
   },
   {
     "id": "团队ID无效",
-    "translation":"Invalid group ID"
+    "translation":"Invalid club ID"
   },
   {
     "id": "团队不存在",
-    "translation":"Group does not exist"
+    "translation":"Club does not exist"
   },
   {
     "id": "团队创建人不能退出",
-    "translation":"Group owner cannot leave the group."
+    "translation":"Club owner cannot leave the club."
   },
   {
     "id": "团队名称已经存在",
-    "translation":"Group name already exists."
+    "translation":"Club name already exists."
   },
   {
     "id": "团队成员才能执行此操作",
-    "translation":"Only group member can perform this operation."
+    "translation":"Only club member can perform this operation."
   },
   {
     "id": "队伍成绩",
@@ -1193,7 +1193,7 @@
   },
   {
     "id": "团队管理员",
-    "translation":"Group admin"
+    "translation":"Club admin"
   },
   {
     "id": "团队赛必须提供组队",
@@ -1241,7 +1241,7 @@
   },
   {
     "id": "姓名",
-    "translation":"Group alias"
+    "translation":"Club alias"
   },
   {
     "id": "存储设备信息失败",
@@ -1485,11 +1485,11 @@
   },
   {
     "id": "您的团队 “%s” 有新成员 “%s” 加入",
-    "translation":"A new nember #%[2]s# has joined your group #%[1]s#."
+    "translation":"A new nember #%[2]s# has joined your club #%[1]s#."
   },
   {
     "id": "您的团队 “%s” 有新成员 “%s” 加入到 “%s” 部门",
-    "translation":"A new member #%[2]s# has joined the department #%[3]s# of your group #%[1]s#."
+    "translation":"A new member #%[2]s# has joined the department #%[3]s# of your club #%[1]s#."
   },
   {
     "id": "您的积分已不足",
@@ -1505,7 +1505,7 @@
   },
   {
     "id": "成员不存在或已退出",
-    "translation":"Member, %s, does not exist or has left the group."
+    "translation":"Member, %s, does not exist or has left the club."
   },
   {
     "id": "成员不存在或获取用户失败",
@@ -1525,7 +1525,7 @@
   },
   {
     "id": "成员退出",
-    "translation":"Member has left the group"
+    "translation":"Member has left the club"
   },
   {
     "id": "成绩",
@@ -1553,7 +1553,7 @@
   },
   {
     "id": "手动分配组队时部门不能为空",
-    "translation":"If you want to group members manually, please enter a department."
+    "translation":"The department field cannot be empty when assigning teams manually."
   },
   {
     "id": "手机号和密码不能为空",
@@ -1653,7 +1653,7 @@
   },
   {
     "id": "挑战双方不在同一个团队",
-    "translation":"Cannot play against members of different groups."
+    "translation":"Cannot play against members of different clubs."
   },
   {
     "id": "挑战双方用户不存在",
@@ -1725,7 +1725,7 @@
   },
   {
     "id": "接收用户也必须是团队成员",
-    "translation":"Recipient must also be in the same group."
+    "translation":"Recipient must also be in the same club."
   },
   {
     "id": "提交人年龄不符合要求",
@@ -1733,11 +1733,11 @@
   },
   {
     "id": "搜索团队失败",
-    "translation":"Group search failed."
+    "translation":"Club search failed."
   },
   {
     "id": "操作用户不是团队成员",
-    "translation":"The operator is not a group member."
+    "translation":"The operator is not a club member."
   },
   {
     "id": "操作者ID不能为空",
@@ -1833,11 +1833,11 @@
   },
   {
     "id": "新建团队失败",
-    "translation":"Failed to create new group"
+    "translation":"Failed to create new club"
   },
   {
     "id": "新建团队，添加管理员失败",
-    "translation":"Failed to create new group or add administrator"
+    "translation":"Failed to create new club or add administrator"
   },
   {
     "id": "新成员加入通知",
@@ -1853,7 +1853,7 @@
   },
   {
     "id": "无名团队",
-    "translation":"Unnamed group"
+    "translation":"Unnamed club"
   },
   {
     "id": "无商品信息",
@@ -1869,7 +1869,7 @@
   },
   {
     "id": "无效团队ID",
-    "translation":"Invalid group ID"
+    "translation":"Invalid club ID"
   },
   {
     "id": "无效用户ID",
@@ -1993,15 +1993,15 @@
   },
   {
     "id": "更新团队信息失败",
-    "translation":"Failed to update group information"
+    "translation":"Failed to update club information"
   },
   {
     "id": "更新团队失败",
-    "translation":"Failed to update group"
+    "translation":"Failed to update club"
   },
   {
     "id": "更新团队头像失败",
-    "translation":"Failed to update group profile image"
+    "translation":"Failed to update club profile image"
   },
   {
     "id": "更新失败",
@@ -2085,7 +2085,7 @@
   },
   {
     "id": "未发现新部门所属队伍",
-    "translation":"There is no group to which the new department belongs."
+    "translation":"There is no club to which the new department belongs."
   },
   {
     "id": "未指定操作人ID",
@@ -2297,7 +2297,7 @@
   },
   {
     "id": "此团队禁止任何人加入",
-    "translation":"No one is allowed to join this group."
+    "translation":"No one is allowed to join this club."
   },
   {
     "id": "每公里配速不能为空",
@@ -2585,7 +2585,7 @@
   },
   {
     "id": "点赞对象不存或已退出团队",
-    "translation":"The member that you give a like does not exist or has left the group."
+    "translation":"The member that you give a like does not exist or has left the club."
   },
   {
     "id": "点赞对象不能为空",
@@ -2673,7 +2673,7 @@
   },
   {
     "id": "用户未加入该团队",
-    "translation":"This member has not joined the group yet."
+    "translation":"This member has not joined the club yet."
   },
   {
     "id": "用户积分查询失败",
@@ -2681,7 +2681,7 @@
   },
   {
     "id": "用户退出团队时间不能为空",
-    "translation":"The time when the member left the group cannot be empty."
+    "translation":"The time when the member left the club cannot be empty."
   },
   {
     "id": "申请俱乐部",
@@ -2765,7 +2765,7 @@
   },
   {
     "id": "管理员只有创建者才能删除",
-    "translation":"Only the group owner can remove an admin."
+    "translation":"Only the club owner can remove an admin."
   },
   {
     "id": "管理员才能修改",
@@ -2877,7 +2877,7 @@
   },
   {
     "id": "获取企业风云榜失败",
-    "translation":"Failed to retrieve group ranking"
+    "translation":"Failed to retrieve club ranking"
   },
   {
     "id": "获取作者信息出错",
@@ -2965,7 +2965,7 @@
   },
   {
     "id": "获取指定队伍详情时, 队伍ID不能为空",
-    "translation":"Group ID is required for retrieving group details."
+    "translation":"Club ID is required for retrieving club details."
   },
   {
     "id": "获取排行榜失败",
@@ -3001,7 +3001,7 @@
   },
   {
     "id": "获取新团队信息失败",
-    "translation":"Failed to retrieve new group information"
+    "translation":"Failed to retrieve new club information"
   },
   {
     "id": "获取活动 GPS 记录详情失败",
@@ -3137,7 +3137,7 @@
   },
   {
     "id": "获取用户所在团队失败",
-    "translation":"Failed to retrieve group the member is participating."
+    "translation":"Failed to retrieve club the member is participating."
   },
   {
     "id": "获取用户数据失败",
@@ -3249,7 +3249,7 @@
   },
   {
     "id": "被修改用户不是团队成员",
-    "translation":"Edited member is not a group member."
+    "translation":"Edited member is not a club member."
   },
   {
     "id": "规模值无效",
@@ -3465,7 +3465,7 @@
   },
   {
     "id": "超级管理员才能修改管理员权限",
-    "translation":"Only group owber can edit administrative privileges."
+    "translation":"Only club owner can edit administrative privileges."
   },
   {
     "id": "跑步",
@@ -3737,7 +3737,7 @@
   },
   {
     "id": "欢迎使用企业咕咚，即刻 “创建/加入” 你的运动团队，开启全新的团队运动之旅。（企业咕咚将作为团队运动数据唯一来源，将自动同步至咕咚企业俱乐部）",
-    "translation":"Welcome aboard! Join a group now using [menu > Join group] to start walking with your friends! You can also create your own group by [New group]. Participate in events and win prizes from [News > Open Events]."
+    "translation":"Welcome aboard! Join a club now using [menu > Join club] to start walking with your friends! You can also create your own club by [menu > New club]. Participate in events and win prizes from [News > Open Events]."
   },
   {
     "id": "验证码：%s (请于两分钟内输入)。",
@@ -3761,7 +3761,7 @@
   },
   {
     "id": "团队通知",
-    "translation":"Group notification"
+    "translation":"Club notification"
   },
   {
     "id": "系统通知",
@@ -3769,7 +3769,7 @@
   },
   {
     "id": "欢迎使用企业咕咚，您已成功创建团队，更多功能介绍及常见问题解答详见 (http://t.cn/ROgZIM9)",
-    "translation":"Your group is now created. Please visit (https://n49sp.app.goo.gl/qbvQ) for a detailed feature introduction and frequently asked questions."
+    "translation":"Your club is now created. Please visit (https://n49sp.app.goo.gl/qbvQ) for a detailed feature introduction and frequently asked questions."
   },
   {
     "id": "邮箱格式有误，请重新输入",
@@ -3825,7 +3825,7 @@
   },
   {
     "id": "团队名称长度范围是 1 ~ 64 个字",
-    "translation":"Group name must be within 64 characters"
+    "translation":"Club name must be within 64 characters"
   },
   {
     "id": "所属企业名称长度范围是 2 ~ 128 个字",
@@ -4105,7 +4105,7 @@
   },
   {
     "id": "1、バーチャルラリー（個人戦）：開催期間中、参加者が各駅の区間歩数をクリアした時間の早い順で順位が決まります。\n2、バーチャルラリー（チーム戦）：開催期間中、チームの平均歩数（合計歩数/人数）で各駅の区間歩数をクリアした時間の早い順で順位が決まります。\n3、駅間の区間歩数をクリアすると、順番に駅の表示ロックが解除されます。\n4、部門名や所属の変更は開催中のイベントに影響しません。\n5、イベント開催中に参加者の所属変更はグループ退会＞グループ参加の順で操作してください。新規参加者の参加日からの歩数はスコアとして算入されます。",
-    "translation": "1. Virtual Rally (Individual): Participants are ranked in the order of the arrival time at each checkpoint during the event period.\n2. Virtual Rally (Team): Teams are ranked in the order of the arrival time at each checkpoint which is determined by each team's average steps during the event period.\n3. Upon completing the interval steps, respective checkpoint information will be unlocked for you.\n4. Changes in department name or affiliation will not affect ongoing events.\n5. During the event, if a participant wish to change their affiliation, they must first leave the group and join again to change affliation."
+    "translation": "1. Virtual Rally (Individual): Participants are ranked in the order of the arrival time at each checkpoint during the event period.\n2. Virtual Rally (Team): Teams are ranked in the order of the arrival time at each checkpoint which is determined by each team's average steps during the event period.\n3. Upon completing the interval steps, respective checkpoint information will be unlocked for you.\n4. Changes in department name or affiliation will not affect ongoing events.\n5. During the event, if a participant wish to change their affiliation, they must first leave the club and join again to change affliation."
   },
   {
     "id": "1、参加者がWeBandで歩数を記録します。\n2、設定されている有効時間内の歩数のみがスコアとして算入されます。\n3、合計スコアの多い順で順位が決まります。\n4、データはWEB管理者ページで出力することができます。",
@@ -4157,15 +4157,15 @@
   },
   {
     "id": "超级管理员请使用web管理员后台将权限转让给其他成员，或者从团队管理菜单里删除此团队。",
-    "translation":"Please transfer the owner role to another member or delete your group in the Group management"
+    "translation":"Please transfer the owner role to another member or delete your club in the Club management"
   },
   {
     "id": "オーナーのみ削除できます",
-    "translation":"Only owner can delete group"
+    "translation":"Only owner can delete club"
   },
   {
     "id": "まだ参加中のメンバーがいます",
-    "translation":"There are other members inside the group. Please delete all members other than the owner and try again."
+    "translation":"There are other members inside the club. Please delete all members other than the owner and try again."
   },
   {
     "id": "開催中または開催待ちのイベントがあります",
@@ -4173,7 +4173,7 @@
   },
   {
     "id": "グループ削除に失敗しました",
-    "translation":"Failed to delete group"
+    "translation":"Failed to delete club"
   },
   {
     "id": "目标赛挑战成功通知",
@@ -4485,15 +4485,15 @@
   },
   {
     "id": "此团队只能加入末级部门",
-    "translation": "This group can only join the bottom-level department."
+    "translation": "This club can only join the bottom-level department."
   },
   {
     "id": "ボトム部門を選択してから参加してください",
-    "translation": "This group can only join the bottom-level department."
+    "translation": "This club can only join the bottom-level department."
   },
   {
     "id": "This group can only join the bottom-level department.",
-    "translation": "This group can only join the bottom-level department."
+    "translation": "This club can only join the bottom-level department."
   },
   {
     "id": "请在你所在店铺下选择运动项目后再加入",
@@ -4905,7 +4905,7 @@
   },
   {
     "id":"无法创建团队",
-    "translation":"Unable to create group"
+    "translation":"Unable to create club"
   },
   {
     "id": "您选择的分组方式当前最多只支持%d个部门，如需帮助请联系WeRUN客服。",
