@@ -4914,5 +4914,37 @@
   {
     "id": "您的APP版本过低，请更新APP后重试",
     "translation": "Your app version is too old. Please update the app and try again."
+  },
+  {
+  "id": "你没有权限获取队伍成员申请列表",
+  "translation": "You don‘t have permission to view the request list."
+  },
+  {
+    "id": "有新的入队申请",
+    "translation": "New team join request"
+  },
+  {
+    "id": "%s 申请加入 %s 活动的 %s 队伍，请尽快处理",
+    "translation": "#%s# has applied to join #%s# event and #%s# team. Please review."
+  },
+  {
+    "id": "你已提交加入队伍申请，请等待审核",
+    "translation": "Join request submitted. Please wait for the team leader‘s approval."
+  },
+  {
+    "id": "入队申请已通过",
+    "translation": "Team join request approved"
+  },
+  {
+    "id": "你申请加入 %s 活动的 %s 队伍已通过",
+    "translation": "Your request to join #%s# event and #%s# team has been approved."
+  },
+  {
+    "id": "入队申请未通过",
+    "translation": "Team join request rejected"
+  },
+  {
+    "id": "你申请加入 %s 活动的 %s 队伍未通过，原因:",
+    "translation": "Your request to join #%s# event and #%s# team has been rejected. Reason:"
   }
 ]
