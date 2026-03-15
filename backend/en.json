@@ -4946,5 +4946,65 @@
   {
     "id": "你申请加入 %s 活动的 %s 队伍未通过，原因:",
     "translation": "Your request to join #%s# event and #%s# team has been rejected. Reason:"
+  },
+  {
+    "id": "你有其他队伍的申请未处理，不能重复申请",
+    "translation": "You have another pending team join request."
+  },
+  {
+    "id": "活动已经开始，不能增加成员",
+    "translation": "The event has already started and members cannot be added."
+  },
+  {
+    "id": "你没有权限批准此队伍成员申请",
+    "translation": "You do not have permission to approve this team member request."
+  },
+  {
+    "id": "活动成员申请已处理，不能重复处理",
+    "translation": "This event member request has already been processed."
+  },
+  {
+    "id": "队伍人数已满",
+    "translation": "The team is already full."
+  },
+  {
+    "id": "你没有申请加入此队伍",
+    "translation": "You have not applied to join this team."
+  },
+  {
+    "id": "你已经加入此队伍，不能取消申请",
+    "translation": "You have already joined this team and cannot cancel the request."
+  },
+  {
+    "id": "你的申请已被拒绝，不能取消申请",
+    "translation": "Your request has been rejected and cannot be canceled."
+  },
+  {
+    "id": "你的申请已被取消，不能取消申请",
+    "translation": "Your request has already been canceled."
+  },
+  {
+    "id": "你已加入队伍",
+    "translation": "You have already joined the team."
+  },
+  {
+    "id": "活动已经结束，不能更新队伍",
+    "translation": "The event has ended and the team cannot be updated."
+  },
+  {
+    "id": "有待审核的申请，不能关闭审批",
+    "translation": "There are pending requests and approval cannot be closed."
+  },
+  {
+    "id": "你已经在活动中，不能加入队伍",
+    "translation": "You are already participating in the event."
+  },
+  {
+    "id": "你不是该团队或部门成员",
+    "translation": "You are not a member of this team or department."
+  },
+  {
+    "id": "你已超过最大申请次数",
+    "translation": "You have exceeded the maximum number of requests."
   }
 ]
