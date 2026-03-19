@@ -5024,7 +5024,7 @@
     "translation": "You have exceeded the maximum number of requests."
   },
   {
-    "id": "该队伍还有未处理的入队申请,不能删除",
+    "id": "该队伍还有未处理的入队申请，不能删除",
     "translation": "Cannot delete due to pending requests."
   },
   {
