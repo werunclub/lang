@@ -4937,11 +4937,11 @@
   },
   {
     "id": "有新的入队申请",
-    "translation": "New team join request"
+    "translation": "New join request"
   },
   {
     "id": "%s 申请加入 %s 活动的 %s 队伍，请尽快处理",
-    "translation": "#%s# has applied to join #%s# event and #%s# team. Please review."
+    "translation": "#%s# has requested to join the #%s# event and the #%s# team. Please review it as soon as possible."
   },
   {
     "id": "你已提交加入队伍申请，请等待审核",
