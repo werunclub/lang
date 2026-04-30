@@ -4221,7 +4221,7 @@
   },
   {
     "id": "Notify.OrerPayFinish.Body",
-    "translation": "您购买的“{giftName}”已完成支付，我们会尽快为您准备商品，请留意发货通知。"
+    "translation": "您购买的“{giftName}{variation}”已完成支付，我们会尽快为您准备商品，请留意发货通知。"
   },
   {
     "id": "Notify.OrerPayFinish.Link",
@@ -4233,7 +4233,7 @@
   },
   {
     "id": "Notify.OrderDelivered.Body",
-    "translation": "您购买的“{giftName}”已发货，请注意查收。"
+    "translation": "您购买的“{giftName}{variation}”已发货，请注意查收。"
   },
   {
     "id": "Notify.OrderDelivered.Link",
@@ -4245,7 +4245,7 @@
   },
   {
     "id": "Notify.OrderCanceled.Body",
-    "translation": "已为您取消“{giftName}”的订单，积分将在24小时内返还。"
+    "translation": "已为您取消“{giftName}{variation}”的订单，积分将在24小时内返还。"
   },
   {
     "id": "Notify.OrderCanceled.Link",
@@ -4257,7 +4257,7 @@
   },
   {
     "id": "Notify.OrderRefunded.Body",
-    "translation": "您购买的“{giftName}”的订单已退款成功。"
+    "translation": "您购买的“{giftName}{variation}”的订单已退款成功。"
   },
   {
     "id": "Notify.OrderRefunded.Link",
@@ -4265,15 +4265,15 @@
   },
   {
     "id": "Mail.Notify.OrderPayFinish.Title",
-    "translation": "[WeRUN]订单支付成功通知-{orderNo}-{giftName}"
+    "translation": "[WeRUN]订单支付成功通知-{orderNo}-{giftName}-{variation}"
   },
   {
     "id": "Mail.Notify.OrderPayFinish.Body",
-    "translation": "订单已完成支付，请尽快发货后，用Club-admin完成发货操作。订单号：#{orderNo} 购买商品：#{giftName} 购买数量：#{giftCount}。"
+    "translation": "订单已完成支付，请尽快发货后，用Club-admin完成发货操作。订单号：#{orderNo} 购买商品：#{giftName} 规格：#{variation} 购买数量：#{giftCount}。"
   },
   {
     "id": "Mail.Notify.OrderDelivered.Title",
-    "translation": "[WeRUN]订单已发货通知-{orderNo}-{giftName}"
+    "translation": "[WeRUN]订单已发货通知-{orderNo}-{giftName}-{variation}"
   },
   {
     "id": "Mail.Notify.OrderDelivered.Body",
@@ -4281,7 +4281,7 @@
   },
   {
     "id": "Mail.Notify.OrderCanceled.Title",
-    "translation": "[WeRUN]订单取消成功通知-{orderNo}-{giftName}"
+    "translation": "[WeRUN]订单取消成功通知-{orderNo}-{giftName}-{variation}"
   },
   {
     "id": "Mail.Notify.OrderCanceled.Body",
@@ -4289,7 +4289,7 @@
   },
   {
     "id": "Mail.Notify.OrderRefunded.Title",
-    "translation": "[WeRUN]订单退款成功通知-{orderNo}-{giftName}"
+    "translation": "[WeRUN]订单退款成功通知-{orderNo}-{giftName}-{variation}"
   },
   {
     "id": "Mail.Notify.OrderRefunded.Body",

@@ -4221,7 +4221,7 @@
   },
   {
     "id": "Notify.OrerPayFinish.Body",
-    "translation": "We've succesfully received your payment for the order #{giftName}#. Please wait while we prepare your order for shipment."
+    "translation": "We've succesfully received your payment for the order #{giftName}#{variation}#. Please wait while we prepare your order for shipment."
   },
   {
     "id": "Notify.OrerPayFinish.Link",
@@ -4233,7 +4233,7 @@
   },
   {
     "id": "Notify.OrderDelivered.Body",
-    "translation": "Your item #{giftName}# is on its way and will be delivered to your place soon."
+    "translation": "Your item #{giftName}#{variation}# is on its way and will be delivered to your place soon."
   },
   {
     "id": "Notify.OrderDelivered.Link",
@@ -4245,7 +4245,7 @@
   },
   {
     "id": "Notify.OrderCanceled.Body",
-    "translation": "Your order #{giftName}# has been canceled. Your miles will be returned to within 24 hours."
+    "translation": "Your order #{giftName}#{variation}# has been canceled. Your miles will be returned to within 24 hours."
   },
   {
     "id": "Notify.OrderCanceled.Link",
@@ -4257,7 +4257,7 @@
   },
   {
     "id": "Notify.OrderRefunded.Body",
-    "translation": "We've issued your refund for the item #{giftName}#."
+    "translation": "We've issued your refund for the item #{giftName}#{variation}#."
   },
   {
     "id": "Notify.OrderRefunded.Link",
@@ -4269,7 +4269,7 @@
   },
   {
     "id": "Mail.Notify.OrderPayFinish.Body",
-    "translation": "订单已完成支付，请尽快发货。订单号：#{orderNo} 购买商品：#{giftName} 购买数量：#{giftCount}"
+    "translation": "订单已完成支付，请尽快发货。订单号：#{orderNo} 购买商品：#{giftName} 规格：#{variation} 购买数量：#{giftCount}"
   },
   {
     "id": "Mail.Notify.OrderDelivered.Title",
