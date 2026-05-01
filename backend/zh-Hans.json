@@ -4221,7 +4221,7 @@
   },
   {
     "id": "Notify.OrerPayFinish.Body",
-    "translation": "您购买的“{giftName}{variation}”已完成支付，我们会尽快为您准备商品，请留意发货通知。"
+    "translation": "您购买的“{giftName}({variation})”已完成支付，我们会尽快为您准备商品，请留意发货通知。"
   },
   {
     "id": "Notify.OrerPayFinish.Link",
@@ -4233,7 +4233,7 @@
   },
   {
     "id": "Notify.OrderDelivered.Body",
-    "translation": "您购买的“{giftName}{variation}”已发货，请注意查收。"
+    "translation": "您购买的“{giftName}({variation})”已发货，请注意查收。"
   },
   {
     "id": "Notify.OrderDelivered.Link",
@@ -4245,7 +4245,7 @@
   },
   {
     "id": "Notify.OrderCanceled.Body",
-    "translation": "已为您取消“{giftName}{variation}”的订单，积分将在24小时内返还。"
+    "translation": "已为您取消“{giftName}({variation})”的订单，积分将在24小时内返还。"
   },
   {
     "id": "Notify.OrderCanceled.Link",
