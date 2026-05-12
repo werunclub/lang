@@ -5032,6 +5032,10 @@
     "translation": "You have a pending request for another team and cannot submit a duplicate application."
   },
   {
+    "id": "你不是活动成员",
+    "translation": "You are not a member of this event."
+  },
+  {
     "id": "活动评论区点赞通知",
     "translation": "You got a new like on the event BBS"
   },
