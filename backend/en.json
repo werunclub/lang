@@ -5032,6 +5032,10 @@
     "translation": "You have a pending request for another team and cannot submit a duplicate application."
   },
   {
+    "id": "你已经加入队伍，请不要重复提交",
+    "translation": "You have already joined a team."
+  },
+  {
     "id": "你不是活动成员",
     "translation": "You are not a member of this event."
   },
