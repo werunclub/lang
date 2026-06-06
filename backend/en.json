@@ -5050,5 +5050,53 @@
   {
     "id": "金额确认错误。请重试",
     "translation": "Amount verification error. Please try again."
+  },
+  {
+    "id": "服务异常，请稍后再试",
+    "translation": "A service error occurred. Please try again later."
+  },
+  {
+    "id": "此 Garmin 账号已绑定到其他用户",
+    "translation": "This Garmin account is already linked to another user."
+  },
+  {
+    "id": "需要 Activities, Daily Health Stats 和 Historical Data Export 权限",
+    "translation": "Activities, Daily Health Stats, and Historical Data Export permissions are required."
+  },
+  {
+    "id": "授权已过期或无效，请重新尝试",
+    "translation": "The authorization has expired or is invalid. Please try again."
+  },
+  {
+    "id": "换取令牌失败，请稍后再试",
+    "translation": "Failed to obtain the token. Please try again later."
+  },
+  {
+    "id": "获取用户信息失败，请稍后再试",
+    "translation": "Failed to retrieve user information. Please try again later."
+  },
+  {
+    "id": "此 Fitbit 账号已绑定到其他用户",
+    "translation": "This Fitbit account is already linked to another user."
+  },
+  {
+    "id": "需要 location,sleep,profile,activity 权限",
+    "translation": "location, sleep, profile, and activity permissions are required."
+  },
+  {
+    "id": "保存绑定关系失败",
+    "translation": "Failed to save the account link."
+  },
+  {
+    "id": "更新绑定关系失败",
+    "translation": "Failed to update the account link."
+  },
+  {
+    "id": "未绑定 Garmin 账号",
+    "translation": "No Garmin account is linked."
+  },
+  {
+    "id": "未绑定 Fitbit 账号",
+    "translation": "No Fitbit account is linked."
   }
 ]

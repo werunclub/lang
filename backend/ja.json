@@ -5050,5 +5050,53 @@
   {
     "id": "金额确认错误。请重试",
     "translation": "金額確認エラー。もう一度やり直してください"
+  },
+  {
+    "id": "服务异常，请稍后再试",
+    "translation": "サービスに異常が発生しました。しばらくしてからもう一度お試しください"
+  },
+  {
+    "id": "此 Garmin 账号已绑定到其他用户",
+    "translation": "このGarminアカウントは既に他のユーザーに連携されています"
+  },
+  {
+    "id": "需要 Activities, Daily Health Stats 和 Historical Data Export 权限",
+    "translation": "Activities、Daily Health Stats、および Historical Data Export の権限が必要です"
+  },
+  {
+    "id": "授权已过期或无效，请重新尝试",
+    "translation": "認証の有効期限が切れているか無効です。再度お試しください"
+  },
+  {
+    "id": "换取令牌失败，请稍后再试",
+    "translation": "トークンの取得に失敗しました。しばらくしてからもう一度お試しください"
+  },
+  {
+    "id": "获取用户信息失败，请稍后再试",
+    "translation": "ユーザー情報の取得に失敗しました。しばらくしてからもう一度お試しください"
+  },
+  {
+    "id": "此 Fitbit 账号已绑定到其他用户",
+    "translation": "このFitbitアカウントは既に他のユーザーに連携されています"
+  },
+  {
+    "id": "需要 location,sleep,profile,activity 权限",
+    "translation": "location、sleep、profile、activity の権限が必要です"
+  },
+  {
+    "id": "保存绑定关系失败",
+    "translation": "連携情報の保存に失敗しました"
+  },
+  {
+    "id": "更新绑定关系失败",
+    "translation": "連携情報の更新に失敗しました"
+  },
+  {
+    "id": "未绑定 Garmin 账号",
+    "translation": "Garminアカウントが連携されていません"
+  },
+  {
+    "id": "未绑定 Fitbit 账号",
+    "translation": "Fitbitアカウントが連携されていません"
   }
 ]

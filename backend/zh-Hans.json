@@ -5050,5 +5050,53 @@
   {
     "id": "金额确认错误。请重试",
     "translation": "金额检查有误。请重试"
+  },
+  {
+    "id": "服务异常，请稍后再试",
+    "translation": "服务异常，请稍后再试"
+  },
+  {
+    "id": "此 Garmin 账号已绑定到其他用户",
+    "translation": "此 Garmin 账号已绑定到其他用户"
+  },
+  {
+    "id": "需要 Activities, Daily Health Stats 和 Historical Data Export 权限",
+    "translation": "需要 Activities, Daily Health Stats 和 Historical Data Export 权限"
+  },
+  {
+    "id": "授权已过期或无效，请重新尝试",
+    "translation": "授权已过期或无效，请重新尝试"
+  },
+  {
+    "id": "换取令牌失败，请稍后再试",
+    "translation": "换取令牌失败，请稍后再试"
+  },
+  {
+    "id": "获取用户信息失败，请稍后再试",
+    "translation": "获取用户信息失败，请稍后再试"
+  },
+  {
+    "id": "此 Fitbit 账号已绑定到其他用户",
+    "translation": "此 Fitbit 账号已绑定到其他用户"
+  },
+  {
+    "id": "需要 location,sleep,profile,activity 权限",
+    "translation": "需要 location,sleep,profile,activity 权限"
+  },
+  {
+    "id": "保存绑定关系失败",
+    "translation": "保存绑定关系失败"
+  },
+  {
+    "id": "更新绑定关系失败",
+    "translation": "更新绑定关系失败"
+  },
+  {
+    "id": "未绑定 Garmin 账号",
+    "translation": "未绑定 Garmin 账号"
+  },
+  {
+    "id": "未绑定 Fitbit 账号",
+    "translation": "未绑定 Fitbit 账号"
   }
 ]
