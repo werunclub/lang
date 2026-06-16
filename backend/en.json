@@ -4820,8 +4820,16 @@
     "translation": "Failed to add user to the team."
   },
   {
-    "id": "活动已经开始，不能踢出队伍成员",
-    "translation": "The event has already started, you cannot remove any team member."
+    "id": "活动已结束，不能踢出队伍成员",
+    "translation": "The event has already ended, you cannot remove any team member."
+  },
+  {
+    "id": "队伍已经达到终点，不能踢出队伍成员",
+    "translation": "The team has arrived at the goal, you cannot remove any team member."
+  },
+  {
+    "id": "团队已经达成目标，不能踢出队伍成员",
+    "translation": "The team has achieved the goal, you cannot remove any team member."
   },
   {
     "id": "删除活动成员失败",
@@ -4904,8 +4912,16 @@
     "translation":"The minimum team size cannot be greater than the maximum team size."
   },
   {
-    "id":"活动已经开始，不能退出活动队伍",
-    "translation":"The event has started. You cannot leave the team."
+    "id":"活动已结束，不能退出活动队伍",
+    "translation":"The event has ended. You cannot leave the team."
+  },
+  {
+    "id":"队伍已经达到终点，不能退出活动队伍",
+    "translation":"The team has arrived at the goal. You cannot leave the team."
+  },
+  {
+    "id":"团队已经达成目标，不能退出活动队伍",
+    "translation":"The team has achieved the goal. You cannot leave the team."
   },
   {
     "id":"队长不能离开队伍",
