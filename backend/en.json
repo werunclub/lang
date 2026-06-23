@@ -3856,6 +3856,10 @@
     "translation":"Join password can be up to 16 characters."
   },
   {
+    "id": "手动输入的注释长度范围是 0 ~ 128 个字",
+    "translation": "Comment for manual input can be up to 128 characters."
+  },
+  {
     "id": "阅读 {readNum} 次",
     "translation":"{readNum} views"
   },
@@ -5114,5 +5118,17 @@
   {
     "id": "未绑定 Fitbit 账号",
     "translation": "No Fitbit account is linked."
+  },
+  {
+    "id": "您无法将数据源从手动输入更改为其他方式",
+    "translation": "Cannot change from Manual Entry."
+  },
+  {
+    "id": "这是一个未经授权的数据源",
+    "translation": "This data source is not authorized."
+  },
+  {
+    "id": "你走的步数太多了",
+    "translation": "Your data exceeds the system limit."
   }
 ]
