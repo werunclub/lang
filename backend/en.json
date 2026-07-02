@@ -5130,5 +5130,17 @@
   {
     "id": "你走的步数太多了",
     "translation": "Your data exceeds the system limit."
-  }
+   },
+  {
+    "id": "日期格式错误",
+    "translation": "Invalid date format."
+  },
+  {
+    "id": "日期不能大于当前日期",
+    "translation": "Date cannot be later than the current date."
+  },
+  {
+    "id": "日期不能早于当前日期的1周前",
+    "translation": "Date cannot be earlier than one week before the current date."
+ }
 ]
