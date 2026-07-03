@@ -2480,10 +2480,6 @@
     "translation":"Event has started"
   },
   {
-    "id": "活动已开始无法修改封面",
-    "translation":"You are not allowed to modify ongoing event's cover."
-  },
-  {
     "id": "活动已经开始, 无法修改活动",
     "translation":"You are not allowed to modify ongoing event."
   },
@@ -2496,8 +2492,8 @@
     "translation":"Event has ended."
   },
   {
-    "id": "活动开始后仅可修改标题和活动介绍",
-    "translation":"Once the event has started, only title and description can be changed."
+    "id": "活动已经开始, 此物品不可更改",
+    "translation":"Once the event has started, you cannot change the item."
   },
   {
     "id": "活动开始时间最早为明天",
