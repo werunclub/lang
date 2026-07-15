@@ -2493,7 +2493,7 @@
   },
   {
     "id": "活动已经开始, 此物品不可更改",
-    "translation":"Once the event has started, you cannot change the item."
+    "translation":"This field cannot be changed while the event is in progress."
   },
   {
     "id": "活动开始时间最早为明天",
