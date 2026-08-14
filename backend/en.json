@@ -5138,5 +5138,13 @@
   {
     "id": "日期不能早于当前日期的1周前",
     "translation": "Date cannot be earlier than one week before the current date."
+  },
+  {
+    "id": "不允许手动输入，因此您无法加入此团队",
+    "translation": "You cannot join this club because manual entry is not allowed."
+  },
+  {
+    "id": "不允许手动输入，因此您无法切换此团队",
+    "translation": "You cannot switch this club because manual entry is not allowed."
  }
 ]
