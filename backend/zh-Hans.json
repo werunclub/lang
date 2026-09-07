@@ -5149,35 +5149,35 @@
   },
   {
     "id": "Excel文件有问题，请确认。",
-    "translation": "Excel文件有问题，请确认。"
+    "translation": "Excel文件有问题，请确认"
   },
   {
     "id": "文件格式必须为.xlsx。",
-    "translation": "文件格式必须为.xlsx。"
+    "translation": "文件格式必须为.xlsx"
   },
   {
     "id": "文件大小必须在5MB以下。",
-    "translation": "文件大小必须在5MB以下。"
+    "translation": "文件大小必须在5MB以下"
   },
   {
     "id": "Excel文件中的数据量过大，请检查文件。",
-    "translation": "Excel文件中的数据量过大，请检查文件。"
+    "translation": "Excel文件中的数据量过大，请检查文件"
   },
   {
     "id": "无法读取Excel文件。",
-    "translation": "无法读取Excel文件。"
+    "translation": "无法读取Excel文件"
   },
   {
     "id": "没有处理对象工作表“Dept”。",
-    "translation": "没有处理对象工作表“Dept”。"
+    "translation": "没有处理对象工作表“Dept”"
   },
   {
     "id": "部门名称不能超过64个字符。",
-    "translation": "部门名称不能超过64个字符。"
+    "translation": "部门名称不能超过64个字符"
   },
   {
     "id": "请输入上级部门名称。",
-    "translation": "请输入上级部门名称。"
+    "translation": "请输入上级部门名称"
   },
   {
     "id": "部门名称级别%d",
@@ -5185,15 +5185,15 @@
   },
   {
     "id": "该部门已存在。",
-    "translation": "该部门已存在。"
+    "translation": "该部门已存在"
   },
   {
     "id": "部门已注册。",
-    "translation": "部门已注册。"
+    "translation": "部门已导入"
   },
   {
     "id": "请选择Excel文件。",
-    "translation": "请选择Excel文件。"
+    "translation": "请选择Excel文件"
   },
   {
     "id": "更新父部门的子部门数量失败",
@@ -5201,15 +5201,15 @@
   },
   {
     "id": "已注册。",
-    "translation": "已注册。"
+    "translation": "已导入"
   },
   {
     "id": "其他部门批量注册正在执行中，请稍后再试。",
-    "translation": "其他部门批量注册正在执行中，请稍后再试。"
+    "translation": "其他部门批量导入正在执行中，请稍后再试"
   },
   {
     "id": "一次执行最多可注册%d个部门。已达到上限，处理已结束。",
-    "translation": "一次执行最多可注册%d个部门。已达到上限，处理已结束。"
+    "translation": "一次执行最多可导入%d个部门。已达到上限，处理结束"
   },
   {
     "id": "处理结果",
@@ -5221,15 +5221,15 @@
   },
   {
     "id": "俱乐部名称",
-    "translation": "俱乐部名称"
+    "translation": "团队名称"
   },
   {
     "id": "注册成功行数",
-    "translation": "注册成功行数"
+    "translation": "导入成功行数"
   },
   {
     "id": "已注册行数",
-    "translation": "已注册行数"
+    "translation": "已导入行数"
   },
   {
     "id": "消息",
@@ -5285,6 +5285,6 @@
   },
   {
     "id": "未填写部门名称。",
-    "translation": "未填写部门名称。"
+    "translation": "未填写部门名称"
   }
 ]
