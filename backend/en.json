@@ -5146,5 +5146,145 @@
   {
     "id": "您要切换的团队不允许手动输入，无法切换",
     "translation": "You cannot switch this club because manual entry is not allowed."
- }
+  },
+  {
+    "id": "Excel文件有问题，请确认。",
+    "translation": "There is a problem with the Excel file. Please check it."
+  },
+  {
+    "id": "文件格式必须为.xlsx。",
+    "translation": "The file format must be .xlsx."
+  },
+  {
+    "id": "文件大小必须在5MB以下。",
+    "translation": "The file size must be 5 MB or less."
+  },
+  {
+    "id": "Excel文件中的数据量过大，请检查文件。",
+    "translation": "The Excel file contains too much data. Please check the file."
+  },
+  {
+    "id": "无法读取Excel文件。",
+    "translation": "The Excel file could not be read."
+  },
+  {
+    "id": "没有处理对象工作表“Dept”。",
+    "translation": "The target worksheet \"Dept\" was not found."
+  },
+  {
+    "id": "部门名称不能超过64个字符。",
+    "translation": "The department name must be 64 characters or fewer."
+  },
+  {
+    "id": "请输入上级部门名称。",
+    "translation": "Enter the parent department name."
+  },
+  {
+    "id": "部门名称级别%d",
+    "translation": "Department name level %d"
+  },
+  {
+    "id": "该部门已存在。",
+    "translation": "This department already exists."
+  },
+  {
+    "id": "部门已注册。",
+    "translation": "Departments have been registered."
+  },
+  {
+    "id": "请选择Excel文件。",
+    "translation": "Please select an Excel file."
+  },
+  {
+    "id": "更新父部门的子部门数量失败",
+    "translation": "Failed to update the parent department's child department count."
+  },
+  {
+    "id": "已注册。",
+    "translation": "Registered."
+  },
+  {
+    "id": "其他部门批量注册正在执行中，请稍后再试。",
+    "translation": "Another bulk department registration is in progress. Please try again later."
+  },
+  {
+    "id": "一次执行最多可注册%d个部门。已达到上限，处理已结束。",
+    "translation": "A maximum of %d departments can be registered in one operation. Processing stopped because the limit was reached."
+  },
+  {
+    "id": "处理结果",
+    "translation": "Processing Results"
+  },
+  {
+    "id": "详细",
+    "translation": "Details"
+  },
+  {
+    "id": "俱乐部名称",
+    "translation": "Club name"
+  },
+  {
+    "id": "注册成功行数",
+    "translation": "Successfully registered rows"
+  },
+  {
+    "id": "已注册行数",
+    "translation": "Already registered rows"
+  },
+  {
+    "id": "消息",
+    "translation": "Message"
+  },
+  {
+    "id": "工作表",
+    "translation": "Sheet"
+  },
+  {
+    "id": "行",
+    "translation": "Row"
+  },
+  {
+    "id": "级别",
+    "translation": "Level"
+  },
+  {
+    "id": "部门名称",
+    "translation": "Department name"
+  },
+  {
+    "id": "错误",
+    "translation": "Error"
+  },
+  {
+    "id": "创建部门批量注册结果文件失败",
+    "translation": "Failed to create the bulk department registration result file."
+  },
+  {
+    "id": "上传部门批量注册结果文件失败",
+    "translation": "Failed to upload the bulk department registration result file."
+  },
+  {
+    "id": "获取部门批量注册结果文件下载地址失败",
+    "translation": "Failed to get the download URL for the bulk department registration result file."
+  },
+  {
+    "id": "消息级别",
+    "translation": "Message level"
+  },
+  {
+    "id": "信息",
+    "translation": "Information"
+  },
+  {
+    "id": "成功",
+    "translation": "Succeeded"
+  },
+  {
+    "id": "检查错误",
+    "translation": "Check error"
+  },
+  {
+    "id": "未填写部门名称。",
+    "translation": "No department name has been entered."
+  }
 ]
