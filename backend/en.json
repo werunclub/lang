@@ -5284,7 +5284,23 @@
     "translation": "Check error"
   },
   {
+    "id": "检查OK",
+    "translation": "Check OK"
+  },
+  {
+    "id": "创建部门批量注册任务失败",
+    "translation": "Failed to create the department bulk registration task."
+  },
+  {
+    "id": "批量处理结果",
+    "translation": "Batch processing results"
+  },
+  {
     "id": "未填写部门名称。",
     "translation": "No department name has been entered."
+  },
+  {
+    "id": "部门批量注册正在执行中，请稍后再试",
+    "translation": "Department bulk registration is in progress. Please try again later."
   }
 ]
