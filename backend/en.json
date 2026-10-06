@@ -85,7 +85,7 @@
   },
   {
     "id": "24 小时内不能创建相同的导出任务",
-    "translation":"A duplicate export task cannot be created within a 24-hour period."
+    "translation":"Data with the same conditions can only be exported once within 24 hours. Please change the conditions or try again later."
   },
   {
     "id": "24小时内只能发送 %d 条群发消息",
