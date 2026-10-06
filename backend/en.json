@@ -5208,10 +5208,6 @@
     "translation": "Another bulk department registration is in progress. Please try again later."
   },
   {
-    "id": "一次执行最多可注册%d个部门。已达到上限，处理已结束。",
-    "translation": "A maximum of %d departments can be registered in one operation. Processing stopped because the limit was reached."
-  },
-  {
     "id": "处理结果",
     "translation": "Processing Results"
   },
@@ -5284,7 +5280,35 @@
     "translation": "Check error"
   },
   {
+    "id": "检查OK",
+    "translation": "Check OK"
+  },
+  {
+    "id": "创建部门批量注册任务失败",
+    "translation": "Failed to create the department bulk registration task."
+  },
+  {
+    "id": "批量处理结果",
+    "translation": "Batch processing results"
+  },
+  {
     "id": "未填写部门名称。",
     "translation": "No department name has been entered."
+  },
+  {
+    "id": "部门批量注册正在执行中，请稍后再试",
+    "translation": "Department bulk registration is in progress. Please try again later."
+  },
+  {
+    "id": "部门最多只能登记2000行。",
+    "translation": "You can register a maximum of 2,000 rows for the department."
+  },
+  {
+    "id": "当前批量注册请求过多，请稍后再试。",
+    "translation": "There are currently too many bulk registration requests. please try again later."
+  },
+  {
+    "id": "一次执行最多可注册%d个部门。请拆分文件后重新导入。",
+    "translation": "A maximum of %d departments can be registered in one operation. Please split the file and import it again."
   }
 ]
