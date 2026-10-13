@@ -5310,5 +5310,17 @@
   {
     "id": "一次执行最多可注册%d个部门。请拆分文件后重新导入。",
     "translation": "A maximum of %d departments can be registered in one operation. Please split the file and import it again."
+  },
+  {
+    "id": "排名隐藏期间必须位于活动开始和结束时间范围内",
+    "translation": "The ranking hide period must be within the event start and end times."
+  },
+  {
+    "id": "排名隐藏期间的开始时间必须早于结束时间",
+    "translation": "The ranking hide period start time must be before its end time."
+  },
+  {
+    "id": "排名隐藏期间不能重叠",
+    "translation": "Ranking hide periods must not overlap."
   }
 ]
