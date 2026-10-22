@@ -5418,5 +5418,17 @@
   {
     "id": "@@all@Yonex Performance Innovation Center【Blue Lab】（2024年）",
     "translation": "Yonex Performance Innovation Center【Blue Lab】（2024年）"
+  },
+  {
+    "id": "部门ID必须与全部直接子部门一致",
+    "translation": "部門IDには、直属の子部門をすべて指定してください"
+  },
+  {
+    "id": "部门ID必须与全部直接子部门一致且不能重复",
+    "translation": "部門IDには、直属の子部門を重複なくすべて指定してください"
+  },
+  {
+    "id": "部门数据异常，无法调整部门顺序",
+    "translation": "部門データに異常があるため、部門の順序を変更できません"
   }
 ]
