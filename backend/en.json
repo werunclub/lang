@@ -4924,6 +4924,14 @@
     "translation":"The team has achieved the goal. You cannot leave the team."
   },
   {
+    "id": "团队已经达成目标，不能加入活动队伍",
+    "translation": "The team has achieved the goal. You cannot join the team."
+  },
+  {
+    "id":"队伍已经达到终点，不能加入活动队伍",
+    "translation":"The team has arrived at the goal. You cannot join the team."
+  },
+  {
     "id":"队长不能离开队伍",
     "translation":"The team leader cannot leave the team."
   },
@@ -5430,5 +5438,9 @@
   {
     "id": "部门数据异常，无法调整部门顺序",
     "translation": "Department data is invalid. Unable to change the department order."
+  },
+  {
+    "id": "已到达终点的队伍不能更改人数",
+    "translation": "The number of members cannot be changed for a team that has reached the finish line."
   }
 ]
