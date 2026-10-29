@@ -5430,5 +5430,101 @@
   {
     "id": "部门数据异常，无法调整部门顺序",
     "translation": "Department data is invalid. Unable to change the department order."
+  },
+  {
+    "id": "登录处理失败",
+    "translation": "Login failed."
+  },
+  {
+    "id": "验证流程无效或已过期，请重新开始",
+    "translation": "The verification session is invalid or has expired. Please start again."
+  },
+  {
+    "id": "登录尝试次数过多，请稍后再试",
+    "translation": "Too many login attempts. Please try again later."
+  },
+  {
+    "id": "没有可用于验证的联系方式",
+    "translation": "No contact method is available for verification."
+  },
+  {
+    "id": "验证方式错误",
+    "translation": "Invalid verification method."
+  },
+  {
+    "id": "所选验证方式不可用",
+    "translation": "The selected verification method is unavailable."
+  },
+  {
+    "id": "验证尝试次数已达上限",
+    "translation": "The verification attempt limit has been reached."
+  },
+  {
+    "id": "请等待60秒后再重新发送验证码",
+    "translation": "Please wait 60 seconds before resending the verification code."
+  },
+  {
+    "id": "验证码必须为6位数字",
+    "translation": "The verification code must contain 6 digits."
+  },
+  {
+    "id": "验证码错误或已过期",
+    "translation": "The verification code is incorrect or has expired."
+  },
+  {
+    "id": "用户名错误",
+    "translation": "Invalid username."
+  },
+  {
+    "id": "无法检查登录尝试次数",
+    "translation": "Unable to check login attempts."
+  },
+  {
+    "id": "验证流程无效",
+    "translation": "The verification session is invalid."
+  },
+  {
+    "id": "验证码接收地址或手机号码错误",
+    "translation": "Invalid verification code destination."
+  },
+  {
+    "id": "无法保存验证码",
+    "translation": "Unable to save the verification code."
+  },
+  {
+    "id": "无法发送验证码，请稍后再试",
+    "translation": "Unable to send the verification code. Please try again later."
+  },
+  {
+    "id": "验证码已过期",
+    "translation": "The verification code has expired."
+  },
+  {
+    "id": "验证码发送次数已达上限",
+    "translation": "The verification code send limit has been reached."
+  },
+  {
+    "id": "无法生成验证码",
+    "translation": "Unable to generate the verification code."
+  },
+  {
+    "id": "验证码发送失败",
+    "translation": "Failed to send the verification code."
+  },
+  {
+    "id": "验证流程已过期",
+    "translation": "The verification session has expired."
+  },
+  {
+    "id": "无法校验验证码",
+    "translation": "Unable to verify the code."
+  },
+  {
+    "id": "登录验证码",
+    "translation": "Login verification code"
+  },
+  {
+    "id": "登录验证码：%s（请于5分钟内输入）",
+    "translation": "Your login verification code is %s. Please enter it within 5 minutes.[Walking Event App WeRUN]"
   }
 ]
