@@ -5528,12 +5528,12 @@
     "translation": "Your login verification code is %s. Please enter it within 5 minutes.[Walking Event App WeRUN]"
   },
   {
-    "id": "由于账户未设置电子邮箱地址，无法注册成为团队管理员。请先注册电子邮箱地址，然后再试一次",
-    "translation": "This user cannot be added as a team administrator because no email address is registered to their account. Please register an email address and try again."
+    "id": "该账户未绑定电子邮箱，无法设为管理员。请先为该账户添加电子邮箱后重试",
+    "translation": "This account has no registered email address and cannot be assigned as an manager. Please add an email address to this account and try again."
   },
   {
-    "id": "由于接收方账户未注册电子邮箱地址和手机号码，无法转让所有权。请先注册电子邮箱地址和手机号码，然后再尝试转让",
-    "translation": "Ownership cannot be transferred because the recipient’s account has neither an email address nor a mobile phone number registered. Please register an email address and a mobile phone number, then try again."
+    "id": "该账户未绑定电子邮箱和手机号码，无法转让所有权。请先为该账户添加电子邮箱和手机号码后重试",
+    "translation": "This account has no registered email address or phone number, so ownership cannot be transferred. Please add an email address and phone number to this account and try again."
   },
   {
     "id": "邮箱不能为空",
