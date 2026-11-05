@@ -5526,5 +5526,21 @@
   {
     "id": "登录验证码：%s（请于5分钟内输入）",
     "translation": "Your login verification code is %s. Please enter it within 5 minutes.[Walking Event App WeRUN]"
+  },
+  {
+    "id": "该账户未绑定电子邮箱，无法设为管理员。请先为该账户添加电子邮箱后重试",
+    "translation": "This account has no registered email address and cannot be assigned as an manager. Please add an email address to this account and try again."
+  },
+  {
+    "id": "该账户未绑定电子邮箱和手机号码，无法转让所有权。请先为该账户添加电子邮箱和手机号码后重试",
+    "translation": "This account has no registered email address or phone number, so ownership cannot be transferred. Please add an email address and phone number to this account and try again."
+  },
+  {
+    "id": "邮箱不能为空",
+    "translation": "Please enter an email address."
+  },
+  {
+    "id": "手机号不能为空",
+    "translation": "Please enter a mobile phone number."
   }
 ]
