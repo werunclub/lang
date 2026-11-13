@@ -4916,15 +4916,11 @@
     "translation":"The event has ended. You cannot leave the team."
   },
   {
-    "id":"队伍已经达到终点，不能退出活动队伍",
-    "translation":"The team has arrived at the goal. You cannot leave the team."
-  },
-  {
-    "id":"团队已经达成目标，不能退出活动队伍",
+    "id":"不能退出已达标的队伍",
     "translation":"The team has achieved the goal. You cannot leave the team."
   },
   {
-    "id": "团队已经达成目标，不能加入活动队伍",
+    "id": "不能加入已达标的队伍",
     "translation": "The team has achieved the goal. You cannot join the team."
   },
   {
