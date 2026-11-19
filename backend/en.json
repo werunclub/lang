@@ -5574,5 +5574,9 @@
   {
     "id": "请填写域名为'%s'的联系邮箱",
     "translation": "Please enter an email address with the domain '%s'."
+  },
+  {
+    "id": "发现新版本，请更新应用。",
+    "translation": "A new version is available. Please update the app."
   }
 ]
